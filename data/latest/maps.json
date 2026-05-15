@@ -1,0 +1,3424 @@
+[
+  {
+    "id": "55f2d3fd4bdc2d5f408b4567",
+    "name": "Factory",
+    "normalizedName": "factory",
+    "wiki": "https://escapefromtarkov.fandom.com/wiki/Factory",
+    "description": "The industrial estate and facilities of Chemical Plant No. 16 were rented out illegally to the TerraGroup corporation. During the advent of the Contract Wars, the plant became the scene of numerous firefights between BEAR and USEC that ultimately determined control over the industrial district of Tarkov.\n\nLater on, in the wake of the chaos, the plant facilities became a shelter for the remaining civilians, Scavs, and military operatives, including the scattered remains of the BEAR and USEC contingents.",
+    "enemies": [
+      "Scavs",
+      "Tagilla"
+    ],
+    "raidDuration": 20,
+    "players": "7-8",
+    "extracts": [
+      {
+        "id": "ffb8b37a6390d2c3b00baeee3295492ea1e19a93",
+        "name": "Cellars",
+        "faction": "pmc",
+        "switches": []
+      },
+      {
+        "id": "a11f20d1f462bc4c8f39699e8a59fc0b58b71299",
+        "name": "Gate 3",
+        "faction": "scav",
+        "switches": []
+      },
+      {
+        "id": "7ae0a08942ce71d8d713ef3628c86619598160f4",
+        "name": "Gate 3",
+        "faction": "pmc",
+        "switches": []
+      },
+      {
+        "id": "7e582daaf3ef18c90132998441c217f246387a06",
+        "name": "Camera Bunker Door",
+        "faction": "scav",
+        "switches": []
+      },
+      {
+        "id": "cbe6ccd60767142298488227e57ab554cf47cd2e",
+        "name": "Office Window",
+        "faction": "scav",
+        "switches": []
+      },
+      {
+        "id": "4f953558d3d7bca7bd7b4d40a6429adc34cc1834",
+        "name": "Gate 0",
+        "faction": "pmc",
+        "switches": []
+      },
+      {
+        "id": "7bb46d641d59983a58440a7a58d65933d981c211",
+        "name": "Med Tent Gate",
+        "faction": "pmc",
+        "switches": []
+      },
+      {
+        "id": "1846030b40983ab096b3d1e39f72da5697f39154",
+        "name": "Courtyard Gate",
+        "faction": "pmc",
+        "switches": []
+      },
+      {
+        "id": "3faf0c5c7f9dfe2c4ec9cf029fbe14ede9720cc1",
+        "name": "Smugglers' Passage",
+        "faction": "pmc",
+        "switches": []
+      }
+    ],
+    "switches": [],
+    "bosses": [
+      {
+        "spawnChance": 0.5,
+        "spawnLocations": [
+          {
+            "name": "Any scav spawn",
+            "chance": 1
+          }
+        ],
+        "escorts": [],
+        "name": "Tagilla"
+      }
+    ]
+  },
+  {
+    "id": "56f40101d2720b2a4d8b45d6",
+    "name": "Customs",
+    "normalizedName": "customs",
+    "wiki": "https://escapefromtarkov.fandom.com/wiki/Customs",
+    "description": "A large area of industrial park land situated adjacent to the factory zone. The area houses a customs terminal, fuel storage facilities, offices, and dorms, as well as a variety of other infrastructure and buildings.",
+    "enemies": [
+      "Scavs",
+      "Reshala",
+      "Reshala Guard",
+      "Knight",
+      "Big Pipe",
+      "Birdeye",
+      "Partisan",
+      "Cultist Priest",
+      "Cultist Warrior"
+    ],
+    "raidDuration": 35,
+    "players": "10-12",
+    "switches": [
+      {
+        "id": "ae4bdfc1fc5b30100701158b56ae4d20840e0550",
+        "name": "ZB-013 Power Switch"
+      }
+    ],
+    "extracts": [
+      {
+        "id": "d0781374be523027a2a8e1edf6fe08449c45c382",
+        "name": "ZB-013",
+        "faction": "pmc",
+        "switches": [
+          {
+            "id": "ae4bdfc1fc5b30100701158b56ae4d20840e0550",
+            "name": "ZB-013 Power Switch"
+          }
+        ]
+      },
+      {
+        "id": "feafaf9787defedcb6b7ea3da97f342870bc8073",
+        "name": "Dorms V-Ex",
+        "faction": "pmc",
+        "switches": []
+      },
+      {
+        "id": "02cdf102e32c481d3b5fabcf1dcf3df3962522bb",
+        "name": "ZB-1011",
+        "faction": "pmc",
+        "switches": []
+      },
+      {
+        "id": "7c993e82fe52ccedbdf9591f92e3bf9fe4352a4e",
+        "name": "Crossroads",
+        "faction": "shared",
+        "switches": []
+      },
+      {
+        "id": "e0e61c2ed23ae5387b02dfc1acb88dab0c83ff95",
+        "name": "Old Gas Station",
+        "faction": "pmc",
+        "switches": []
+      },
+      {
+        "id": "0df2e62edcfb6e0f1c36fd7be585a5850dd83eed",
+        "name": "Trailer Park",
+        "faction": "pmc",
+        "switches": []
+      },
+      {
+        "id": "b113904d09c836e3b6fb937ebd1201f30a5900e6",
+        "name": "RUAF Roadblock",
+        "faction": "pmc",
+        "switches": []
+      },
+      {
+        "id": "372308f8ae6c385c1a1397bf925af53847545a7d",
+        "name": "Military Base CP",
+        "faction": "scav",
+        "switches": []
+      },
+      {
+        "id": "de953d179a503c836b89f8497600c448b1d7067d",
+        "name": "Passage Between Rocks",
+        "faction": "scav",
+        "switches": []
+      },
+      {
+        "id": "7097325dad6b074566fc1e7744d8490151b001e7",
+        "name": "Railroad to Military Base",
+        "faction": "scav",
+        "switches": []
+      },
+      {
+        "id": "977d435f5b1510a2fe4d662a8fc30d7cc19bd90c",
+        "name": "Old Road Gate",
+        "faction": "scav",
+        "switches": []
+      },
+      {
+        "id": "d048daa472b3806f452fdb3d4991032bab4366d5",
+        "name": "Sniper Roadblock",
+        "faction": "scav",
+        "switches": []
+      },
+      {
+        "id": "90ab07a4eacd76a88ae6a51bf8c2f17c92828691",
+        "name": "Railroad to Port",
+        "faction": "scav",
+        "switches": []
+      },
+      {
+        "id": "606fa68466f40d1d349f443bd89df5934097ceaa",
+        "name": "Trailer Park Workers' Shack",
+        "faction": "scav",
+        "switches": []
+      },
+      {
+        "id": "299a91e6562ad4d55747ac15f15c9e8608cff9d4",
+        "name": "Railroad to Tarkov",
+        "faction": "scav",
+        "switches": []
+      },
+      {
+        "id": "8574c32eb626a3e230f454d65b9262d4f9e9fbf8",
+        "name": "RUAF Roadblock",
+        "faction": "scav",
+        "switches": []
+      },
+      {
+        "id": "1bcdc243701067f1469ee4d177ddde7c53aaecb6",
+        "name": "Warehouse 17",
+        "faction": "scav",
+        "switches": []
+      },
+      {
+        "id": "8194ee54571a0670e4d5bd0a02bdcb1cbb77a03e",
+        "name": "Factory Shacks",
+        "faction": "scav",
+        "switches": []
+      },
+      {
+        "id": "3fd0602903f1971d6930874e8f6cd4d754bceb58",
+        "name": "Warehouse 4",
+        "faction": "scav",
+        "switches": []
+      },
+      {
+        "id": "00e4ba8e84314ddf6878090f2e7d3aaddcb43f53",
+        "name": "Old Gas Station Gate",
+        "faction": "scav",
+        "switches": []
+      },
+      {
+        "id": "f162159cfa266422af986074b4397587616effcb",
+        "name": "Factory Far Corner",
+        "faction": "scav",
+        "switches": []
+      },
+      {
+        "id": "988603509e1d1a6d59642e9b6c4514386416053f",
+        "name": "Administration Gate",
+        "faction": "scav",
+        "switches": []
+      },
+      {
+        "id": "b051486cb850a811e354ac34b2ec5790bd2a12c5",
+        "name": "Railroad Passage (Flare)",
+        "faction": "pmc",
+        "switches": []
+      },
+      {
+        "id": "cbb161149bdb3062b2a27447fbc804385948f671",
+        "name": "Scav Checkpoint",
+        "faction": "scav",
+        "switches": []
+      },
+      {
+        "id": "88192ee8ec04e9844e35f327d441b74987a182bd",
+        "name": "Boiler Room Basement (Co-op)",
+        "faction": "shared",
+        "switches": []
+      },
+      {
+        "id": "311ae28f72d9c9fe3be801b2d503088167e325c3",
+        "name": "Smugglers' Boat",
+        "faction": "pmc",
+        "switches": []
+      },
+      {
+        "id": "908b7d419bb7152858c973b561a1ee7ed5f55a81",
+        "name": "Smugglers' Bunker (ZB-1012)",
+        "faction": "pmc",
+        "switches": []
+      }
+    ],
+    "bosses": [
+      {
+        "spawnChance": 0.75,
+        "spawnLocations": [
+          {
+            "name": "Dorms",
+            "chance": 0.33
+          },
+          {
+            "name": "New Gas Station",
+            "chance": 0.33
+          },
+          {
+            "name": "Stronghold",
+            "chance": 0.33
+          }
+        ],
+        "name": "Reshala",
+        "escorts": [
+          {
+            "amount": [
+              {
+                "count": 4,
+                "chance": 1
+              }
+            ],
+            "name": "Reshala Guard"
+          }
+        ]
+      },
+      {
+        "spawnChance": 0.3,
+        "spawnLocations": [
+          {
+            "name": "Stronghold",
+            "chance": 1
+          }
+        ],
+        "name": "Knight",
+        "escorts": [
+          {
+            "amount": [
+              {
+                "count": 1,
+                "chance": 1
+              }
+            ],
+            "name": "Big Pipe"
+          },
+          {
+            "amount": [
+              {
+                "count": 1,
+                "chance": 1
+              }
+            ],
+            "name": "Birdeye"
+          }
+        ]
+      },
+      {
+        "spawnChance": 0.2,
+        "spawnLocations": [],
+        "escorts": [],
+        "name": "Partisan"
+      },
+      {
+        "spawnChance": 0.25,
+        "spawnLocations": [
+          {
+            "name": "Stronghold",
+            "chance": 1
+          }
+        ],
+        "name": "Cultist Priest",
+        "escorts": [
+          {
+            "amount": [
+              {
+                "count": 4,
+                "chance": 1
+              }
+            ],
+            "name": "Cultist Warrior"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "5704e3c2d2720bac5b8b4567",
+    "name": "Woods",
+    "normalizedName": "woods",
+    "wiki": "https://escapefromtarkov.fandom.com/wiki/Woods",
+    "description": "The Priozersk Nature Reserve recently became part of the state-protected wildlife reserves of the North-Western Federal District.",
+    "enemies": [
+      "Scavs",
+      "Shturman",
+      "Shturman Guard",
+      "Knight",
+      "Big Pipe",
+      "Birdeye",
+      "Partisan",
+      "Cultist Priest",
+      "Cultist Warrior"
+    ],
+    "raidDuration": 35,
+    "players": "10-14",
+    "extracts": [
+      {
+        "id": "742010f4b5dde77d692c99991e2576fb6c90f351",
+        "name": "Friendship Bridge (Co-Op)",
+        "faction": "shared",
+        "switches": []
+      },
+      {
+        "id": "3f08df8a92b8d58e1011741f86a65c317180fef0",
+        "name": "RUAF Gate",
+        "faction": "pmc",
+        "switches": []
+      },
+      {
+        "id": "3c768283f1012c72aa4140252f44c538448eafa7",
+        "name": "ZB-016",
+        "faction": "pmc",
+        "switches": []
+      },
+      {
+        "id": "96ddc4bf8688f90f215226fd5788e1291ed13bfd",
+        "name": "ZB-014",
+        "faction": "pmc",
+        "switches": []
+      },
+      {
+        "id": "e6fd5a732d1fd0662221d75f31f0e2e8021ef4ca",
+        "name": "UN Roadblock",
+        "faction": "pmc",
+        "switches": []
+      },
+      {
+        "id": "64f88a7c564eb38938c7b679f89ff265dfbf2685",
+        "name": "Bridge V-Ex",
+        "faction": "pmc",
+        "switches": []
+      },
+      {
+        "id": "c0a4ba6cf6476b99f2dcba3a85b21018c4853fe9",
+        "name": "Outskirts",
+        "faction": "scav",
+        "switches": []
+      },
+      {
+        "id": "9916015e766588eaefa49e1928e2967bd1f53ff8",
+        "name": "Dead Man's Place",
+        "faction": "scav",
+        "switches": []
+      },
+      {
+        "id": "46ce7e8018a7220ce3d109ca393afa9c5178bf2e",
+        "name": "Boat",
+        "faction": "scav",
+        "switches": []
+      },
+      {
+        "id": "cee75741135c2ca663d183991ae86431eb7f4573",
+        "name": "Scav House",
+        "faction": "scav",
+        "switches": []
+      },
+      {
+        "id": "3a795d4c8fdd97e5166373147d64c6598dfb4488",
+        "name": "Scav Bunker",
+        "faction": "scav",
+        "switches": []
+      },
+      {
+        "id": "10c4727b4cf24e04f2ea6c6b61242684936e0d98",
+        "name": "Mountain Stash",
+        "faction": "scav",
+        "switches": []
+      },
+      {
+        "id": "ef2fa5721c6f52097f0cb55ff938b631d241d63c",
+        "name": "Eastern Rocks",
+        "faction": "scav",
+        "switches": []
+      },
+      {
+        "id": "f5b3db451be4709e1742f7d377f4536ef9c0640e",
+        "name": "Old Railway Depot",
+        "faction": "scav",
+        "switches": []
+      },
+      {
+        "id": "0f7b5f228a32ab1dbd8544277419521ba1cc5e3b",
+        "name": "UN Roadblock",
+        "faction": "scav",
+        "switches": []
+      },
+      {
+        "id": "2766656887b738cb1b0a1fcaedf163e30f98b0c9",
+        "name": "RUAF Roadblock",
+        "faction": "scav",
+        "switches": []
+      },
+      {
+        "id": "e70d314d202e673b96671e810e54cef5657c16ca",
+        "name": "Outskirts",
+        "faction": "pmc",
+        "switches": []
+      },
+      {
+        "id": "98dfbaebc7bedea817c9ea5ec2e36f42a36b7ebf",
+        "name": "Northern UN Roadblock",
+        "faction": "pmc",
+        "switches": []
+      },
+      {
+        "id": "e0dbb9eb8a01eadb9e4610d53ecd65ccd320336c",
+        "name": "Power Line Passage (Flare)",
+        "faction": "pmc",
+        "switches": []
+      },
+      {
+        "id": "6145baca210bf473bb0ce242a54ce1fe82df9bfe",
+        "name": "Railway Bridge to Tarkov",
+        "faction": "pmc",
+        "switches": []
+      }
+    ],
+    "switches": [],
+    "bosses": [
+      {
+        "spawnChance": 0.75,
+        "spawnLocations": [
+          {
+            "name": "Lumber Mill",
+            "chance": 1
+          }
+        ],
+        "name": "Shturman",
+        "escorts": [
+          {
+            "amount": [
+              {
+                "count": 2,
+                "chance": 0.5
+              },
+              {
+                "count": 3,
+                "chance": 0.5
+              }
+            ],
+            "name": "Shturman Guard"
+          }
+        ]
+      },
+      {
+        "spawnChance": 0.25,
+        "spawnLocations": [
+          {
+            "name": "Northwest Scav Bunker",
+            "chance": 1
+          }
+        ],
+        "name": "Knight",
+        "escorts": [
+          {
+            "amount": [
+              {
+                "count": 1,
+                "chance": 1
+              }
+            ],
+            "name": "Big Pipe"
+          },
+          {
+            "amount": [
+              {
+                "count": 1,
+                "chance": 1
+              }
+            ],
+            "name": "Birdeye"
+          }
+        ]
+      },
+      {
+        "spawnChance": 0.2,
+        "spawnLocations": [],
+        "escorts": [],
+        "name": "Partisan"
+      },
+      {
+        "spawnChance": 0.3,
+        "spawnLocations": [
+          {
+            "name": "West of Lumber Mill",
+            "chance": 0.5
+          },
+          {
+            "name": "Rundown Village",
+            "chance": 0.5
+          }
+        ],
+        "name": "Cultist Priest",
+        "escorts": [
+          {
+            "amount": [
+              {
+                "count": 4,
+                "chance": 1
+              }
+            ],
+            "name": "Cultist Warrior"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "5704e4dad2720bb55b8b4567",
+    "name": "Lighthouse",
+    "normalizedName": "lighthouse",
+    "wiki": "https://escapefromtarkov.fandom.com/wiki/Lighthouse",
+    "description": "The lighthouse at Cape Dalniy was an important strategic object on the way to Tarkov. During Contract Wars, it was the main entry point for USEC units and served as their base of operations. After the conflict, Scavs took a fancy to this place, until the old owners returned, who decided to stay in Tarkov and establish their own order.",
+    "enemies": [
+      "Scavs",
+      "Zryachiy",
+      "Zryachiy Guard",
+      "Knight",
+      "Big Pipe",
+      "Birdeye",
+      "Partisan",
+      "Rogue"
+    ],
+    "raidDuration": 40,
+    "players": "10-12",
+    "extracts": [
+      {
+        "id": "3a8cfedc77147d2e438f8a2c55a01ae3d6defb25",
+        "name": "Armored Train",
+        "faction": "shared",
+        "switches": []
+      },
+      {
+        "id": "39a8452ee1c2a3b68737781843c98e69ed1a59aa",
+        "name": "Road to Military Base V-Ex",
+        "faction": "pmc",
+        "switches": []
+      },
+      {
+        "id": "a04ce346b08f0cea9faebb65d86a7b7797e2f25d",
+        "name": "Side Tunnel (Co-Op)",
+        "faction": "shared",
+        "switches": []
+      },
+      {
+        "id": "d76677800a142f800df6709b3b22946aeff43253",
+        "name": "Mountain Pass",
+        "faction": "pmc",
+        "switches": []
+      },
+      {
+        "id": "2cdd9d1604ebe77b3fa8bf1461530ca5b3551d8f",
+        "name": "Path to Shoreline",
+        "faction": "pmc",
+        "switches": []
+      },
+      {
+        "id": "5c81e25f20e4784c348357ce1a0eb1100ad0a417",
+        "name": "Path to Shoreline",
+        "faction": "scav",
+        "switches": []
+      },
+      {
+        "id": "000e0a2d35821648d27c6479d9358b0d227c6804",
+        "name": "Northern Checkpoint",
+        "faction": "pmc",
+        "switches": []
+      },
+      {
+        "id": "7d6c864aa862997ba573be0fcf47b118e253d1e1",
+        "name": "Southern Road",
+        "faction": "pmc",
+        "switches": []
+      },
+      {
+        "id": "6298212fb861936bdc49e266e741b5675324642f",
+        "name": "Southern Road Landslide",
+        "faction": "scav",
+        "switches": []
+      },
+      {
+        "id": "e10a9500d83d8ccb3cc0b466179237aab352f4b3",
+        "name": "Hideout Under the Landing Stage",
+        "faction": "scav",
+        "switches": []
+      },
+      {
+        "id": "91f4f4548a1dbad8913ad4178a008efa7b68a28f",
+        "name": "Scav Hideout at the Grotto",
+        "faction": "scav",
+        "switches": []
+      },
+      {
+        "id": "cc4bb53226a9cc3578662bac1a6b9dc9a0fba3bc",
+        "name": "Industrial Zone Gates",
+        "faction": "scav",
+        "switches": []
+      },
+      {
+        "id": "86689a1e06268028c220b923fd7c676d7f9497dd",
+        "name": "Passage by the Lake",
+        "faction": "pmc",
+        "switches": []
+      }
+    ],
+    "switches": [
+      {
+        "id": "989f65d4cd4d4cd9e49fa6254fe97cb1d0e4f72d",
+        "name": "Lightkeeper Switch"
+      },
+      {
+        "id": "a7e6ca8bfddbc8335d7a16e9d9416e794e1db598",
+        "name": "Lightkeeper Switch"
+      }
+    ],
+    "bosses": [
+      {
+        "spawnChance": 1,
+        "spawnLocations": [
+          {
+            "name": "Island",
+            "chance": 1
+          }
+        ],
+        "name": "Zryachiy",
+        "escorts": [
+          {
+            "amount": [
+              {
+                "count": 2,
+                "chance": 1
+              }
+            ],
+            "name": "Zryachiy Guard"
+          }
+        ]
+      },
+      {
+        "spawnChance": 0.3,
+        "spawnLocations": [
+          {
+            "name": "Water Treatment North Building",
+            "chance": 0.5
+          },
+          {
+            "name": "Chalet",
+            "chance": 0.5
+          }
+        ],
+        "name": "Knight",
+        "escorts": [
+          {
+            "amount": [
+              {
+                "count": 1,
+                "chance": 1
+              }
+            ],
+            "name": "Big Pipe"
+          },
+          {
+            "amount": [
+              {
+                "count": 1,
+                "chance": 1
+              }
+            ],
+            "name": "Birdeye"
+          }
+        ]
+      },
+      {
+        "spawnChance": 0.2,
+        "spawnLocations": [],
+        "escorts": [],
+        "name": "Partisan"
+      },
+      {
+        "spawnChance": 0.8,
+        "spawnLocations": [
+          {
+            "name": "Water Treatment Southwest Gate",
+            "chance": 1
+          }
+        ],
+        "name": "Rogue",
+        "escorts": [
+          {
+            "amount": [
+              {
+                "count": 1,
+                "chance": 1
+              }
+            ],
+            "name": "Rogue"
+          }
+        ]
+      },
+      {
+        "spawnChance": 0.8,
+        "spawnLocations": [
+          {
+            "name": "Water Treatment North Building",
+            "chance": 1
+          }
+        ],
+        "name": "Rogue",
+        "escorts": [
+          {
+            "amount": [
+              {
+                "count": 1,
+                "chance": 0.5
+              },
+              {
+                "count": 2,
+                "chance": 0.5
+              }
+            ],
+            "name": "Rogue"
+          }
+        ]
+      },
+      {
+        "spawnChance": 0.5,
+        "spawnLocations": [
+          {
+            "name": "Water Treatment East Building",
+            "chance": 1
+          }
+        ],
+        "name": "Rogue",
+        "escorts": [
+          {
+            "amount": [
+              {
+                "count": 1,
+                "chance": 0.67
+              },
+              {
+                "count": 2,
+                "chance": 0.33
+              }
+            ],
+            "name": "Rogue"
+          }
+        ]
+      },
+      {
+        "spawnChance": 0.5,
+        "spawnLocations": [
+          {
+            "name": "Water Treatment West Building",
+            "chance": 1
+          }
+        ],
+        "name": "Rogue",
+        "escorts": [
+          {
+            "amount": [
+              {
+                "count": 1,
+                "chance": 0.67
+              },
+              {
+                "count": 2,
+                "chance": 0.33
+              }
+            ],
+            "name": "Rogue"
+          }
+        ]
+      },
+      {
+        "spawnChance": 0.8,
+        "spawnLocations": [
+          {
+            "name": "Water Treatment East Building Roof",
+            "chance": 1
+          }
+        ],
+        "escorts": [],
+        "name": "Rogue"
+      },
+      {
+        "spawnChance": 0.8,
+        "spawnLocations": [
+          {
+            "name": "Water Treatment West Building Roof",
+            "chance": 1
+          }
+        ],
+        "name": "Rogue",
+        "escorts": [
+          {
+            "amount": [
+              {
+                "count": 1,
+                "chance": 1
+              }
+            ],
+            "name": "Rogue"
+          }
+        ]
+      },
+      {
+        "spawnChance": 0.2,
+        "spawnLocations": [
+          {
+            "name": "Water Treatment Helicopter",
+            "chance": 1
+          }
+        ],
+        "name": "Rogue",
+        "escorts": [
+          {
+            "amount": [
+              {
+                "count": 1,
+                "chance": 0.5
+              },
+              {
+                "count": 2,
+                "chance": 0.5
+              }
+            ],
+            "name": "Rogue"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "5704e554d2720bac5b8b456e",
+    "name": "Shoreline",
+    "normalizedName": "shoreline",
+    "wiki": "https://escapefromtarkov.fandom.com/wiki/Shoreline",
+    "description": "The Shoreline area makes up a large part of the outskirts of Tarkov and is located next to the Port.\n\nThe area houses a partially abandoned village, modern private housing, agricultural fields, long stretches of beach, a boating facility, gas station, weather station, and a cellular tower as well as other commercial facilities.\n\nShoreline's main point of interest is the Azure Coast health resort which consists of several blocks, exclusively powered by a nearby hydroelectric power plant. The resort had previously been used as temporary accommodation for members of TerraGroup and the corporation's associated divisions in preparation for the evacuation of the Tarkov Port.",
+    "enemies": [
+      "Scavs",
+      "Sanitar",
+      "Sanitar Guard",
+      "Knight",
+      "Big Pipe",
+      "Birdeye",
+      "Partisan",
+      "Cultist Priest",
+      "Cultist Warrior",
+      "AF"
+    ],
+    "raidDuration": 45,
+    "players": "10-14",
+    "extracts": [
+      {
+        "id": "e95d3547939574dfb73ce20064c5aff811bf02ea",
+        "name": "Road to North V-Ex",
+        "faction": "pmc",
+        "switches": []
+      },
+      {
+        "id": "97440eb4ab5a337942dc616f5dde5905adadd627",
+        "name": "Road to Customs",
+        "faction": "pmc",
+        "switches": []
+      },
+      {
+        "id": "57d9c15c96a8221867b52676d889e26a994b9512",
+        "name": "Railway Bridge",
+        "faction": "pmc",
+        "switches": []
+      },
+      {
+        "id": "5c32b0d555293798312b3a4bd805b34987b5f576",
+        "name": "Tunnel",
+        "faction": "pmc",
+        "switches": []
+      },
+      {
+        "id": "11890c73b821b558b2198881ae9659c426a6b289",
+        "name": "Path to Lighthouse",
+        "faction": "pmc",
+        "switches": []
+      },
+      {
+        "id": "5111952a9fb5c265a38886216302756c2b2b819f",
+        "name": "Road to Customs",
+        "faction": "scav",
+        "switches": []
+      },
+      {
+        "id": "52b4672a43e470435ec4722b09571d0bf7724f7e",
+        "name": "Lighthouse",
+        "faction": "scav",
+        "switches": []
+      },
+      {
+        "id": "a3cd7a839e550508ed301f4bc1725c2e2f33a0b7",
+        "name": "Ruined Road",
+        "faction": "scav",
+        "switches": []
+      },
+      {
+        "id": "175520fd8ce745c377fea12ac3b38690e371ab24",
+        "name": "East Wing Gym Entrance",
+        "faction": "scav",
+        "switches": []
+      },
+      {
+        "id": "8ef2d534d0db570a392ebc4486fad51eefdfa2d6",
+        "name": "Admin Basement",
+        "faction": "scav",
+        "switches": []
+      },
+      {
+        "id": "c5ae90597356b707d9d1d9522efe7a24fe7d4b71",
+        "name": "Smugglers' Path (Co-op)",
+        "faction": "shared",
+        "switches": []
+      },
+      {
+        "id": "d21fd4e674ea08152c99c97fbe031b71269c58d6",
+        "name": "Pier Boat",
+        "faction": "pmc",
+        "switches": []
+      },
+      {
+        "id": "efc0e77c1e0a83ff35aa27d8a091e31e770338ec",
+        "name": "Climber's Trail",
+        "faction": "pmc",
+        "switches": []
+      },
+      {
+        "id": "b4ff87efb1c1450520552d27addab7793688d475",
+        "name": "Mountain Bunker",
+        "faction": "pmc",
+        "switches": []
+      }
+    ],
+    "switches": [],
+    "bosses": [
+      {
+        "spawnChance": 0.75,
+        "spawnLocations": [
+          {
+            "name": "Greenhouses",
+            "chance": 0.4
+          },
+          {
+            "name": "West Wing",
+            "chance": 0.2
+          },
+          {
+            "name": "East Wing",
+            "chance": 0.2
+          },
+          {
+            "name": "Pier",
+            "chance": 0.2
+          }
+        ],
+        "name": "Sanitar",
+        "escorts": [
+          {
+            "amount": [
+              {
+                "count": 3,
+                "chance": 1
+              }
+            ],
+            "name": "Sanitar Guard"
+          }
+        ]
+      },
+      {
+        "spawnChance": 0.3,
+        "spawnLocations": [
+          {
+            "name": "Weather Station",
+            "chance": 1
+          }
+        ],
+        "name": "Knight",
+        "escorts": [
+          {
+            "amount": [
+              {
+                "count": 1,
+                "chance": 1
+              }
+            ],
+            "name": "Big Pipe"
+          },
+          {
+            "amount": [
+              {
+                "count": 1,
+                "chance": 1
+              }
+            ],
+            "name": "Birdeye"
+          }
+        ]
+      },
+      {
+        "spawnChance": 0.2,
+        "spawnLocations": [],
+        "escorts": [],
+        "name": "Partisan"
+      },
+      {
+        "spawnChance": 0.25,
+        "spawnLocations": [
+          {
+            "name": "West Wing",
+            "chance": 0.2
+          },
+          {
+            "name": "East Wing",
+            "chance": 0.2
+          },
+          {
+            "name": "Northeast of Sunken Village",
+            "chance": 0.6
+          }
+        ],
+        "name": "Cultist Priest",
+        "escorts": [
+          {
+            "amount": [
+              {
+                "count": 3,
+                "chance": 0.5
+              },
+              {
+                "count": 4,
+                "chance": 0.5
+              }
+            ],
+            "name": "Cultist Warrior"
+          }
+        ]
+      },
+      {
+        "spawnChance": 1,
+        "spawnLocations": [
+          {
+            "name": "GateTowerRight",
+            "chance": 1
+          }
+        ],
+        "escorts": [],
+        "name": "AF"
+      },
+      {
+        "spawnChance": 1,
+        "spawnLocations": [
+          {
+            "name": "GateTowerLeft",
+            "chance": 1
+          }
+        ],
+        "escorts": [],
+        "name": "AF"
+      }
+    ]
+  },
+  {
+    "id": "5704e5fad2720bc05b8b4567",
+    "name": "Reserve",
+    "normalizedName": "reserve",
+    "wiki": "https://escapefromtarkov.fandom.com/wiki/Reserve",
+    "description": "The secret Federal State Reserve Agency base that, according to urban legends, contains enough supplies to last for years: food, medications, and other resources, enough to survive an all-out nuclear war.",
+    "enemies": [
+      "Scavs",
+      "Glukhar",
+      "Glukhar Guard (Assault)",
+      "Glukhar Guard (Security)",
+      "Glukhar Guard (Scout)",
+      "Raider"
+    ],
+    "raidDuration": 40,
+    "players": "9-11",
+    "switches": [
+      {
+        "id": "2c4a9ff1d031afefbd0965b189f58e3834cdb367",
+        "name": "Bunker Hermetic Door Power Switch"
+      },
+      {
+        "id": "9cad024bc31223f02f7296c3cb1834c5f6fa2fe2",
+        "name": "D-2 Power Switch"
+      },
+      {
+        "id": "fa1f22e776e4724582eb1dbb18ae864a9303cc5a",
+        "name": "D-2 Door Switch"
+      }
+    ],
+    "extracts": [
+      {
+        "id": "c5a30892ba8b44107663736aaeca1a3f7ff61391",
+        "name": "Armored Train",
+        "faction": "shared",
+        "switches": []
+      },
+      {
+        "id": "6b678e71f8042cf7af291a87bcd1e6b629ff8b5a",
+        "name": "D-2",
+        "faction": "pmc",
+        "switches": [
+          {
+            "id": "fa1f22e776e4724582eb1dbb18ae864a9303cc5a",
+            "name": "D-2 Door Switch"
+          },
+          {
+            "id": "9cad024bc31223f02f7296c3cb1834c5f6fa2fe2",
+            "name": "D-2 Power Switch"
+          }
+        ]
+      },
+      {
+        "id": "bf8015e63fa543ce72fe16f5c3476be29ba80fcc",
+        "name": "Bunker Hermetic Door",
+        "faction": "shared",
+        "switches": [
+          {
+            "id": "2c4a9ff1d031afefbd0965b189f58e3834cdb367",
+            "name": "Bunker Hermetic Door Power Switch"
+          }
+        ]
+      },
+      {
+        "id": "6eb9d336eb71fbf68c7d809b55dec62ec89e7627",
+        "name": "Cliff Descent",
+        "faction": "pmc",
+        "switches": []
+      },
+      {
+        "id": "acd6a6b60241f90925084d8f608b89ba7a459fdb",
+        "name": "Scav Lands (Co-Op)",
+        "faction": "shared",
+        "switches": []
+      },
+      {
+        "id": "4cd3f8f23a3092756fb509287ccc5332aeea6453",
+        "name": "Sewer Manhole",
+        "faction": "shared",
+        "switches": []
+      },
+      {
+        "id": "e50b50945f4e27556cec43815504e61ef26493d1",
+        "name": "Hole in the Wall by the Mountains",
+        "faction": "scav",
+        "switches": []
+      },
+      {
+        "id": "adfd835074e6d2abf54127650c036eb1975e0c40",
+        "name": "Heating Pipe",
+        "faction": "scav",
+        "switches": []
+      },
+      {
+        "id": "fe060ae84e549f3a3d04647f866c5286f29f966d",
+        "name": "Depot Hermetic Door",
+        "faction": "scav",
+        "switches": []
+      },
+      {
+        "id": "a61497fa1b52d87d04036733c44b8477f92e1332",
+        "name": "Checkpoint Fence",
+        "faction": "scav",
+        "switches": []
+      },
+      {
+        "id": "870fee41d9fe39a659dc9d79008e3965629bbba0",
+        "name": "Exit to Woods",
+        "faction": "pmc",
+        "switches": []
+      }
+    ],
+    "bosses": [
+      {
+        "spawnChance": 0.75,
+        "spawnLocations": [
+          {
+            "name": "K Buildings",
+            "chance": 0.25
+          },
+          {
+            "name": "White Knight",
+            "chance": 0.25
+          },
+          {
+            "name": "Barracks",
+            "chance": 0.25
+          },
+          {
+            "name": "Storage Bunker",
+            "chance": 0.25
+          }
+        ],
+        "name": "Glukhar",
+        "escorts": [
+          {
+            "amount": [
+              {
+                "count": 2,
+                "chance": 1
+              }
+            ],
+            "name": "Glukhar Guard (Assault)"
+          },
+          {
+            "amount": [
+              {
+                "count": 2,
+                "chance": 1
+              }
+            ],
+            "name": "Glukhar Guard (Security)"
+          },
+          {
+            "amount": [
+              {
+                "count": 2,
+                "chance": 1
+              }
+            ],
+            "name": "Glukhar Guard (Scout)"
+          }
+        ]
+      },
+      {
+        "spawnChance": 0.4,
+        "spawnLocations": [
+          {
+            "name": "K Buildings",
+            "chance": 1
+          }
+        ],
+        "name": "Raider",
+        "escorts": [
+          {
+            "amount": [
+              {
+                "count": 2,
+                "chance": 0.8
+              },
+              {
+                "count": 3,
+                "chance": 0.2
+              }
+            ],
+            "name": "Raider"
+          }
+        ]
+      },
+      {
+        "spawnChance": 0.3,
+        "spawnLocations": [
+          {
+            "name": "K Buildings",
+            "chance": 1
+          }
+        ],
+        "name": "Raider",
+        "escorts": [
+          {
+            "amount": [
+              {
+                "count": 2,
+                "chance": 0.8
+              },
+              {
+                "count": 3,
+                "chance": 0.2
+              }
+            ],
+            "name": "Raider"
+          }
+        ]
+      },
+      {
+        "spawnChance": 0.3,
+        "spawnLocations": [
+          {
+            "name": "Command Bunker",
+            "chance": 1
+          }
+        ],
+        "name": "Raider",
+        "escorts": [
+          {
+            "amount": [
+              {
+                "count": 2,
+                "chance": 0.8
+              },
+              {
+                "count": 3,
+                "chance": 0.2
+              }
+            ],
+            "name": "Raider"
+          }
+        ]
+      },
+      {
+        "spawnChance": 0.3,
+        "spawnLocations": [
+          {
+            "name": "Command Bunker",
+            "chance": 1
+          }
+        ],
+        "name": "Raider",
+        "escorts": [
+          {
+            "amount": [
+              {
+                "count": 2,
+                "chance": 0.8
+              },
+              {
+                "count": 3,
+                "chance": 0.2
+              }
+            ],
+            "name": "Raider"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "5714dbc024597771384a510d",
+    "name": "Interchange",
+    "normalizedName": "interchange",
+    "wiki": "https://escapefromtarkov.fandom.com/wiki/Interchange",
+    "description": "The South Interchange is a key transport location for the city. This strategic area connects the port and harbor with the industrial outskirts of Tarkov. Located in the center of the interchange is a huge ULTRA shopping mall which was used as the main base of operation for the EMERCOM evacuation.",
+    "enemies": [
+      "Scavs",
+      "Killa",
+      "Tagilla"
+    ],
+    "raidDuration": 40,
+    "players": "11-15",
+    "switches": [
+      {
+        "id": "b6ebc39ee29cb6659334df309194b696bbfef555",
+        "name": "Mall Main Power Switch"
+      },
+      {
+        "id": "6b9023f26446d73433823e872e6d69688083beaf",
+        "name": "Non-Kiba Alarms Switch"
+      },
+      {
+        "id": "7850544cf54bb60c9d259b6b0583f53082637bf3",
+        "name": "Alarms Switch"
+      },
+      {
+        "id": "42d13e53ae13417e3ee1dab2606e9b2fa4ff6147",
+        "name": "Saferoom Exfil Switch"
+      },
+      {
+        "id": "5173fd12df8e7445613e130233e235a94d94b70d",
+        "name": "Saferoom Exfil Unlock Switch"
+      },
+      {
+        "id": "a91897cf1f9ab86c1376fec5fdf8a921e491a1a4",
+        "name": "Object 14 Container Switch"
+      }
+    ],
+    "bosses": [
+      {
+        "spawnChance": 0.75,
+        "spawnLocations": [
+          {
+            "name": "Center",
+            "chance": 0.4
+          },
+          {
+            "name": "OLI",
+            "chance": 0.2
+          },
+          {
+            "name": "IDEA",
+            "chance": 0.2
+          },
+          {
+            "name": "Goshan",
+            "chance": 0.2
+          }
+        ],
+        "escorts": [],
+        "name": "Killa"
+      },
+      {
+        "spawnChance": 0.5,
+        "spawnLocations": [
+          {
+            "name": "Tagilla",
+            "chance": 1
+          }
+        ],
+        "escorts": [],
+        "name": "Tagilla"
+      }
+    ],
+    "extracts": [
+      {
+        "id": "2a589e01386c564a296894e93a3aaf18ec53207d",
+        "name": "Emercom Checkpoint",
+        "faction": "shared",
+        "switches": []
+      },
+      {
+        "id": "fdc29c48395f3b30a7b2ba8ed645cbebfe69e539",
+        "name": "Railway Exfil",
+        "faction": "shared",
+        "switches": []
+      },
+      {
+        "id": "1abefb699e1a8304defcd8b41dcbbeee14adde52",
+        "name": "Power Station V-Ex",
+        "faction": "pmc",
+        "switches": []
+      },
+      {
+        "id": "0c3fb47380ded5e2af6a0fc90611ee0abda60f69",
+        "name": "Scav Camp (Co-Op)",
+        "faction": "shared",
+        "switches": []
+      },
+      {
+        "id": "9685be261b82bedb2d9298cc69cd1f282e250096",
+        "name": "Hole in the Fence",
+        "faction": "pmc",
+        "switches": []
+      },
+      {
+        "id": "9570d4e280d97bd1a43756135036f3212eb6d8a8",
+        "name": "Saferoom Exfil",
+        "faction": "pmc",
+        "switches": [
+          {
+            "id": "42d13e53ae13417e3ee1dab2606e9b2fa4ff6147",
+            "name": "Saferoom Exfil Switch"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "5714dc692459777137212e12",
+    "name": "Streets of Tarkov",
+    "normalizedName": "streets-of-tarkov",
+    "wiki": "https://escapefromtarkov.fandom.com/wiki/Streets_of_Tarkov",
+    "description": "Downtown Tarkov houses banks, malls, and hotels, as well as all the other amenities a thriving metropolis could have needed.",
+    "enemies": [
+      "Scavs",
+      "Sniper",
+      "Kaban",
+      "Kaban Guard",
+      "Basmach",
+      "Gus",
+      "Kaban Guard (Sniper)",
+      "Kollontay",
+      "Kollontay Guard (Assault)",
+      "Kollontay Guard (Security)"
+    ],
+    "raidDuration": 40,
+    "players": "12-16",
+    "extracts": [
+      {
+        "id": "8fcf0902c03e68a2201173fc1fb9ba62376353a7",
+        "name": "Entrance to Catacombs",
+        "faction": "scav",
+        "switches": []
+      },
+      {
+        "id": "14828b7f158d3d3c623ad25f7a21f59bebb15e68",
+        "name": "Ventilation Shaft",
+        "faction": "scav",
+        "switches": []
+      },
+      {
+        "id": "81520cac6bc2000d30eb8d1adc403774d8e6ec93",
+        "name": "Sewer Manhole",
+        "faction": "scav",
+        "switches": []
+      },
+      {
+        "id": "62b57ca54c93d9004db81f424db031efa2b0e7a9",
+        "name": "Near Kamchatskaya Arch",
+        "faction": "scav",
+        "switches": []
+      },
+      {
+        "id": "a92c7dcc94b188316921781856aa7a15fb4a4ebc",
+        "name": "Cardinal Apartment Complex Parking",
+        "faction": "scav",
+        "switches": []
+      },
+      {
+        "id": "2f79c92d99215405c202d8b7f1e6eace137f9b5f",
+        "name": "Klimov Shopping Mall Exfil",
+        "faction": "scav",
+        "switches": []
+      },
+      {
+        "id": "65f6067829924e26e0cb31d4ac24fee1870ec944",
+        "name": "Courtyard",
+        "faction": "pmc",
+        "switches": []
+      },
+      {
+        "id": "264ee7ea338658549942113cbbf0a6ea31402975",
+        "name": "Primorsky Ave Taxi V-Ex",
+        "faction": "pmc",
+        "switches": []
+      },
+      {
+        "id": "cb867ea360a89dbc48694c43d193553d564529f9",
+        "name": "Stylobate Building Elevator",
+        "faction": "pmc",
+        "switches": []
+      },
+      {
+        "id": "99e05bbf5d6f6dad97773774af735e37ae3edd44",
+        "name": "Crash Site",
+        "faction": "pmc",
+        "switches": []
+      },
+      {
+        "id": "974e40db5a7ac4d1937688eb6415b2333f9a3766",
+        "name": "Sewer River",
+        "faction": "pmc",
+        "switches": []
+      },
+      {
+        "id": "29cd42c5025edb6a619dd961fbc20ad639127189",
+        "name": "Damaged House",
+        "faction": "pmc",
+        "switches": []
+      },
+      {
+        "id": "59f13279288d9ac630955c14dc3368b492061e7c",
+        "name": "Collapsed Crane",
+        "faction": "pmc",
+        "switches": []
+      },
+      {
+        "id": "19b2c9157d56629da496df0bc42dbe5c49439e4c",
+        "name": "Klimov Street (Flare)",
+        "faction": "pmc",
+        "switches": []
+      },
+      {
+        "id": "d830108cdf0fcd33b785ca39d380255658905371",
+        "name": "Pinewood Basement (Co-Op)",
+        "faction": "shared",
+        "switches": []
+      },
+      {
+        "id": "b17b3bec8b22bdd99d6e9589ed0d9a41f2f6aac8",
+        "name": "Expo Checkpoint",
+        "faction": "pmc",
+        "switches": []
+      },
+      {
+        "id": "787c7f07f2b19b39ad8ba5a14ae69c10088191fd",
+        "name": "Smugglers' Basement",
+        "faction": "pmc",
+        "switches": []
+      }
+    ],
+    "switches": [],
+    "bosses": [
+      {
+        "spawnChance": 0.75,
+        "spawnLocations": [
+          {
+            "name": "Car Dealership",
+            "chance": 1
+          }
+        ],
+        "name": "Kaban",
+        "escorts": [
+          {
+            "amount": [
+              {
+                "count": 4,
+                "chance": 1
+              }
+            ],
+            "name": "Kaban Guard"
+          },
+          {
+            "amount": [
+              {
+                "count": 1,
+                "chance": 1
+              }
+            ],
+            "name": "Basmach"
+          },
+          {
+            "amount": [
+              {
+                "count": 1,
+                "chance": 1
+              }
+            ],
+            "name": "Gus"
+          },
+          {
+            "amount": [
+              {
+                "count": 1,
+                "chance": 0.5
+              },
+              {
+                "count": 2,
+                "chance": 0.5
+              }
+            ],
+            "name": "Kaban Guard (Sniper)"
+          }
+        ]
+      },
+      {
+        "spawnChance": 0.75,
+        "spawnLocations": [
+          {
+            "name": "Klimov Shopping Mall",
+            "chance": 0.5
+          },
+          {
+            "name": "Ministry of the Interior Academy",
+            "chance": 0.5
+          }
+        ],
+        "name": "Kollontay",
+        "escorts": [
+          {
+            "amount": [
+              {
+                "count": 2,
+                "chance": 1
+              }
+            ],
+            "name": "Kollontay Guard (Assault)"
+          },
+          {
+            "amount": [
+              {
+                "count": 2,
+                "chance": 1
+              }
+            ],
+            "name": "Kollontay Guard (Security)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "59fc81d786f774390775787e",
+    "name": "Night Factory",
+    "normalizedName": "night-factory",
+    "wiki": "https://escapefromtarkov.fandom.com/wiki/Factory",
+    "description": "The industrial estate and facilities of Chemical Plant No. 16 were rented out illegally to the TerraGroup corporation. During the advent of the Contract Wars, the plant became the scene of numerous firefights between BEAR and USEC that ultimately determined control over the industrial district of Tarkov.\n\nLater on, in the wake of the chaos, the plant facilities became a shelter for the remaining civilians, Scavs, and military operatives, including the scattered remains of the BEAR and USEC contingents.",
+    "enemies": [
+      "Scavs",
+      "Tagilla",
+      "Cultist Priest",
+      "Cultist Warrior"
+    ],
+    "raidDuration": 25,
+    "players": "5-6",
+    "extracts": [
+      {
+        "id": "643d074d8a95529177d383c0e27e059d2a254c70",
+        "name": "Cellars",
+        "faction": "pmc",
+        "switches": []
+      },
+      {
+        "id": "6ddb0a6e31ac100768fe60b943a91dbd3964add9",
+        "name": "Gate 3",
+        "faction": "scav",
+        "switches": []
+      },
+      {
+        "id": "63a28bc225fda155ccb1296183390a66f5ec1656",
+        "name": "Gate 3",
+        "faction": "pmc",
+        "switches": []
+      },
+      {
+        "id": "34ca47a2a65d86c7f01e869fe2defe64472ec3a1",
+        "name": "Camera Bunker Door",
+        "faction": "scav",
+        "switches": []
+      },
+      {
+        "id": "bf04ff7aa3750cb911270683229e040c1ccb332f",
+        "name": "Office Window",
+        "faction": "scav",
+        "switches": []
+      },
+      {
+        "id": "10676217239aba7a443a63588b6b2db412698686",
+        "name": "Gate 0",
+        "faction": "pmc",
+        "switches": []
+      },
+      {
+        "id": "5419b6a16b3634cd53c4d73360342ad4e2b3e28d",
+        "name": "Med Tent Gate",
+        "faction": "pmc",
+        "switches": []
+      },
+      {
+        "id": "e4d3c8e8140d23aa0c481adb309495cf8ec7b0c9",
+        "name": "Courtyard Gate",
+        "faction": "pmc",
+        "switches": []
+      },
+      {
+        "id": "3ce3124fcf5a3093c8004c903dd1eb7f6669c23c",
+        "name": "Smugglers' Passage",
+        "faction": "pmc",
+        "switches": []
+      }
+    ],
+    "switches": [],
+    "bosses": [
+      {
+        "spawnChance": 0.75,
+        "spawnLocations": [
+          {
+            "name": "Any scav spawn",
+            "chance": 1
+          }
+        ],
+        "escorts": [],
+        "name": "Tagilla"
+      },
+      {
+        "spawnChance": 0.12,
+        "spawnLocations": [
+          {
+            "name": "Any scav spawn",
+            "chance": 1
+          }
+        ],
+        "name": "Cultist Priest",
+        "escorts": [
+          {
+            "amount": [
+              {
+                "count": 2,
+                "chance": 0.5
+              },
+              {
+                "count": 3,
+                "chance": 0.5
+              }
+            ],
+            "name": "Cultist Warrior"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "5b0fc42d86f7744a585f9105",
+    "name": "The Lab",
+    "normalizedName": "the-lab",
+    "wiki": "https://escapefromtarkov.fandom.com/wiki/The_Lab",
+    "description": "Secret underground TerraGroup Labs facility hidden right under the center of Tarkov. Officially, this research center does not exist and, based on data scraps, is engaged in research and development as well as testing and simulation of projects in chemistry, physics, biology, and other high technology.",
+    "enemies": [
+      "Raider"
+    ],
+    "raidDuration": 30,
+    "players": "8-10",
+    "switches": [
+      {
+        "id": "014e9122e0fad99bcff6f93161712c3c6e1a2a75",
+        "name": "Med Elevator Power Button"
+      },
+      {
+        "id": "72848c177c54e2913e7d0259f23fba929d14ebf5",
+        "name": "Main Elevator Call Button"
+      },
+      {
+        "id": "d1d16f043cea7be35b2729c5e1e1dd648c6dee13",
+        "name": "Med Elevator Call Button"
+      },
+      {
+        "id": "40ec0101fbf68e6d1b762a72080b9b9b9c91f6f1",
+        "name": "Hangar Gate Switch"
+      },
+      {
+        "id": "8e6aa12e37d1b09a56e1ae19ab203832b0e78df9",
+        "name": "Cargo Elevator Call Button"
+      },
+      {
+        "id": "558a518a272f611d2e6879b917adb407f428977f",
+        "name": "Cargo Elevator Extract Button"
+      },
+      {
+        "id": "911ef57b76415c1d42fdba3b5c8fdb587dd229a7",
+        "name": "Main Elevator Power Button"
+      },
+      {
+        "id": "e7096cec97efb58f59f78f048792235f89318a94",
+        "name": "Water Level Switch"
+      },
+      {
+        "id": "89170f110a27deb607f63b2382f28c25ba75e861",
+        "name": "Main Elevator Extract Button"
+      },
+      {
+        "id": "07fe694c3915c1363b5fa1faa604c68fe5849aba",
+        "name": "Parking Gate Switch"
+      },
+      {
+        "id": "a948c3ba250ffcaaa508230d0b3392bf09cb6964",
+        "name": "Sewage Conduit Pump Button"
+      },
+      {
+        "id": "c39cf1e7caac3b830c00b539ee12dfddeb061e2b",
+        "name": "Cargo Elevator Power Button"
+      },
+      {
+        "id": "5077fd224eb1bb588b65e4d3c0b4b5719bdebb66",
+        "name": "Med Elevator Extract Button"
+      },
+      {
+        "id": "d5f297a1f5aee9dc19f1e4f54946850b99dca5e9",
+        "name": "Alarm Switch"
+      },
+      {
+        "id": "5e017c1cab122d7b6dcccf32f6d7fdb152aa7027",
+        "name": "Containment Block Power Switch"
+      }
+    ],
+    "extracts": [
+      {
+        "id": "ed029f26c9d60bf00d926b4d7e7876b0591b411a",
+        "name": "Medical Block Elevator",
+        "faction": "shared",
+        "switches": [
+          {
+            "id": "5077fd224eb1bb588b65e4d3c0b4b5719bdebb66",
+            "name": "Med Elevator Extract Button"
+          },
+          {
+            "id": "d1d16f043cea7be35b2729c5e1e1dd648c6dee13",
+            "name": "Med Elevator Call Button"
+          },
+          {
+            "id": "014e9122e0fad99bcff6f93161712c3c6e1a2a75",
+            "name": "Med Elevator Power Button"
+          }
+        ]
+      },
+      {
+        "id": "4cfc8fb5003e428d6cb9f8492690068afba50c71",
+        "name": "Cargo Elevator",
+        "faction": "shared",
+        "switches": [
+          {
+            "id": "558a518a272f611d2e6879b917adb407f428977f",
+            "name": "Cargo Elevator Extract Button"
+          },
+          {
+            "id": "8e6aa12e37d1b09a56e1ae19ab203832b0e78df9",
+            "name": "Cargo Elevator Call Button"
+          },
+          {
+            "id": "c39cf1e7caac3b830c00b539ee12dfddeb061e2b",
+            "name": "Cargo Elevator Power Button"
+          }
+        ]
+      },
+      {
+        "id": "1a5ae89d5401d277f8b317c18951dfe0e1bfd695",
+        "name": "Main Elevator",
+        "faction": "shared",
+        "switches": [
+          {
+            "id": "89170f110a27deb607f63b2382f28c25ba75e861",
+            "name": "Main Elevator Extract Button"
+          },
+          {
+            "id": "72848c177c54e2913e7d0259f23fba929d14ebf5",
+            "name": "Main Elevator Call Button"
+          },
+          {
+            "id": "911ef57b76415c1d42fdba3b5c8fdb587dd229a7",
+            "name": "Main Elevator Power Button"
+          }
+        ]
+      },
+      {
+        "id": "761dedf3fefaf3526e0ce19c7d7b1a3d494fce8a",
+        "name": "Ventilation Shaft",
+        "faction": "pmc",
+        "switches": []
+      },
+      {
+        "id": "c846e13f4bf7afe28c0cf214bd9e7b4685ba592f",
+        "name": "Sewage Conduit",
+        "faction": "pmc",
+        "switches": [
+          {
+            "id": "e7096cec97efb58f59f78f048792235f89318a94",
+            "name": "Water Level Switch"
+          },
+          {
+            "id": "a948c3ba250ffcaaa508230d0b3392bf09cb6964",
+            "name": "Sewage Conduit Pump Button"
+          }
+        ]
+      },
+      {
+        "id": "c5c6f818755ac844b4723b1a2cf057569da410ee",
+        "name": "Parking Gate",
+        "faction": "pmc",
+        "switches": [
+          {
+            "id": "07fe694c3915c1363b5fa1faa604c68fe5849aba",
+            "name": "Parking Gate Switch"
+          }
+        ]
+      },
+      {
+        "id": "6499ac7374cd238366b977944e305a08afd2e9e3",
+        "name": "Hangar Gate",
+        "faction": "pmc",
+        "switches": [
+          {
+            "id": "40ec0101fbf68e6d1b762a72080b9b9b9c91f6f1",
+            "name": "Hangar Gate Switch"
+          }
+        ]
+      }
+    ],
+    "bosses": [
+      {
+        "spawnChance": 0.6,
+        "spawnLocations": [
+          {
+            "name": "First Floor",
+            "chance": 1
+          }
+        ],
+        "name": "Raider",
+        "escorts": [
+          {
+            "amount": [
+              {
+                "count": 1,
+                "chance": 0.21
+              },
+              {
+                "count": 2,
+                "chance": 0.43
+              },
+              {
+                "count": 3,
+                "chance": 0.36
+              }
+            ],
+            "name": "Raider"
+          }
+        ]
+      },
+      {
+        "spawnChance": 0.6,
+        "spawnLocations": [
+          {
+            "name": "Second Floor",
+            "chance": 1
+          }
+        ],
+        "name": "Raider",
+        "escorts": [
+          {
+            "amount": [
+              {
+                "count": 1,
+                "chance": 0.21
+              },
+              {
+                "count": 2,
+                "chance": 0.43
+              },
+              {
+                "count": 3,
+                "chance": 0.36
+              }
+            ],
+            "name": "Raider"
+          }
+        ]
+      },
+      {
+        "spawnChance": 0.45,
+        "spawnLocations": [
+          {
+            "name": "Basement",
+            "chance": 1
+          }
+        ],
+        "name": "Raider",
+        "escorts": [
+          {
+            "amount": [
+              {
+                "count": 1,
+                "chance": 0.21
+              },
+              {
+                "count": 2,
+                "chance": 0.43
+              },
+              {
+                "count": 3,
+                "chance": 0.36
+              }
+            ],
+            "name": "Raider"
+          }
+        ]
+      },
+      {
+        "spawnChance": 0.45,
+        "spawnLocations": [
+          {
+            "name": "Basement",
+            "chance": 1
+          }
+        ],
+        "name": "Raider",
+        "escorts": [
+          {
+            "amount": [
+              {
+                "count": 1,
+                "chance": 0.21
+              },
+              {
+                "count": 2,
+                "chance": 0.43
+              },
+              {
+                "count": 3,
+                "chance": 0.36
+              }
+            ],
+            "name": "Raider"
+          }
+        ]
+      },
+      {
+        "spawnChance": 0.4,
+        "spawnLocations": [
+          {
+            "name": "Basement",
+            "chance": 1
+          }
+        ],
+        "name": "Raider",
+        "escorts": [
+          {
+            "amount": [
+              {
+                "count": 1,
+                "chance": 0.21
+              },
+              {
+                "count": 2,
+                "chance": 0.43
+              },
+              {
+                "count": 3,
+                "chance": 0.36
+              }
+            ],
+            "name": "Raider"
+          }
+        ]
+      },
+      {
+        "spawnChance": 0.45,
+        "spawnLocations": [
+          {
+            "name": "Second Floor",
+            "chance": 1
+          }
+        ],
+        "name": "Raider",
+        "escorts": [
+          {
+            "amount": [
+              {
+                "count": 1,
+                "chance": 0.21
+              },
+              {
+                "count": 2,
+                "chance": 0.43
+              },
+              {
+                "count": 3,
+                "chance": 0.36
+              }
+            ],
+            "name": "Raider"
+          }
+        ]
+      },
+      {
+        "spawnChance": 0.35,
+        "spawnLocations": [
+          {
+            "name": "First Floor",
+            "chance": 1
+          }
+        ],
+        "name": "Raider",
+        "escorts": [
+          {
+            "amount": [
+              {
+                "count": 1,
+                "chance": 0.21
+              },
+              {
+                "count": 2,
+                "chance": 0.43
+              },
+              {
+                "count": 3,
+                "chance": 0.36
+              }
+            ],
+            "name": "Raider"
+          }
+        ]
+      },
+      {
+        "spawnChance": 0.35,
+        "spawnLocations": [
+          {
+            "name": "Second Floor",
+            "chance": 1
+          }
+        ],
+        "name": "Raider",
+        "escorts": [
+          {
+            "amount": [
+              {
+                "count": 1,
+                "chance": 0.21
+              },
+              {
+                "count": 2,
+                "chance": 0.43
+              },
+              {
+                "count": 3,
+                "chance": 0.36
+              }
+            ],
+            "name": "Raider"
+          }
+        ]
+      },
+      {
+        "spawnChance": 0.35,
+        "spawnLocations": [
+          {
+            "name": "First Floor",
+            "chance": 1
+          }
+        ],
+        "name": "Raider",
+        "escorts": [
+          {
+            "amount": [
+              {
+                "count": 1,
+                "chance": 0.21
+              },
+              {
+                "count": 2,
+                "chance": 0.43
+              },
+              {
+                "count": 3,
+                "chance": 0.36
+              }
+            ],
+            "name": "Raider"
+          }
+        ]
+      },
+      {
+        "spawnChance": 0.35,
+        "spawnLocations": [
+          {
+            "name": "Second Floor",
+            "chance": 1
+          }
+        ],
+        "name": "Raider",
+        "escorts": [
+          {
+            "amount": [
+              {
+                "count": 1,
+                "chance": 0.21
+              },
+              {
+                "count": 2,
+                "chance": 0.43
+              },
+              {
+                "count": 3,
+                "chance": 0.36
+              }
+            ],
+            "name": "Raider"
+          }
+        ]
+      },
+      {
+        "spawnChance": 0.35,
+        "spawnLocations": [
+          {
+            "name": "First Floor",
+            "chance": 1
+          }
+        ],
+        "name": "Raider",
+        "escorts": [
+          {
+            "amount": [
+              {
+                "count": 1,
+                "chance": 0.21
+              },
+              {
+                "count": 2,
+                "chance": 0.43
+              },
+              {
+                "count": 3,
+                "chance": 0.36
+              }
+            ],
+            "name": "Raider"
+          }
+        ]
+      },
+      {
+        "spawnChance": 0.35,
+        "spawnLocations": [
+          {
+            "name": "Second Floor",
+            "chance": 1
+          }
+        ],
+        "name": "Raider",
+        "escorts": [
+          {
+            "amount": [
+              {
+                "count": 1,
+                "chance": 0.21
+              },
+              {
+                "count": 2,
+                "chance": 0.43
+              },
+              {
+                "count": 3,
+                "chance": 0.36
+              }
+            ],
+            "name": "Raider"
+          }
+        ]
+      },
+      {
+        "spawnChance": 0.35,
+        "spawnLocations": [
+          {
+            "name": "First Floor",
+            "chance": 1
+          }
+        ],
+        "name": "Raider",
+        "escorts": [
+          {
+            "amount": [
+              {
+                "count": 1,
+                "chance": 0.21
+              },
+              {
+                "count": 2,
+                "chance": 0.43
+              },
+              {
+                "count": 3,
+                "chance": 0.36
+              }
+            ],
+            "name": "Raider"
+          }
+        ]
+      },
+      {
+        "spawnChance": 0.35,
+        "spawnLocations": [
+          {
+            "name": "Second Floor",
+            "chance": 1
+          }
+        ],
+        "name": "Raider",
+        "escorts": [
+          {
+            "amount": [
+              {
+                "count": 1,
+                "chance": 0.21
+              },
+              {
+                "count": 2,
+                "chance": 0.43
+              },
+              {
+                "count": 3,
+                "chance": 0.36
+              }
+            ],
+            "name": "Raider"
+          }
+        ]
+      },
+      {
+        "spawnChance": 0.35,
+        "spawnLocations": [
+          {
+            "name": "Parking Gate",
+            "chance": 1
+          }
+        ],
+        "name": "Raider",
+        "escorts": [
+          {
+            "amount": [
+              {
+                "count": 1,
+                "chance": 0.21
+              },
+              {
+                "count": 2,
+                "chance": 0.43
+              },
+              {
+                "count": 3,
+                "chance": 0.36
+              }
+            ],
+            "name": "Raider"
+          }
+        ]
+      },
+      {
+        "spawnChance": 0.45,
+        "spawnLocations": [
+          {
+            "name": "Hangar Gate",
+            "chance": 1
+          }
+        ],
+        "name": "Raider",
+        "escorts": [
+          {
+            "amount": [
+              {
+                "count": 1,
+                "chance": 0.21
+              },
+              {
+                "count": 2,
+                "chance": 0.43
+              },
+              {
+                "count": 3,
+                "chance": 0.36
+              }
+            ],
+            "name": "Raider"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "653e6760052c01c1c805532f",
+    "name": "Ground Zero",
+    "normalizedName": "ground-zero",
+    "wiki": "https://escapefromtarkov.fandom.com/wiki/Ground_Zero",
+    "description": "The business center of Tarkov. This is where TerraGroup was headquartered. This is where it all began.",
+    "enemies": [],
+    "raidDuration": 30,
+    "players": "9-10",
+    "bosses": [],
+    "extracts": [
+      {
+        "id": "d6870dda31937ff93662ce903afe1099b24011a1",
+        "name": "Police Cordon V-Ex",
+        "faction": "pmc",
+        "switches": []
+      },
+      {
+        "id": "549ceec177747468ebe86bcfd5a486d1dce9ed64",
+        "name": "Emercom Checkpoint",
+        "faction": "shared",
+        "switches": []
+      },
+      {
+        "id": "118fa7e3eae47190871eb4ea20d4f3ca2718b73f",
+        "name": "Scav Checkpoint (Co-op)",
+        "faction": "shared",
+        "switches": []
+      },
+      {
+        "id": "ab623005251ffcd3603a5df2610917a998d9a17e",
+        "name": "Nakatani Basement Stairs",
+        "faction": "shared",
+        "switches": []
+      },
+      {
+        "id": "89ff19116feeafdf4a2b4e538cafb5364ffbe862",
+        "name": "Mira Ave (Flare)",
+        "faction": "pmc",
+        "switches": []
+      },
+      {
+        "id": "122676fe448d426d085e9516114534966a69c3ff",
+        "name": "Tartowers Sales Office",
+        "faction": "pmc",
+        "switches": []
+      }
+    ],
+    "switches": []
+  },
+  {
+    "id": "65b8d6f5cdde2479cb2a3125",
+    "name": "Ground Zero 21+",
+    "normalizedName": "ground-zero-21",
+    "wiki": "https://escapefromtarkov.fandom.com/wiki/Ground_Zero",
+    "description": "The business center of Tarkov. This is where TerraGroup was headquartered. This is where it all began. The area has yet again become a hot zone since the early days of the conflict.",
+    "enemies": [
+      "Cultist Priest",
+      "Cultist Warrior"
+    ],
+    "raidDuration": 30,
+    "players": "9-12",
+    "extracts": [
+      {
+        "id": "78b945ec320190d896a16bda3066892d9368bf17",
+        "name": "Police Cordon V-Ex",
+        "faction": "pmc",
+        "switches": []
+      },
+      {
+        "id": "c812e0bac1d630c34af374428e34cf10dc344e9b",
+        "name": "Emercom Checkpoint",
+        "faction": "shared",
+        "switches": []
+      },
+      {
+        "id": "4fdf4eeb9e65607d68760103109e9e72dd5d816e",
+        "name": "Scav Checkpoint (Co-op)",
+        "faction": "shared",
+        "switches": []
+      },
+      {
+        "id": "1bb328c35dbf9c2127defe6df5a48c630ece92a1",
+        "name": "Nakatani Basement Stairs",
+        "faction": "shared",
+        "switches": []
+      },
+      {
+        "id": "d9e23573110e4fe1dbe4a47bc3ba7e316e09cfbc",
+        "name": "Mira Ave (Flare)",
+        "faction": "pmc",
+        "switches": []
+      },
+      {
+        "id": "695d24d4deca922cbc5d82636c6c227d310a03e5",
+        "name": "Tartowers Sales Office",
+        "faction": "pmc",
+        "switches": []
+      }
+    ],
+    "switches": [],
+    "bosses": [
+      {
+        "spawnChance": 0.02,
+        "spawnLocations": [
+          {
+            "name": "Any scav spawn",
+            "chance": 1
+          }
+        ],
+        "name": "Cultist Priest",
+        "escorts": [
+          {
+            "amount": [
+              {
+                "count": 3,
+                "chance": 0.5
+              },
+              {
+                "count": 4,
+                "chance": 0.5
+              }
+            ],
+            "name": "Cultist Warrior"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "6733700029c367a3d40b02af",
+    "name": "The Labyrinth",
+    "normalizedName": "the-labyrinth",
+    "wiki": "https://escapefromtarkov.fandom.com/wiki/The_Labyrinth",
+    "description": "A facility of one of TerraGroup's contractors, Knossos LLC. According to public sources, they build amusement and theme parks. However, this place looks more like a heavily fortified bunker than a new theme park.",
+    "enemies": [
+      "Shadow of Tagilla",
+      "Vengeful Killa",
+      "Scavs"
+    ],
+    "raidDuration": 30,
+    "players": "5-5",
+    "extracts": [
+      {
+        "id": "145db8cb7d81891137f780e183901f601a461127",
+        "name": "The Way Up",
+        "faction": "pmc",
+        "switches": []
+      },
+      {
+        "id": "7c1c38af52a07d10fbcbc9a811db636d36e9818b",
+        "name": "Ariadne's Path",
+        "faction": "pmc",
+        "switches": []
+      }
+    ],
+    "switches": [
+      {
+        "id": "31585af9b0359fc01725db4910068dec4886e008",
+        "name": "Alarm Switch"
+      },
+      {
+        "id": "eda11d87828854f6793e072a937bcd7e0b02ff8c",
+        "name": "Alarm Switch"
+      },
+      {
+        "id": "12dd87073c4b87b68021b02411c9693ade31daa7",
+        "name": "Alarm Switch"
+      },
+      {
+        "id": "6bfdec06869b8a511144243c319bbe63d18cb888",
+        "name": "Sealed Door"
+      },
+      {
+        "id": "1f0c24f32701e18d03b80d023db457e07f1cd04b",
+        "name": "Alarm Switch"
+      },
+      {
+        "id": "8f955feb9400b5a67957b76d5c853b5431517b0d",
+        "name": "Fire Trap Switch"
+      },
+      {
+        "id": "2fb7f57dc84885d93bace8137115b29d42ad2f70",
+        "name": "Alarm Switch"
+      },
+      {
+        "id": "826f3ecfc95273700aec28b1a61eaa470a6ebc90",
+        "name": "Toxic Pool Trap Switch"
+      },
+      {
+        "id": "a8cb8a737ec186cd836b43128170e854b8bab750",
+        "name": "Sealed Door"
+      },
+      {
+        "id": "bcfc84e5f79404bd840676050525ec5e44cfbb76",
+        "name": "Shotgun Trap Switch"
+      },
+      {
+        "id": "a0296ed1d29971b48190ab776b8940c57a56d4cd",
+        "name": "Toxic Puddle Trap Switch"
+      },
+      {
+        "id": "0f6a9ab8c77afe7609feaec4e2053c9e709a632f",
+        "name": "Steam Trap Switch"
+      }
+    ],
+    "bosses": [
+      {
+        "spawnChance": 1,
+        "spawnLocations": [],
+        "name": "Shadow of Tagilla",
+        "escorts": [
+          {
+            "amount": [
+              {
+                "count": 1,
+                "chance": 1
+              }
+            ],
+            "name": "Vengeful Killa"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "68236e8153654e8c1200798a",
+    "name": "Ground Zero Tutorial",
+    "normalizedName": "ground-zero-tutorial",
+    "wiki": "https://escapefromtarkov.fandom.com/wiki/Ground_Zero",
+    "description": "The business center of Tarkov. This is where TerraGroup was headquartered. This is where it all began.",
+    "enemies": [
+      "Scavs"
+    ],
+    "raidDuration": 30,
+    "players": "9-12",
+    "bosses": [],
+    "extracts": [],
+    "switches": []
+  },
+  {
+    "id": "6925a2c38bdebd9e2302692e",
+    "name": "Terminal",
+    "normalizedName": "terminal",
+    "wiki": "https://escapefromtarkov.fandom.com/wiki/Terminal",
+    "description": "The southern port Terminal has been under Russian Armed Forces control since the beginning of the Tarkov conflict. After the city was sealed off, the terminal was fortified and became the primary evacuation point, sought by both civilian refugees and PMC units. According to unconfirmed reports, TerraGroup personnel were also evacuated through this port.",
+    "enemies": [
+      "Scavs",
+      "Black Div.",
+      "AF",
+      "AF",
+      "Tagilla"
+    ],
+    "raidDuration": 50,
+    "players": "1-5",
+    "extracts": [],
+    "switches": [],
+    "bosses": [
+      {
+        "spawnChance": 1,
+        "spawnLocations": [
+          {
+            "name": "1BD1PortAmbush1",
+            "chance": 1
+          }
+        ],
+        "name": "Black Div.",
+        "escorts": [
+          {
+            "amount": [
+              {
+                "count": 1,
+                "chance": 1
+              }
+            ],
+            "name": "Black Div."
+          },
+          {
+            "amount": [
+              {
+                "count": 1,
+                "chance": 1
+              }
+            ],
+            "name": "Black Div."
+          }
+        ]
+      },
+      {
+        "spawnChance": 1,
+        "spawnLocations": [
+          {
+            "name": "1BD1PortAmbush1",
+            "chance": 1
+          }
+        ],
+        "name": "Black Div.",
+        "escorts": [
+          {
+            "amount": [
+              {
+                "count": 1,
+                "chance": 1
+              }
+            ],
+            "name": "Black Div."
+          }
+        ]
+      },
+      {
+        "spawnChance": 1,
+        "spawnLocations": [
+          {
+            "name": "1BDGateAmbush13",
+            "chance": 1
+          }
+        ],
+        "name": "Black Div.",
+        "escorts": [
+          {
+            "amount": [
+              {
+                "count": 1,
+                "chance": 1
+              }
+            ],
+            "name": "Black Div."
+          }
+        ]
+      },
+      {
+        "spawnChance": 1,
+        "spawnLocations": [
+          {
+            "name": "1VSRFSnipeRoofPort2",
+            "chance": 1
+          }
+        ],
+        "escorts": [],
+        "name": "AF"
+      },
+      {
+        "spawnChance": 1,
+        "spawnLocations": [
+          {
+            "name": "1VSRF1Spawn3",
+            "chance": 1
+          }
+        ],
+        "name": "AF",
+        "escorts": [
+          {
+            "amount": [
+              {
+                "count": 1,
+                "chance": 1
+              }
+            ],
+            "name": "AF"
+          },
+          {
+            "amount": [
+              {
+                "count": 1,
+                "chance": 1
+              }
+            ],
+            "name": "AF"
+          }
+        ]
+      },
+      {
+        "spawnChance": 1,
+        "spawnLocations": [
+          {
+            "name": "1VSRF1Spawn3",
+            "chance": 1
+          }
+        ],
+        "name": "AF",
+        "escorts": [
+          {
+            "amount": [
+              {
+                "count": 1,
+                "chance": 1
+              }
+            ],
+            "name": "AF"
+          },
+          {
+            "amount": [
+              {
+                "count": 1,
+                "chance": 1
+              }
+            ],
+            "name": "AF"
+          }
+        ]
+      },
+      {
+        "spawnChance": 1,
+        "spawnLocations": [
+          {
+            "name": "1VSRFStoreAmbush10",
+            "chance": 1
+          }
+        ],
+        "name": "AF",
+        "escorts": [
+          {
+            "amount": [
+              {
+                "count": 1,
+                "chance": 1
+              }
+            ],
+            "name": "AF"
+          },
+          {
+            "amount": [
+              {
+                "count": 1,
+                "chance": 1
+              }
+            ],
+            "name": "AF"
+          }
+        ]
+      },
+      {
+        "spawnChance": 1,
+        "spawnLocations": [
+          {
+            "name": "1VSRFStoreAmbush10",
+            "chance": 1
+          }
+        ],
+        "name": "AF",
+        "escorts": [
+          {
+            "amount": [
+              {
+                "count": 1,
+                "chance": 1
+              }
+            ],
+            "name": "AF"
+          },
+          {
+            "amount": [
+              {
+                "count": 1,
+                "chance": 1
+              }
+            ],
+            "name": "AF"
+          }
+        ]
+      },
+      {
+        "spawnChance": 1,
+        "spawnLocations": [
+          {
+            "name": "1BD1HangarAmbush11",
+            "chance": 1
+          }
+        ],
+        "name": "Black Div.",
+        "escorts": [
+          {
+            "amount": [
+              {
+                "count": 1,
+                "chance": 1
+              }
+            ],
+            "name": "Black Div."
+          },
+          {
+            "amount": [
+              {
+                "count": 1,
+                "chance": 1
+              }
+            ],
+            "name": "Black Div."
+          }
+        ]
+      },
+      {
+        "spawnChance": 1,
+        "spawnLocations": [
+          {
+            "name": "1BD1HangarAmbush11",
+            "chance": 1
+          }
+        ],
+        "name": "Black Div.",
+        "escorts": [
+          {
+            "amount": [
+              {
+                "count": 1,
+                "chance": 1
+              }
+            ],
+            "name": "Black Div."
+          }
+        ]
+      },
+      {
+        "spawnChance": 1,
+        "spawnLocations": [
+          {
+            "name": "1BD1HangarAmbush11",
+            "chance": 1
+          }
+        ],
+        "name": "Black Div.",
+        "escorts": [
+          {
+            "amount": [
+              {
+                "count": 1,
+                "chance": 1
+              }
+            ],
+            "name": "Black Div."
+          },
+          {
+            "amount": [
+              {
+                "count": 1,
+                "chance": 1
+              }
+            ],
+            "name": "Black Div."
+          }
+        ]
+      },
+      {
+        "spawnChance": 1,
+        "spawnLocations": [
+          {
+            "name": "2VSRFPassMiddle15",
+            "chance": 1
+          }
+        ],
+        "name": "AF",
+        "escorts": [
+          {
+            "amount": [
+              {
+                "count": 1,
+                "chance": 1
+              }
+            ],
+            "name": "AF"
+          },
+          {
+            "amount": [
+              {
+                "count": 1,
+                "chance": 1
+              }
+            ],
+            "name": "AF"
+          },
+          {
+            "amount": [
+              {
+                "count": 1,
+                "chance": 1
+              }
+            ],
+            "name": "AF"
+          }
+        ]
+      },
+      {
+        "spawnChance": 1,
+        "spawnLocations": [
+          {
+            "name": "2BDWarehouse18",
+            "chance": 1
+          }
+        ],
+        "name": "Black Div.",
+        "escorts": [
+          {
+            "amount": [
+              {
+                "count": 1,
+                "chance": 1
+              }
+            ],
+            "name": "Black Div."
+          }
+        ]
+      },
+      {
+        "spawnChance": 1,
+        "spawnLocations": [
+          {
+            "name": "2BDWarehouse19",
+            "chance": 1
+          }
+        ],
+        "name": "Black Div.",
+        "escorts": [
+          {
+            "amount": [
+              {
+                "count": 1,
+                "chance": 1
+              }
+            ],
+            "name": "Black Div."
+          }
+        ]
+      },
+      {
+        "spawnChance": 1,
+        "spawnLocations": [
+          {
+            "name": "2VSRFColumns22",
+            "chance": 1
+          }
+        ],
+        "name": "AF",
+        "escorts": [
+          {
+            "amount": [
+              {
+                "count": 1,
+                "chance": 1
+              }
+            ],
+            "name": "AF"
+          }
+        ]
+      },
+      {
+        "spawnChance": 1,
+        "spawnLocations": [
+          {
+            "name": "2BDColumns23",
+            "chance": 1
+          }
+        ],
+        "name": "Black Div.",
+        "escorts": [
+          {
+            "amount": [
+              {
+                "count": 1,
+                "chance": 1
+              }
+            ],
+            "name": "Black Div."
+          }
+        ]
+      },
+      {
+        "spawnChance": 1,
+        "spawnLocations": [
+          {
+            "name": "2VSRFContainers24",
+            "chance": 1
+          }
+        ],
+        "name": "AF",
+        "escorts": [
+          {
+            "amount": [
+              {
+                "count": 1,
+                "chance": 1
+              }
+            ],
+            "name": "AF"
+          }
+        ]
+      },
+      {
+        "spawnChance": 1,
+        "spawnLocations": [
+          {
+            "name": "2BDPort28",
+            "chance": 1
+          }
+        ],
+        "name": "Black Div.",
+        "escorts": [
+          {
+            "amount": [
+              {
+                "count": 1,
+                "chance": 1
+              }
+            ],
+            "name": "Black Div."
+          },
+          {
+            "amount": [
+              {
+                "count": 1,
+                "chance": 1
+              }
+            ],
+            "name": "Black Div."
+          }
+        ]
+      },
+      {
+        "spawnChance": 1,
+        "spawnLocations": [
+          {
+            "name": "2BDPort30",
+            "chance": 1
+          }
+        ],
+        "name": "Black Div.",
+        "escorts": [
+          {
+            "amount": [
+              {
+                "count": 1,
+                "chance": 1
+              }
+            ],
+            "name": "Black Div."
+          },
+          {
+            "amount": [
+              {
+                "count": 1,
+                "chance": 1
+              }
+            ],
+            "name": "Black Div."
+          },
+          {
+            "amount": [
+              {
+                "count": 1,
+                "chance": 1
+              }
+            ],
+            "name": "Black Div."
+          }
+        ]
+      },
+      {
+        "spawnChance": 1,
+        "spawnLocations": [
+          {
+            "name": "2BDPort31",
+            "chance": 1
+          }
+        ],
+        "name": "Black Div.",
+        "escorts": [
+          {
+            "amount": [
+              {
+                "count": 1,
+                "chance": 1
+              }
+            ],
+            "name": "Black Div."
+          },
+          {
+            "amount": [
+              {
+                "count": 1,
+                "chance": 1
+              }
+            ],
+            "name": "Black Div."
+          },
+          {
+            "amount": [
+              {
+                "count": 1,
+                "chance": 1
+              }
+            ],
+            "name": "Black Div."
+          }
+        ]
+      },
+      {
+        "spawnChance": 1,
+        "spawnLocations": [
+          {
+            "name": "2BDPort32",
+            "chance": 1
+          }
+        ],
+        "name": "Black Div.",
+        "escorts": [
+          {
+            "amount": [
+              {
+                "count": 1,
+                "chance": 1
+              }
+            ],
+            "name": "Black Div."
+          },
+          {
+            "amount": [
+              {
+                "count": 1,
+                "chance": 1
+              }
+            ],
+            "name": "Black Div."
+          }
+        ]
+      },
+      {
+        "spawnChance": 1,
+        "spawnLocations": [
+          {
+            "name": "2VSRFExit33",
+            "chance": 1
+          }
+        ],
+        "name": "AF",
+        "escorts": [
+          {
+            "amount": [
+              {
+                "count": 1,
+                "chance": 1
+              }
+            ],
+            "name": "AF"
+          },
+          {
+            "amount": [
+              {
+                "count": 2,
+                "chance": 1
+              }
+            ],
+            "name": "AF"
+          },
+          {
+            "amount": [
+              {
+                "count": 1,
+                "chance": 1
+              }
+            ],
+            "name": "AF"
+          }
+        ]
+      },
+      {
+        "spawnChance": 1,
+        "spawnLocations": [
+          {
+            "name": "1BD1HangarBD11",
+            "chance": 1
+          }
+        ],
+        "name": "Black Div.",
+        "escorts": [
+          {
+            "amount": [
+              {
+                "count": 1,
+                "chance": 1
+              }
+            ],
+            "name": "Black Div."
+          },
+          {
+            "amount": [
+              {
+                "count": 1,
+                "chance": 1
+              }
+            ],
+            "name": "Black Div."
+          },
+          {
+            "amount": [
+              {
+                "count": 1,
+                "chance": 1
+              }
+            ],
+            "name": "Black Div."
+          }
+        ]
+      },
+      {
+        "spawnChance": 1,
+        "spawnLocations": [
+          {
+            "name": "2ScavPort29",
+            "chance": 1
+          }
+        ],
+        "escorts": [],
+        "name": "Tagilla"
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+{
+  "generalStatus": {
+    "name": "Global",
+    "message": "",
+    "status": 0
+  },
+  "currentStatuses": [
+    {
+      "name": "Website",
+      "message": null,
+      "status": 0
+    },
+    {
+      "name": "Forum",
+      "message": null,
+      "status": 0
+    },
+    {
+      "name": "Authentication",
+      "message": null,
+      "status": 0
+    },
+    {
+      "name": "Launcher",
+      "message": null,
+      "status": 0
+    },
+    {
+      "name": "Group lobby",
+      "message": null,
+      "status": 0
+    },
+    {
+      "name": "Trading",
+      "message": null,
+      "status": 0
+    },
+    {
+      "name": "Matchmaking",
+      "message": null,
+      "status": 0
+    },
+    {
+      "name": "Friends and msg",
+      "message": null,
+      "status": 0
+    },
+    {
+      "name": "Inventory operations",
+      "message": null,
+      "status": 0
+    },
+    {
+      "name": "Global",
+      "message": "",
+      "status": 0
+    }
+  ],
+  "messages": []
+}

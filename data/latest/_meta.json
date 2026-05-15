@@ -1,0 +1,102 @@
+{
+  "snapshot_at": "2026-05-15T01:13:12.921349+00:00",
+  "finished_at": "2026-05-15T01:13:20.827713+00:00",
+  "duration_seconds": 7.906364,
+  "source": "https://api.tarkov.dev/graphql",
+  "language": "en",
+  "game_mode": "regular",
+  "queries_attempted": 22,
+  "queries_succeeded": 22,
+  "queries_failed": 0,
+  "results": {
+    "traders": {
+      "records": 15,
+      "kb": 20.4
+    },
+    "tasks": {
+      "records": 499,
+      "kb": 1468.1
+    },
+    "items": {
+      "records": 4946,
+      "kb": 10715.8
+    },
+    "hideout": {
+      "records": 26,
+      "kb": 366.8
+    },
+    "maps": {
+      "records": 15,
+      "kb": 82.7
+    },
+    "barters": {
+      "records": 786,
+      "kb": 480.4
+    },
+    "crafts": {
+      "records": 210,
+      "kb": 196.4
+    },
+    "ammo": {
+      "records": 195,
+      "kb": 82.6
+    },
+    "bosses": {
+      "records": 36,
+      "kb": 1217.8
+    },
+    "prestige": {
+      "records": 6,
+      "kb": 14.7
+    },
+    "fleaMarket": {
+      "records": null,
+      "kb": 1.7
+    },
+    "achievements": {
+      "records": 104,
+      "kb": 47.8
+    },
+    "questItems": {
+      "records": 109,
+      "kb": 62.4
+    },
+    "handbookCategories": {
+      "records": 87,
+      "kb": 25.6
+    },
+    "itemCategories": {
+      "records": 110,
+      "kb": 34.4
+    },
+    "lootContainers": {
+      "records": 43,
+      "kb": 4.9
+    },
+    "stationaryWeapons": {
+      "records": 2,
+      "kb": 0.3
+    },
+    "armorMaterials": {
+      "records": 8,
+      "kb": 2.2
+    },
+    "skills": {
+      "records": 49,
+      "kb": 3.1
+    },
+    "mastering": {
+      "records": 80,
+      "kb": 30.5
+    },
+    "playerLevels": {
+      "records": 79,
+      "kb": 10.0
+    },
+    "status": {
+      "records": null,
+      "kb": 1.0
+    }
+  },
+  "failures": []
+}

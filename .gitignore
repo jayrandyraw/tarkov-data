@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+*.egg-info/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*~
+
+# Secrets — never commit these
+.env
+.env.*
+*.key
+*.pem
+secrets.json
+
+# Logs and temp files
+*.log
+*.tmp
+tmp/
+
+# Big files we don't want tracked yet (uncomment if needed later)
+# data/snapshots/*.json
+# icons/from-tarkov-dev/items/*

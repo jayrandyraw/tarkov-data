@@ -1,0 +1,198 @@
+[
+  {
+    "id": "DMR",
+    "name": "DMRs"
+  },
+  {
+    "id": "HMG",
+    "name": "Heavy Machine Guns"
+  },
+  {
+    "id": "LMG",
+    "name": "Light Machine Guns"
+  },
+  {
+    "id": "SMG",
+    "name": "Submachine Guns"
+  },
+  {
+    "id": "Melee",
+    "name": "Melee"
+  },
+  {
+    "id": "Health",
+    "name": "Health"
+  },
+  {
+    "id": "Pistol",
+    "name": "Pistols"
+  },
+  {
+    "id": "Search",
+    "name": "Search"
+  },
+  {
+    "id": "Sniper",
+    "name": "Bolt-action Rifles"
+  },
+  {
+    "id": "Assault",
+    "name": "Assault Rifles"
+  },
+  {
+    "id": "Shotgun",
+    "name": "Shotguns"
+  },
+  {
+    "id": "Surgery",
+    "name": "Surgery"
+  },
+  {
+    "id": "Auctions",
+    "name": "Auctions"
+  },
+  {
+    "id": "Charisma",
+    "name": "Charisma"
+  },
+  {
+    "id": "Crafting",
+    "name": "Crafting"
+  },
+  {
+    "id": "FirstAid",
+    "name": "First Aid"
+  },
+  {
+    "id": "Immunity",
+    "name": "Immunity"
+  },
+  {
+    "id": "Launcher",
+    "name": "Grenade Launchers"
+  },
+  {
+    "id": "NightOps",
+    "name": "Night Ops"
+  },
+  {
+    "id": "Revolver",
+    "name": "Revolvers"
+  },
+  {
+    "id": "Strength",
+    "name": "Strength"
+  },
+  {
+    "id": "Throwing",
+    "name": "Throwables"
+  },
+  {
+    "id": "Vitality",
+    "name": "Vitality"
+  },
+  {
+    "id": "AimDrills",
+    "name": "Aim Drills"
+  },
+  {
+    "id": "Attention",
+    "name": "Attention"
+  },
+  {
+    "id": "Endurance",
+    "name": "Endurance"
+  },
+  {
+    "id": "Intellect",
+    "name": "Intellect"
+  },
+  {
+    "id": "MagDrills",
+    "name": "Mag Drills"
+  },
+  {
+    "id": "SilentOps",
+    "name": "Silent Ops"
+  },
+  {
+    "id": "HeavyVests",
+    "name": "Heavy Vests"
+  },
+  {
+    "id": "LightVests",
+    "name": "Light Vests"
+  },
+  {
+    "id": "Metabolism",
+    "name": "Metabolism"
+  },
+  {
+    "id": "Perception",
+    "name": "Perception"
+  },
+  {
+    "id": "Lockpicking",
+    "name": "Lockpicking"
+  },
+  {
+    "id": "BearRawpower",
+    "name": "BEAR Raw Power"
+  },
+  {
+    "id": "BearAksystems",
+    "name": "BEAR AK Systems"
+  },
+  {
+    "id": "BearAuthority",
+    "name": "BEAR Authority"
+  },
+  {
+    "id": "FieldMedicine",
+    "name": "Field Medicine"
+  },
+  {
+    "id": "CovertMovement",
+    "name": "Covert Movement"
+  },
+  {
+    "id": "Cleanoperations",
+    "name": "Clean Operations"
+  },
+  {
+    "id": "Taskperformance",
+    "name": "Task Performance"
+  },
+  {
+    "id": "TroubleShooting",
+    "name": "Troubleshooting"
+  },
+  {
+    "id": "WeaponTreatment",
+    "name": "Weapon Maintenance"
+  },
+  {
+    "id": "AttachedLauncher",
+    "name": "Underbarrel Launchers"
+  },
+  {
+    "id": "BearHeavycaliber",
+    "name": "BEAR Heavy Caliber"
+  },
+  {
+    "id": "StressResistance",
+    "name": "Stress Resistance"
+  },
+  {
+    "id": "HideoutManagement",
+    "name": "Hideout Management"
+  },
+  {
+    "id": "Shadowconnections",
+    "name": "Shadow Connections"
+  },
+  {
+    "id": "BearAssaultoperations",
+    "name": "BEAR Assault Operations"
+  }
+]

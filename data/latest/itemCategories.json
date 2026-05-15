@@ -1,0 +1,1560 @@
+[
+  {
+    "id": "5447b5f14bdc2d61278b4567",
+    "name": "Assault rifle",
+    "normalizedName": "assault-rifle",
+    "children": [],
+    "parent": {
+      "id": "5422acb9af1c889c16000029",
+      "name": "Weapon"
+    }
+  },
+  {
+    "id": "5422acb9af1c889c16000029",
+    "name": "Weapon",
+    "normalizedName": "weapon",
+    "parent": {
+      "id": "566162e44bdc2d3f298b4573",
+      "name": "Compound item"
+    },
+    "children": [
+      {
+        "id": "5447b5f14bdc2d61278b4567",
+        "name": "Assault rifle"
+      },
+      {
+        "id": "5447b5cf4bdc2d65278b4567",
+        "name": "Handgun"
+      },
+      {
+        "id": "5447b6094bdc2dc3278b4567",
+        "name": "Shotgun"
+      },
+      {
+        "id": "5447b6254bdc2dc3278b4568",
+        "name": "Sniper rifle"
+      },
+      {
+        "id": "5447b5fc4bdc2d87278b4567",
+        "name": "Assault carbine"
+      },
+      {
+        "id": "5447b6194bdc2d67278b4567",
+        "name": "Marksman rifle"
+      },
+      {
+        "id": "5447b5e04bdc2d62278b4567",
+        "name": "SMG"
+      },
+      {
+        "id": "5447bed64bdc2d97278b4568",
+        "name": "Machinegun"
+      },
+      {
+        "id": "5447bedf4bdc2d87278b4568",
+        "name": "Grenade launcher"
+      },
+      {
+        "id": "617f1ef5e8b54b0998387733",
+        "name": "Revolver"
+      },
+      {
+        "id": "67446d4f04141c10630604e7",
+        "name": "Rocket Launcher"
+      }
+    ]
+  },
+  {
+    "id": "566162e44bdc2d3f298b4573",
+    "name": "Compound item",
+    "normalizedName": "compound-item",
+    "parent": {
+      "id": "54009119af1c881c07000029",
+      "name": "Item"
+    },
+    "children": [
+      {
+        "id": "5422acb9af1c889c16000029",
+        "name": "Weapon"
+      },
+      {
+        "id": "5448fe124bdc2da5018b4567",
+        "name": "Weapon mod"
+      },
+      {
+        "id": "566168634bdc2d144c8b456c",
+        "name": "Searchable item"
+      },
+      {
+        "id": "543be5f84bdc2dd4348b456a",
+        "name": "Equipment"
+      },
+      {
+        "id": "5671435f4bdc2d96058b4569",
+        "name": "Locking container"
+      },
+      {
+        "id": "5795f317245977243854e041",
+        "name": "Common container"
+      }
+    ]
+  },
+  {
+    "id": "54009119af1c881c07000029",
+    "name": "Item",
+    "normalizedName": "item",
+    "parent": null,
+    "children": [
+      {
+        "id": "566162e44bdc2d3f298b4573",
+        "name": "Compound item"
+      },
+      {
+        "id": "5661632d4bdc2d903d8b456b",
+        "name": "Stackable item"
+      },
+      {
+        "id": "543be5e94bdc2df1348b4568",
+        "name": "Key"
+      },
+      {
+        "id": "543be6564bdc2df4348b4568",
+        "name": "Throwable weapon"
+      },
+      {
+        "id": "543be6674bdc2df1348b4569",
+        "name": "Food and drink"
+      },
+      {
+        "id": "5447e1d04bdc2dff2f8b4567",
+        "name": "Knife"
+      },
+      {
+        "id": "543be5664bdc2dd4348b4569",
+        "name": "Meds"
+      },
+      {
+        "id": "5447e0e74bdc2d3c308b4567",
+        "name": "Special item"
+      },
+      {
+        "id": "5448eb774bdc2d0a728b4567",
+        "name": "Barter item"
+      },
+      {
+        "id": "567849dd4bdc2d150f8b456e",
+        "name": "Map"
+      },
+      {
+        "id": "5448ecbe4bdc2d60728b4568",
+        "name": "Info"
+      },
+      {
+        "id": "6759673c76e93d8eb20b2080",
+        "name": "Flyer"
+      },
+      {
+        "id": "664b81bfa322b5b99a037a03",
+        "name": "Completable"
+      }
+    ]
+  },
+  {
+    "id": "543be5cb4bdc2deb348b4568",
+    "name": "Ammo container",
+    "normalizedName": "ammo-container",
+    "children": [],
+    "parent": {
+      "id": "5661632d4bdc2d903d8b456b",
+      "name": "Stackable item"
+    }
+  },
+  {
+    "id": "5661632d4bdc2d903d8b456b",
+    "name": "Stackable item",
+    "normalizedName": "stackable-item",
+    "parent": {
+      "id": "54009119af1c881c07000029",
+      "name": "Item"
+    },
+    "children": [
+      {
+        "id": "543be5cb4bdc2deb348b4568",
+        "name": "Ammo container"
+      },
+      {
+        "id": "543be5dd4bdc2deb348b4569",
+        "name": "Money"
+      },
+      {
+        "id": "5485a8684bdc2da71d8b4567",
+        "name": "Ammo"
+      }
+    ]
+  },
+  {
+    "id": "5c99f98d86f7745c314214b3",
+    "name": "Mechanical Key",
+    "normalizedName": "mechanical-key",
+    "children": [],
+    "parent": {
+      "id": "543be5e94bdc2df1348b4568",
+      "name": "Key"
+    }
+  },
+  {
+    "id": "543be5e94bdc2df1348b4568",
+    "name": "Key",
+    "normalizedName": "key",
+    "parent": {
+      "id": "54009119af1c881c07000029",
+      "name": "Item"
+    },
+    "children": [
+      {
+        "id": "5c99f98d86f7745c314214b3",
+        "name": "Mechanical Key"
+      },
+      {
+        "id": "5c164d2286f774194c5e69fa",
+        "name": "Keycard"
+      }
+    ]
+  },
+  {
+    "id": "5447b5cf4bdc2d65278b4567",
+    "name": "Handgun",
+    "normalizedName": "handgun",
+    "children": [],
+    "parent": {
+      "id": "5422acb9af1c889c16000029",
+      "name": "Weapon"
+    }
+  },
+  {
+    "id": "543be6564bdc2df4348b4568",
+    "name": "Throwable weapon",
+    "normalizedName": "throwable-weapon",
+    "children": [],
+    "parent": {
+      "id": "54009119af1c881c07000029",
+      "name": "Item"
+    }
+  },
+  {
+    "id": "5448bc234bdc2d3c308b4569",
+    "name": "Magazine",
+    "normalizedName": "magazine",
+    "parent": {
+      "id": "55802f3e4bdc2de7118b4584",
+      "name": "Gear mod"
+    },
+    "children": [
+      {
+        "id": "610720f290b75a49ff2e5e25",
+        "name": "Cylinder Magazine"
+      }
+    ]
+  },
+  {
+    "id": "55802f3e4bdc2de7118b4584",
+    "name": "Gear mod",
+    "normalizedName": "gear-mod",
+    "parent": {
+      "id": "5448fe124bdc2da5018b4567",
+      "name": "Weapon mod"
+    },
+    "children": [
+      {
+        "id": "5448bc234bdc2d3c308b4569",
+        "name": "Magazine"
+      },
+      {
+        "id": "55818a6f4bdc2db9688b456b",
+        "name": "Charging handle"
+      },
+      {
+        "id": "55818b224bdc2dde698b456f",
+        "name": "Mount"
+      },
+      {
+        "id": "55818a594bdc2db9688b456a",
+        "name": "Stock"
+      },
+      {
+        "id": "55818b014bdc2ddc698b456b",
+        "name": "UBGL"
+      }
+    ]
+  },
+  {
+    "id": "5448fe124bdc2da5018b4567",
+    "name": "Weapon mod",
+    "normalizedName": "weapon-mod",
+    "parent": {
+      "id": "566162e44bdc2d3f298b4573",
+      "name": "Compound item"
+    },
+    "children": [
+      {
+        "id": "55802f3e4bdc2de7118b4584",
+        "name": "Gear mod"
+      },
+      {
+        "id": "550aa4154bdc2dd8348b456b",
+        "name": "Functional mod"
+      },
+      {
+        "id": "55802f4a4bdc2ddb688b4569",
+        "name": "Essential mod"
+      }
+    ]
+  },
+  {
+    "id": "5448e8d64bdc2dce718b4568",
+    "name": "Drink",
+    "normalizedName": "drink",
+    "children": [],
+    "parent": {
+      "id": "543be6674bdc2df1348b4569",
+      "name": "Food and drink"
+    }
+  },
+  {
+    "id": "543be6674bdc2df1348b4569",
+    "name": "Food and drink",
+    "normalizedName": "food-and-drink",
+    "parent": {
+      "id": "54009119af1c881c07000029",
+      "name": "Item"
+    },
+    "children": [
+      {
+        "id": "5448e8d64bdc2dce718b4568",
+        "name": "Drink"
+      },
+      {
+        "id": "5448e8d04bdc2ddf718b4569",
+        "name": "Food"
+      }
+    ]
+  },
+  {
+    "id": "5448e8d04bdc2ddf718b4569",
+    "name": "Food",
+    "normalizedName": "food",
+    "children": [],
+    "parent": {
+      "id": "543be6674bdc2df1348b4569",
+      "name": "Food and drink"
+    }
+  },
+  {
+    "id": "543be5dd4bdc2deb348b4569",
+    "name": "Money",
+    "normalizedName": "money",
+    "children": [],
+    "parent": {
+      "id": "5661632d4bdc2d903d8b456b",
+      "name": "Stackable item"
+    }
+  },
+  {
+    "id": "55818b164bdc2ddc698b456c",
+    "name": "Comb. tact. device",
+    "normalizedName": "comb-tact-device",
+    "children": [],
+    "parent": {
+      "id": "550aa4154bdc2dd8348b456b",
+      "name": "Functional mod"
+    }
+  },
+  {
+    "id": "550aa4154bdc2dd8348b456b",
+    "name": "Functional mod",
+    "normalizedName": "functional-mod",
+    "parent": {
+      "id": "5448fe124bdc2da5018b4567",
+      "name": "Weapon mod"
+    },
+    "children": [
+      {
+        "id": "55818b164bdc2ddc698b456c",
+        "name": "Comb. tact. device"
+      },
+      {
+        "id": "5448fe394bdc2d0d028b456c",
+        "name": "Muzzle device"
+      },
+      {
+        "id": "5448fe7a4bdc2d6f028b456b",
+        "name": "Sights"
+      },
+      {
+        "id": "55818af64bdc2d5b648b4570",
+        "name": "Foregrip"
+      },
+      {
+        "id": "5a74651486f7744e73386dd1",
+        "name": "Auxiliary Mod"
+      },
+      {
+        "id": "55818afb4bdc2dde698b456d",
+        "name": "Bipod"
+      },
+      {
+        "id": "56ea9461d2720b67698b456f",
+        "name": "Gas block"
+      },
+      {
+        "id": "55818b084bdc2d5b648b4571",
+        "name": "Flashlight"
+      }
+    ]
+  },
+  {
+    "id": "5447e1d04bdc2dff2f8b4567",
+    "name": "Knife",
+    "normalizedName": "knife",
+    "children": [],
+    "parent": {
+      "id": "54009119af1c881c07000029",
+      "name": "Item"
+    }
+  },
+  {
+    "id": "5447b6094bdc2dc3278b4567",
+    "name": "Shotgun",
+    "normalizedName": "shotgun",
+    "children": [],
+    "parent": {
+      "id": "5422acb9af1c889c16000029",
+      "name": "Weapon"
+    }
+  },
+  {
+    "id": "5448bf274bdc2dfc2f8b456a",
+    "name": "Port. container",
+    "normalizedName": "port-container",
+    "children": [],
+    "parent": {
+      "id": "566168634bdc2d144c8b456c",
+      "name": "Searchable item"
+    }
+  },
+  {
+    "id": "566168634bdc2d144c8b456c",
+    "name": "Searchable item",
+    "normalizedName": "searchable-item",
+    "parent": {
+      "id": "566162e44bdc2d3f298b4573",
+      "name": "Compound item"
+    },
+    "children": [
+      {
+        "id": "5448bf274bdc2dfc2f8b456a",
+        "name": "Port. container"
+      },
+      {
+        "id": "5448e5284bdc2dcb718b4567",
+        "name": "Chest rig"
+      },
+      {
+        "id": "5448e53e4bdc2d60728b4567",
+        "name": "Backpack"
+      },
+      {
+        "id": "62f109593b54472778797866",
+        "name": "Random Loot Container"
+      }
+    ]
+  },
+  {
+    "id": "550aa4bf4bdc2dd6348b456b",
+    "name": "Flashhider",
+    "normalizedName": "flashhider",
+    "children": [],
+    "parent": {
+      "id": "5448fe394bdc2d0d028b456c",
+      "name": "Muzzle device"
+    }
+  },
+  {
+    "id": "5448fe394bdc2d0d028b456c",
+    "name": "Muzzle device",
+    "normalizedName": "muzzle-device",
+    "parent": {
+      "id": "550aa4154bdc2dd8348b456b",
+      "name": "Functional mod"
+    },
+    "children": [
+      {
+        "id": "550aa4bf4bdc2dd6348b456b",
+        "name": "Flashhider"
+      },
+      {
+        "id": "550aa4cd4bdc2dd8348b456c",
+        "name": "Silencer"
+      },
+      {
+        "id": "550aa4dd4bdc2dc9348b4569",
+        "name": "Comb. muzzle device"
+      }
+    ]
+  },
+  {
+    "id": "55818add4bdc2d5b648b456f",
+    "name": "Assault scope",
+    "normalizedName": "assault-scope",
+    "children": [],
+    "parent": {
+      "id": "5448fe7a4bdc2d6f028b456b",
+      "name": "Sights"
+    }
+  },
+  {
+    "id": "5448fe7a4bdc2d6f028b456b",
+    "name": "Sights",
+    "normalizedName": "sights",
+    "parent": {
+      "id": "550aa4154bdc2dd8348b456b",
+      "name": "Functional mod"
+    },
+    "children": [
+      {
+        "id": "55818add4bdc2d5b648b456f",
+        "name": "Assault scope"
+      },
+      {
+        "id": "55818ad54bdc2ddc698b4569",
+        "name": "Reflex sight"
+      },
+      {
+        "id": "55818ac54bdc2d5b648b456e",
+        "name": "Ironsight"
+      },
+      {
+        "id": "55818ae44bdc2dde698b456c",
+        "name": "Scope"
+      },
+      {
+        "id": "55818aeb4bdc2ddc698b456a",
+        "name": "Special scope"
+      },
+      {
+        "id": "55818acf4bdc2dde698b456b",
+        "name": "Compact reflex sight"
+      }
+    ]
+  },
+  {
+    "id": "5448e5284bdc2dcb718b4567",
+    "name": "Chest rig",
+    "normalizedName": "chest-rig",
+    "children": [],
+    "parent": {
+      "id": "566168634bdc2d144c8b456c",
+      "name": "Searchable item"
+    }
+  },
+  {
+    "id": "5448e53e4bdc2d60728b4567",
+    "name": "Backpack",
+    "normalizedName": "backpack",
+    "children": [],
+    "parent": {
+      "id": "566168634bdc2d144c8b456c",
+      "name": "Searchable item"
+    }
+  },
+  {
+    "id": "5448f3ac4bdc2dce718b4569",
+    "name": "Medical item",
+    "normalizedName": "medical-item",
+    "children": [],
+    "parent": {
+      "id": "543be5664bdc2dd4348b4569",
+      "name": "Meds"
+    }
+  },
+  {
+    "id": "543be5664bdc2dd4348b4569",
+    "name": "Meds",
+    "normalizedName": "meds",
+    "parent": {
+      "id": "54009119af1c881c07000029",
+      "name": "Item"
+    },
+    "children": [
+      {
+        "id": "5448f3ac4bdc2dce718b4569",
+        "name": "Medical item"
+      },
+      {
+        "id": "5448f3a14bdc2d27728b4569",
+        "name": "Drug"
+      },
+      {
+        "id": "5448f39d4bdc2d0a728b4568",
+        "name": "Medikit"
+      },
+      {
+        "id": "5448f3a64bdc2d60728b456a",
+        "name": "Stimulant"
+      }
+    ]
+  },
+  {
+    "id": "5448f3a14bdc2d27728b4569",
+    "name": "Drug",
+    "normalizedName": "drug",
+    "children": [],
+    "parent": {
+      "id": "543be5664bdc2dd4348b4569",
+      "name": "Meds"
+    }
+  },
+  {
+    "id": "5448f39d4bdc2d0a728b4568",
+    "name": "Medikit",
+    "normalizedName": "medikit",
+    "children": [],
+    "parent": {
+      "id": "543be5664bdc2dd4348b4569",
+      "name": "Meds"
+    }
+  },
+  {
+    "id": "66abb0743f4d8b145b1612c1",
+    "name": "Multitools",
+    "normalizedName": "multitools",
+    "children": [],
+    "parent": {
+      "id": "5447e0e74bdc2d3c308b4567",
+      "name": "Special item"
+    }
+  },
+  {
+    "id": "5447e0e74bdc2d3c308b4567",
+    "name": "Special item",
+    "normalizedName": "special-item",
+    "parent": {
+      "id": "54009119af1c881c07000029",
+      "name": "Item"
+    },
+    "children": [
+      {
+        "id": "66abb0743f4d8b145b1612c1",
+        "name": "Multitools"
+      },
+      {
+        "id": "616eb7aea207f41933308f46",
+        "name": "Repair Kits"
+      },
+      {
+        "id": "5f4fbaaca5573a5ac31db429",
+        "name": "Compass"
+      },
+      {
+        "id": "61605ddea09d851a0a0c1bbc",
+        "name": "Portable Range Finder"
+      },
+      {
+        "id": "62e9103049c018f425059f38",
+        "name": "Radio Transmitter"
+      },
+      {
+        "id": "64b69b0c8f3be32ed22682f8",
+        "name": "Cultist Amulet"
+      },
+      {
+        "id": "650afb5c1b1a473fcb3a7d55",
+        "name": "Recorder"
+      },
+      {
+        "id": "65ddcc7aef36f6413d0829b9",
+        "name": "Mark of the Unheard"
+      },
+      {
+        "id": "6672e40ebb23210ae87d39eb",
+        "name": "Planting Kits"
+      }
+    ]
+  },
+  {
+    "id": "5485a8684bdc2da71d8b4567",
+    "name": "Ammo",
+    "normalizedName": "ammo",
+    "parent": {
+      "id": "5661632d4bdc2d903d8b456b",
+      "name": "Stackable item"
+    },
+    "children": [
+      {
+        "id": "677ae5df4be46b83620bf055",
+        "name": "Rocket"
+      }
+    ]
+  },
+  {
+    "id": "5448e54d4bdc2dcc718b4568",
+    "name": "Armor",
+    "normalizedName": "armor",
+    "children": [],
+    "parent": {
+      "id": "57bef4c42459772e8d35a53b",
+      "name": "Armored equipment"
+    }
+  },
+  {
+    "id": "57bef4c42459772e8d35a53b",
+    "name": "Armored equipment",
+    "normalizedName": "armored-equipment",
+    "parent": {
+      "id": "543be5f84bdc2dd4348b456a",
+      "name": "Equipment"
+    },
+    "children": [
+      {
+        "id": "5448e54d4bdc2dcc718b4568",
+        "name": "Armor"
+      },
+      {
+        "id": "5448e5724bdc2ddf718b4568",
+        "name": "Vis. observ. device"
+      },
+      {
+        "id": "5a341c4086f77401f2541505",
+        "name": "Headwear"
+      },
+      {
+        "id": "5a341c4686f77469e155819e",
+        "name": "Face Cover"
+      },
+      {
+        "id": "644120aa86ffbe10ee032b6f",
+        "name": "Armor Plate"
+      }
+    ]
+  },
+  {
+    "id": "543be5f84bdc2dd4348b456a",
+    "name": "Equipment",
+    "normalizedName": "equipment",
+    "parent": {
+      "id": "566162e44bdc2d3f298b4573",
+      "name": "Compound item"
+    },
+    "children": [
+      {
+        "id": "57bef4c42459772e8d35a53b",
+        "name": "Armored equipment"
+      },
+      {
+        "id": "5645bcb74bdc2ded0b8b4578",
+        "name": "Headphones"
+      },
+      {
+        "id": "5b3f15d486f77432d0509248",
+        "name": "Arm Band"
+      }
+    ]
+  },
+  {
+    "id": "5448e5724bdc2ddf718b4568",
+    "name": "Vis. observ. device",
+    "normalizedName": "vis-observ-device",
+    "children": [],
+    "parent": {
+      "id": "57bef4c42459772e8d35a53b",
+      "name": "Armored equipment"
+    }
+  },
+  {
+    "id": "555ef6e44bdc2de9068b457e",
+    "name": "Barrel",
+    "normalizedName": "barrel",
+    "children": [],
+    "parent": {
+      "id": "55802f4a4bdc2ddb688b4569",
+      "name": "Essential mod"
+    }
+  },
+  {
+    "id": "55802f4a4bdc2ddb688b4569",
+    "name": "Essential mod",
+    "normalizedName": "essential-mod",
+    "parent": {
+      "id": "5448fe124bdc2da5018b4567",
+      "name": "Weapon mod"
+    },
+    "children": [
+      {
+        "id": "555ef6e44bdc2de9068b457e",
+        "name": "Barrel"
+      },
+      {
+        "id": "55818a684bdc2ddd698b456d",
+        "name": "Pistol grip"
+      },
+      {
+        "id": "55818a304bdc2db5418b457d",
+        "name": "Receiver"
+      },
+      {
+        "id": "55818a104bdc2db9688b4569",
+        "name": "Handguard"
+      }
+    ]
+  },
+  {
+    "id": "5447b6254bdc2dc3278b4568",
+    "name": "Sniper rifle",
+    "normalizedName": "sniper-rifle",
+    "children": [],
+    "parent": {
+      "id": "5422acb9af1c889c16000029",
+      "name": "Weapon"
+    }
+  },
+  {
+    "id": "55818ad54bdc2ddc698b4569",
+    "name": "Reflex sight",
+    "normalizedName": "reflex-sight",
+    "children": [],
+    "parent": {
+      "id": "5448fe7a4bdc2d6f028b456b",
+      "name": "Sights"
+    }
+  },
+  {
+    "id": "55818a684bdc2ddd698b456d",
+    "name": "Pistol grip",
+    "normalizedName": "pistol-grip",
+    "children": [],
+    "parent": {
+      "id": "55802f4a4bdc2ddb688b4569",
+      "name": "Essential mod"
+    }
+  },
+  {
+    "id": "55818af64bdc2d5b648b4570",
+    "name": "Foregrip",
+    "normalizedName": "foregrip",
+    "children": [],
+    "parent": {
+      "id": "550aa4154bdc2dd8348b456b",
+      "name": "Functional mod"
+    }
+  },
+  {
+    "id": "55818a304bdc2db5418b457d",
+    "name": "Receiver",
+    "normalizedName": "receiver",
+    "children": [],
+    "parent": {
+      "id": "55802f4a4bdc2ddb688b4569",
+      "name": "Essential mod"
+    }
+  },
+  {
+    "id": "55818a6f4bdc2db9688b456b",
+    "name": "Charging handle",
+    "normalizedName": "charging-handle",
+    "children": [],
+    "parent": {
+      "id": "55802f3e4bdc2de7118b4584",
+      "name": "Gear mod"
+    }
+  },
+  {
+    "id": "55818a104bdc2db9688b4569",
+    "name": "Handguard",
+    "normalizedName": "handguard",
+    "children": [],
+    "parent": {
+      "id": "55802f4a4bdc2ddb688b4569",
+      "name": "Essential mod"
+    }
+  },
+  {
+    "id": "55818b224bdc2dde698b456f",
+    "name": "Mount",
+    "normalizedName": "mount",
+    "children": [],
+    "parent": {
+      "id": "55802f3e4bdc2de7118b4584",
+      "name": "Gear mod"
+    }
+  },
+  {
+    "id": "55818a594bdc2db9688b456a",
+    "name": "Stock",
+    "normalizedName": "stock",
+    "children": [],
+    "parent": {
+      "id": "55802f3e4bdc2de7118b4584",
+      "name": "Gear mod"
+    }
+  },
+  {
+    "id": "55818ac54bdc2d5b648b456e",
+    "name": "Ironsight",
+    "normalizedName": "ironsight",
+    "children": [],
+    "parent": {
+      "id": "5448fe7a4bdc2d6f028b456b",
+      "name": "Sights"
+    }
+  },
+  {
+    "id": "550aa4cd4bdc2dd8348b456c",
+    "name": "Silencer",
+    "normalizedName": "silencer",
+    "children": [],
+    "parent": {
+      "id": "5448fe394bdc2d0d028b456c",
+      "name": "Muzzle device"
+    }
+  },
+  {
+    "id": "550aa4dd4bdc2dc9348b4569",
+    "name": "Comb. muzzle device",
+    "normalizedName": "comb-muzzle-device",
+    "children": [],
+    "parent": {
+      "id": "5448fe394bdc2d0d028b456c",
+      "name": "Muzzle device"
+    }
+  },
+  {
+    "id": "5a74651486f7744e73386dd1",
+    "name": "Auxiliary Mod",
+    "normalizedName": "auxiliary-mod",
+    "children": [],
+    "parent": {
+      "id": "550aa4154bdc2dd8348b456b",
+      "name": "Functional mod"
+    }
+  },
+  {
+    "id": "5a341c4086f77401f2541505",
+    "name": "Headwear",
+    "normalizedName": "headwear",
+    "children": [],
+    "parent": {
+      "id": "57bef4c42459772e8d35a53b",
+      "name": "Armored equipment"
+    }
+  },
+  {
+    "id": "5645bcb74bdc2ded0b8b4578",
+    "name": "Headphones",
+    "normalizedName": "headphones",
+    "children": [],
+    "parent": {
+      "id": "543be5f84bdc2dd4348b456a",
+      "name": "Equipment"
+    }
+  },
+  {
+    "id": "5671435f4bdc2d96058b4569",
+    "name": "Locking container",
+    "normalizedName": "locking-container",
+    "children": [],
+    "parent": {
+      "id": "566162e44bdc2d3f298b4573",
+      "name": "Compound item"
+    }
+  },
+  {
+    "id": "57864ee62459775490116fc1",
+    "name": "Battery",
+    "normalizedName": "battery",
+    "children": [],
+    "parent": {
+      "id": "5448eb774bdc2d0a728b4567",
+      "name": "Barter item"
+    }
+  },
+  {
+    "id": "5448eb774bdc2d0a728b4567",
+    "name": "Barter item",
+    "normalizedName": "barter-item",
+    "parent": {
+      "id": "54009119af1c881c07000029",
+      "name": "Item"
+    },
+    "children": [
+      {
+        "id": "57864ee62459775490116fc1",
+        "name": "Battery"
+      },
+      {
+        "id": "57864a66245977548f04a81f",
+        "name": "Electronics"
+      },
+      {
+        "id": "57864e4c24597754843f8723",
+        "name": "Lubricant"
+      },
+      {
+        "id": "57864a3d24597754843f8721",
+        "name": "Jewelry"
+      },
+      {
+        "id": "590c745b86f7743cc433c5f2",
+        "name": "Other"
+      },
+      {
+        "id": "57864ada245977548638de91",
+        "name": "Building material"
+      },
+      {
+        "id": "57864c322459775490116fbf",
+        "name": "Household goods"
+      },
+      {
+        "id": "57864bb7245977548b3b66c2",
+        "name": "Tool"
+      },
+      {
+        "id": "57864c8c245977548867e7f1",
+        "name": "Medical supplies"
+      }
+    ]
+  },
+  {
+    "id": "57864a66245977548f04a81f",
+    "name": "Electronics",
+    "normalizedName": "electronics",
+    "children": [],
+    "parent": {
+      "id": "5448eb774bdc2d0a728b4567",
+      "name": "Barter item"
+    }
+  },
+  {
+    "id": "57864e4c24597754843f8723",
+    "name": "Lubricant",
+    "normalizedName": "lubricant",
+    "parent": {
+      "id": "5448eb774bdc2d0a728b4567",
+      "name": "Barter item"
+    },
+    "children": [
+      {
+        "id": "5d650c3e815116009f6201d2",
+        "name": "Fuel"
+      }
+    ]
+  },
+  {
+    "id": "55818ae44bdc2dde698b456c",
+    "name": "Scope",
+    "normalizedName": "scope",
+    "children": [],
+    "parent": {
+      "id": "5448fe7a4bdc2d6f028b456b",
+      "name": "Sights"
+    }
+  },
+  {
+    "id": "55818afb4bdc2dde698b456d",
+    "name": "Bipod",
+    "normalizedName": "bipod",
+    "children": [],
+    "parent": {
+      "id": "550aa4154bdc2dd8348b456b",
+      "name": "Functional mod"
+    }
+  },
+  {
+    "id": "56ea9461d2720b67698b456f",
+    "name": "Gas block",
+    "normalizedName": "gas-block",
+    "children": [],
+    "parent": {
+      "id": "550aa4154bdc2dd8348b456b",
+      "name": "Functional mod"
+    }
+  },
+  {
+    "id": "5a2c3a9486f774688b05e574",
+    "name": "Night Vision",
+    "normalizedName": "night-vision",
+    "children": [],
+    "parent": {
+      "id": "55818aeb4bdc2ddc698b456a",
+      "name": "Special scope"
+    }
+  },
+  {
+    "id": "55818aeb4bdc2ddc698b456a",
+    "name": "Special scope",
+    "normalizedName": "special-scope",
+    "parent": {
+      "id": "5448fe7a4bdc2d6f028b456b",
+      "name": "Sights"
+    },
+    "children": [
+      {
+        "id": "5a2c3a9486f774688b05e574",
+        "name": "Night Vision"
+      },
+      {
+        "id": "5d21f59b6dbe99052b54ef83",
+        "name": "Thermal Vision"
+      }
+    ]
+  },
+  {
+    "id": "5a341c4686f77469e155819e",
+    "name": "Face Cover",
+    "normalizedName": "face-cover",
+    "children": [],
+    "parent": {
+      "id": "57bef4c42459772e8d35a53b",
+      "name": "Armored equipment"
+    }
+  },
+  {
+    "id": "57864a3d24597754843f8721",
+    "name": "Jewelry",
+    "normalizedName": "jewelry",
+    "children": [],
+    "parent": {
+      "id": "5448eb774bdc2d0a728b4567",
+      "name": "Barter item"
+    }
+  },
+  {
+    "id": "590c745b86f7743cc433c5f2",
+    "name": "Other",
+    "normalizedName": "other",
+    "children": [],
+    "parent": {
+      "id": "5448eb774bdc2d0a728b4567",
+      "name": "Barter item"
+    }
+  },
+  {
+    "id": "57864ada245977548638de91",
+    "name": "Building material",
+    "normalizedName": "building-material",
+    "children": [],
+    "parent": {
+      "id": "5448eb774bdc2d0a728b4567",
+      "name": "Barter item"
+    }
+  },
+  {
+    "id": "57864c322459775490116fbf",
+    "name": "Household goods",
+    "normalizedName": "household-goods",
+    "children": [],
+    "parent": {
+      "id": "5448eb774bdc2d0a728b4567",
+      "name": "Barter item"
+    }
+  },
+  {
+    "id": "5447b5fc4bdc2d87278b4567",
+    "name": "Assault carbine",
+    "normalizedName": "assault-carbine",
+    "children": [],
+    "parent": {
+      "id": "5422acb9af1c889c16000029",
+      "name": "Weapon"
+    }
+  },
+  {
+    "id": "567849dd4bdc2d150f8b456e",
+    "name": "Map",
+    "normalizedName": "map",
+    "children": [],
+    "parent": {
+      "id": "54009119af1c881c07000029",
+      "name": "Item"
+    }
+  },
+  {
+    "id": "55818acf4bdc2dde698b456b",
+    "name": "Compact reflex sight",
+    "normalizedName": "compact-reflex-sight",
+    "children": [],
+    "parent": {
+      "id": "5448fe7a4bdc2d6f028b456b",
+      "name": "Sights"
+    }
+  },
+  {
+    "id": "5447b6194bdc2d67278b4567",
+    "name": "Marksman rifle",
+    "normalizedName": "marksman-rifle",
+    "children": [],
+    "parent": {
+      "id": "5422acb9af1c889c16000029",
+      "name": "Weapon"
+    }
+  },
+  {
+    "id": "5795f317245977243854e041",
+    "name": "Common container",
+    "normalizedName": "common-container",
+    "children": [],
+    "parent": {
+      "id": "566162e44bdc2d3f298b4573",
+      "name": "Compound item"
+    }
+  },
+  {
+    "id": "5447b5e04bdc2d62278b4567",
+    "name": "SMG",
+    "normalizedName": "smg",
+    "children": [],
+    "parent": {
+      "id": "5422acb9af1c889c16000029",
+      "name": "Weapon"
+    }
+  },
+  {
+    "id": "55818b084bdc2d5b648b4571",
+    "name": "Flashlight",
+    "normalizedName": "flashlight",
+    "children": [],
+    "parent": {
+      "id": "550aa4154bdc2dd8348b456b",
+      "name": "Functional mod"
+    }
+  },
+  {
+    "id": "57864bb7245977548b3b66c2",
+    "name": "Tool",
+    "normalizedName": "tool",
+    "children": [],
+    "parent": {
+      "id": "5448eb774bdc2d0a728b4567",
+      "name": "Barter item"
+    }
+  },
+  {
+    "id": "5448ecbe4bdc2d60728b4568",
+    "name": "Info",
+    "normalizedName": "info",
+    "parent": {
+      "id": "54009119af1c881c07000029",
+      "name": "Item"
+    },
+    "children": [
+      {
+        "id": "684070bd2f743ae53b0b80ec",
+        "name": "Dialog Item"
+      }
+    ]
+  },
+  {
+    "id": "616eb7aea207f41933308f46",
+    "name": "Repair Kits",
+    "normalizedName": "repair-kits",
+    "children": [],
+    "parent": {
+      "id": "5447e0e74bdc2d3c308b4567",
+      "name": "Special item"
+    }
+  },
+  {
+    "id": "57864c8c245977548867e7f1",
+    "name": "Medical supplies",
+    "normalizedName": "medical-supplies",
+    "children": [],
+    "parent": {
+      "id": "5448eb774bdc2d0a728b4567",
+      "name": "Barter item"
+    }
+  },
+  {
+    "id": "5b3f15d486f77432d0509248",
+    "name": "Arm Band",
+    "normalizedName": "arm-band",
+    "children": [],
+    "parent": {
+      "id": "543be5f84bdc2dd4348b456a",
+      "name": "Equipment"
+    }
+  },
+  {
+    "id": "5447bed64bdc2d97278b4568",
+    "name": "Machinegun",
+    "normalizedName": "machinegun",
+    "children": [],
+    "parent": {
+      "id": "5422acb9af1c889c16000029",
+      "name": "Weapon"
+    }
+  },
+  {
+    "id": "5448f3a64bdc2d60728b456a",
+    "name": "Stimulant",
+    "normalizedName": "stimulant",
+    "children": [],
+    "parent": {
+      "id": "543be5664bdc2dd4348b4569",
+      "name": "Meds"
+    }
+  },
+  {
+    "id": "5d21f59b6dbe99052b54ef83",
+    "name": "Thermal Vision",
+    "normalizedName": "thermal-vision",
+    "children": [],
+    "parent": {
+      "id": "55818aeb4bdc2ddc698b456a",
+      "name": "Special scope"
+    }
+  },
+  {
+    "id": "5c164d2286f774194c5e69fa",
+    "name": "Keycard",
+    "normalizedName": "keycard",
+    "children": [],
+    "parent": {
+      "id": "543be5e94bdc2df1348b4568",
+      "name": "Key"
+    }
+  },
+  {
+    "id": "5d650c3e815116009f6201d2",
+    "name": "Fuel",
+    "normalizedName": "fuel",
+    "children": [],
+    "parent": {
+      "id": "57864e4c24597754843f8723",
+      "name": "Lubricant"
+    }
+  },
+  {
+    "id": "5447bedf4bdc2d87278b4568",
+    "name": "Grenade launcher",
+    "normalizedName": "grenade-launcher",
+    "children": [],
+    "parent": {
+      "id": "5422acb9af1c889c16000029",
+      "name": "Weapon"
+    }
+  },
+  {
+    "id": "5f4fbaaca5573a5ac31db429",
+    "name": "Compass",
+    "normalizedName": "compass",
+    "children": [],
+    "parent": {
+      "id": "5447e0e74bdc2d3c308b4567",
+      "name": "Special item"
+    }
+  },
+  {
+    "id": "617f1ef5e8b54b0998387733",
+    "name": "Revolver",
+    "normalizedName": "revolver",
+    "children": [],
+    "parent": {
+      "id": "5422acb9af1c889c16000029",
+      "name": "Weapon"
+    }
+  },
+  {
+    "id": "610720f290b75a49ff2e5e25",
+    "name": "Cylinder Magazine",
+    "normalizedName": "cylinder-magazine",
+    "parent": {
+      "id": "5448bc234bdc2d3c308b4569",
+      "name": "Magazine"
+    },
+    "children": [
+      {
+        "id": "627a137bf21bc425b06ab944",
+        "name": "Spring Driven Cylinder"
+      }
+    ]
+  },
+  {
+    "id": "61605ddea09d851a0a0c1bbc",
+    "name": "Portable Range Finder",
+    "normalizedName": "portable-range-finder",
+    "children": [],
+    "parent": {
+      "id": "5447e0e74bdc2d3c308b4567",
+      "name": "Special item"
+    }
+  },
+  {
+    "id": "627a137bf21bc425b06ab944",
+    "name": "Spring Driven Cylinder",
+    "normalizedName": "spring-driven-cylinder",
+    "children": [],
+    "parent": {
+      "id": "610720f290b75a49ff2e5e25",
+      "name": "Cylinder Magazine"
+    }
+  },
+  {
+    "id": "55818b014bdc2ddc698b456b",
+    "name": "UBGL",
+    "normalizedName": "ubgl",
+    "children": [],
+    "parent": {
+      "id": "55802f3e4bdc2de7118b4584",
+      "name": "Gear mod"
+    }
+  },
+  {
+    "id": "62e9103049c018f425059f38",
+    "name": "Radio Transmitter",
+    "normalizedName": "radio-transmitter",
+    "children": [],
+    "parent": {
+      "id": "5447e0e74bdc2d3c308b4567",
+      "name": "Special item"
+    }
+  },
+  {
+    "id": "62f109593b54472778797866",
+    "name": "Random Loot Container",
+    "normalizedName": "random-loot-container",
+    "children": [],
+    "parent": {
+      "id": "566168634bdc2d144c8b456c",
+      "name": "Searchable item"
+    }
+  },
+  {
+    "id": "644120aa86ffbe10ee032b6f",
+    "name": "Armor Plate",
+    "normalizedName": "armor-plate",
+    "children": [],
+    "parent": {
+      "id": "57bef4c42459772e8d35a53b",
+      "name": "Armored equipment"
+    }
+  },
+  {
+    "id": "64b69b0c8f3be32ed22682f8",
+    "name": "Cultist Amulet",
+    "normalizedName": "cultist-amulet",
+    "children": [],
+    "parent": {
+      "id": "5447e0e74bdc2d3c308b4567",
+      "name": "Special item"
+    }
+  },
+  {
+    "id": "650afb5c1b1a473fcb3a7d55",
+    "name": "Recorder",
+    "normalizedName": "recorder",
+    "children": [],
+    "parent": {
+      "id": "5447e0e74bdc2d3c308b4567",
+      "name": "Special item"
+    }
+  },
+  {
+    "id": "65ddcc7aef36f6413d0829b9",
+    "name": "Mark of the Unheard",
+    "normalizedName": "mark-of-the-unheard",
+    "children": [],
+    "parent": {
+      "id": "5447e0e74bdc2d3c308b4567",
+      "name": "Special item"
+    }
+  },
+  {
+    "id": "6672e40ebb23210ae87d39eb",
+    "name": "Planting Kits",
+    "normalizedName": "planting-kits",
+    "children": [],
+    "parent": {
+      "id": "5447e0e74bdc2d3c308b4567",
+      "name": "Special item"
+    }
+  },
+  {
+    "id": "677ae5df4be46b83620bf055",
+    "name": "Rocket",
+    "normalizedName": "rocket",
+    "children": [],
+    "parent": {
+      "id": "5485a8684bdc2da71d8b4567",
+      "name": "Ammo"
+    }
+  },
+  {
+    "id": "6759673c76e93d8eb20b2080",
+    "name": "Flyer",
+    "normalizedName": "flyer",
+    "children": [],
+    "parent": {
+      "id": "54009119af1c881c07000029",
+      "name": "Item"
+    }
+  },
+  {
+    "id": "67446d4f04141c10630604e7",
+    "name": "Rocket Launcher",
+    "normalizedName": "rocket-launcher",
+    "children": [],
+    "parent": {
+      "id": "5422acb9af1c889c16000029",
+      "name": "Weapon"
+    }
+  },
+  {
+    "id": "6516b0f21e733a595c1016fb",
+    "name": "Tapes",
+    "normalizedName": "tapes",
+    "children": [],
+    "parent": {
+      "id": "664b81bfa322b5b99a037a03",
+      "name": "Completable"
+    }
+  },
+  {
+    "id": "664b81bfa322b5b99a037a03",
+    "name": "Completable",
+    "normalizedName": "completable",
+    "parent": {
+      "id": "54009119af1c881c07000029",
+      "name": "Item"
+    },
+    "children": [
+      {
+        "id": "6516b0f21e733a595c1016fb",
+        "name": "Tapes"
+      },
+      {
+        "id": "67a27459e3515dec4105927b",
+        "name": "Notes"
+      }
+    ]
+  },
+  {
+    "id": "684070bd2f743ae53b0b80ec",
+    "name": "Dialog Item",
+    "normalizedName": "dialog-item",
+    "children": [],
+    "parent": {
+      "id": "5448ecbe4bdc2d60728b4568",
+      "name": "Info"
+    }
+  },
+  {
+    "id": "67a27459e3515dec4105927b",
+    "name": "Notes",
+    "normalizedName": "notes",
+    "children": [],
+    "parent": {
+      "id": "664b81bfa322b5b99a037a03",
+      "name": "Completable"
+    }
+  }
+]

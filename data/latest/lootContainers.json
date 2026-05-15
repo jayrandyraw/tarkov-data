@@ -1,0 +1,217 @@
+[
+  {
+    "id": "578f87a3245977356274f2cb",
+    "name": "Duffle bag",
+    "normalizedName": "duffle-bag"
+  },
+  {
+    "id": "578f8778245977358849a9b5",
+    "name": "Jacket",
+    "normalizedName": "jacket"
+  },
+  {
+    "id": "6582e6d7b14c3f72eb071420",
+    "name": "PMC body",
+    "normalizedName": "pmc-body"
+  },
+  {
+    "id": "5909e4b686f7747f5b744fa4",
+    "name": "Dead Scav",
+    "normalizedName": "dead-scav"
+  },
+  {
+    "id": "578f87ad245977356274f2cc",
+    "name": "Wooden crate",
+    "normalizedName": "wooden-crate"
+  },
+  {
+    "id": "5909d36d86f774660f0bb900",
+    "name": "Grenade box",
+    "normalizedName": "grenade-box"
+  },
+  {
+    "id": "5909d24f86f77466f56e6855",
+    "name": "Medbag SMU06",
+    "normalizedName": "medbag-smu06"
+  },
+  {
+    "id": "5909d50c86f774659e6aaebe",
+    "name": "Toolbox",
+    "normalizedName": "toolbox"
+  },
+  {
+    "id": "5909d76c86f77471e53d2adf",
+    "name": "Weapon box",
+    "normalizedName": "weapon-box"
+  },
+  {
+    "id": "5909d5ef86f77467974efbd8",
+    "name": "Weapon box",
+    "normalizedName": "weapon-box"
+  },
+  {
+    "id": "66acff0a1d8e1083b303f5af",
+    "name": "Bank safe",
+    "normalizedName": "bank-safe"
+  },
+  {
+    "id": "578f87b7245977356274f2cd",
+    "name": "Drawer",
+    "normalizedName": "drawer"
+  },
+  {
+    "id": "5d6fd45b86f774317075ed43",
+    "name": "Technical supply crate",
+    "normalizedName": "technical-supply-crate"
+  },
+  {
+    "id": "578f8782245977354405a1e3",
+    "name": "Safe",
+    "normalizedName": "safe"
+  },
+  {
+    "id": "5909d7cf86f77470ee57d75a",
+    "name": "Weapon box",
+    "normalizedName": "weapon-box"
+  },
+  {
+    "id": "5d6fe50986f77449d97f7463",
+    "name": "Medical supply crate",
+    "normalizedName": "medical-supply-crate"
+  },
+  {
+    "id": "59139c2186f77411564f8e42",
+    "name": "PC block",
+    "normalizedName": "pc-block"
+  },
+  {
+    "id": "59387ac686f77401442ddd61",
+    "name": "Jacket",
+    "normalizedName": "jacket"
+  },
+  {
+    "id": "5914944186f774189e5e76c2",
+    "name": "Jacket",
+    "normalizedName": "jacket"
+  },
+  {
+    "id": "5909d4c186f7746ad34e805a",
+    "name": "Medcase",
+    "normalizedName": "medcase"
+  },
+  {
+    "id": "5909d89086f77472591234a0",
+    "name": "Weapon box",
+    "normalizedName": "weapon-box"
+  },
+  {
+    "id": "5909d45286f77465a8136dc6",
+    "name": "Wooden ammo box",
+    "normalizedName": "wooden-ammo-box"
+  },
+  {
+    "id": "5d6d2b5486f774785c2ba8ea",
+    "name": "Ground cache",
+    "normalizedName": "ground-cache"
+  },
+  {
+    "id": "578f879c24597735401e6bc6",
+    "name": "Cash register",
+    "normalizedName": "cash-register"
+  },
+  {
+    "id": "5d6fd13186f77424ad2a8c69",
+    "name": "Ration supply crate",
+    "normalizedName": "ration-supply-crate"
+  },
+  {
+    "id": "5d6d2bb386f774785b07a77a",
+    "name": "Buried barrel cache",
+    "normalizedName": "buried-barrel-cache"
+  },
+  {
+    "id": "5937ef2b86f77408a47244b3",
+    "name": "Jacket",
+    "normalizedName": "jacket"
+  },
+  {
+    "id": "658420d8085fea07e674cdb6",
+    "name": "Civilian body",
+    "normalizedName": "civilian-body"
+  },
+  {
+    "id": "5d07b91b86f7745a077a9432",
+    "name": "Shturman's Stash",
+    "normalizedName": "shturmans-stash"
+  },
+  {
+    "id": "61aa1ead84ea0800645777fd",
+    "name": "Medbag SMU06",
+    "normalizedName": "medbag-smu06"
+  },
+  {
+    "id": "5c052cea86f7746b2101e8d8",
+    "name": "Plastic suitcase",
+    "normalizedName": "plastic-suitcase"
+  },
+  {
+    "id": "61aa1e9a32a4743c3453d2cf",
+    "name": "Duffle bag",
+    "normalizedName": "duffle-bag"
+  },
+  {
+    "id": "64d11702dd0cd96ab82c3280",
+    "name": "Bank safe",
+    "normalizedName": "bank-safe"
+  },
+  {
+    "id": "64d116f41a9c6143a956127d",
+    "name": "Bank cash register",
+    "normalizedName": "bank-cash-register"
+  },
+  {
+    "id": "6582e6bb0c3b9823fe6d1840",
+    "name": "Scav body",
+    "normalizedName": "scav-body"
+  },
+  {
+    "id": "6582e6c6edf14c4c6023adf2",
+    "name": "Lab technician body",
+    "normalizedName": "lab-technician-body"
+  },
+  {
+    "id": "67adf4eb110ba15da90c6413",
+    "name": "Grenade box",
+    "normalizedName": "grenade-box"
+  },
+  {
+    "id": "67adf4a95247ac91530fcec7",
+    "name": "Jacket",
+    "normalizedName": "jacket"
+  },
+  {
+    "id": "67adf4db515e3dd542077a1d",
+    "name": "Wooden crate",
+    "normalizedName": "wooden-crate"
+  },
+  {
+    "id": "67adf54d1c58bd68b2002ff0",
+    "name": "Toolbox",
+    "normalizedName": "toolbox"
+  },
+  {
+    "id": "67adf5752fc5ee84020a9940",
+    "name": "Dead Scav",
+    "normalizedName": "dead-scav"
+  },
+  {
+    "id": "67adf4b81c58bd68b2002fec",
+    "name": "Wooden ammo box",
+    "normalizedName": "wooden-ammo-box"
+  },
+  {
+    "id": "67adf5f7adc1f43b0702b826",
+    "name": "Technical supply crate",
+    "normalizedName": "technical-supply-crate"
+  }
+]

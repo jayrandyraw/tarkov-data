@@ -1,0 +1,1144 @@
+[
+  {
+    "id": "5b5f78fc86f77409407a7f90",
+    "name": "Assault rifles",
+    "normalizedName": "assault-rifles",
+    "children": [],
+    "parent": {
+      "id": "5b5f78dc86f77409407a7f8e",
+      "name": "Weapons"
+    }
+  },
+  {
+    "id": "5b5f78dc86f77409407a7f8e",
+    "name": "Weapons",
+    "normalizedName": "weapons",
+    "parent": null,
+    "children": [
+      {
+        "id": "5b5f78fc86f77409407a7f90",
+        "name": "Assault rifles"
+      },
+      {
+        "id": "5b5f792486f77447ed5636b3",
+        "name": "Pistols"
+      },
+      {
+        "id": "5b5f7a2386f774093f2ed3c4",
+        "name": "Throwables"
+      },
+      {
+        "id": "5b5f7a0886f77409407a7f96",
+        "name": "Melee weapons"
+      },
+      {
+        "id": "5b5f794b86f77409407a7f92",
+        "name": "Shotguns"
+      },
+      {
+        "id": "5b5f798886f77447ed5636b5",
+        "name": "Bolt-action rifles"
+      },
+      {
+        "id": "5b5f78e986f77447ed5636b1",
+        "name": "Assault carbines"
+      },
+      {
+        "id": "5b5f791486f774093f2ed3be",
+        "name": "Marksman rifles"
+      },
+      {
+        "id": "5b5f796a86f774093f2ed3c0",
+        "name": "Submachine guns"
+      },
+      {
+        "id": "5b5f79a486f77409407a7f94",
+        "name": "Machine guns"
+      },
+      {
+        "id": "5b5f79d186f774093f2ed3c2",
+        "name": "Grenade launchers"
+      },
+      {
+        "id": "5b5f79eb86f77447ed5636b7",
+        "name": "Special weapons"
+      }
+    ]
+  },
+  {
+    "id": "5b47574386f77428ca22b33c",
+    "name": "Ammo packs",
+    "normalizedName": "ammo-packs",
+    "children": [],
+    "parent": {
+      "id": "5b47574386f77428ca22b346",
+      "name": "Ammo"
+    }
+  },
+  {
+    "id": "5b47574386f77428ca22b346",
+    "name": "Ammo",
+    "normalizedName": "ammo",
+    "parent": null,
+    "children": [
+      {
+        "id": "5b47574386f77428ca22b33c",
+        "name": "Ammo packs"
+      },
+      {
+        "id": "5b47574386f77428ca22b33b",
+        "name": "Rounds"
+      }
+    ]
+  },
+  {
+    "id": "5c518ec986f7743b68682ce2",
+    "name": "Mechanical keys",
+    "normalizedName": "mechanical-keys",
+    "children": [],
+    "parent": {
+      "id": "5b47574386f77428ca22b342",
+      "name": "Keys"
+    }
+  },
+  {
+    "id": "5b47574386f77428ca22b342",
+    "name": "Keys",
+    "normalizedName": "keys",
+    "parent": null,
+    "children": [
+      {
+        "id": "5c518ec986f7743b68682ce2",
+        "name": "Mechanical keys"
+      },
+      {
+        "id": "5c518ed586f774119a772aee",
+        "name": "Electronic keys"
+      }
+    ]
+  },
+  {
+    "id": "5b5f792486f77447ed5636b3",
+    "name": "Pistols",
+    "normalizedName": "pistols",
+    "children": [],
+    "parent": {
+      "id": "5b5f78dc86f77409407a7f8e",
+      "name": "Weapons"
+    }
+  },
+  {
+    "id": "5b5f7a2386f774093f2ed3c4",
+    "name": "Throwables",
+    "normalizedName": "throwables",
+    "children": [],
+    "parent": {
+      "id": "5b5f78dc86f77409407a7f8e",
+      "name": "Weapons"
+    }
+  },
+  {
+    "id": "5b5f754a86f774094242f19b",
+    "name": "Magazines",
+    "normalizedName": "magazines",
+    "children": [],
+    "parent": {
+      "id": "5b5f750686f774093e6cb503",
+      "name": "Gear mods"
+    }
+  },
+  {
+    "id": "5b5f750686f774093e6cb503",
+    "name": "Gear mods",
+    "normalizedName": "gear-mods",
+    "parent": {
+      "id": "5b5f71a686f77447ed5636ab",
+      "name": "Weapon parts & mods"
+    },
+    "children": [
+      {
+        "id": "5b5f754a86f774094242f19b",
+        "name": "Magazines"
+      },
+      {
+        "id": "5b5f751486f77447ec5d770c",
+        "name": "Charging handles"
+      },
+      {
+        "id": "5b5f755f86f77447ec5d770e",
+        "name": "Mounts"
+      },
+      {
+        "id": "5b5f757486f774093e6cb507",
+        "name": "Stocks & chassis"
+      },
+      {
+        "id": "5b5f752e86f774093e6cb505",
+        "name": "Launchers"
+      }
+    ]
+  },
+  {
+    "id": "5b5f71a686f77447ed5636ab",
+    "name": "Weapon parts & mods",
+    "normalizedName": "weapon-parts-mods",
+    "parent": null,
+    "children": [
+      {
+        "id": "5b5f750686f774093e6cb503",
+        "name": "Gear mods"
+      },
+      {
+        "id": "5b5f71b386f774093f2ecf11",
+        "name": "Functional mods"
+      },
+      {
+        "id": "5b5f75b986f77447ec5d7710",
+        "name": "Vital parts"
+      }
+    ]
+  },
+  {
+    "id": "5b47574386f77428ca22b335",
+    "name": "Drinks",
+    "normalizedName": "drinks",
+    "children": [],
+    "parent": {
+      "id": "5b47574386f77428ca22b340",
+      "name": "Provisions"
+    }
+  },
+  {
+    "id": "5b47574386f77428ca22b340",
+    "name": "Provisions",
+    "normalizedName": "provisions",
+    "parent": null,
+    "children": [
+      {
+        "id": "5b47574386f77428ca22b335",
+        "name": "Drinks"
+      },
+      {
+        "id": "5b47574386f77428ca22b336",
+        "name": "Food"
+      }
+    ]
+  },
+  {
+    "id": "5b47574386f77428ca22b336",
+    "name": "Food",
+    "normalizedName": "food",
+    "children": [],
+    "parent": {
+      "id": "5b47574386f77428ca22b340",
+      "name": "Provisions"
+    }
+  },
+  {
+    "id": "5b5f78b786f77447ed5636af",
+    "name": "Money",
+    "normalizedName": "money",
+    "parent": null,
+    "children": []
+  },
+  {
+    "id": "5b5f737886f774093e6cb4fb",
+    "name": "Tactical combo devices",
+    "normalizedName": "tactical-combo-devices",
+    "children": [],
+    "parent": {
+      "id": "5b5f736886f774094242f193",
+      "name": "Light & laser devices"
+    }
+  },
+  {
+    "id": "5b5f736886f774094242f193",
+    "name": "Light & laser devices",
+    "normalizedName": "light-laser-devices",
+    "parent": {
+      "id": "5b5f71b386f774093f2ecf11",
+      "name": "Functional mods"
+    },
+    "children": [
+      {
+        "id": "5b5f737886f774093e6cb4fb",
+        "name": "Tactical combo devices"
+      },
+      {
+        "id": "5b5f73ab86f774094242f195",
+        "name": "Flashlights"
+      },
+      {
+        "id": "5b5f73c486f77447ec5d7704",
+        "name": "Laser aiming modules"
+      }
+    ]
+  },
+  {
+    "id": "5b5f71b386f774093f2ecf11",
+    "name": "Functional mods",
+    "normalizedName": "functional-mods",
+    "parent": {
+      "id": "5b5f71a686f77447ed5636ab",
+      "name": "Weapon parts & mods"
+    },
+    "children": [
+      {
+        "id": "5b5f736886f774094242f193",
+        "name": "Light & laser devices"
+      },
+      {
+        "id": "5b5f724186f77447ed5636ad",
+        "name": "Muzzle devices"
+      },
+      {
+        "id": "5b5f73ec86f774093e6cb4fd",
+        "name": "Sights"
+      },
+      {
+        "id": "5b5f71de86f774093f2ecf13",
+        "name": "Foregrips"
+      },
+      {
+        "id": "5b5f74cc86f77447ec5d770a",
+        "name": "Auxiliary parts"
+      },
+      {
+        "id": "5b5f71c186f77409407a7ec0",
+        "name": "Bipods"
+      }
+    ]
+  },
+  {
+    "id": "5b5f7a0886f77409407a7f96",
+    "name": "Melee weapons",
+    "normalizedName": "melee-weapons",
+    "children": [],
+    "parent": {
+      "id": "5b5f78dc86f77409407a7f8e",
+      "name": "Weapons"
+    }
+  },
+  {
+    "id": "5b5f794b86f77409407a7f92",
+    "name": "Shotguns",
+    "normalizedName": "shotguns",
+    "children": [],
+    "parent": {
+      "id": "5b5f78dc86f77409407a7f8e",
+      "name": "Weapons"
+    }
+  },
+  {
+    "id": "5b5f6fd286f774093f2ecf0d",
+    "name": "Secure containers",
+    "normalizedName": "secure-containers",
+    "children": [],
+    "parent": {
+      "id": "5b47574386f77428ca22b33f",
+      "name": "Gear"
+    }
+  },
+  {
+    "id": "5b47574386f77428ca22b33f",
+    "name": "Gear",
+    "normalizedName": "gear",
+    "parent": null,
+    "children": [
+      {
+        "id": "5b5f6fd286f774093f2ecf0d",
+        "name": "Secure containers"
+      },
+      {
+        "id": "5b5f6f8786f77447ed563642",
+        "name": "Tactical rigs"
+      },
+      {
+        "id": "5b5f6f6c86f774093f2ecf0b",
+        "name": "Backpacks"
+      },
+      {
+        "id": "5b5f701386f774093f2ecf0f",
+        "name": "Body armor"
+      },
+      {
+        "id": "5b47574386f77428ca22b331",
+        "name": "Eyewear"
+      },
+      {
+        "id": "5b47574386f77428ca22b330",
+        "name": "Headgear"
+      },
+      {
+        "id": "5b5f6f3c86f774094242ef87",
+        "name": "Headsets"
+      },
+      {
+        "id": "5b5f6fa186f77409407a7eb7",
+        "name": "Storage containers"
+      },
+      {
+        "id": "5b47574386f77428ca22b32f",
+        "name": "Facecovers"
+      },
+      {
+        "id": "5b5f704686f77447ec5d76d7",
+        "name": "Gear components"
+      }
+    ]
+  },
+  {
+    "id": "5b5f724c86f774093f2ecf15",
+    "name": "Flashhiders & brakes",
+    "normalizedName": "flashhiders-brakes",
+    "children": [],
+    "parent": {
+      "id": "5b5f724186f77447ed5636ad",
+      "name": "Muzzle devices"
+    }
+  },
+  {
+    "id": "5b5f724186f77447ed5636ad",
+    "name": "Muzzle devices",
+    "normalizedName": "muzzle-devices",
+    "parent": {
+      "id": "5b5f71b386f774093f2ecf11",
+      "name": "Functional mods"
+    },
+    "children": [
+      {
+        "id": "5b5f724c86f774093f2ecf15",
+        "name": "Flashhiders & brakes"
+      },
+      {
+        "id": "5b5f731a86f774093e6cb4f9",
+        "name": "Suppressors"
+      },
+      {
+        "id": "5b5f72f786f77447ec5d7702",
+        "name": "Muzzle adapters"
+      }
+    ]
+  },
+  {
+    "id": "5b5f740a86f77447ec5d7706",
+    "name": "Assault scopes",
+    "normalizedName": "assault-scopes",
+    "children": [],
+    "parent": {
+      "id": "5b5f73ec86f774093e6cb4fd",
+      "name": "Sights"
+    }
+  },
+  {
+    "id": "5b5f73ec86f774093e6cb4fd",
+    "name": "Sights",
+    "normalizedName": "sights",
+    "parent": {
+      "id": "5b5f71b386f774093f2ecf11",
+      "name": "Functional mods"
+    },
+    "children": [
+      {
+        "id": "5b5f740a86f77447ec5d7706",
+        "name": "Assault scopes"
+      },
+      {
+        "id": "5b5f742686f774093e6cb4ff",
+        "name": "Collimators"
+      },
+      {
+        "id": "5b5f746686f77447ec5d7708",
+        "name": "Iron sights"
+      },
+      {
+        "id": "5b5f748386f774093e6cb501",
+        "name": "Optics"
+      },
+      {
+        "id": "5b5f749986f774094242f199",
+        "name": "Special purpose sights"
+      },
+      {
+        "id": "5b5f744786f774094242f197",
+        "name": "Compact collimators"
+      }
+    ]
+  },
+  {
+    "id": "5b5f6f8786f77447ed563642",
+    "name": "Tactical rigs",
+    "normalizedName": "tactical-rigs",
+    "children": [],
+    "parent": {
+      "id": "5b47574386f77428ca22b33f",
+      "name": "Gear"
+    }
+  },
+  {
+    "id": "5b5f6f6c86f774093f2ecf0b",
+    "name": "Backpacks",
+    "normalizedName": "backpacks",
+    "children": [],
+    "parent": {
+      "id": "5b47574386f77428ca22b33f",
+      "name": "Gear"
+    }
+  },
+  {
+    "id": "5b47574386f77428ca22b339",
+    "name": "Injury treatment",
+    "normalizedName": "injury-treatment",
+    "children": [],
+    "parent": {
+      "id": "5b47574386f77428ca22b344",
+      "name": "Medication"
+    }
+  },
+  {
+    "id": "5b47574386f77428ca22b344",
+    "name": "Medication",
+    "normalizedName": "medication",
+    "parent": null,
+    "children": [
+      {
+        "id": "5b47574386f77428ca22b339",
+        "name": "Injury treatment"
+      },
+      {
+        "id": "5b47574386f77428ca22b337",
+        "name": "Pills"
+      },
+      {
+        "id": "5b47574386f77428ca22b33a",
+        "name": "Injectors"
+      },
+      {
+        "id": "5b47574386f77428ca22b338",
+        "name": "Medkits"
+      }
+    ]
+  },
+  {
+    "id": "5b47574386f77428ca22b337",
+    "name": "Pills",
+    "normalizedName": "pills",
+    "children": [],
+    "parent": {
+      "id": "5b47574386f77428ca22b344",
+      "name": "Medication"
+    }
+  },
+  {
+    "id": "5b47574386f77428ca22b33a",
+    "name": "Injectors",
+    "normalizedName": "injectors",
+    "children": [],
+    "parent": {
+      "id": "5b47574386f77428ca22b344",
+      "name": "Medication"
+    }
+  },
+  {
+    "id": "5b47574386f77428ca22b338",
+    "name": "Medkits",
+    "normalizedName": "medkits",
+    "children": [],
+    "parent": {
+      "id": "5b47574386f77428ca22b344",
+      "name": "Medication"
+    }
+  },
+  {
+    "id": "5b47574386f77428ca22b345",
+    "name": "Special equipment",
+    "normalizedName": "special-equipment",
+    "parent": null,
+    "children": []
+  },
+  {
+    "id": "5b47574386f77428ca22b33b",
+    "name": "Rounds",
+    "normalizedName": "rounds",
+    "children": [],
+    "parent": {
+      "id": "5b47574386f77428ca22b346",
+      "name": "Ammo"
+    }
+  },
+  {
+    "id": "5b5f701386f774093f2ecf0f",
+    "name": "Body armor",
+    "normalizedName": "body-armor",
+    "children": [],
+    "parent": {
+      "id": "5b47574386f77428ca22b33f",
+      "name": "Gear"
+    }
+  },
+  {
+    "id": "5b47574386f77428ca22b331",
+    "name": "Eyewear",
+    "normalizedName": "eyewear",
+    "children": [],
+    "parent": {
+      "id": "5b47574386f77428ca22b33f",
+      "name": "Gear"
+    }
+  },
+  {
+    "id": "5b5f75c686f774094242f19f",
+    "name": "Barrels",
+    "normalizedName": "barrels",
+    "children": [],
+    "parent": {
+      "id": "5b5f75b986f77447ec5d7710",
+      "name": "Vital parts"
+    }
+  },
+  {
+    "id": "5b5f75b986f77447ec5d7710",
+    "name": "Vital parts",
+    "normalizedName": "vital-parts",
+    "parent": {
+      "id": "5b5f71a686f77447ed5636ab",
+      "name": "Weapon parts & mods"
+    },
+    "children": [
+      {
+        "id": "5b5f75c686f774094242f19f",
+        "name": "Barrels"
+      },
+      {
+        "id": "5b5f761f86f774094242f1a1",
+        "name": "Pistol grips"
+      },
+      {
+        "id": "5b5f764186f77447ec5d7714",
+        "name": "Receivers & slides"
+      },
+      {
+        "id": "5b5f75e486f77447ec5d7712",
+        "name": "Handguards"
+      },
+      {
+        "id": "5b5f760586f774093e6cb509",
+        "name": "Gas blocks"
+      }
+    ]
+  },
+  {
+    "id": "5b5f798886f77447ed5636b5",
+    "name": "Bolt-action rifles",
+    "normalizedName": "bolt-action-rifles",
+    "children": [],
+    "parent": {
+      "id": "5b5f78dc86f77409407a7f8e",
+      "name": "Weapons"
+    }
+  },
+  {
+    "id": "5b5f742686f774093e6cb4ff",
+    "name": "Collimators",
+    "normalizedName": "collimators",
+    "children": [],
+    "parent": {
+      "id": "5b5f73ec86f774093e6cb4fd",
+      "name": "Sights"
+    }
+  },
+  {
+    "id": "5b5f761f86f774094242f1a1",
+    "name": "Pistol grips",
+    "normalizedName": "pistol-grips",
+    "children": [],
+    "parent": {
+      "id": "5b5f75b986f77447ec5d7710",
+      "name": "Vital parts"
+    }
+  },
+  {
+    "id": "5b5f71de86f774093f2ecf13",
+    "name": "Foregrips",
+    "normalizedName": "foregrips",
+    "children": [],
+    "parent": {
+      "id": "5b5f71b386f774093f2ecf11",
+      "name": "Functional mods"
+    }
+  },
+  {
+    "id": "5b5f764186f77447ec5d7714",
+    "name": "Receivers & slides",
+    "normalizedName": "receivers-slides",
+    "children": [],
+    "parent": {
+      "id": "5b5f75b986f77447ec5d7710",
+      "name": "Vital parts"
+    }
+  },
+  {
+    "id": "5b5f751486f77447ec5d770c",
+    "name": "Charging handles",
+    "normalizedName": "charging-handles",
+    "children": [],
+    "parent": {
+      "id": "5b5f750686f774093e6cb503",
+      "name": "Gear mods"
+    }
+  },
+  {
+    "id": "5b5f75e486f77447ec5d7712",
+    "name": "Handguards",
+    "normalizedName": "handguards",
+    "children": [],
+    "parent": {
+      "id": "5b5f75b986f77447ec5d7710",
+      "name": "Vital parts"
+    }
+  },
+  {
+    "id": "5b5f755f86f77447ec5d770e",
+    "name": "Mounts",
+    "normalizedName": "mounts",
+    "children": [],
+    "parent": {
+      "id": "5b5f750686f774093e6cb503",
+      "name": "Gear mods"
+    }
+  },
+  {
+    "id": "5b5f757486f774093e6cb507",
+    "name": "Stocks & chassis",
+    "normalizedName": "stocks-chassis",
+    "children": [],
+    "parent": {
+      "id": "5b5f750686f774093e6cb503",
+      "name": "Gear mods"
+    }
+  },
+  {
+    "id": "5b5f746686f77447ec5d7708",
+    "name": "Iron sights",
+    "normalizedName": "iron-sights",
+    "children": [],
+    "parent": {
+      "id": "5b5f73ec86f774093e6cb4fd",
+      "name": "Sights"
+    }
+  },
+  {
+    "id": "5b5f731a86f774093e6cb4f9",
+    "name": "Suppressors",
+    "normalizedName": "suppressors",
+    "children": [],
+    "parent": {
+      "id": "5b5f724186f77447ed5636ad",
+      "name": "Muzzle devices"
+    }
+  },
+  {
+    "id": "5b5f72f786f77447ec5d7702",
+    "name": "Muzzle adapters",
+    "normalizedName": "muzzle-adapters",
+    "children": [],
+    "parent": {
+      "id": "5b5f724186f77447ed5636ad",
+      "name": "Muzzle devices"
+    }
+  },
+  {
+    "id": "5b5f74cc86f77447ec5d770a",
+    "name": "Auxiliary parts",
+    "normalizedName": "auxiliary-parts",
+    "children": [],
+    "parent": {
+      "id": "5b5f71b386f774093f2ecf11",
+      "name": "Functional mods"
+    }
+  },
+  {
+    "id": "5b47574386f77428ca22b330",
+    "name": "Headgear",
+    "normalizedName": "headgear",
+    "children": [],
+    "parent": {
+      "id": "5b47574386f77428ca22b33f",
+      "name": "Gear"
+    }
+  },
+  {
+    "id": "5b5f6f3c86f774094242ef87",
+    "name": "Headsets",
+    "normalizedName": "headsets",
+    "children": [],
+    "parent": {
+      "id": "5b47574386f77428ca22b33f",
+      "name": "Gear"
+    }
+  },
+  {
+    "id": "5b5f6fa186f77409407a7eb7",
+    "name": "Storage containers",
+    "normalizedName": "storage-containers",
+    "children": [],
+    "parent": {
+      "id": "5b47574386f77428ca22b33f",
+      "name": "Gear"
+    }
+  },
+  {
+    "id": "5b47574386f77428ca22b2ed",
+    "name": "Energy elements",
+    "normalizedName": "energy-elements",
+    "children": [],
+    "parent": {
+      "id": "5b47574386f77428ca22b33e",
+      "name": "Barter items"
+    }
+  },
+  {
+    "id": "5b47574386f77428ca22b33e",
+    "name": "Barter items",
+    "normalizedName": "barter-items",
+    "parent": null,
+    "children": [
+      {
+        "id": "5b47574386f77428ca22b2ed",
+        "name": "Energy elements"
+      },
+      {
+        "id": "5b47574386f77428ca22b2ef",
+        "name": "Electronics"
+      },
+      {
+        "id": "5b47574386f77428ca22b2f2",
+        "name": "Flammable materials"
+      },
+      {
+        "id": "5b47574386f77428ca22b2f1",
+        "name": "Valuables"
+      },
+      {
+        "id": "5b47574386f77428ca22b2f4",
+        "name": "Others"
+      },
+      {
+        "id": "5b47574386f77428ca22b2ee",
+        "name": "Building materials"
+      },
+      {
+        "id": "5b47574386f77428ca22b2f0",
+        "name": "Household materials"
+      },
+      {
+        "id": "5b47574386f77428ca22b2f6",
+        "name": "Tools"
+      },
+      {
+        "id": "5b47574386f77428ca22b2f3",
+        "name": "Medical supplies"
+      }
+    ]
+  },
+  {
+    "id": "5b47574386f77428ca22b2ef",
+    "name": "Electronics",
+    "normalizedName": "electronics",
+    "children": [],
+    "parent": {
+      "id": "5b47574386f77428ca22b33e",
+      "name": "Barter items"
+    }
+  },
+  {
+    "id": "5b47574386f77428ca22b2f2",
+    "name": "Flammable materials",
+    "normalizedName": "flammable-materials",
+    "children": [],
+    "parent": {
+      "id": "5b47574386f77428ca22b33e",
+      "name": "Barter items"
+    }
+  },
+  {
+    "id": "5b5f748386f774093e6cb501",
+    "name": "Optics",
+    "normalizedName": "optics",
+    "children": [],
+    "parent": {
+      "id": "5b5f73ec86f774093e6cb4fd",
+      "name": "Sights"
+    }
+  },
+  {
+    "id": "5b5f71c186f77409407a7ec0",
+    "name": "Bipods",
+    "normalizedName": "bipods",
+    "children": [],
+    "parent": {
+      "id": "5b5f71b386f774093f2ecf11",
+      "name": "Functional mods"
+    }
+  },
+  {
+    "id": "5b5f760586f774093e6cb509",
+    "name": "Gas blocks",
+    "normalizedName": "gas-blocks",
+    "children": [],
+    "parent": {
+      "id": "5b5f75b986f77447ec5d7710",
+      "name": "Vital parts"
+    }
+  },
+  {
+    "id": "5b5f749986f774094242f199",
+    "name": "Special purpose sights",
+    "normalizedName": "special-purpose-sights",
+    "children": [],
+    "parent": {
+      "id": "5b5f73ec86f774093e6cb4fd",
+      "name": "Sights"
+    }
+  },
+  {
+    "id": "5b47574386f77428ca22b32f",
+    "name": "Facecovers",
+    "normalizedName": "facecovers",
+    "children": [],
+    "parent": {
+      "id": "5b47574386f77428ca22b33f",
+      "name": "Gear"
+    }
+  },
+  {
+    "id": "5b47574386f77428ca22b2f1",
+    "name": "Valuables",
+    "normalizedName": "valuables",
+    "children": [],
+    "parent": {
+      "id": "5b47574386f77428ca22b33e",
+      "name": "Barter items"
+    }
+  },
+  {
+    "id": "5b47574386f77428ca22b2f4",
+    "name": "Others",
+    "normalizedName": "others",
+    "children": [],
+    "parent": {
+      "id": "5b47574386f77428ca22b33e",
+      "name": "Barter items"
+    }
+  },
+  {
+    "id": "5b47574386f77428ca22b2ee",
+    "name": "Building materials",
+    "normalizedName": "building-materials",
+    "children": [],
+    "parent": {
+      "id": "5b47574386f77428ca22b33e",
+      "name": "Barter items"
+    }
+  },
+  {
+    "id": "5b47574386f77428ca22b2f0",
+    "name": "Household materials",
+    "normalizedName": "household-materials",
+    "children": [],
+    "parent": {
+      "id": "5b47574386f77428ca22b33e",
+      "name": "Barter items"
+    }
+  },
+  {
+    "id": "5b5f78e986f77447ed5636b1",
+    "name": "Assault carbines",
+    "normalizedName": "assault-carbines",
+    "children": [],
+    "parent": {
+      "id": "5b5f78dc86f77409407a7f8e",
+      "name": "Weapons"
+    }
+  },
+  {
+    "id": "5b47574386f77428ca22b343",
+    "name": "Maps",
+    "normalizedName": "maps",
+    "parent": null,
+    "children": []
+  },
+  {
+    "id": "5b5f744786f774094242f197",
+    "name": "Compact collimators",
+    "normalizedName": "compact-collimators",
+    "children": [],
+    "parent": {
+      "id": "5b5f73ec86f774093e6cb4fd",
+      "name": "Sights"
+    }
+  },
+  {
+    "id": "5b5f791486f774093f2ed3be",
+    "name": "Marksman rifles",
+    "normalizedName": "marksman-rifles",
+    "children": [],
+    "parent": {
+      "id": "5b5f78dc86f77409407a7f8e",
+      "name": "Weapons"
+    }
+  },
+  {
+    "id": "5b5f796a86f774093f2ed3c0",
+    "name": "Submachine guns",
+    "normalizedName": "submachine-guns",
+    "children": [],
+    "parent": {
+      "id": "5b5f78dc86f77409407a7f8e",
+      "name": "Weapons"
+    }
+  },
+  {
+    "id": "5b5f73ab86f774094242f195",
+    "name": "Flashlights",
+    "normalizedName": "flashlights",
+    "children": [],
+    "parent": {
+      "id": "5b5f736886f774094242f193",
+      "name": "Light & laser devices"
+    }
+  },
+  {
+    "id": "5b47574386f77428ca22b2f6",
+    "name": "Tools",
+    "normalizedName": "tools",
+    "children": [],
+    "parent": {
+      "id": "5b47574386f77428ca22b33e",
+      "name": "Barter items"
+    }
+  },
+  {
+    "id": "5b47574386f77428ca22b341",
+    "name": "Info items",
+    "normalizedName": "info-items",
+    "parent": null,
+    "children": [
+      {
+        "id": "65bcab6877b93a04772ae2d8",
+        "name": "Audio tapes"
+      },
+      {
+        "id": "67a23465e3515dec41059278",
+        "name": "Notes"
+      }
+    ]
+  },
+  {
+    "id": "5b47574386f77428ca22b2f3",
+    "name": "Medical supplies",
+    "normalizedName": "medical-supplies",
+    "children": [],
+    "parent": {
+      "id": "5b47574386f77428ca22b33e",
+      "name": "Barter items"
+    }
+  },
+  {
+    "id": "5b5f704686f77447ec5d76d7",
+    "name": "Gear components",
+    "normalizedName": "gear-components",
+    "children": [],
+    "parent": {
+      "id": "5b47574386f77428ca22b33f",
+      "name": "Gear"
+    }
+  },
+  {
+    "id": "5b5f79a486f77409407a7f94",
+    "name": "Machine guns",
+    "normalizedName": "machine-guns",
+    "children": [],
+    "parent": {
+      "id": "5b5f78dc86f77409407a7f8e",
+      "name": "Weapons"
+    }
+  },
+  {
+    "id": "5b5f73c486f77447ec5d7704",
+    "name": "Laser aiming modules",
+    "normalizedName": "laser-aiming-modules",
+    "children": [],
+    "parent": {
+      "id": "5b5f736886f774094242f193",
+      "name": "Light & laser devices"
+    }
+  },
+  {
+    "id": "5c518ed586f774119a772aee",
+    "name": "Electronic keys",
+    "normalizedName": "electronic-keys",
+    "children": [],
+    "parent": {
+      "id": "5b47574386f77428ca22b342",
+      "name": "Keys"
+    }
+  },
+  {
+    "id": "5b5f79d186f774093f2ed3c2",
+    "name": "Grenade launchers",
+    "normalizedName": "grenade-launchers",
+    "children": [],
+    "parent": {
+      "id": "5b5f78dc86f77409407a7f8e",
+      "name": "Weapons"
+    }
+  },
+  {
+    "id": "5b5f79eb86f77447ed5636b7",
+    "name": "Special weapons",
+    "normalizedName": "special-weapons",
+    "children": [],
+    "parent": {
+      "id": "5b5f78dc86f77409407a7f8e",
+      "name": "Weapons"
+    }
+  },
+  {
+    "id": "5b5f752e86f774093e6cb505",
+    "name": "Launchers",
+    "normalizedName": "launchers",
+    "children": [],
+    "parent": {
+      "id": "5b5f750686f774093e6cb503",
+      "name": "Gear mods"
+    }
+  },
+  {
+    "id": "5b619f1a86f77450a702a6f3",
+    "name": "Task items",
+    "normalizedName": "task-items",
+    "parent": null,
+    "children": []
+  },
+  {
+    "id": "65bcab6877b93a04772ae2d8",
+    "name": "Audio tapes",
+    "normalizedName": "audio-tapes",
+    "children": [],
+    "parent": {
+      "id": "5b47574386f77428ca22b341",
+      "name": "Info items"
+    }
+  },
+  {
+    "id": "67a23465e3515dec41059278",
+    "name": "Notes",
+    "normalizedName": "notes",
+    "children": [],
+    "parent": {
+      "id": "5b47574386f77428ca22b341",
+      "name": "Info items"
+    }
+  }
+]

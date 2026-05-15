@@ -1,0 +1,1286 @@
+{
+  "data": {
+    "__schema": {
+      "queryType": {
+        "fields": [
+          {
+            "name": "achievements",
+            "description": null,
+            "args": [
+              {
+                "name": "lang",
+                "type": {
+                  "name": "LanguageCode",
+                  "kind": "ENUM",
+                  "ofType": null
+                }
+              },
+              {
+                "name": "limit",
+                "type": {
+                  "name": "Int",
+                  "kind": "SCALAR",
+                  "ofType": null
+                }
+              },
+              {
+                "name": "offset",
+                "type": {
+                  "name": "Int",
+                  "kind": "SCALAR",
+                  "ofType": null
+                }
+              }
+            ],
+            "type": {
+              "name": null,
+              "kind": "NON_NULL",
+              "ofType": {
+                "name": null,
+                "kind": "LIST",
+                "ofType": {
+                  "name": "Achievement",
+                  "kind": "OBJECT"
+                }
+              }
+            }
+          },
+          {
+            "name": "ammo",
+            "description": null,
+            "args": [
+              {
+                "name": "lang",
+                "type": {
+                  "name": "LanguageCode",
+                  "kind": "ENUM",
+                  "ofType": null
+                }
+              },
+              {
+                "name": "gameMode",
+                "type": {
+                  "name": "GameMode",
+                  "kind": "ENUM",
+                  "ofType": null
+                }
+              },
+              {
+                "name": "limit",
+                "type": {
+                  "name": "Int",
+                  "kind": "SCALAR",
+                  "ofType": null
+                }
+              },
+              {
+                "name": "offset",
+                "type": {
+                  "name": "Int",
+                  "kind": "SCALAR",
+                  "ofType": null
+                }
+              }
+            ],
+            "type": {
+              "name": null,
+              "kind": "LIST",
+              "ofType": {
+                "name": "Ammo",
+                "kind": "OBJECT",
+                "ofType": null
+              }
+            }
+          },
+          {
+            "name": "archivedItemPrices",
+            "description": null,
+            "args": [
+              {
+                "name": "id",
+                "type": {
+                  "name": null,
+                  "kind": "NON_NULL",
+                  "ofType": {
+                    "name": "ID",
+                    "kind": "SCALAR"
+                  }
+                }
+              },
+              {
+                "name": "limit",
+                "type": {
+                  "name": "Int",
+                  "kind": "SCALAR",
+                  "ofType": null
+                }
+              },
+              {
+                "name": "offset",
+                "type": {
+                  "name": "Int",
+                  "kind": "SCALAR",
+                  "ofType": null
+                }
+              }
+            ],
+            "type": {
+              "name": null,
+              "kind": "NON_NULL",
+              "ofType": {
+                "name": null,
+                "kind": "LIST",
+                "ofType": {
+                  "name": "historicalPricePoint",
+                  "kind": "OBJECT"
+                }
+              }
+            }
+          },
+          {
+            "name": "barters",
+            "description": null,
+            "args": [
+              {
+                "name": "lang",
+                "type": {
+                  "name": "LanguageCode",
+                  "kind": "ENUM",
+                  "ofType": null
+                }
+              },
+              {
+                "name": "gameMode",
+                "type": {
+                  "name": "GameMode",
+                  "kind": "ENUM",
+                  "ofType": null
+                }
+              },
+              {
+                "name": "limit",
+                "type": {
+                  "name": "Int",
+                  "kind": "SCALAR",
+                  "ofType": null
+                }
+              },
+              {
+                "name": "offset",
+                "type": {
+                  "name": "Int",
+                  "kind": "SCALAR",
+                  "ofType": null
+                }
+              }
+            ],
+            "type": {
+              "name": null,
+              "kind": "LIST",
+              "ofType": {
+                "name": "Barter",
+                "kind": "OBJECT",
+                "ofType": null
+              }
+            }
+          },
+          {
+            "name": "bosses",
+            "description": null,
+            "args": [
+              {
+                "name": "lang",
+                "type": {
+                  "name": "LanguageCode",
+                  "kind": "ENUM",
+                  "ofType": null
+                }
+              },
+              {
+                "name": "gameMode",
+                "type": {
+                  "name": "GameMode",
+                  "kind": "ENUM",
+                  "ofType": null
+                }
+              },
+              {
+                "name": "name",
+                "type": {
+                  "name": null,
+                  "kind": "LIST",
+                  "ofType": {
+                    "name": null,
+                    "kind": "NON_NULL"
+                  }
+                }
+              },
+              {
+                "name": "limit",
+                "type": {
+                  "name": "Int",
+                  "kind": "SCALAR",
+                  "ofType": null
+                }
+              },
+              {
+                "name": "offset",
+                "type": {
+                  "name": "Int",
+                  "kind": "SCALAR",
+                  "ofType": null
+                }
+              }
+            ],
+            "type": {
+              "name": null,
+              "kind": "LIST",
+              "ofType": {
+                "name": "MobInfo",
+                "kind": "OBJECT",
+                "ofType": null
+              }
+            }
+          },
+          {
+            "name": "crafts",
+            "description": null,
+            "args": [
+              {
+                "name": "lang",
+                "type": {
+                  "name": "LanguageCode",
+                  "kind": "ENUM",
+                  "ofType": null
+                }
+              },
+              {
+                "name": "gameMode",
+                "type": {
+                  "name": "GameMode",
+                  "kind": "ENUM",
+                  "ofType": null
+                }
+              },
+              {
+                "name": "limit",
+                "type": {
+                  "name": "Int",
+                  "kind": "SCALAR",
+                  "ofType": null
+                }
+              },
+              {
+                "name": "offset",
+                "type": {
+                  "name": "Int",
+                  "kind": "SCALAR",
+                  "ofType": null
+                }
+              }
+            ],
+            "type": {
+              "name": null,
+              "kind": "LIST",
+              "ofType": {
+                "name": "Craft",
+                "kind": "OBJECT",
+                "ofType": null
+              }
+            }
+          },
+          {
+            "name": "hideoutStations",
+            "description": null,
+            "args": [
+              {
+                "name": "lang",
+                "type": {
+                  "name": "LanguageCode",
+                  "kind": "ENUM",
+                  "ofType": null
+                }
+              },
+              {
+                "name": "gameMode",
+                "type": {
+                  "name": "GameMode",
+                  "kind": "ENUM",
+                  "ofType": null
+                }
+              },
+              {
+                "name": "limit",
+                "type": {
+                  "name": "Int",
+                  "kind": "SCALAR",
+                  "ofType": null
+                }
+              },
+              {
+                "name": "offset",
+                "type": {
+                  "name": "Int",
+                  "kind": "SCALAR",
+                  "ofType": null
+                }
+              }
+            ],
+            "type": {
+              "name": null,
+              "kind": "NON_NULL",
+              "ofType": {
+                "name": null,
+                "kind": "LIST",
+                "ofType": {
+                  "name": "HideoutStation",
+                  "kind": "OBJECT"
+                }
+              }
+            }
+          },
+          {
+            "name": "historicalItemPrices",
+            "description": null,
+            "args": [
+              {
+                "name": "id",
+                "type": {
+                  "name": null,
+                  "kind": "NON_NULL",
+                  "ofType": {
+                    "name": "ID",
+                    "kind": "SCALAR"
+                  }
+                }
+              },
+              {
+                "name": "days",
+                "type": {
+                  "name": "Int",
+                  "kind": "SCALAR",
+                  "ofType": null
+                }
+              },
+              {
+                "name": "lang",
+                "type": {
+                  "name": "LanguageCode",
+                  "kind": "ENUM",
+                  "ofType": null
+                }
+              },
+              {
+                "name": "gameMode",
+                "type": {
+                  "name": "GameMode",
+                  "kind": "ENUM",
+                  "ofType": null
+                }
+              },
+              {
+                "name": "limit",
+                "type": {
+                  "name": "Int",
+                  "kind": "SCALAR",
+                  "ofType": null
+                }
+              },
+              {
+                "name": "offset",
+                "type": {
+                  "name": "Int",
+                  "kind": "SCALAR",
+                  "ofType": null
+                }
+              }
+            ],
+            "type": {
+              "name": null,
+              "kind": "NON_NULL",
+              "ofType": {
+                "name": null,
+                "kind": "LIST",
+                "ofType": {
+                  "name": "historicalPricePoint",
+                  "kind": "OBJECT"
+                }
+              }
+            }
+          },
+          {
+            "name": "item",
+            "description": null,
+            "args": [
+              {
+                "name": "id",
+                "type": {
+                  "name": "ID",
+                  "kind": "SCALAR",
+                  "ofType": null
+                }
+              },
+              {
+                "name": "normalizedName",
+                "type": {
+                  "name": "String",
+                  "kind": "SCALAR",
+                  "ofType": null
+                }
+              },
+              {
+                "name": "lang",
+                "type": {
+                  "name": "LanguageCode",
+                  "kind": "ENUM",
+                  "ofType": null
+                }
+              },
+              {
+                "name": "gameMode",
+                "type": {
+                  "name": "GameMode",
+                  "kind": "ENUM",
+                  "ofType": null
+                }
+              }
+            ],
+            "type": {
+              "name": "Item",
+              "kind": "OBJECT",
+              "ofType": null
+            }
+          },
+          {
+            "name": "items",
+            "description": null,
+            "args": [
+              {
+                "name": "ids",
+                "type": {
+                  "name": null,
+                  "kind": "LIST",
+                  "ofType": {
+                    "name": "ID",
+                    "kind": "SCALAR"
+                  }
+                }
+              },
+              {
+                "name": "name",
+                "type": {
+                  "name": "String",
+                  "kind": "SCALAR",
+                  "ofType": null
+                }
+              },
+              {
+                "name": "names",
+                "type": {
+                  "name": null,
+                  "kind": "LIST",
+                  "ofType": {
+                    "name": "String",
+                    "kind": "SCALAR"
+                  }
+                }
+              },
+              {
+                "name": "type",
+                "type": {
+                  "name": "ItemType",
+                  "kind": "ENUM",
+                  "ofType": null
+                }
+              },
+              {
+                "name": "types",
+                "type": {
+                  "name": null,
+                  "kind": "LIST",
+                  "ofType": {
+                    "name": "ItemType",
+                    "kind": "ENUM"
+                  }
+                }
+              },
+              {
+                "name": "categoryNames",
+                "type": {
+                  "name": null,
+                  "kind": "LIST",
+                  "ofType": {
+                    "name": "String",
+                    "kind": "SCALAR"
+                  }
+                }
+              },
+              {
+                "name": "handbookCategoryNames",
+                "type": {
+                  "name": null,
+                  "kind": "LIST",
+                  "ofType": {
+                    "name": "String",
+                    "kind": "SCALAR"
+                  }
+                }
+              },
+              {
+                "name": "bsgCategoryId",
+                "type": {
+                  "name": "String",
+                  "kind": "SCALAR",
+                  "ofType": null
+                }
+              },
+              {
+                "name": "bsgCategoryIds",
+                "type": {
+                  "name": null,
+                  "kind": "LIST",
+                  "ofType": {
+                    "name": "String",
+                    "kind": "SCALAR"
+                  }
+                }
+              },
+              {
+                "name": "bsgCategory",
+                "type": {
+                  "name": "String",
+                  "kind": "SCALAR",
+                  "ofType": null
+                }
+              },
+              {
+                "name": "lang",
+                "type": {
+                  "name": "LanguageCode",
+                  "kind": "ENUM",
+                  "ofType": null
+                }
+              },
+              {
+                "name": "gameMode",
+                "type": {
+                  "name": "GameMode",
+                  "kind": "ENUM",
+                  "ofType": null
+                }
+              },
+              {
+                "name": "limit",
+                "type": {
+                  "name": "Int",
+                  "kind": "SCALAR",
+                  "ofType": null
+                }
+              },
+              {
+                "name": "offset",
+                "type": {
+                  "name": "Int",
+                  "kind": "SCALAR",
+                  "ofType": null
+                }
+              }
+            ],
+            "type": {
+              "name": null,
+              "kind": "NON_NULL",
+              "ofType": {
+                "name": null,
+                "kind": "LIST",
+                "ofType": {
+                  "name": "Item",
+                  "kind": "OBJECT"
+                }
+              }
+            }
+          },
+          {
+            "name": "itemPrices",
+            "description": null,
+            "args": [
+              {
+                "name": "id",
+                "type": {
+                  "name": null,
+                  "kind": "NON_NULL",
+                  "ofType": {
+                    "name": "ID",
+                    "kind": "SCALAR"
+                  }
+                }
+              },
+              {
+                "name": "gameMode",
+                "type": {
+                  "name": "GameMode",
+                  "kind": "ENUM",
+                  "ofType": null
+                }
+              },
+              {
+                "name": "limit",
+                "type": {
+                  "name": "Int",
+                  "kind": "SCALAR",
+                  "ofType": null
+                }
+              },
+              {
+                "name": "offset",
+                "type": {
+                  "name": "Int",
+                  "kind": "SCALAR",
+                  "ofType": null
+                }
+              }
+            ],
+            "type": {
+              "name": null,
+              "kind": "NON_NULL",
+              "ofType": {
+                "name": null,
+                "kind": "LIST",
+                "ofType": {
+                  "name": "historicalPricePoint",
+                  "kind": "OBJECT"
+                }
+              }
+            }
+          },
+          {
+            "name": "itemCategories",
+            "description": null,
+            "args": [
+              {
+                "name": "lang",
+                "type": {
+                  "name": "LanguageCode",
+                  "kind": "ENUM",
+                  "ofType": null
+                }
+              },
+              {
+                "name": "limit",
+                "type": {
+                  "name": "Int",
+                  "kind": "SCALAR",
+                  "ofType": null
+                }
+              },
+              {
+                "name": "offset",
+                "type": {
+                  "name": "Int",
+                  "kind": "SCALAR",
+                  "ofType": null
+                }
+              }
+            ],
+            "type": {
+              "name": null,
+              "kind": "NON_NULL",
+              "ofType": {
+                "name": null,
+                "kind": "LIST",
+                "ofType": {
+                  "name": "ItemCategory",
+                  "kind": "OBJECT"
+                }
+              }
+            }
+          },
+          {
+            "name": "goonReports",
+            "description": null,
+            "args": [
+              {
+                "name": "lang",
+                "type": {
+                  "name": "LanguageCode",
+                  "kind": "ENUM",
+                  "ofType": null
+                }
+              },
+              {
+                "name": "gameMode",
+                "type": {
+                  "name": "GameMode",
+                  "kind": "ENUM",
+                  "ofType": null
+                }
+              },
+              {
+                "name": "limit",
+                "type": {
+                  "name": "Int",
+                  "kind": "SCALAR",
+                  "ofType": null
+                }
+              },
+              {
+                "name": "ofset",
+                "type": {
+                  "name": "Int",
+                  "kind": "SCALAR",
+                  "ofType": null
+                }
+              }
+            ],
+            "type": {
+              "name": null,
+              "kind": "NON_NULL",
+              "ofType": {
+                "name": null,
+                "kind": "LIST",
+                "ofType": {
+                  "name": "GoonReport",
+                  "kind": "OBJECT"
+                }
+              }
+            }
+          },
+          {
+            "name": "handbookCategories",
+            "description": null,
+            "args": [
+              {
+                "name": "lang",
+                "type": {
+                  "name": "LanguageCode",
+                  "kind": "ENUM",
+                  "ofType": null
+                }
+              },
+              {
+                "name": "limit",
+                "type": {
+                  "name": "Int",
+                  "kind": "SCALAR",
+                  "ofType": null
+                }
+              },
+              {
+                "name": "offset",
+                "type": {
+                  "name": "Int",
+                  "kind": "SCALAR",
+                  "ofType": null
+                }
+              }
+            ],
+            "type": {
+              "name": null,
+              "kind": "NON_NULL",
+              "ofType": {
+                "name": null,
+                "kind": "LIST",
+                "ofType": {
+                  "name": "ItemCategory",
+                  "kind": "OBJECT"
+                }
+              }
+            }
+          },
+          {
+            "name": "lootContainers",
+            "description": null,
+            "args": [
+              {
+                "name": "lang",
+                "type": {
+                  "name": "LanguageCode",
+                  "kind": "ENUM",
+                  "ofType": null
+                }
+              },
+              {
+                "name": "limit",
+                "type": {
+                  "name": "Int",
+                  "kind": "SCALAR",
+                  "ofType": null
+                }
+              },
+              {
+                "name": "offset",
+                "type": {
+                  "name": "Int",
+                  "kind": "SCALAR",
+                  "ofType": null
+                }
+              }
+            ],
+            "type": {
+              "name": null,
+              "kind": "LIST",
+              "ofType": {
+                "name": "LootContainer",
+                "kind": "OBJECT",
+                "ofType": null
+              }
+            }
+          },
+          {
+            "name": "maps",
+            "description": null,
+            "args": [
+              {
+                "name": "lang",
+                "type": {
+                  "name": "LanguageCode",
+                  "kind": "ENUM",
+                  "ofType": null
+                }
+              },
+              {
+                "name": "gameMode",
+                "type": {
+                  "name": "GameMode",
+                  "kind": "ENUM",
+                  "ofType": null
+                }
+              },
+              {
+                "name": "name",
+                "type": {
+                  "name": null,
+                  "kind": "LIST",
+                  "ofType": {
+                    "name": null,
+                    "kind": "NON_NULL"
+                  }
+                }
+              },
+              {
+                "name": "enemies",
+                "type": {
+                  "name": null,
+                  "kind": "LIST",
+                  "ofType": {
+                    "name": null,
+                    "kind": "NON_NULL"
+                  }
+                }
+              },
+              {
+                "name": "limit",
+                "type": {
+                  "name": "Int",
+                  "kind": "SCALAR",
+                  "ofType": null
+                }
+              },
+              {
+                "name": "offset",
+                "type": {
+                  "name": "Int",
+                  "kind": "SCALAR",
+                  "ofType": null
+                }
+              }
+            ],
+            "type": {
+              "name": null,
+              "kind": "NON_NULL",
+              "ofType": {
+                "name": null,
+                "kind": "LIST",
+                "ofType": {
+                  "name": "Map",
+                  "kind": "OBJECT"
+                }
+              }
+            }
+          },
+          {
+            "name": "questItems",
+            "description": null,
+            "args": [
+              {
+                "name": "lang",
+                "type": {
+                  "name": "LanguageCode",
+                  "kind": "ENUM",
+                  "ofType": null
+                }
+              }
+            ],
+            "type": {
+              "name": null,
+              "kind": "LIST",
+              "ofType": {
+                "name": "QuestItem",
+                "kind": "OBJECT",
+                "ofType": null
+              }
+            }
+          },
+          {
+            "name": "stationaryWeapons",
+            "description": null,
+            "args": [
+              {
+                "name": "lang",
+                "type": {
+                  "name": "LanguageCode",
+                  "kind": "ENUM",
+                  "ofType": null
+                }
+              },
+              {
+                "name": "limit",
+                "type": {
+                  "name": "Int",
+                  "kind": "SCALAR",
+                  "ofType": null
+                }
+              },
+              {
+                "name": "offset",
+                "type": {
+                  "name": "Int",
+                  "kind": "SCALAR",
+                  "ofType": null
+                }
+              }
+            ],
+            "type": {
+              "name": null,
+              "kind": "LIST",
+              "ofType": {
+                "name": "StationaryWeapon",
+                "kind": "OBJECT",
+                "ofType": null
+              }
+            }
+          },
+          {
+            "name": "status",
+            "description": null,
+            "args": [],
+            "type": {
+              "name": null,
+              "kind": "NON_NULL",
+              "ofType": {
+                "name": "ServerStatus",
+                "kind": "OBJECT",
+                "ofType": null
+              }
+            }
+          },
+          {
+            "name": "task",
+            "description": null,
+            "args": [
+              {
+                "name": "id",
+                "type": {
+                  "name": null,
+                  "kind": "NON_NULL",
+                  "ofType": {
+                    "name": "ID",
+                    "kind": "SCALAR"
+                  }
+                }
+              },
+              {
+                "name": "lang",
+                "type": {
+                  "name": "LanguageCode",
+                  "kind": "ENUM",
+                  "ofType": null
+                }
+              },
+              {
+                "name": "gameMode",
+                "type": {
+                  "name": "GameMode",
+                  "kind": "ENUM",
+                  "ofType": null
+                }
+              }
+            ],
+            "type": {
+              "name": "Task",
+              "kind": "OBJECT",
+              "ofType": null
+            }
+          },
+          {
+            "name": "tasks",
+            "description": null,
+            "args": [
+              {
+                "name": "faction",
+                "type": {
+                  "name": "String",
+                  "kind": "SCALAR",
+                  "ofType": null
+                }
+              },
+              {
+                "name": "lang",
+                "type": {
+                  "name": "LanguageCode",
+                  "kind": "ENUM",
+                  "ofType": null
+                }
+              },
+              {
+                "name": "gameMode",
+                "type": {
+                  "name": "GameMode",
+                  "kind": "ENUM",
+                  "ofType": null
+                }
+              },
+              {
+                "name": "limit",
+                "type": {
+                  "name": "Int",
+                  "kind": "SCALAR",
+                  "ofType": null
+                }
+              },
+              {
+                "name": "offset",
+                "type": {
+                  "name": "Int",
+                  "kind": "SCALAR",
+                  "ofType": null
+                }
+              }
+            ],
+            "type": {
+              "name": null,
+              "kind": "NON_NULL",
+              "ofType": {
+                "name": null,
+                "kind": "LIST",
+                "ofType": {
+                  "name": "Task",
+                  "kind": "OBJECT"
+                }
+              }
+            }
+          },
+          {
+            "name": "traders",
+            "description": null,
+            "args": [
+              {
+                "name": "lang",
+                "type": {
+                  "name": "LanguageCode",
+                  "kind": "ENUM",
+                  "ofType": null
+                }
+              },
+              {
+                "name": "gameMode",
+                "type": {
+                  "name": "GameMode",
+                  "kind": "ENUM",
+                  "ofType": null
+                }
+              },
+              {
+                "name": "limit",
+                "type": {
+                  "name": "Int",
+                  "kind": "SCALAR",
+                  "ofType": null
+                }
+              },
+              {
+                "name": "offset",
+                "type": {
+                  "name": "Int",
+                  "kind": "SCALAR",
+                  "ofType": null
+                }
+              }
+            ],
+            "type": {
+              "name": null,
+              "kind": "NON_NULL",
+              "ofType": {
+                "name": null,
+                "kind": "LIST",
+                "ofType": {
+                  "name": "Trader",
+                  "kind": "OBJECT"
+                }
+              }
+            }
+          },
+          {
+            "name": "fleaMarket",
+            "description": null,
+            "args": [
+              {
+                "name": "lang",
+                "type": {
+                  "name": "LanguageCode",
+                  "kind": "ENUM",
+                  "ofType": null
+                }
+              },
+              {
+                "name": "gameMode",
+                "type": {
+                  "name": "GameMode",
+                  "kind": "ENUM",
+                  "ofType": null
+                }
+              }
+            ],
+            "type": {
+              "name": null,
+              "kind": "NON_NULL",
+              "ofType": {
+                "name": "FleaMarket",
+                "kind": "OBJECT",
+                "ofType": null
+              }
+            }
+          },
+          {
+            "name": "armorMaterials",
+            "description": null,
+            "args": [
+              {
+                "name": "lang",
+                "type": {
+                  "name": "LanguageCode",
+                  "kind": "ENUM",
+                  "ofType": null
+                }
+              }
+            ],
+            "type": {
+              "name": null,
+              "kind": "NON_NULL",
+              "ofType": {
+                "name": null,
+                "kind": "LIST",
+                "ofType": {
+                  "name": "ArmorMaterial",
+                  "kind": "OBJECT"
+                }
+              }
+            }
+          },
+          {
+            "name": "playerLevels",
+            "description": null,
+            "args": [],
+            "type": {
+              "name": null,
+              "kind": "NON_NULL",
+              "ofType": {
+                "name": null,
+                "kind": "LIST",
+                "ofType": {
+                  "name": "PlayerLevel",
+                  "kind": "OBJECT"
+                }
+              }
+            }
+          },
+          {
+            "name": "prestige",
+            "description": null,
+            "args": [
+              {
+                "name": "lang",
+                "type": {
+                  "name": "LanguageCode",
+                  "kind": "ENUM",
+                  "ofType": null
+                }
+              },
+              {
+                "name": "gameMode",
+                "type": {
+                  "name": "GameMode",
+                  "kind": "ENUM",
+                  "ofType": null
+                }
+              }
+            ],
+            "type": {
+              "name": null,
+              "kind": "NON_NULL",
+              "ofType": {
+                "name": null,
+                "kind": "LIST",
+                "ofType": {
+                  "name": "Prestige",
+                  "kind": "OBJECT"
+                }
+              }
+            }
+          },
+          {
+            "name": "skills",
+            "description": null,
+            "args": [
+              {
+                "name": "lang",
+                "type": {
+                  "name": "LanguageCode",
+                  "kind": "ENUM",
+                  "ofType": null
+                }
+              }
+            ],
+            "type": {
+              "name": null,
+              "kind": "NON_NULL",
+              "ofType": {
+                "name": null,
+                "kind": "LIST",
+                "ofType": {
+                  "name": "Skill",
+                  "kind": "OBJECT"
+                }
+              }
+            }
+          },
+          {
+            "name": "mastering",
+            "description": null,
+            "args": [
+              {
+                "name": "lang",
+                "type": {
+                  "name": "LanguageCode",
+                  "kind": "ENUM",
+                  "ofType": null
+                }
+              }
+            ],
+            "type": {
+              "name": null,
+              "kind": "NON_NULL",
+              "ofType": {
+                "name": null,
+                "kind": "LIST",
+                "ofType": {
+                  "name": "Mastering",
+                  "kind": "OBJECT"
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

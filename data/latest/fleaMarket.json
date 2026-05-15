@@ -1,0 +1,89 @@
+{
+  "name": "Flea Market",
+  "normalizedName": "flea-market",
+  "minPlayerLevel": 15,
+  "enabled": true,
+  "foundInRaidRequired": false,
+  "sellOfferFeeRate": 0.03,
+  "sellRequirementFeeRate": 0.03,
+  "reputationLevels": [
+    {
+      "offers": 1,
+      "offersSpecialEditions": 1,
+      "minRep": -10000,
+      "maxRep": -10
+    },
+    {
+      "offers": 2,
+      "offersSpecialEditions": 3,
+      "minRep": -10,
+      "maxRep": -2
+    },
+    {
+      "offers": 3,
+      "offersSpecialEditions": 4,
+      "minRep": -2,
+      "maxRep": 0.2
+    },
+    {
+      "offers": 4,
+      "offersSpecialEditions": 5,
+      "minRep": 0.2,
+      "maxRep": 7
+    },
+    {
+      "offers": 5,
+      "offersSpecialEditions": 6,
+      "minRep": 7,
+      "maxRep": 30
+    },
+    {
+      "offers": 6,
+      "offersSpecialEditions": 7,
+      "minRep": 30,
+      "maxRep": 60
+    },
+    {
+      "offers": 7,
+      "offersSpecialEditions": 8,
+      "minRep": 60,
+      "maxRep": 150
+    },
+    {
+      "offers": 8,
+      "offersSpecialEditions": 9,
+      "minRep": 150,
+      "maxRep": 200
+    },
+    {
+      "offers": 9,
+      "offersSpecialEditions": 10,
+      "minRep": 200,
+      "maxRep": 250
+    },
+    {
+      "offers": 10,
+      "offersSpecialEditions": 11,
+      "minRep": 250,
+      "maxRep": 500
+    },
+    {
+      "offers": 11,
+      "offersSpecialEditions": 12,
+      "minRep": 500,
+      "maxRep": 750
+    },
+    {
+      "offers": 12,
+      "offersSpecialEditions": 13,
+      "minRep": 750,
+      "maxRep": 1000
+    },
+    {
+      "offers": 15,
+      "offersSpecialEditions": 16,
+      "minRep": 1000,
+      "maxRep": 10000
+    }
+  ]
+}

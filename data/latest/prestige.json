@@ -1,0 +1,610 @@
+[
+  {
+    "id": "672df12f97f0469cea52f55e",
+    "name": "Prestige 1",
+    "prestigeLevel": 1,
+    "imageLink": "https://assets.tarkov.dev/prestige-1-image.webp",
+    "iconLink": "https://assets.tarkov.dev/prestige-1-icon.webp",
+    "conditions": [
+      {
+        "id": "672df325cea63f5a813f7227",
+        "type": "playerLevel",
+        "description": "",
+        "optional": false,
+        "maps": []
+      },
+      {
+        "id": "6761fe66b41bc1e8222b5b6e",
+        "type": "taskStatus",
+        "description": "",
+        "optional": false,
+        "maps": []
+      },
+      {
+        "id": "6761efd8f619f2e097536690",
+        "type": "hideoutStation",
+        "description": "6761efd8f619f2e097536690",
+        "optional": false,
+        "maps": []
+      },
+      {
+        "id": "6761efeabbe49f4699336bf5",
+        "type": "hideoutStation",
+        "description": "6761efeabbe49f4699336bf5",
+        "optional": false,
+        "maps": []
+      },
+      {
+        "id": "69fa1d6e65a035c5d3b553d8",
+        "type": "hideoutStation",
+        "description": "69fa1d6e65a035c5d3b553d8",
+        "optional": false,
+        "maps": []
+      },
+      {
+        "id": "675d724875542400d1f90100",
+        "type": "haveItem",
+        "description": "",
+        "optional": false,
+        "maps": []
+      }
+    ],
+    "rewards": {
+      "offerUnlock": [],
+      "skillLevelReward": [
+        {
+          "name": "Charisma",
+          "level": 1
+        }
+      ],
+      "traderStanding": [],
+      "traderUnlock": [],
+      "items": [
+        {
+          "count": 1,
+          "item": {
+            "id": "6759bb94b8913ff13e049669",
+            "name": "What You Seek poster"
+          }
+        },
+        {
+          "count": 1,
+          "item": {
+            "id": "67614b542eb91250020f2b86",
+            "name": "Armband (Prestige 1)"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "672df4281ab8d9c8849a0c88",
+    "name": "Prestige 2",
+    "prestigeLevel": 2,
+    "imageLink": "https://assets.tarkov.dev/prestige-2-image.webp",
+    "iconLink": "https://assets.tarkov.dev/prestige-2-icon.webp",
+    "conditions": [
+      {
+        "id": "672df4281e1344e35bcbd670",
+        "type": "playerLevel",
+        "description": "",
+        "optional": false,
+        "maps": []
+      },
+      {
+        "id": "67620a1f2e64e3f5c982585c",
+        "type": "taskStatus",
+        "description": "",
+        "optional": false,
+        "maps": []
+      },
+      {
+        "id": "6761f0951e241947b3439dbd",
+        "type": "skill",
+        "description": "",
+        "optional": false,
+        "maps": []
+      },
+      {
+        "id": "6761f08995d00b8a8594bfbf",
+        "type": "skill",
+        "description": "",
+        "optional": false,
+        "maps": []
+      },
+      {
+        "id": "6761f0a11961e431bb8b7915",
+        "type": "skill",
+        "description": "",
+        "optional": false,
+        "maps": []
+      },
+      {
+        "id": "6761f0e136ae4b74063f0301",
+        "type": "hideoutStation",
+        "description": "6761f0e136ae4b74063f0301",
+        "optional": false,
+        "maps": []
+      },
+      {
+        "id": "6761f0db439c5eb5cb24748e",
+        "type": "hideoutStation",
+        "description": "6761f0db439c5eb5cb24748e",
+        "optional": false,
+        "maps": []
+      },
+      {
+        "id": "69fa25f6b7ae74e8f89c5081",
+        "type": "hideoutStation",
+        "description": "69fa25f6b7ae74e8f89c5081",
+        "optional": false,
+        "maps": []
+      },
+      {
+        "id": "675d71e9bd393adc11c40d14",
+        "type": "haveItem",
+        "description": "",
+        "optional": false,
+        "maps": []
+      }
+    ],
+    "rewards": {
+      "offerUnlock": [],
+      "skillLevelReward": [
+        {
+          "name": "Charisma",
+          "level": 1
+        }
+      ],
+      "traderStanding": [],
+      "traderUnlock": [],
+      "items": [
+        {
+          "count": 1,
+          "item": {
+            "id": "674d90b55704568fe60bc8f5",
+            "name": "Akula push dagger"
+          }
+        },
+        {
+          "count": 1,
+          "item": {
+            "id": "6759e07e4ff23436160d7fed",
+            "name": "I Bear Loot poster"
+          }
+        },
+        {
+          "count": 1,
+          "item": {
+            "id": "67614b6b47c71ea3d40256d7",
+            "name": "Armband (Prestige 2)"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "683da91d6f472cfa738c52f2",
+    "name": "Prestige 3",
+    "prestigeLevel": 3,
+    "imageLink": "https://assets.tarkov.dev/prestige-3-image.webp",
+    "iconLink": "https://assets.tarkov.dev/prestige-3-icon.webp",
+    "conditions": [
+      {
+        "id": "683da91dc19b0046298f13ba",
+        "type": "playerLevel",
+        "description": "",
+        "optional": false,
+        "maps": []
+      },
+      {
+        "id": "683da91de231c42903872790",
+        "type": "taskStatus",
+        "description": "",
+        "optional": false,
+        "maps": []
+      },
+      {
+        "id": "683da91df9d6f7178e4028bf",
+        "type": "skill",
+        "description": "",
+        "optional": false,
+        "maps": []
+      },
+      {
+        "id": "683da91db5a1742fce1ab919",
+        "type": "skill",
+        "description": "",
+        "optional": false,
+        "maps": []
+      },
+      {
+        "id": "683da91da64e2f4c163c0a71",
+        "type": "skill",
+        "description": "",
+        "optional": false,
+        "maps": []
+      },
+      {
+        "id": "683da91d3ba6beee15ae15e5",
+        "type": "hideoutStation",
+        "description": "683da91d3ba6beee15ae15e5",
+        "optional": false,
+        "maps": []
+      },
+      {
+        "id": "683da91de6fa1f57116cd578",
+        "type": "hideoutStation",
+        "description": "683da91de6fa1f57116cd578",
+        "optional": false,
+        "maps": []
+      },
+      {
+        "id": "69fa26c1b2f4480e879ce0cd",
+        "type": "hideoutStation",
+        "description": "69fa26c1b2f4480e879ce0cd",
+        "optional": false,
+        "maps": []
+      },
+      {
+        "id": "683da91dcbaecbd131ba3a36",
+        "type": "haveItem",
+        "description": "",
+        "optional": false,
+        "maps": []
+      }
+    ],
+    "rewards": {
+      "offerUnlock": [],
+      "skillLevelReward": [
+        {
+          "name": "Charisma",
+          "level": 1
+        }
+      ],
+      "traderStanding": [],
+      "traderUnlock": [],
+      "items": [
+        {
+          "count": 1,
+          "item": {
+            "id": "6841b6b674a3c16f5e03d653",
+            "name": "PMC Origins figurine"
+          }
+        },
+        {
+          "count": 1,
+          "item": {
+            "id": "6841b179322db20d190b4b99",
+            "name": "Get a Life poster"
+          }
+        },
+        {
+          "count": 1,
+          "item": {
+            "id": "6841b2506c1fcc41ed0db319",
+            "name": "Armband (Prestige 3)"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "6842f121000d98ce33b9a60f",
+    "name": "Prestige 4",
+    "prestigeLevel": 4,
+    "imageLink": "https://assets.tarkov.dev/prestige-4-image.webp",
+    "iconLink": "https://assets.tarkov.dev/prestige-4-icon.webp",
+    "conditions": [
+      {
+        "id": "6842f121cef417ef53cc90a0",
+        "type": "playerLevel",
+        "description": "",
+        "optional": false,
+        "maps": []
+      },
+      {
+        "id": "6842f121c033d3512e2682d2",
+        "type": "taskStatus",
+        "description": "",
+        "optional": false,
+        "maps": []
+      },
+      {
+        "id": "6842f121b2b5feddbb55172d",
+        "type": "skill",
+        "description": "",
+        "optional": false,
+        "maps": []
+      },
+      {
+        "id": "6842f121b524778424c2faab",
+        "type": "skill",
+        "description": "",
+        "optional": false,
+        "maps": []
+      },
+      {
+        "id": "6842f12139a9154e5a9014cd",
+        "type": "skill",
+        "description": "",
+        "optional": false,
+        "maps": []
+      },
+      {
+        "id": "6842f121ddf9d10aa5a1c254",
+        "type": "hideoutStation",
+        "description": "6842f121ddf9d10aa5a1c254",
+        "optional": false,
+        "maps": []
+      },
+      {
+        "id": "6842f12162f7d28696db3a3e",
+        "type": "hideoutStation",
+        "description": "6842f12162f7d28696db3a3e",
+        "optional": false,
+        "maps": []
+      },
+      {
+        "id": "69fa271c5df83bfc367bba15",
+        "type": "hideoutStation",
+        "description": "69fa271c5df83bfc367bba15",
+        "optional": false,
+        "maps": []
+      },
+      {
+        "id": "6842f121065f0486f7c5bb56",
+        "type": "haveItem",
+        "description": "",
+        "optional": false,
+        "maps": []
+      }
+    ],
+    "rewards": {
+      "offerUnlock": [],
+      "skillLevelReward": [
+        {
+          "name": "Charisma",
+          "level": 1
+        }
+      ],
+      "traderStanding": [],
+      "traderUnlock": [],
+      "items": [
+        {
+          "count": 1,
+          "item": {
+            "id": "6841b3463fcc417de40a6768",
+            "name": "Armband (Prestige 4)"
+          }
+        },
+        {
+          "count": 1,
+          "item": {
+            "id": "6841b1ff51bf8645f7067bca",
+            "name": "Get a Paw poster"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "68d3ddb4fc101237e601d774",
+    "name": "Prestige 5",
+    "prestigeLevel": 5,
+    "imageLink": "https://assets.tarkov.dev/prestige-5-image.webp",
+    "iconLink": "https://assets.tarkov.dev/prestige-5-icon.webp",
+    "conditions": [
+      {
+        "id": "68d3ddb4082777aca7357284",
+        "type": "playerLevel",
+        "description": "",
+        "optional": false,
+        "maps": []
+      },
+      {
+        "id": "68d3ddb415034199b86b8d68",
+        "type": "taskStatus",
+        "description": "",
+        "optional": false,
+        "maps": []
+      },
+      {
+        "id": "68d3ddb4dbfce49d11eb96e6",
+        "type": "skill",
+        "description": "",
+        "optional": false,
+        "maps": []
+      },
+      {
+        "id": "68d3ddb4288e9ebf7d9fd372",
+        "type": "skill",
+        "description": "",
+        "optional": false,
+        "maps": []
+      },
+      {
+        "id": "68d3ddb4e20dd5fd2bb1a3b1",
+        "type": "skill",
+        "description": "",
+        "optional": false,
+        "maps": []
+      },
+      {
+        "id": "68d3ddb415cc358f89d70794",
+        "type": "hideoutStation",
+        "description": "68d3ddb415cc358f89d70794",
+        "optional": false,
+        "maps": []
+      },
+      {
+        "id": "68d3ddb41d2772dc2d632a6e",
+        "type": "hideoutStation",
+        "description": "68d3ddb41d2772dc2d632a6e",
+        "optional": false,
+        "maps": []
+      },
+      {
+        "id": "68d3ddb4c3a680af079c59a9",
+        "type": "haveItem",
+        "description": "",
+        "optional": false,
+        "maps": []
+      },
+      {
+        "id": "68d3ddb4fa5a084ed04ea23b",
+        "type": "hideoutStation",
+        "description": "68d3ddb4fa5a084ed04ea23b",
+        "optional": false,
+        "maps": []
+      }
+    ],
+    "rewards": {
+      "offerUnlock": [],
+      "skillLevelReward": [
+        {
+          "name": "Charisma",
+          "level": 1
+        }
+      ],
+      "traderStanding": [],
+      "traderUnlock": [],
+      "items": [
+        {
+          "count": 1,
+          "item": {
+            "id": "6841b3ab322db20d190b4b9b",
+            "name": "Armband (Prestige 5)"
+          }
+        },
+        {
+          "count": 1,
+          "item": {
+            "id": "68f0f8a1375a44d1ed01ea4b",
+            "name": "Killagirl poster"
+          }
+        },
+        {
+          "count": 1,
+          "item": {
+            "id": "68f244ae22c8979ee308f4d8",
+            "name": "NKVD Finka knife"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "68d3e6f46a7ba36646713fa6",
+    "name": "Prestige 6",
+    "prestigeLevel": 6,
+    "imageLink": "https://assets.tarkov.dev/prestige-6-image.webp",
+    "iconLink": "https://assets.tarkov.dev/prestige-6-icon.webp",
+    "conditions": [
+      {
+        "id": "68d3e6f49ce46cdad00a8225",
+        "type": "playerLevel",
+        "description": "",
+        "optional": false,
+        "maps": []
+      },
+      {
+        "id": "68d3e6f40b976d94f72dde5e",
+        "type": "taskStatus",
+        "description": "",
+        "optional": false,
+        "maps": []
+      },
+      {
+        "id": "68d3e6f479d37030452be22d",
+        "type": "skill",
+        "description": "",
+        "optional": false,
+        "maps": []
+      },
+      {
+        "id": "68d3e6f4c3a6f61ae9dd0346",
+        "type": "skill",
+        "description": "",
+        "optional": false,
+        "maps": []
+      },
+      {
+        "id": "68d3e6f4dff37d0dff3ee61d",
+        "type": "skill",
+        "description": "",
+        "optional": false,
+        "maps": []
+      },
+      {
+        "id": "68d3e6f4267a3438dcfa0538",
+        "type": "hideoutStation",
+        "description": "68d3e6f4267a3438dcfa0538",
+        "optional": false,
+        "maps": []
+      },
+      {
+        "id": "68d3e6f4884fefb665ba6d33",
+        "type": "hideoutStation",
+        "description": "68d3e6f4884fefb665ba6d33",
+        "optional": false,
+        "maps": []
+      },
+      {
+        "id": "68d3e6f46425c6914bf40041",
+        "type": "hideoutStation",
+        "description": "68d3e6f46425c6914bf40041",
+        "optional": false,
+        "maps": []
+      },
+      {
+        "id": "68d3e6f42716e9ceb94e9b6b",
+        "type": "haveItem",
+        "description": "",
+        "optional": false,
+        "maps": []
+      }
+    ],
+    "rewards": {
+      "offerUnlock": [],
+      "skillLevelReward": [
+        {
+          "name": "Charisma",
+          "level": 1
+        }
+      ],
+      "traderStanding": [],
+      "traderUnlock": [],
+      "items": [
+        {
+          "count": 1,
+          "item": {
+            "id": "68f0f8f1a1e799f1c3027c71",
+            "name": "Chronicles of Ryzhy poster"
+          }
+        },
+        {
+          "count": 1,
+          "item": {
+            "id": "68f117b8121d878a2303eee0",
+            "name": "Secure container Gamma (Loui Peeton)"
+          }
+        },
+        {
+          "count": 1,
+          "item": {
+            "id": "68f11224197b61ffe703b16f",
+            "name": "Hardened PMC figurine"
+          }
+        },
+        {
+          "count": 1,
+          "item": {
+            "id": "68d65766916a108d7a023c98",
+            "name": "Armband (Prestige 6)"
+          }
+        }
+      ]
+    }
+  }
+]

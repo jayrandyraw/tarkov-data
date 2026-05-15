@@ -1,0 +1,652 @@
+[
+  {
+    "id": "54cb50c76803fa8b248b4571",
+    "name": "Prapor",
+    "normalizedName": "prapor",
+    "description": "The Warrant officer in charge of supply warehouses on the sustaining base enforcing the Norvinsk region blockade. Secretly supplied the BEAR PMC operators with weapons, ammunition, and various other provisions he had at his disposal during the Contract Wars.",
+    "resetTime": "2026-05-15T01:17:36.000Z",
+    "discount": 0,
+    "levels": [
+      {
+        "id": "54cb50c76803fa8b248b4571-1",
+        "level": 1,
+        "requiredPlayerLevel": 0,
+        "requiredReputation": 0,
+        "requiredCommerce": 0,
+        "payRate": 0.5,
+        "insuranceRate": 0.16,
+        "repairCostMultiplier": 3.4
+      },
+      {
+        "id": "54cb50c76803fa8b248b4571-2",
+        "level": 2,
+        "requiredPlayerLevel": 15,
+        "requiredReputation": 0.2,
+        "requiredCommerce": 1120000,
+        "payRate": 0.5,
+        "insuranceRate": 0.17,
+        "repairCostMultiplier": 3.7
+      },
+      {
+        "id": "54cb50c76803fa8b248b4571-3",
+        "level": 3,
+        "requiredPlayerLevel": 26,
+        "requiredReputation": 0.35,
+        "requiredCommerce": 2700000,
+        "payRate": 0.5,
+        "insuranceRate": 0.18,
+        "repairCostMultiplier": 3.85
+      },
+      {
+        "id": "54cb50c76803fa8b248b4571-4",
+        "level": 4,
+        "requiredPlayerLevel": 36,
+        "requiredReputation": 0.5,
+        "requiredCommerce": 3400000,
+        "payRate": 0.5,
+        "insuranceRate": 0.19,
+        "repairCostMultiplier": 4
+      }
+    ],
+    "imageLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571.webp",
+    "image4xLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571-4x.webp",
+    "currency": {
+      "id": "5449016a4bdc2d6f028b456f",
+      "name": "Roubles"
+    }
+  },
+  {
+    "id": "54cb57776803fa99248b456e",
+    "name": "Therapist",
+    "normalizedName": "therapist",
+    "description": "Head of the Trauma Care Department of the Tarkov Central City Hospital.",
+    "resetTime": "2026-05-15T00:58:53.000Z",
+    "discount": 0,
+    "levels": [
+      {
+        "id": "54cb57776803fa99248b456e-1",
+        "level": 1,
+        "requiredPlayerLevel": 0,
+        "requiredReputation": 0,
+        "requiredCommerce": 0,
+        "payRate": 0.63,
+        "insuranceRate": 0.2,
+        "repairCostMultiplier": null
+      },
+      {
+        "id": "54cb57776803fa99248b456e-2",
+        "level": 2,
+        "requiredPlayerLevel": 14,
+        "requiredReputation": 0.15,
+        "requiredCommerce": 600000,
+        "payRate": 0.63,
+        "insuranceRate": 0.21,
+        "repairCostMultiplier": null
+      },
+      {
+        "id": "54cb57776803fa99248b456e-3",
+        "level": 3,
+        "requiredPlayerLevel": 23,
+        "requiredReputation": 0.3,
+        "requiredCommerce": 1000000,
+        "payRate": 0.63,
+        "insuranceRate": 0.22,
+        "repairCostMultiplier": null
+      },
+      {
+        "id": "54cb57776803fa99248b456e-4",
+        "level": 4,
+        "requiredPlayerLevel": 37,
+        "requiredReputation": 0.6,
+        "requiredCommerce": 1600000,
+        "payRate": 0.63,
+        "insuranceRate": 0.23,
+        "repairCostMultiplier": null
+      }
+    ],
+    "imageLink": "https://assets.tarkov.dev/54cb57776803fa99248b456e.webp",
+    "image4xLink": "https://assets.tarkov.dev/54cb57776803fa99248b456e-4x.webp",
+    "currency": {
+      "id": "5449016a4bdc2d6f028b456f",
+      "name": "Roubles"
+    }
+  },
+  {
+    "id": "579dc571d53a0658a154fbec",
+    "name": "Fence",
+    "normalizedName": "fence",
+    "description": "The conflict had barely started when Fence began setting up anonymous outlets for buying and selling goods. Keeping incognito, he nevertheless managed to put together a well-organised smuggler network, operating all over the Norvinsk region.",
+    "resetTime": "2026-05-15T01:47:41.000Z",
+    "discount": 0,
+    "levels": [
+      {
+        "id": "579dc571d53a0658a154fbec-0",
+        "level": 0,
+        "requiredPlayerLevel": 1,
+        "requiredReputation": 0,
+        "requiredCommerce": 0,
+        "payRate": 0.3,
+        "insuranceRate": null,
+        "repairCostMultiplier": null
+      },
+      {
+        "id": "579dc571d53a0658a154fbec-1",
+        "level": 1,
+        "requiredPlayerLevel": 1,
+        "requiredReputation": 0,
+        "requiredCommerce": 0,
+        "payRate": 0.3,
+        "insuranceRate": null,
+        "repairCostMultiplier": null
+      },
+      {
+        "id": "579dc571d53a0658a154fbec-2",
+        "level": 2,
+        "requiredPlayerLevel": 1,
+        "requiredReputation": 6,
+        "requiredCommerce": 0,
+        "payRate": 0.3,
+        "insuranceRate": null,
+        "repairCostMultiplier": null
+      }
+    ],
+    "imageLink": "https://assets.tarkov.dev/579dc571d53a0658a154fbec.webp",
+    "image4xLink": "https://assets.tarkov.dev/579dc571d53a0658a154fbec-4x.webp",
+    "currency": {
+      "id": "5449016a4bdc2d6f028b456f",
+      "name": "Roubles"
+    }
+  },
+  {
+    "id": "58330581ace78e27b8b10cee",
+    "name": "Skier",
+    "normalizedName": "skier",
+    "description": "Previously a port zone customs terminal employee, who initially oversaw dealings of the terminal's goods. Over the course of the conflict, he put together a gang of thugs in order to grab everything of value that he could lay his hands on in the vicinity of the terminal.",
+    "resetTime": "2026-05-15T01:52:30.000Z",
+    "discount": 0,
+    "levels": [
+      {
+        "id": "58330581ace78e27b8b10cee-1",
+        "level": 1,
+        "requiredPlayerLevel": 1,
+        "requiredReputation": 0,
+        "requiredCommerce": 0,
+        "payRate": 0.49,
+        "insuranceRate": null,
+        "repairCostMultiplier": 3.75
+      },
+      {
+        "id": "58330581ace78e27b8b10cee-2",
+        "level": 2,
+        "requiredPlayerLevel": 15,
+        "requiredReputation": 0.2,
+        "requiredCommerce": 1200000,
+        "payRate": 0.49,
+        "insuranceRate": null,
+        "repairCostMultiplier": 3.9
+      },
+      {
+        "id": "58330581ace78e27b8b10cee-3",
+        "level": 3,
+        "requiredPlayerLevel": 28,
+        "requiredReputation": 0.4,
+        "requiredCommerce": 2400000,
+        "payRate": 0.49,
+        "insuranceRate": null,
+        "repairCostMultiplier": 4.1
+      },
+      {
+        "id": "58330581ace78e27b8b10cee-4",
+        "level": 4,
+        "requiredPlayerLevel": 38,
+        "requiredReputation": 0.75,
+        "requiredCommerce": 3900000,
+        "payRate": 0.49,
+        "insuranceRate": null,
+        "repairCostMultiplier": 4.25
+      }
+    ],
+    "imageLink": "https://assets.tarkov.dev/58330581ace78e27b8b10cee.webp",
+    "image4xLink": "https://assets.tarkov.dev/58330581ace78e27b8b10cee-4x.webp",
+    "currency": {
+      "id": "5449016a4bdc2d6f028b456f",
+      "name": "Roubles"
+    }
+  },
+  {
+    "id": "5935c25fb3acc3127c3d8cd9",
+    "name": "Peacekeeper",
+    "normalizedName": "peacekeeper",
+    "description": "UN peacekeeping Force supply officer, based in one of the central checkpoints leading to the Tarkov port zone. The blue helmets have been seen poking their heads into small deals from the very beginning of the conflict, buying everything of value in exchange for western weapons, ammo, and all kinds of military equipment.",
+    "resetTime": "2026-05-15T03:44:19.000Z",
+    "discount": 0,
+    "levels": [
+      {
+        "id": "5935c25fb3acc3127c3d8cd9-1",
+        "level": 1,
+        "requiredPlayerLevel": 1,
+        "requiredReputation": 0,
+        "requiredCommerce": 0,
+        "payRate": 0.45,
+        "insuranceRate": null,
+        "repairCostMultiplier": null
+      },
+      {
+        "id": "5935c25fb3acc3127c3d8cd9-2",
+        "level": 2,
+        "requiredPlayerLevel": 14,
+        "requiredReputation": 0,
+        "requiredCommerce": 16000,
+        "payRate": 0.45,
+        "insuranceRate": null,
+        "repairCostMultiplier": null
+      },
+      {
+        "id": "5935c25fb3acc3127c3d8cd9-3",
+        "level": 3,
+        "requiredPlayerLevel": 23,
+        "requiredReputation": 0.3,
+        "requiredCommerce": 37000,
+        "payRate": 0.45,
+        "insuranceRate": null,
+        "repairCostMultiplier": null
+      },
+      {
+        "id": "5935c25fb3acc3127c3d8cd9-4",
+        "level": 4,
+        "requiredPlayerLevel": 37,
+        "requiredReputation": 0.6,
+        "requiredCommerce": 55000,
+        "payRate": 0.45,
+        "insuranceRate": null,
+        "repairCostMultiplier": null
+      }
+    ],
+    "imageLink": "https://assets.tarkov.dev/5935c25fb3acc3127c3d8cd9.webp",
+    "image4xLink": "https://assets.tarkov.dev/5935c25fb3acc3127c3d8cd9-4x.webp",
+    "currency": {
+      "id": "5696686a4bdc2da3298b456a",
+      "name": "Dollars"
+    }
+  },
+  {
+    "id": "5a7c2eca46aef81a7ca2145d",
+    "name": "Mechanic",
+    "normalizedName": "mechanic",
+    "description": "A former chemical plant foreman, who from the very beginning of the conflict took to weapon modification, repairs, and maintenance of complex equipment and technology. He prefers clandestine solo living and operates discreetly, while placing complicated and challenging tasks above all else.",
+    "resetTime": "2026-05-15T02:56:01.000Z",
+    "discount": 0,
+    "levels": [
+      {
+        "id": "5a7c2eca46aef81a7ca2145d-1",
+        "level": 1,
+        "requiredPlayerLevel": 1,
+        "requiredReputation": 0,
+        "requiredCommerce": 0,
+        "payRate": 0.56,
+        "insuranceRate": null,
+        "repairCostMultiplier": 4.1
+      },
+      {
+        "id": "5a7c2eca46aef81a7ca2145d-2",
+        "level": 2,
+        "requiredPlayerLevel": 20,
+        "requiredReputation": 0.15,
+        "requiredCommerce": 1120000,
+        "payRate": 0.56,
+        "insuranceRate": null,
+        "repairCostMultiplier": 4.25
+      },
+      {
+        "id": "5a7c2eca46aef81a7ca2145d-3",
+        "level": 3,
+        "requiredPlayerLevel": 30,
+        "requiredReputation": 0.3,
+        "requiredCommerce": 2400000,
+        "payRate": 0.56,
+        "insuranceRate": null,
+        "repairCostMultiplier": 4.4
+      },
+      {
+        "id": "5a7c2eca46aef81a7ca2145d-4",
+        "level": 4,
+        "requiredPlayerLevel": 40,
+        "requiredReputation": 0.6,
+        "requiredCommerce": 3700000,
+        "payRate": 0.56,
+        "insuranceRate": null,
+        "repairCostMultiplier": 4.6
+      }
+    ],
+    "imageLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d.webp",
+    "image4xLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d-4x.webp",
+    "currency": {
+      "id": "5449016a4bdc2d6f028b456f",
+      "name": "Roubles"
+    }
+  },
+  {
+    "id": "5ac3b934156ae10c4430e83c",
+    "name": "Ragman",
+    "normalizedName": "ragman",
+    "description": "Previously, he worked as a director in a shopping center located in the suburbs of Tarkov. Now dealing in mostly clothing- and gear-related items, anywhere from sunglasses to body armor.",
+    "resetTime": "2026-05-15T03:48:41.000Z",
+    "discount": 0,
+    "levels": [
+      {
+        "id": "5ac3b934156ae10c4430e83c-1",
+        "level": 1,
+        "requiredPlayerLevel": 1,
+        "requiredReputation": 0,
+        "requiredCommerce": 0,
+        "payRate": 0.62,
+        "insuranceRate": null,
+        "repairCostMultiplier": null
+      },
+      {
+        "id": "5ac3b934156ae10c4430e83c-2",
+        "level": 2,
+        "requiredPlayerLevel": 17,
+        "requiredReputation": 0,
+        "requiredCommerce": 1120000,
+        "payRate": 0.62,
+        "insuranceRate": null,
+        "repairCostMultiplier": null
+      },
+      {
+        "id": "5ac3b934156ae10c4430e83c-3",
+        "level": 3,
+        "requiredPlayerLevel": 32,
+        "requiredReputation": 0.3,
+        "requiredCommerce": 2400000,
+        "payRate": 0.62,
+        "insuranceRate": null,
+        "repairCostMultiplier": null
+      },
+      {
+        "id": "5ac3b934156ae10c4430e83c-4",
+        "level": 4,
+        "requiredPlayerLevel": 42,
+        "requiredReputation": 0.6,
+        "requiredCommerce": 3700000,
+        "payRate": 0.62,
+        "insuranceRate": null,
+        "repairCostMultiplier": null
+      }
+    ],
+    "imageLink": "https://assets.tarkov.dev/5ac3b934156ae10c4430e83c.webp",
+    "image4xLink": "https://assets.tarkov.dev/5ac3b934156ae10c4430e83c-4x.webp",
+    "currency": {
+      "id": "5449016a4bdc2d6f028b456f",
+      "name": "Roubles"
+    }
+  },
+  {
+    "id": "5c0647fdd443bc2504c2d371",
+    "name": "Jaeger",
+    "normalizedName": "jaeger",
+    "description": "Before the conflict, he worked as a hunter in the Priozersk Natural Reserve under the State Hunting Service. A professional hunter and survival specialist. Even now, he still guards the reserve's hunting grounds from various aggressive individuals.",
+    "resetTime": "2026-05-15T01:51:30.000Z",
+    "discount": 0,
+    "levels": [
+      {
+        "id": "5c0647fdd443bc2504c2d371-1",
+        "level": 1,
+        "requiredPlayerLevel": 1,
+        "requiredReputation": 0,
+        "requiredCommerce": 0,
+        "payRate": 0.6,
+        "insuranceRate": null,
+        "repairCostMultiplier": null
+      },
+      {
+        "id": "5c0647fdd443bc2504c2d371-2",
+        "level": 2,
+        "requiredPlayerLevel": 15,
+        "requiredReputation": 0.2,
+        "requiredCommerce": 840000,
+        "payRate": 0.6,
+        "insuranceRate": null,
+        "repairCostMultiplier": null
+      },
+      {
+        "id": "5c0647fdd443bc2504c2d371-3",
+        "level": 3,
+        "requiredPlayerLevel": 22,
+        "requiredReputation": 0.35,
+        "requiredCommerce": 1680000,
+        "payRate": 0.6,
+        "insuranceRate": null,
+        "repairCostMultiplier": null
+      },
+      {
+        "id": "5c0647fdd443bc2504c2d371-4",
+        "level": 4,
+        "requiredPlayerLevel": 33,
+        "requiredReputation": 0.5,
+        "requiredCommerce": 2580000,
+        "payRate": 0.6,
+        "insuranceRate": null,
+        "repairCostMultiplier": null
+      }
+    ],
+    "imageLink": "https://assets.tarkov.dev/5c0647fdd443bc2504c2d371.webp",
+    "image4xLink": "https://assets.tarkov.dev/5c0647fdd443bc2504c2d371-4x.webp",
+    "currency": {
+      "id": "5449016a4bdc2d6f028b456f",
+      "name": "Roubles"
+    }
+  },
+  {
+    "id": "638f541a29ffd1183d187f57",
+    "name": "Lightkeeper",
+    "normalizedName": "lightkeeper",
+    "description": "<Classified>",
+    "resetTime": "2026-05-15T01:30:06.000Z",
+    "discount": 0,
+    "levels": [
+      {
+        "id": "638f541a29ffd1183d187f57-1",
+        "level": 1,
+        "requiredPlayerLevel": 1,
+        "requiredReputation": 0,
+        "requiredCommerce": 0,
+        "payRate": 0.0001,
+        "insuranceRate": null,
+        "repairCostMultiplier": null
+      }
+    ],
+    "imageLink": "https://assets.tarkov.dev/638f541a29ffd1183d187f57.webp",
+    "image4xLink": "https://assets.tarkov.dev/638f541a29ffd1183d187f57-4x.webp",
+    "currency": {
+      "id": "5449016a4bdc2d6f028b456f",
+      "name": "Roubles"
+    }
+  },
+  {
+    "id": "656f0f98d80a697f855d34b1",
+    "name": "BTR Driver",
+    "normalizedName": "btr-driver",
+    "description": "<Unknown>",
+    "resetTime": "2026-05-15T01:42:54.000Z",
+    "discount": 0,
+    "levels": [
+      {
+        "id": "656f0f98d80a697f855d34b1-1",
+        "level": 1,
+        "requiredPlayerLevel": 1,
+        "requiredReputation": 0,
+        "requiredCommerce": 0,
+        "payRate": 0.0001,
+        "insuranceRate": null,
+        "repairCostMultiplier": null
+      }
+    ],
+    "imageLink": "https://assets.tarkov.dev/656f0f98d80a697f855d34b1.webp",
+    "image4xLink": "https://assets.tarkov.dev/unknown-trader-4x.webp",
+    "currency": {
+      "id": "5449016a4bdc2d6f028b456f",
+      "name": "Roubles"
+    }
+  },
+  {
+    "id": "68fe15990f29ba3fdbba9d55",
+    "name": "Radio station",
+    "normalizedName": "radio-station",
+    "description": "A multi-function radio station with built-in cryptographic processor.",
+    "resetTime": "2026-05-15T01:12:54.000Z",
+    "discount": 0,
+    "levels": [
+      {
+        "id": "68fe15990f29ba3fdbba9d55-1",
+        "level": 1,
+        "requiredPlayerLevel": 1,
+        "requiredReputation": 0,
+        "requiredCommerce": 0,
+        "payRate": 0.0001,
+        "insuranceRate": null,
+        "repairCostMultiplier": null
+      }
+    ],
+    "imageLink": "https://assets.tarkov.dev/68fe15990f29ba3fdbba9d55.webp",
+    "image4xLink": "https://assets.tarkov.dev/unknown-trader-4x.webp",
+    "currency": {
+      "id": "5449016a4bdc2d6f028b456f",
+      "name": "Roubles"
+    }
+  },
+  {
+    "id": "68fe15910f29ba3fdbba9d54",
+    "name": "Taran",
+    "normalizedName": "taran",
+    "description": "Member of the Bogatyr squad.",
+    "resetTime": "2026-05-15T01:33:54.000Z",
+    "discount": 0,
+    "levels": [
+      {
+        "id": "68fe15910f29ba3fdbba9d54-1",
+        "level": 1,
+        "requiredPlayerLevel": 1,
+        "requiredReputation": 0,
+        "requiredCommerce": 0,
+        "payRate": 0.0001,
+        "insuranceRate": null,
+        "repairCostMultiplier": null
+      }
+    ],
+    "imageLink": "https://assets.tarkov.dev/68fe15910f29ba3fdbba9d54.webp",
+    "image4xLink": "https://assets.tarkov.dev/unknown-trader-4x.webp",
+    "currency": {
+      "id": "5449016a4bdc2d6f028b456f",
+      "name": "Roubles"
+    }
+  },
+  {
+    "id": "6617beeaa9cfa777ca915b7c",
+    "name": "Ref",
+    "normalizedName": "ref",
+    "description": "The Arena host who organizes pit fights across Tarkov.",
+    "resetTime": "2026-05-15T04:52:42.000Z",
+    "discount": 0,
+    "levels": [
+      {
+        "id": "6617beeaa9cfa777ca915b7c-1",
+        "level": 1,
+        "requiredPlayerLevel": 1,
+        "requiredReputation": 0,
+        "requiredCommerce": 0,
+        "payRate": 0.5,
+        "insuranceRate": null,
+        "repairCostMultiplier": null
+      },
+      {
+        "id": "6617beeaa9cfa777ca915b7c-2",
+        "level": 2,
+        "requiredPlayerLevel": 15,
+        "requiredReputation": 0.25,
+        "requiredCommerce": 0,
+        "payRate": 0.56,
+        "insuranceRate": null,
+        "repairCostMultiplier": null
+      },
+      {
+        "id": "6617beeaa9cfa777ca915b7c-3",
+        "level": 3,
+        "requiredPlayerLevel": 25,
+        "requiredReputation": 0.5,
+        "requiredCommerce": 0,
+        "payRate": 0.56,
+        "insuranceRate": null,
+        "repairCostMultiplier": null
+      },
+      {
+        "id": "6617beeaa9cfa777ca915b7c-4",
+        "level": 4,
+        "requiredPlayerLevel": 35,
+        "requiredReputation": 1.2,
+        "requiredCommerce": 0,
+        "payRate": 0.62,
+        "insuranceRate": null,
+        "repairCostMultiplier": null
+      }
+    ],
+    "imageLink": "https://assets.tarkov.dev/6617beeaa9cfa777ca915b7c.webp",
+    "image4xLink": "https://assets.tarkov.dev/6617beeaa9cfa777ca915b7c-4x.webp",
+    "currency": {
+      "id": "5449016a4bdc2d6f028b456f",
+      "name": "Roubles"
+    }
+  },
+  {
+    "id": "688246518448b05efd61d461",
+    "name": "Mr. Kerman",
+    "normalizedName": "mr-kerman",
+    "description": "<Unknown>",
+    "resetTime": "2026-05-15T01:44:54.000Z",
+    "discount": 0,
+    "levels": [
+      {
+        "id": "688246518448b05efd61d461-1",
+        "level": 1,
+        "requiredPlayerLevel": 1,
+        "requiredReputation": 0,
+        "requiredCommerce": 0,
+        "payRate": 0.0001,
+        "insuranceRate": null,
+        "repairCostMultiplier": null
+      }
+    ],
+    "imageLink": "https://assets.tarkov.dev/688246518448b05efd61d461.webp",
+    "image4xLink": "https://assets.tarkov.dev/unknown-trader-4x.webp",
+    "currency": {
+      "id": "5449016a4bdc2d6f028b456f",
+      "name": "Roubles"
+    }
+  },
+  {
+    "id": "688246958448b05efd61d462",
+    "name": "Voevoda",
+    "normalizedName": "voevoda",
+    "description": "Commander of the Bogatyr squad.",
+    "resetTime": "2026-05-15T01:12:54.000Z",
+    "discount": 0,
+    "levels": [
+      {
+        "id": "688246958448b05efd61d462-1",
+        "level": 1,
+        "requiredPlayerLevel": 1,
+        "requiredReputation": 0,
+        "requiredCommerce": 0,
+        "payRate": 0.0001,
+        "insuranceRate": null,
+        "repairCostMultiplier": null
+      }
+    ],
+    "imageLink": "https://assets.tarkov.dev/688246958448b05efd61d462.webp",
+    "image4xLink": "https://assets.tarkov.dev/unknown-trader-4x.webp",
+    "currency": {
+      "id": "5449016a4bdc2d6f028b456f",
+      "name": "Roubles"
+    }
+  }
+]
