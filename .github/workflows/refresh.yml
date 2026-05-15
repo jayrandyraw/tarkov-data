@@ -1,0 +1,45 @@
+name: Refresh tarkov.dev data
+
+on:
+  schedule:
+    - cron: "0 6 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Pull tarkov.dev data
+        working-directory: scripts
+        run: python pull_tarkov_dev.py
+
+      - name: Pull new item icons
+        working-directory: scripts
+        run: python pull_item_icons.py
+        continue-on-error: true
+
+      - name: Commit and push if anything changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/ icons/from-tarkov-dev/
+          if git diff --cached --quiet; then
+            echo "No changes detected — nothing to commit."
+          else
+            STAMP=$(date -u +"%Y-%m-%d %H:%M UTC")
+            git commit -m "Auto-refresh: ${STAMP}"
+            git push
+          fi
