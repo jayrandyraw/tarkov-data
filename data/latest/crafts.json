@@ -3,10 +3,6 @@
     "id": "63baedefe6ebc10fe0201083",
     "level": 3,
     "duration": 12400,
-    "station": {
-      "id": "5d484fda654e7600681d9315",
-      "name": "Workbench"
-    },
     "taskUnlock": {
       "id": "5c0d4e61d09282029f53920e",
       "name": "The Guide"
@@ -56,17 +52,17 @@
           "name": "4.6x30mm AP SX"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fda654e7600681d9315",
+      "name": "Workbench"
+    }
   },
   {
     "id": "5ffcaa60f3fdc212a91d552b",
     "level": 1,
     "duration": 2000,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fba654e7600691aadf7",
-      "name": "Lavatory"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -91,17 +87,17 @@
           "name": "Aramid fiber fabric"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fba654e7600691aadf7",
+      "name": "Lavatory"
+    }
   },
   {
     "id": "6002ed409f2c60461a2d0f5a",
     "level": 2,
     "duration": 8200,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fda654e7600681d9315",
-      "name": "Workbench"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -140,17 +136,17 @@
           "name": "Military circuit board"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fda654e7600681d9315",
+      "name": "Workbench"
+    }
   },
   {
     "id": "6002e55595c402039a2747f4",
     "level": 3,
     "duration": 476000,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fdf654e7600691aadf8",
-      "name": "Intelligence Center"
-    },
     "requiredItems": [
       {
         "count": 10,
@@ -196,17 +192,17 @@
           "name": "TerraGroup Labs keycard (Violet)"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fdf654e7600691aadf8",
+      "name": "Intelligence Center"
+    }
   },
   {
     "id": "67da01179cbeb8d6f4011961",
     "level": 1,
     "duration": 14400,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fdf654e7600691aadf8",
-      "name": "Intelligence Center"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -252,17 +248,17 @@
           "name": "Secure magnetic tape cassette"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fdf654e7600691aadf8",
+      "name": "Intelligence Center"
+    }
   },
   {
     "id": "5ffcab66fd851f4b000d61ef",
     "level": 2,
     "duration": 30000,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fba654e7600691aadf7",
-      "name": "Lavatory"
-    },
     "requiredItems": [
       {
         "count": 2,
@@ -308,17 +304,17 @@
           "name": "Grenade case"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fba654e7600691aadf7",
+      "name": "Lavatory"
+    }
   },
   {
     "id": "5d5c1f5ed582a543983ee82e",
     "level": 1,
     "duration": 1320,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fcd654e7668ec2ec322",
-      "name": "Medstation"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -336,17 +332,17 @@
           "name": "AI-2 medkit"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fcd654e7668ec2ec322",
+      "name": "Medstation"
+    }
   },
   {
     "id": "5ed9fd73f6626f08ef0efec6",
     "level": 2,
     "duration": 4350,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fcd654e7668ec2ec322",
-      "name": "Medstation"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -378,17 +374,17 @@
           "name": "Morphine injector"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fcd654e7668ec2ec322",
+      "name": "Medstation"
+    }
   },
   {
     "id": "5d93b91286f77467310ca15d",
     "level": 1,
     "duration": 1560,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fba654e7600691aadf7",
-      "name": "Lavatory"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -406,17 +402,17 @@
           "name": "Toilet paper"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fba654e7600691aadf7",
+      "name": "Lavatory"
+    }
   },
   {
     "id": "62a112fec1cce91d2c46a06e",
     "level": 1,
     "duration": 7200,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fdf654e7600691aadf8",
-      "name": "Intelligence Center"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -448,17 +444,17 @@
           "name": "Topographic survey maps"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fdf654e7600691aadf8",
+      "name": "Intelligence Center"
+    }
   },
   {
     "id": "655b505c32b0b1645e6f54c5",
     "level": 1,
     "duration": 3300,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fda654e7600681d9315",
-      "name": "Workbench"
-    },
     "requiredItems": [
       {
         "count": 150,
@@ -483,17 +479,17 @@
           "name": "9x18mm PM SP8 gzh"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fda654e7600681d9315",
+      "name": "Workbench"
+    }
   },
   {
     "id": "600aa0d1090cb6338027028c",
     "level": 2,
     "duration": 3200,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fcd654e7668ec2ec322",
-      "name": "Medstation"
-    },
     "requiredItems": [
       {
         "count": 5,
@@ -518,17 +514,17 @@
           "name": "Aluminum splint"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fcd654e7668ec2ec322",
+      "name": "Medstation"
+    }
   },
   {
     "id": "5d558968f934db006d2d5b32",
     "level": 1,
     "duration": 6200,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fda654e7600681d9315",
-      "name": "Workbench"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -546,17 +542,17 @@
           "name": "9x18mm PMM PstM gzh"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fda654e7600681d9315",
+      "name": "Workbench"
+    }
   },
   {
     "id": "6558d7894626375d6735670c",
     "level": 3,
     "duration": 15000,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fda654e7600681d9315",
-      "name": "Workbench"
-    },
     "requiredItems": [
       {
         "count": 50,
@@ -588,17 +584,17 @@
           "name": ".338 Lapua Magnum FMJ"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fda654e7600681d9315",
+      "name": "Workbench"
+    }
   },
   {
     "id": "5eeca812c4c989140245ae0c",
     "level": 3,
     "duration": 54000,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fdf654e7600691aadf8",
-      "name": "Intelligence Center"
-    },
     "requiredItems": [
       {
         "count": 2,
@@ -658,17 +654,17 @@
           "name": "Graphics card"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fdf654e7600691aadf8",
+      "name": "Intelligence Center"
+    }
   },
   {
     "id": "655b58a49db22d43ab42b709",
     "level": 2,
     "duration": 4200,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fda654e7600681d9315",
-      "name": "Workbench"
-    },
     "requiredItems": [
       {
         "count": 60,
@@ -707,17 +703,17 @@
           "name": "12/70 makeshift .50 BMG slug"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fda654e7600681d9315",
+      "name": "Workbench"
+    }
   },
   {
     "id": "63a2abbb31772a61500d5336",
     "level": 1,
     "duration": 1500,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fda654e7600681d9315",
-      "name": "Workbench"
-    },
     "requiredItems": [
       {
         "count": 2,
@@ -742,17 +738,17 @@
           "name": "Piece of plexiglass"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fda654e7600681d9315",
+      "name": "Workbench"
+    }
   },
   {
     "id": "5ffcafd468c55773943fc71e",
     "level": 2,
     "duration": 2600,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fba654e7600691aadf7",
-      "name": "Lavatory"
-    },
     "requiredItems": [
       {
         "count": 2,
@@ -777,17 +773,17 @@
           "name": "Fleece fabric"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fba654e7600691aadf7",
+      "name": "Lavatory"
+    }
   },
   {
     "id": "615c3d27966c85458e4c49cf",
     "level": 3,
     "duration": 3600,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fcd654e7668ec2ec322",
-      "name": "Medstation"
-    },
     "requiredItems": [
       {
         "count": 2,
@@ -819,17 +815,17 @@
           "name": "AFAK tactical individual first aid kit"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fcd654e7668ec2ec322",
+      "name": "Medstation"
+    }
   },
   {
     "id": "5dea63e21ecdbf7668030f24",
     "level": 2,
     "duration": 10000,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fda654e7600681d9315",
-      "name": "Workbench"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -854,17 +850,17 @@
           "name": "Car battery"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fda654e7600681d9315",
+      "name": "Workbench"
+    }
   },
   {
     "id": "5eda04a30699b81bb9142aa2",
     "level": 1,
     "duration": 1900,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fba654e7600691aadf7",
-      "name": "Lavatory"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -882,17 +878,17 @@
           "name": "Aseptic bandage"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fba654e7600691aadf7",
+      "name": "Lavatory"
+    }
   },
   {
     "id": "655b54e7065b076eb02c4b47",
     "level": 2,
     "duration": 3400,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fda654e7600681d9315",
-      "name": "Workbench"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -924,17 +920,17 @@
           "name": "5.7x28mm L191"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fda654e7600681d9315",
+      "name": "Workbench"
+    }
   },
   {
     "id": "66509e8c9398c9c9e10a31bb",
     "level": 2,
     "duration": 4800,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fcd654e7668ec2ec322",
-      "name": "Medstation"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -973,16 +969,16 @@
           "name": "2A2-(b-TG) stimulant injector"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fcd654e7668ec2ec322",
+      "name": "Medstation"
+    }
   },
   {
     "id": "5f245f875b664e084523a4ce",
     "level": 1,
     "duration": 8470,
-    "station": {
-      "id": "5d484fda654e7600681d9315",
-      "name": "Workbench"
-    },
     "taskUnlock": {
       "id": "5bc47dbf86f7741ee74e93b9",
       "name": "The Tarkov Shooter - Part 3"
@@ -1018,17 +1014,17 @@
           "name": ".366 TKM AP-M"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fda654e7600681d9315",
+      "name": "Workbench"
+    }
   },
   {
     "id": "5dd1126571e3fd3f634b1c8b",
     "level": 1,
     "duration": 7100,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fda654e7600681d9315",
-      "name": "Workbench"
-    },
     "requiredItems": [
       {
         "count": 2,
@@ -1046,17 +1042,17 @@
           "name": "Bundle of wires"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fda654e7600681d9315",
+      "name": "Workbench"
+    }
   },
   {
     "id": "603ce7c5fd70f047f93bee2a",
     "level": 1,
     "duration": 1200,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fba654e7600691aadf7",
-      "name": "Lavatory"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -1088,17 +1084,17 @@
           "name": "6B47 Ratnik-BSh helmet (EMR cover)"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fba654e7600691aadf7",
+      "name": "Lavatory"
+    }
   },
   {
     "id": "5d8a13564ac882218d2085b0",
     "level": 2,
     "duration": 4900,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fd1654e76006732bf2e",
-      "name": "Nutrition Unit"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -1123,16 +1119,16 @@
           "name": "Can of condensed milk"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fd1654e76006732bf2e",
+      "name": "Nutrition Unit"
+    }
   },
   {
     "id": "6399c421d65735732c6ba765",
     "level": 2,
     "duration": 7200,
-    "station": {
-      "id": "5d484fdf654e7600691aadf8",
-      "name": "Intelligence Center"
-    },
     "taskUnlock": {
       "id": "625d700cc48e6c62a440fab5",
       "name": "Getting Acquainted"
@@ -1168,16 +1164,16 @@
           "name": "Digital secure DSP radio transmitter"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fdf654e7600691aadf8",
+      "name": "Intelligence Center"
+    }
   },
   {
     "id": "5dceb6964a98801ba2075d27",
     "level": 3,
     "duration": 8256,
-    "station": {
-      "id": "5d484fda654e7600681d9315",
-      "name": "Workbench"
-    },
     "taskUnlock": {
       "id": "5a27bc8586f7741b543d8ea4",
       "name": "Wet Job - Part 6"
@@ -1220,17 +1216,17 @@
           "name": "7.62x51mm M80A1"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fda654e7600681d9315",
+      "name": "Workbench"
+    }
   },
   {
     "id": "5d8a13fc2d9612419804003c",
     "level": 1,
     "duration": 2900,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fd1654e76006732bf2e",
-      "name": "Nutrition Unit"
-    },
     "requiredItems": [
       {
         "count": 2,
@@ -1262,16 +1258,16 @@
           "name": "Iskra ration pack"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fd1654e76006732bf2e",
+      "name": "Nutrition Unit"
+    }
   },
   {
     "id": "655b4a73975a7f3c734661a5",
     "level": 3,
     "duration": 9400,
-    "station": {
-      "id": "5d484fda654e7600681d9315",
-      "name": "Workbench"
-    },
     "taskUnlock": {
       "id": "60e71bb4e456d449cd47ca75",
       "name": "Intimidator"
@@ -1321,17 +1317,17 @@
           "name": "7.62x39mm BP gzh"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fda654e7600681d9315",
+      "name": "Workbench"
+    }
   },
   {
     "id": "690c7882b6e7d092f006dda8",
     "level": 1,
     "duration": 1800,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fda654e7600681d9315",
-      "name": "Workbench"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -1356,17 +1352,17 @@
           "name": "Secure container Gamma"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fda654e7600681d9315",
+      "name": "Workbench"
+    }
   },
   {
     "id": "61c77c830f3639492721e99c",
     "level": 2,
     "duration": 17500,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fd1654e76006732bf2e",
-      "name": "Nutrition Unit"
-    },
     "requiredItems": [
       {
         "count": 5,
@@ -1405,17 +1401,17 @@
           "name": "Aquamari water bottle with filter"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fd1654e76006732bf2e",
+      "name": "Nutrition Unit"
+    }
   },
   {
     "id": "5eeca8e327ccd70521107fdc",
     "level": 2,
     "duration": 18900,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fcd654e7668ec2ec322",
-      "name": "Medstation"
-    },
     "requiredItems": [
       {
         "count": 2,
@@ -1461,17 +1457,17 @@
           "name": "Portable defibrillator"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fcd654e7668ec2ec322",
+      "name": "Medstation"
+    }
   },
   {
     "id": "5ede07163c345121732a10e9",
     "level": 1,
     "duration": 1000,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fba654e7600691aadf7",
-      "name": "Lavatory"
-    },
     "requiredItems": [
       {
         "count": 5,
@@ -1496,17 +1492,17 @@
           "name": "Army bandage"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fba654e7600691aadf7",
+      "name": "Lavatory"
+    }
   },
   {
     "id": "5e58e0c286f7740ba7486ca3",
     "level": 3,
     "duration": 114000,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fdf654e7600691aadf8",
-      "name": "Intelligence Center"
-    },
     "requiredItems": [
       {
         "count": 2,
@@ -1531,17 +1527,17 @@
           "name": "Intelligence folder"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fdf654e7600691aadf8",
+      "name": "Intelligence Center"
+    }
   },
   {
     "id": "5d5c1fd4d582a500650132f0",
     "level": 1,
     "duration": 11000,
     "taskUnlock": null,
-    "station": {
-      "id": "5d494a3f5b56502f18c98a0e",
-      "name": "Booze Generator"
-    },
     "requiredItems": [
       {
         "count": 2,
@@ -1566,17 +1562,17 @@
           "name": "Bottle of Fierce Hatchling moonshine"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d494a3f5b56502f18c98a0e",
+      "name": "Booze Generator"
+    }
   },
   {
     "id": "600aa209f64dfd63ec1293d6",
     "level": 2,
     "duration": 3600,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fba654e7600691aadf7",
-      "name": "Lavatory"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -1615,16 +1611,16 @@
           "name": "BlackRock chest rig (Gray)"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fba654e7600691aadf7",
+      "name": "Lavatory"
+    }
   },
   {
     "id": "6671d4fef3bee343f5000703",
     "level": 2,
     "duration": 4800,
-    "station": {
-      "id": "5d484fcd654e7668ec2ec322",
-      "name": "Medstation"
-    },
     "taskUnlock": {
       "id": "665eeca92f7aedcc900b0437",
       "name": "Thirsty - Secrets"
@@ -1667,17 +1663,17 @@
           "name": "2A2-(b-TG) stimulant injector"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fcd654e7668ec2ec322",
+      "name": "Medstation"
+    }
   },
   {
     "id": "68f1105b53aec9cbde0aa22e",
     "level": 3,
     "duration": 4500,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fcd654e7668ec2ec322",
-      "name": "Medstation"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -1723,17 +1719,17 @@
           "name": "Perfotoran (Blue Blood) stimulant injector"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fcd654e7668ec2ec322",
+      "name": "Medstation"
+    }
   },
   {
     "id": "690a89f3f986495a06051d5b",
     "level": 1,
     "duration": 19800,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fdf654e7600691aadf8",
-      "name": "Intelligence Center"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -1765,17 +1761,17 @@
           "name": "Hard drive printout"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fdf654e7600691aadf8",
+      "name": "Intelligence Center"
+    }
   },
   {
     "id": "600aa140090cb63380270290",
     "level": 1,
     "duration": 2900,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fba654e7600691aadf7",
-      "name": "Lavatory"
-    },
     "requiredItems": [
       {
         "count": 2,
@@ -1800,7 +1796,11 @@
           "name": "Cordura polyamide fabric"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fba654e7600691aadf7",
+      "name": "Lavatory"
+    }
   },
   {
     "id": "5d5c205bd582a50d042a3c0e",
@@ -1808,10 +1808,6 @@
     "duration": 300000,
     "taskUnlock": null,
     "requiredItems": [],
-    "station": {
-      "id": "5d494a445b56502f18c98a10",
-      "name": "Bitcoin Farm"
-    },
     "rewardItems": [
       {
         "count": 1,
@@ -1820,17 +1816,17 @@
           "name": "Physical Bitcoin"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d494a445b56502f18c98a10",
+      "name": "Bitcoin Farm"
+    }
   },
   {
     "id": "677d4fdb42cdfce74006f961",
     "level": 2,
     "duration": 1887,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fda654e7600681d9315",
-      "name": "Workbench"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -1869,17 +1865,17 @@
           "name": "Working LCD"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fda654e7600681d9315",
+      "name": "Workbench"
+    }
   },
   {
     "id": "6666d829a8298779fc40e537",
     "level": 1,
     "duration": 300,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fda654e7600681d9315",
-      "name": "Workbench"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -1918,17 +1914,17 @@
           "name": "Unlocked supply crate (Rare)"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fda654e7600681d9315",
+      "name": "Workbench"
+    }
   },
   {
     "id": "5dd3c9c8449c0c31795b0f0b",
     "level": 1,
     "duration": 2150,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fda654e7600681d9315",
-      "name": "Workbench"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -1953,17 +1949,17 @@
           "name": "Gunpowder \"Hawk\""
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fda654e7600681d9315",
+      "name": "Workbench"
+    }
   },
   {
     "id": "68fe55248312b42f5f02129a",
     "level": 1,
     "duration": 12600,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fdf654e7600691aadf8",
-      "name": "Intelligence Center"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -1995,16 +1991,16 @@
           "name": "Station 14-4 KORD Arshavin K. pass (Restored)"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fdf654e7600691aadf8",
+      "name": "Intelligence Center"
+    }
   },
   {
     "id": "655b5af31273611d2462ab76",
     "level": 3,
     "duration": 8400,
-    "station": {
-      "id": "5d484fda654e7600681d9315",
-      "name": "Workbench"
-    },
     "taskUnlock": {
       "id": "6179ad0a6e9dd54ac275e3f2",
       "name": "The Huntsman Path - Outcasts"
@@ -2047,17 +2043,17 @@
           "name": "12/70 AP-20 armor-piercing slug"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fda654e7600681d9315",
+      "name": "Workbench"
+    }
   },
   {
     "id": "5eda0247658fac5b8c3862a8",
     "level": 2,
     "duration": 5000,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fba654e7600691aadf7",
-      "name": "Lavatory"
-    },
     "requiredItems": [
       {
         "count": 4,
@@ -2089,17 +2085,17 @@
           "name": "AK-74 5.45x39 6L31 60-round magazine"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fba654e7600691aadf7",
+      "name": "Lavatory"
+    }
   },
   {
     "id": "67da04db9cbeb8d6f4011962",
     "level": 3,
     "duration": 90000,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fdf654e7600691aadf8",
-      "name": "Intelligence Center"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -2159,17 +2155,17 @@
           "name": "TerraGroup Labs keycard (Red)"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fdf654e7600691aadf8",
+      "name": "Intelligence Center"
+    }
   },
   {
     "id": "5d8f5ee9de0799001d229ed2",
     "level": 2,
     "duration": 3720,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fba654e7600691aadf7",
-      "name": "Lavatory"
-    },
     "requiredItems": [
       {
         "count": 2,
@@ -2208,17 +2204,17 @@
           "name": "Expeditionary fuel tank"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fba654e7600691aadf7",
+      "name": "Lavatory"
+    }
   },
   {
     "id": "68f2073205d9d632d30e1e97",
     "level": 1,
     "duration": 1980,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fd1654e76006732bf2e",
-      "name": "Nutrition Unit"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -2257,17 +2253,17 @@
           "name": "Salty Dog beef sausage"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fd1654e76006732bf2e",
+      "name": "Nutrition Unit"
+    }
   },
   {
     "id": "5dcfe2582f9b3d566c7af977",
     "level": 1,
     "duration": 12100,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fba654e7600691aadf7",
-      "name": "Lavatory"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -2299,17 +2295,17 @@
           "name": "Corrugated hose"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fba654e7600691aadf7",
+      "name": "Lavatory"
+    }
   },
   {
     "id": "5d78dbfb65aebb016d20b6f3",
     "level": 2,
     "duration": 5000,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fda654e7600681d9315",
-      "name": "Workbench"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -2348,16 +2344,16 @@
           "name": "Kalashnikov AK-74M 5.45x39 assault rifle Default"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fda654e7600681d9315",
+      "name": "Workbench"
+    }
   },
   {
     "id": "6002eec9cc73cd34ac64188a",
     "level": 2,
     "duration": 4200,
-    "station": {
-      "id": "5d484fcd654e7668ec2ec322",
-      "name": "Medstation"
-    },
     "taskUnlock": {
       "id": "60e71c11d54b755a3b53eb65",
       "name": "Night Sweep"
@@ -2393,17 +2389,17 @@
           "name": "xTG-12 antidote injector"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fcd654e7668ec2ec322",
+      "name": "Medstation"
+    }
   },
   {
     "id": "67bdfb12884b40ea9d08b5c9",
     "level": 1,
     "duration": 19800,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fdf654e7600691aadf8",
-      "name": "Intelligence Center"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -2435,16 +2431,16 @@
           "name": "Reprogrammed RFID keycard with Mr. Kerman's hash codes"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fdf654e7600691aadf8",
+      "name": "Intelligence Center"
+    }
   },
   {
     "id": "655b675e1f2b6843ec751fd6",
     "level": 3,
     "duration": 8000,
-    "station": {
-      "id": "5d484fba654e7600691aadf7",
-      "name": "Lavatory"
-    },
     "taskUnlock": {
       "id": "5c1141f386f77430ff393792",
       "name": "Living High is Not a Crime - Part 2"
@@ -2494,17 +2490,17 @@
           "name": "NPP KlASS Bagariy plate carrier (EMR)"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fba654e7600691aadf7",
+      "name": "Lavatory"
+    }
   },
   {
     "id": "68f0e32460d1d6ebba02de4a",
     "level": 1,
     "duration": 3600,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fda654e7600681d9315",
-      "name": "Workbench"
-    },
     "requiredItems": [
       {
         "count": 2,
@@ -2536,17 +2532,17 @@
           "name": "Light bulb"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fda654e7600681d9315",
+      "name": "Workbench"
+    }
   },
   {
     "id": "5eda07acb6c564225571536c",
     "level": 2,
     "duration": 2800,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fba654e7600691aadf7",
-      "name": "Lavatory"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -2585,17 +2581,17 @@
           "name": "BlackHawk! Commando chest harness (Black)"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fba654e7600691aadf7",
+      "name": "Lavatory"
+    }
   },
   {
     "id": "600ab8e3e4022c380a726088",
     "level": 3,
     "duration": 6400,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fd1654e76006732bf2e",
-      "name": "Nutrition Unit"
-    },
     "requiredItems": [
       {
         "count": 2,
@@ -2641,17 +2637,17 @@
           "name": "Bottle of Dan Jackiel whiskey"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fd1654e76006732bf2e",
+      "name": "Nutrition Unit"
+    }
   },
   {
     "id": "5ede01e062155304b6512067",
     "level": 2,
     "duration": 1670,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fcd654e7668ec2ec322",
-      "name": "Medstation"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -2683,17 +2679,17 @@
           "name": "Medical bloodset"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fcd654e7668ec2ec322",
+      "name": "Medstation"
+    }
   },
   {
     "id": "600a98d076fc4b1877509ead",
     "level": 1,
     "duration": 4900,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fda654e7600681d9315",
-      "name": "Workbench"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -2739,17 +2735,17 @@
           "name": "Kalashnikov AK-74N 5.45x39 assault rifle Default"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fda654e7600681d9315",
+      "name": "Workbench"
+    }
   },
   {
     "id": "62a11354b552772a0c4ba09e",
     "level": 2,
     "duration": 10000,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fda654e7600681d9315",
-      "name": "Workbench"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -2795,16 +2791,16 @@
           "name": "Can of thermite"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fda654e7600681d9315",
+      "name": "Workbench"
+    }
   },
   {
     "id": "655b4f57769de97e1d62d116",
     "level": 3,
     "duration": 9500,
-    "station": {
-      "id": "5d484fda654e7600681d9315",
-      "name": "Workbench"
-    },
     "taskUnlock": {
       "id": "5bc4856986f77454c317bea7",
       "name": "The Tarkov Shooter - Part 7"
@@ -2847,17 +2843,17 @@
           "name": "7.62x54mm R BT gzh"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fda654e7600681d9315",
+      "name": "Workbench"
+    }
   },
   {
     "id": "603cf23a420e7f487e175d7f",
     "level": 2,
     "duration": 7000,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fda654e7600681d9315",
-      "name": "Workbench"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -2896,17 +2892,17 @@
           "name": "Spark plug"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fda654e7600681d9315",
+      "name": "Workbench"
+    }
   },
   {
     "id": "691371a2a911df6c2f0195f1",
     "level": 3,
     "duration": 1500,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fda654e7600681d9315",
-      "name": "Workbench"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -2952,17 +2948,17 @@
           "name": "Weapon repair kit"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fda654e7600681d9315",
+      "name": "Workbench"
+    }
   },
   {
     "id": "6002e8fb41d38607bc4198ab",
     "level": 2,
     "duration": 236000,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fdf654e7600691aadf8",
-      "name": "Intelligence Center"
-    },
     "requiredItems": [
       {
         "count": 5,
@@ -3008,17 +3004,17 @@
           "name": "Object #11SR keycard"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fdf654e7600691aadf8",
+      "name": "Intelligence Center"
+    }
   },
   {
     "id": "5eda072cf6626f08ef0efed4",
     "level": 1,
     "duration": 3250,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fba654e7600691aadf7",
-      "name": "Lavatory"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -3043,17 +3039,17 @@
           "name": "BNTI Module-3M body armor"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fba654e7600691aadf7",
+      "name": "Lavatory"
+    }
   },
   {
     "id": "67f4ec521d41954d4f09a9c8",
     "level": 2,
     "duration": 3600,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fc8654e760065037abf",
-      "name": "Water Collector"
-    },
     "requiredItems": [
       {
         "count": 5,
@@ -3078,17 +3074,17 @@
           "name": "Aquamari water bottle with filter"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fc8654e760065037abf",
+      "name": "Water Collector"
+    }
   },
   {
     "id": "6666d7ea0b734650a91d0a42",
     "level": 1,
     "duration": 300,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fda654e7600681d9315",
-      "name": "Workbench"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -3127,17 +3123,17 @@
           "name": "Unlocked valuables crate (Rare)"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fda654e7600681d9315",
+      "name": "Workbench"
+    }
   },
   {
     "id": "600a9bd0189b226f40059751",
     "level": 3,
     "duration": 16500,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fda654e7600681d9315",
-      "name": "Workbench"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -3190,17 +3186,17 @@
           "name": "23x75mm Zvezda flashbang round"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fda654e7600681d9315",
+      "name": "Workbench"
+    }
   },
   {
     "id": "5d5c21aed582a50066024610",
     "level": 2,
     "duration": 3000,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fcd654e7668ec2ec322",
-      "name": "Medstation"
-    },
     "requiredItems": [
       {
         "count": 2,
@@ -3232,17 +3228,17 @@
           "name": "IFAK individual first aid kit"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fcd654e7668ec2ec322",
+      "name": "Medstation"
+    }
   },
   {
     "id": "5d8f5e1af3a8f83c8600afb2",
     "level": 1,
     "duration": 2100,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fba654e7600691aadf7",
-      "name": "Lavatory"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -3267,17 +3263,17 @@
           "name": "Schaman shampoo"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fba654e7600691aadf7",
+      "name": "Lavatory"
+    }
   },
   {
     "id": "5e13301cc7049d4d9738e1a7",
     "level": 2,
     "duration": 2880,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fcd654e7668ec2ec322",
-      "name": "Medstation"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -3309,17 +3305,17 @@
           "name": "Pile of meds"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fcd654e7668ec2ec322",
+      "name": "Medstation"
+    }
   },
   {
     "id": "655b60774343a16d2e04766b",
     "level": 3,
     "duration": 7000,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fba654e7600691aadf7",
-      "name": "Lavatory"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -3365,17 +3361,17 @@
           "name": "ANA Tactical M2 plate carrier (OD Green)"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fba654e7600691aadf7",
+      "name": "Lavatory"
+    }
   },
   {
     "id": "5ffcadeff3fdc212a91d5539",
     "level": 1,
     "duration": 3800,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fd1654e76006732bf2e",
-      "name": "Nutrition Unit"
-    },
     "requiredItems": [
       {
         "count": 2,
@@ -3400,17 +3396,17 @@
           "name": "Bottle of Norvinsky Yadreniy premium kvass (0.6L)"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fd1654e76006732bf2e",
+      "name": "Nutrition Unit"
+    }
   },
   {
     "id": "677d4db74ac9193862043ee9",
     "level": 1,
     "duration": 462,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fda654e7600681d9315",
-      "name": "Workbench"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -3463,17 +3459,17 @@
           "name": "Toolset"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fda654e7600681d9315",
+      "name": "Workbench"
+    }
   },
   {
     "id": "655b56eb32b0b1645e6f54c8",
     "level": 1,
     "duration": 5400,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fda654e7600681d9315",
-      "name": "Workbench"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -3491,17 +3487,17 @@
           "name": "9x21mm P gzh"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fda654e7600681d9315",
+      "name": "Workbench"
+    }
   },
   {
     "id": "600a9a34189b226f40059743",
     "level": 2,
     "duration": 9100,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fda654e7600681d9315",
-      "name": "Workbench"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -3540,17 +3536,17 @@
           "name": "NIXXOR lens"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fda654e7600681d9315",
+      "name": "Workbench"
+    }
   },
   {
     "id": "66575197464c4b4ba4671004",
     "level": 1,
     "duration": 300,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fda654e7600681d9315",
-      "name": "Workbench"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -3589,17 +3585,17 @@
           "name": "Unlocked weapon crate (Rare)"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fda654e7600681d9315",
+      "name": "Workbench"
+    }
   },
   {
     "id": "68ef997a4fc35ae00505dcf2",
     "level": 1,
     "duration": 9900,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fdf654e7600691aadf8",
-      "name": "Intelligence Center"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -3631,17 +3627,17 @@
           "name": "Reprogrammed keycard for A.P.'s apartment lock (Red)"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fdf654e7600691aadf8",
+      "name": "Intelligence Center"
+    }
   },
   {
     "id": "62a1123ac30cfa1d366aeb82",
     "level": 1,
     "duration": 1800,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fda654e7600681d9315",
-      "name": "Workbench"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -3666,16 +3662,16 @@
           "name": "PP-9 Klin 9x18PMM submachine gun Default"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fda654e7600681d9315",
+      "name": "Workbench"
+    }
   },
   {
     "id": "655b5fd2975a7f3c734661a8",
     "level": 2,
     "duration": 1980,
-    "station": {
-      "id": "5d484fba654e7600691aadf7",
-      "name": "Lavatory"
-    },
     "taskUnlock": {
       "id": "5b478d0f86f7744d190d91b5",
       "name": "Minibus"
@@ -3725,16 +3721,16 @@
           "name": "First Spear Strandhogg plate carrier (Ranger Green)"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fba654e7600691aadf7",
+      "name": "Lavatory"
+    }
   },
   {
     "id": "6839a4b18b47de9b76007028",
     "level": 3,
     "duration": 100800,
-    "station": {
-      "id": "5d484fda654e7600681d9315",
-      "name": "Workbench"
-    },
     "taskUnlock": {
       "id": "684009026ceedc792c09b2a7",
       "name": "Hobby Club"
@@ -3798,17 +3794,17 @@
           "name": "TheAKGuy AK-50 .50 BMG anti-materiel rifle"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fda654e7600681d9315",
+      "name": "Workbench"
+    }
   },
   {
     "id": "64b6aefe25251516d768542d",
     "level": 2,
     "duration": 4800,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fda654e7600681d9315",
-      "name": "Workbench"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -3840,17 +3836,17 @@
           "name": "VOG-17 Khattabka improvised hand grenade"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fda654e7600681d9315",
+      "name": "Workbench"
+    }
   },
   {
     "id": "600ab813d19f85018a7489c4",
     "level": 2,
     "duration": 8000,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fba654e7600691aadf7",
-      "name": "Lavatory"
-    },
     "requiredItems": [
       {
         "count": 10,
@@ -3889,17 +3885,17 @@
           "name": "Water filter"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fba654e7600691aadf7",
+      "name": "Lavatory"
+    }
   },
   {
     "id": "5d5589c1f934db045e6c5492",
     "level": 3,
     "duration": 19500,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fc8654e760065037abf",
-      "name": "Water Collector"
-    },
     "requiredItems": [
       {
         "count": 0.66,
@@ -3917,17 +3913,17 @@
           "name": "Canister with purified water"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fc8654e760065037abf",
+      "name": "Water Collector"
+    }
   },
   {
     "id": "655b47d1769de97e1d62d115",
     "level": 1,
     "duration": 4400,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fda654e7600681d9315",
-      "name": "Workbench"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -3952,17 +3948,17 @@
           "name": "7.62x39mm FMJ"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fda654e7600681d9315",
+      "name": "Workbench"
+    }
   },
   {
     "id": "5ede1e0b7690fa313b632e88",
     "level": 1,
     "duration": 4710,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fd1654e76006732bf2e",
-      "name": "Nutrition Unit"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -3994,17 +3990,17 @@
           "name": "Can of beef stew (Small)"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fd1654e76006732bf2e",
+      "name": "Nutrition Unit"
+    }
   },
   {
     "id": "6666d899eb78191c502350b2",
     "level": 1,
     "duration": 300,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fda654e7600681d9315",
-      "name": "Workbench"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -4043,17 +4039,17 @@
           "name": "Unlocked equipment crate (Rare)"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fda654e7600681d9315",
+      "name": "Workbench"
+    }
   },
   {
     "id": "603cf3094bb658618458e010",
     "level": 1,
     "duration": 1500,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fda654e7600681d9315",
-      "name": "Workbench"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -4085,17 +4081,17 @@
           "name": "Broken GPhone smartphone"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fda654e7600681d9315",
+      "name": "Workbench"
+    }
   },
   {
     "id": "5ede0135f7db6021ee400dfe",
     "level": 2,
     "duration": 3300,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fcd654e7668ec2ec322",
-      "name": "Medstation"
-    },
     "requiredItems": [
       {
         "count": 3,
@@ -4127,17 +4123,17 @@
           "name": "Vaseline balm"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fcd654e7668ec2ec322",
+      "name": "Medstation"
+    }
   },
   {
     "id": "686c17583cf79421d70b007e",
     "level": 1,
     "duration": 600,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fdf654e7600691aadf8",
-      "name": "Intelligence Center"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -4155,17 +4151,17 @@
           "name": "Decrypted intelligence folder"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fdf654e7600691aadf8",
+      "name": "Intelligence Center"
+    }
   },
   {
     "id": "5dceeaf100b3815535149f5a",
     "level": 2,
     "duration": 12000,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fba654e7600691aadf7",
-      "name": "Lavatory"
-    },
     "requiredItems": [
       {
         "count": 2,
@@ -4204,17 +4200,17 @@
           "name": "Magazine case"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fba654e7600691aadf7",
+      "name": "Lavatory"
+    }
   },
   {
     "id": "67da0223078f1947650d7bb7",
     "level": 2,
     "duration": 2400,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fdf654e7600691aadf8",
-      "name": "Intelligence Center"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -4239,17 +4235,17 @@
           "name": "TerraGroup Labs access keycard"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fdf654e7600691aadf8",
+      "name": "Intelligence Center"
+    }
   },
   {
     "id": "5dd11303b78bb413d5133f79",
     "level": 1,
     "duration": 7450,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fda654e7600681d9315",
-      "name": "Workbench"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -4274,17 +4270,17 @@
           "name": "Capacitors"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fda654e7600681d9315",
+      "name": "Workbench"
+    }
   },
   {
     "id": "5de021b30f6d581e965bcde7",
     "level": 1,
     "duration": 4700,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fda654e7600681d9315",
-      "name": "Workbench"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -4309,16 +4305,16 @@
           "name": "Weapon parts"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fda654e7600681d9315",
+      "name": "Workbench"
+    }
   },
   {
     "id": "64b6b5c1c3abf20a9660daad",
     "level": 2,
     "duration": 4800,
-    "station": {
-      "id": "5d484fcd654e7668ec2ec322",
-      "name": "Medstation"
-    },
     "taskUnlock": {
       "id": "60e71c48c1bfa3050473b8e5",
       "name": "Crisis"
@@ -4361,17 +4357,17 @@
           "name": "eTG-change regenerative stimulant injector"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fcd654e7668ec2ec322",
+      "name": "Medstation"
+    }
   },
   {
     "id": "5ee4a093a297eb185236194f",
     "level": 2,
     "duration": 43200,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fdf654e7600691aadf8",
-      "name": "Intelligence Center"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -4410,17 +4406,17 @@
           "name": "UHF RFID Reader"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fdf654e7600691aadf8",
+      "name": "Intelligence Center"
+    }
   },
   {
     "id": "5df914a53ce0f648b833bb37",
     "level": 1,
     "duration": 28800,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fdf654e7600691aadf8",
-      "name": "Intelligence Center"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -4452,17 +4448,17 @@
           "name": "Secure Flash drive"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fdf654e7600691aadf8",
+      "name": "Intelligence Center"
+    }
   },
   {
     "id": "5de951483c52683d810b4a10",
     "level": 1,
     "duration": 1980,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fda654e7600681d9315",
-      "name": "Workbench"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -4487,17 +4483,17 @@
           "name": "Printed circuit board"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fda654e7600681d9315",
+      "name": "Workbench"
+    }
   },
   {
     "id": "68f207d400ca7e22d3081a07",
     "level": 1,
     "duration": 2400,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fd1654e76006732bf2e",
-      "name": "Nutrition Unit"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -4529,16 +4525,16 @@
           "name": "MRE ration pack"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fd1654e76006732bf2e",
+      "name": "Nutrition Unit"
+    }
   },
   {
     "id": "5dde60e0e2c8f57eb6465327",
     "level": 2,
     "duration": 7350,
-    "station": {
-      "id": "5d484fda654e7600681d9315",
-      "name": "Workbench"
-    },
     "taskUnlock": {
       "id": "5c0bd94186f7747a727f09b2",
       "name": "Test Drive - Part 1"
@@ -4567,17 +4563,17 @@
           "name": "9x39mm PAB-9 gs"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fda654e7600681d9315",
+      "name": "Workbench"
+    }
   },
   {
     "id": "690c784a8c5857a8e80c9970",
     "level": 1,
     "duration": 1800,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fda654e7600681d9315",
-      "name": "Workbench"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -4609,16 +4605,16 @@
           "name": "Secure container Gamma"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fda654e7600681d9315",
+      "name": "Workbench"
+    }
   },
   {
     "id": "655b457c9db22d43ab42b706",
     "level": 2,
     "duration": 6800,
-    "station": {
-      "id": "5d484fda654e7600681d9315",
-      "name": "Workbench"
-    },
     "taskUnlock": {
       "id": "5a27bb8386f7741c770d2d0a",
       "name": "Wet Job - Part 1"
@@ -4654,17 +4650,17 @@
           "name": ".300 Blackout M62 Tracer"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fda654e7600681d9315",
+      "name": "Workbench"
+    }
   },
   {
     "id": "61c77d465a98404dee40a77c",
     "level": 3,
     "duration": 12400,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fda654e7600681d9315",
-      "name": "Workbench"
-    },
     "requiredItems": [
       {
         "count": 150,
@@ -4717,17 +4713,17 @@
           "name": ".45 ACP AP"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fda654e7600681d9315",
+      "name": "Workbench"
+    }
   },
   {
     "id": "5e1330dca0f0f8773c069c99",
     "level": 1,
     "duration": 120,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fba654e7600691aadf7",
-      "name": "Lavatory"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -4752,17 +4748,17 @@
           "name": "Gas mask air filter"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fba654e7600691aadf7",
+      "name": "Lavatory"
+    }
   },
   {
     "id": "629e1b3a0694b45420210cad",
     "level": 2,
     "duration": 2700,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fd1654e76006732bf2e",
-      "name": "Nutrition Unit"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -4787,17 +4783,17 @@
           "name": "Can of Majaica coffee beans"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fd1654e76006732bf2e",
+      "name": "Nutrition Unit"
+    }
   },
   {
     "id": "600a9b10adfcb94fee6d3e06",
     "level": 1,
     "duration": 3400,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fda654e7600681d9315",
-      "name": "Workbench"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -4822,17 +4818,17 @@
           "name": "T-Shaped plug"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fda654e7600681d9315",
+      "name": "Workbench"
+    }
   },
   {
     "id": "600ab99ce4022c380a726090",
     "level": 1,
     "duration": 1800,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fcd654e7668ec2ec322",
-      "name": "Medstation"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -4857,17 +4853,17 @@
           "name": "CALOK-B hemostatic applicator"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fcd654e7668ec2ec322",
+      "name": "Medstation"
+    }
   },
   {
     "id": "67da000f1556838cf90d1716",
     "level": 1,
     "duration": 10800,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fdf654e7600691aadf8",
-      "name": "Intelligence Center"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -4906,17 +4902,17 @@
           "name": "SAS drive"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fdf654e7600691aadf8",
+      "name": "Intelligence Center"
+    }
   },
   {
     "id": "5de95f1c9517b140195ab717",
     "level": 2,
     "duration": 4400,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fda654e7600681d9315",
-      "name": "Workbench"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -4941,17 +4937,17 @@
           "name": "Rechargeable battery"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fda654e7600681d9315",
+      "name": "Workbench"
+    }
   },
   {
     "id": "5d78d81757c9b8484a2bcb99",
     "level": 2,
     "duration": 6250,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fda654e7600681d9315",
-      "name": "Workbench"
-    },
     "requiredItems": [
       {
         "count": 2,
@@ -4983,17 +4979,17 @@
           "name": "5.56x45mm MK 318 Mod 0 (SOST)"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fda654e7600681d9315",
+      "name": "Workbench"
+    }
   },
   {
     "id": "68f0e37d1ddd18a6290a7e68",
     "level": 1,
     "duration": 9000,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fda654e7600681d9315",
-      "name": "Workbench"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -5025,17 +5021,17 @@
           "name": "Hand drill"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fda654e7600681d9315",
+      "name": "Workbench"
+    }
   },
   {
     "id": "5f240f45f4a9420a8c328ee0",
     "level": 1,
     "duration": 6500,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fd1654e76006732bf2e",
-      "name": "Nutrition Unit"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -5074,17 +5070,17 @@
           "name": "Can of Max Energy energy drink"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fd1654e76006732bf2e",
+      "name": "Nutrition Unit"
+    }
   },
   {
     "id": "6012ea1a01328b2dec3c1a9d",
     "level": 2,
     "duration": 15500,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fba654e7600691aadf7",
-      "name": "Lavatory"
-    },
     "requiredItems": [
       {
         "count": 2,
@@ -5116,17 +5112,17 @@
           "name": "Paracord"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fba654e7600691aadf7",
+      "name": "Lavatory"
+    }
   },
   {
     "id": "67c86b2828d3adac2e09a16e",
     "level": 1,
     "duration": 19800,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fdf654e7600691aadf8",
-      "name": "Intelligence Center"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -5158,17 +5154,17 @@
           "name": "Reprogrammed RFID keycard with Prapor's hash codes"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fdf654e7600691aadf8",
+      "name": "Intelligence Center"
+    }
   },
   {
     "id": "67da02e9078f1947650d7bb8",
     "level": 2,
     "duration": 39600,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fdf654e7600691aadf8",
-      "name": "Intelligence Center"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -5214,17 +5210,17 @@
           "name": "TerraGroup \"Blue Folders\" materials"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fdf654e7600691aadf8",
+      "name": "Intelligence Center"
+    }
   },
   {
     "id": "5de919ec1b25d85cf30ca39a",
     "level": 2,
     "duration": 5870,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fda654e7600681d9315",
-      "name": "Workbench"
-    },
     "requiredItems": [
       {
         "count": 2,
@@ -5256,17 +5252,17 @@
           "name": "Gunpowder \"Eagle\""
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fda654e7600681d9315",
+      "name": "Workbench"
+    }
   },
   {
     "id": "61dc03711bdcfa2f253c9b7c",
     "level": 2,
     "duration": 8640,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fda654e7600681d9315",
-      "name": "Workbench"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -5298,17 +5294,17 @@
           "name": "GreenBat lithium battery"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fda654e7600681d9315",
+      "name": "Workbench"
+    }
   },
   {
     "id": "5d78f27d115f693ad750d2c6",
     "level": 1,
     "duration": 18300,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fda654e7600681d9315",
-      "name": "Workbench"
-    },
     "requiredItems": [
       {
         "count": 2,
@@ -5333,17 +5329,17 @@
           "name": "RGD-5 hand grenade"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fda654e7600681d9315",
+      "name": "Workbench"
+    }
   },
   {
     "id": "68f11230b10b42c44a0a5f8f",
     "level": 1,
     "duration": 5340,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fcd654e7668ec2ec322",
-      "name": "Medstation"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -5389,17 +5385,17 @@
           "name": "Disposable syringe"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fcd654e7668ec2ec322",
+      "name": "Medstation"
+    }
   },
   {
     "id": "67c9d447b53b0fcf1d0bb0ab",
     "level": 1,
     "duration": 60,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fda654e7600681d9315",
-      "name": "Workbench"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -5424,17 +5420,17 @@
           "name": "Unlocked valuables crate (Rare)"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fda654e7600681d9315",
+      "name": "Workbench"
+    }
   },
   {
     "id": "5d78d8a03fe9fc21602e16be",
     "level": 3,
     "duration": 4500,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fcd654e7668ec2ec322",
-      "name": "Medstation"
-    },
     "requiredItems": [
       {
         "count": 4,
@@ -5466,17 +5462,17 @@
           "name": "Grizzly medical kit"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fcd654e7668ec2ec322",
+      "name": "Medstation"
+    }
   },
   {
     "id": "6941307f73dcf473e50be4b7",
     "level": 1,
     "duration": 3600,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fda654e7600681d9315",
-      "name": "Workbench"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -5501,17 +5497,17 @@
           "name": "Nut can"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fda654e7600681d9315",
+      "name": "Workbench"
+    }
   },
   {
     "id": "655b4de41f2b6843ec751fd5",
     "level": 2,
     "duration": 14400,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fda654e7600681d9315",
-      "name": "Workbench"
-    },
     "requiredItems": [
       {
         "count": 70,
@@ -5543,17 +5539,17 @@
           "name": "7.62x54mm R LPS gzh"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fda654e7600681d9315",
+      "name": "Workbench"
+    }
   },
   {
     "id": "5dd3c5487058311d4b267186",
     "level": 1,
     "duration": 900,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fda654e7600681d9315",
-      "name": "Workbench"
-    },
     "requiredItems": [
       {
         "count": 120,
@@ -5578,17 +5574,17 @@
           "name": "Gunpowder \"Kite\""
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fda654e7600681d9315",
+      "name": "Workbench"
+    }
   },
   {
     "id": "5ede0053879619077751cff1",
     "level": 3,
     "duration": 4600,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fcd654e7668ec2ec322",
-      "name": "Medstation"
-    },
     "requiredItems": [
       {
         "count": 3,
@@ -5627,17 +5623,17 @@
           "name": "Surv12 field surgical kit"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fcd654e7668ec2ec322",
+      "name": "Medstation"
+    }
   },
   {
     "id": "67c9d54b017035dd060bff5e",
     "level": 1,
     "duration": 60,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fda654e7600681d9315",
-      "name": "Workbench"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -5662,17 +5658,17 @@
           "name": "Unlocked equipment crate (Rare)"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fda654e7600681d9315",
+      "name": "Workbench"
+    }
   },
   {
     "id": "67c9d5035be7fc94c806dee9",
     "level": 1,
     "duration": 60,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fda654e7600681d9315",
-      "name": "Workbench"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -5697,17 +5693,17 @@
           "name": "Unlocked weapon crate (Rare)"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fda654e7600681d9315",
+      "name": "Workbench"
+    }
   },
   {
     "id": "655b5dc8065b076eb02c4b48",
     "level": 1,
     "duration": 4000,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fba654e7600691aadf7",
-      "name": "Lavatory"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -5739,17 +5735,17 @@
           "name": "BNTI Zhuk body armor (Press)"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fba654e7600691aadf7",
+      "name": "Lavatory"
+    }
   },
   {
     "id": "5ed9ff023a68ec264e5233c2",
     "level": 2,
     "duration": 82800,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fdf654e7600691aadf8",
-      "name": "Intelligence Center"
-    },
     "requiredItems": [
       {
         "count": 2,
@@ -5795,16 +5791,16 @@
           "name": "Virtex programmable processor"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fdf654e7600691aadf8",
+      "name": "Intelligence Center"
+    }
   },
   {
     "id": "63a2327c151bfb591645c104",
     "level": 3,
     "duration": 17400,
-    "station": {
-      "id": "5d484fda654e7600681d9315",
-      "name": "Workbench"
-    },
     "taskUnlock": {
       "id": "6396701b9113f06a7c3b2379",
       "name": "Make an Impression"
@@ -5868,17 +5864,17 @@
           "name": "Trijicon REAP-IR thermal scope"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fda654e7600681d9315",
+      "name": "Workbench"
+    }
   },
   {
     "id": "68f110c61bc3ee7616092bde",
     "level": 2,
     "duration": 3780,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fcd654e7668ec2ec322",
-      "name": "Medstation"
-    },
     "requiredItems": [
       {
         "count": 2,
@@ -5917,17 +5913,17 @@
           "name": "PNB (Product 16) stimulant injector"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fcd654e7668ec2ec322",
+      "name": "Medstation"
+    }
   },
   {
     "id": "68ef997d16e4ed785f0fc18e",
     "level": 1,
     "duration": 9900,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fdf654e7600691aadf8",
-      "name": "Intelligence Center"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -5959,17 +5955,17 @@
           "name": "Reprogrammed keycard for A.P.'s apartment lock (Green)"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fdf654e7600691aadf8",
+      "name": "Intelligence Center"
+    }
   },
   {
     "id": "63bd4c3964d7e356983c4cf5",
     "level": 3,
     "duration": 8700,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fda654e7600681d9315",
-      "name": "Workbench"
-    },
     "requiredItems": [
       {
         "count": 100,
@@ -6008,17 +6004,17 @@
           "name": "5.7x28mm SS190"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fda654e7600681d9315",
+      "name": "Workbench"
+    }
   },
   {
     "id": "5d8b8ddd322e8650762f6e3a",
     "level": 2,
     "duration": 2310,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fba654e7600691aadf7",
-      "name": "Lavatory"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -6050,17 +6046,17 @@
           "name": "Ox bleach"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fba654e7600691aadf7",
+      "name": "Lavatory"
+    }
   },
   {
     "id": "67da05c8078f1947650d7bb9",
     "level": 3,
     "duration": 90000,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fdf654e7600691aadf8",
-      "name": "Intelligence Center"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -6113,16 +6109,16 @@
           "name": "TerraGroup Labs keycard (Green)"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fdf654e7600691aadf8",
+      "name": "Intelligence Center"
+    }
   },
   {
     "id": "655b5ebc32b0b1645e6f54c9",
     "level": 1,
     "duration": 7000,
-    "station": {
-      "id": "5d484fba654e7600691aadf7",
-      "name": "Lavatory"
-    },
     "taskUnlock": {
       "id": "5ae4495086f77443c122bc40",
       "name": "Sew it Good - Part 1"
@@ -6165,17 +6161,17 @@
           "name": "6B23-2 body armor (Mountain Flora)"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fba654e7600691aadf7",
+      "name": "Lavatory"
+    }
   },
   {
     "id": "5dc1f634ee5f2440a9272dc7",
     "level": 3,
     "duration": 5750,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fd1654e76006732bf2e",
-      "name": "Nutrition Unit"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -6200,17 +6196,17 @@
           "name": "Bottle of Tarkovskaya vodka"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fd1654e76006732bf2e",
+      "name": "Nutrition Unit"
+    }
   },
   {
     "id": "5dd3c5a67da3785e63275437",
     "level": 2,
     "duration": 6750,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fda654e7600681d9315",
-      "name": "Workbench"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -6242,17 +6238,17 @@
           "name": "Gunpowder \"Hawk\""
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fda654e7600681d9315",
+      "name": "Workbench"
+    }
   },
   {
     "id": "67c9d4b251ce173bff01eec7",
     "level": 1,
     "duration": 60,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fda654e7600681d9315",
-      "name": "Workbench"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -6277,17 +6273,17 @@
           "name": "Unlocked supply crate (Rare)"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fda654e7600681d9315",
+      "name": "Workbench"
+    }
   },
   {
     "id": "655b68b4769de97e1d62d117",
     "level": 2,
     "duration": 4305,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fba654e7600691aadf7",
-      "name": "Lavatory"
-    },
     "requiredItems": [
       {
         "count": 2,
@@ -6333,17 +6329,17 @@
           "name": "MSA ACH TC-2002 MICH Series helmet (Olive Drab)"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fba654e7600691aadf7",
+      "name": "Lavatory"
+    }
   },
   {
     "id": "5ffcacbf24fa2e741e767234",
     "level": 2,
     "duration": 5500,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fda654e7600681d9315",
-      "name": "Workbench"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -6389,17 +6385,17 @@
           "name": "Geiger-Muller counter"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fda654e7600681d9315",
+      "name": "Workbench"
+    }
   },
   {
     "id": "62a116282c5e0c325b62d5ec",
     "level": 3,
     "duration": 36000,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fdf654e7600691aadf8",
-      "name": "Intelligence Center"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -6431,17 +6427,17 @@
           "name": "Military flash drive"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fdf654e7600691aadf8",
+      "name": "Intelligence Center"
+    }
   },
   {
     "id": "600abc08e4022c380a7260a8",
     "level": 3,
     "duration": 120000,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fcd654e7668ec2ec322",
-      "name": "Medstation"
-    },
     "requiredItems": [
       {
         "count": 2,
@@ -6501,17 +6497,17 @@
           "name": "LEDX Skin Transilluminator"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fcd654e7668ec2ec322",
+      "name": "Medstation"
+    }
   },
   {
     "id": "67bc980c3c4c5942cb0ac53f",
     "level": 1,
     "duration": 84600,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fdf654e7600691aadf8",
-      "name": "Intelligence Center"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -6536,17 +6532,17 @@
           "name": "Activated Kruglov's RFID keycard"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fdf654e7600691aadf8",
+      "name": "Intelligence Center"
+    }
   },
   {
     "id": "600a9fb7ba91d953182d6a1c",
     "level": 3,
     "duration": 39000,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fda654e7600681d9315",
-      "name": "Workbench"
-    },
     "requiredItems": [
       {
         "count": 2,
@@ -6592,17 +6588,17 @@
           "name": "OFZ 30x165mm shell"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fda654e7600681d9315",
+      "name": "Workbench"
+    }
   },
   {
     "id": "6002e68bca41c53bee18813b",
     "level": 2,
     "duration": 4800,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fba654e7600691aadf7",
-      "name": "Lavatory"
-    },
     "requiredItems": [
       {
         "count": 2,
@@ -6641,17 +6637,17 @@
           "name": "KEKTAPE duct tape"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fba654e7600691aadf7",
+      "name": "Lavatory"
+    }
   },
   {
     "id": "68f111a853aec9cbde0aa22f",
     "level": 2,
     "duration": 2820,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fcd654e7668ec2ec322",
-      "name": "Medstation"
-    },
     "requiredItems": [
       {
         "count": 5,
@@ -6690,17 +6686,17 @@
           "name": "AHF1-M stimulant injector"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fcd654e7668ec2ec322",
+      "name": "Medstation"
+    }
   },
   {
     "id": "62a11415c30cfa1d366aeb83",
     "level": 1,
     "duration": 3000,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fba654e7600691aadf7",
-      "name": "Lavatory"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -6732,16 +6728,16 @@
           "name": "Soap"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fba654e7600691aadf7",
+      "name": "Lavatory"
+    }
   },
   {
     "id": "655b4489065b076eb02c4b45",
     "level": 3,
     "duration": 8400,
-    "station": {
-      "id": "5d484fda654e7600681d9315",
-      "name": "Workbench"
-    },
     "taskUnlock": {
       "id": "639135534b15ca31f76bc317",
       "name": "Your Car Needs a Service"
@@ -6784,16 +6780,16 @@
           "name": "5.56x45mm M855A1"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fda654e7600681d9315",
+      "name": "Workbench"
+    }
   },
   {
     "id": "5d5c1f25d582a5479d4ec458",
     "level": 2,
     "duration": 8500,
-    "station": {
-      "id": "5d484fda654e7600681d9315",
-      "name": "Workbench"
-    },
     "taskUnlock": {
       "id": "59c512ad86f7741f0d09de9b",
       "name": "The Punisher - Part 3"
@@ -6829,17 +6825,17 @@
           "name": "5.45x39mm PP gs"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fda654e7600681d9315",
+      "name": "Workbench"
+    }
   },
   {
     "id": "67bc88ec4e7dbc3aa2024321",
     "level": 1,
     "duration": 90000,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fda654e7600681d9315",
-      "name": "Workbench"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -6864,17 +6860,17 @@
           "name": "Armored case"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fda654e7600681d9315",
+      "name": "Workbench"
+    }
   },
   {
     "id": "5df138986c38ba26da0b3a77",
     "level": 1,
     "duration": 1320,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fda654e7600681d9315",
-      "name": "Workbench"
-    },
     "requiredItems": [
       {
         "count": 4,
@@ -6899,17 +6895,17 @@
           "name": "Broken LCD"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fda654e7600681d9315",
+      "name": "Workbench"
+    }
   },
   {
     "id": "6002e26ac6b84d04cc62045e",
     "level": 1,
     "duration": 2600,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fda654e7600681d9315",
-      "name": "Workbench"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -6934,17 +6930,17 @@
           "name": "Magnet"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fda654e7600681d9315",
+      "name": "Workbench"
+    }
   },
   {
     "id": "5de10c50c607752a1f1262c7",
     "level": 2,
     "duration": 5000,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fd1654e76006732bf2e",
-      "name": "Nutrition Unit"
-    },
     "requiredItems": [
       {
         "count": 2,
@@ -6962,17 +6958,17 @@
           "name": "Pack of sugar"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fd1654e76006732bf2e",
+      "name": "Nutrition Unit"
+    }
   },
   {
     "id": "5ede0502879619077751d00a",
     "level": 3,
     "duration": 5100,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fcd654e7668ec2ec322",
-      "name": "Medstation"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -7011,17 +7007,17 @@
           "name": "SJ6 TGLabs combat stimulant injector"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fcd654e7668ec2ec322",
+      "name": "Medstation"
+    }
   },
   {
     "id": "67f4ebb7d0fb51b8c705e80e",
     "level": 1,
     "duration": 1200,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fc8654e760065037abf",
-      "name": "Water Collector"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -7039,17 +7035,17 @@
           "name": "Bottle of water (0.6L)"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fc8654e760065037abf",
+      "name": "Water Collector"
+    }
   },
   {
     "id": "5ffcac4e1285295b7441ee01",
     "level": 1,
     "duration": 2900,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fda654e7600681d9315",
-      "name": "Workbench"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -7074,17 +7070,17 @@
           "name": "Printed circuit board"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fda654e7600681d9315",
+      "name": "Workbench"
+    }
   },
   {
     "id": "68f2094c00ca7e22d3081a08",
     "level": 2,
     "duration": 9000,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fd1654e76006732bf2e",
-      "name": "Nutrition Unit"
-    },
     "requiredItems": [
       {
         "count": 4,
@@ -7109,17 +7105,17 @@
           "name": "Can of beef stew (Large)"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fd1654e76006732bf2e",
+      "name": "Nutrition Unit"
+    }
   },
   {
     "id": "5f241246232409155b66b809",
     "level": 3,
     "duration": 43200,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fd1654e76006732bf2e",
-      "name": "Nutrition Unit"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -7172,17 +7168,17 @@
           "name": "Can of Hot Rod energy drink"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fd1654e76006732bf2e",
+      "name": "Nutrition Unit"
+    }
   },
   {
     "id": "655b6c381fe356507267b2f6",
     "level": 3,
     "duration": 2500,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fba654e7600691aadf7",
-      "name": "Lavatory"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -7221,17 +7217,17 @@
           "name": "Pilgrim tourist backpack"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fba654e7600691aadf7",
+      "name": "Lavatory"
+    }
   },
   {
     "id": "655b6bc01f2b6843ec751fd7",
     "level": 2,
     "duration": 2500,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fba654e7600691aadf7",
-      "name": "Lavatory"
-    },
     "requiredItems": [
       {
         "count": 2,
@@ -7270,17 +7266,17 @@
           "name": "Eberlestock F5 Switchblade backpack (Dry Earth)"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fba654e7600691aadf7",
+      "name": "Lavatory"
+    }
   },
   {
     "id": "5de950a845b5d67bad6e9ef7",
     "level": 1,
     "duration": 2100,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fda654e7600681d9315",
-      "name": "Workbench"
-    },
     "requiredItems": [
       {
         "count": 2,
@@ -7312,17 +7308,17 @@
           "name": "Power cord"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fda654e7600681d9315",
+      "name": "Workbench"
+    }
   },
   {
     "id": "5d8a1a7d7a3dfe597c2e459e",
     "level": 1,
     "duration": 2350,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fcd654e7668ec2ec322",
-      "name": "Medstation"
-    },
     "requiredItems": [
       {
         "count": 2,
@@ -7347,17 +7343,17 @@
           "name": "Salewa first aid kit"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fcd654e7668ec2ec322",
+      "name": "Medstation"
+    }
   },
   {
     "id": "6913722bd4c6de533e0c774a",
     "level": 3,
     "duration": 1500,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fda654e7600681d9315",
-      "name": "Workbench"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -7403,16 +7399,16 @@
           "name": "Body armor repair kit"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fda654e7600681d9315",
+      "name": "Workbench"
+    }
   },
   {
     "id": "63a232f8ab6bb51044344bff",
     "level": 3,
     "duration": 50400,
-    "station": {
-      "id": "5d484fda654e7600681d9315",
-      "name": "Workbench"
-    },
     "taskUnlock": {
       "id": "6396700fea19ac7ed845db32",
       "name": "Spotter"
@@ -7455,17 +7451,17 @@
           "name": "Microcontroller board"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fda654e7600681d9315",
+      "name": "Workbench"
+    }
   },
   {
     "id": "68ef997596921a3bf70d6196",
     "level": 1,
     "duration": 9900,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fdf654e7600691aadf8",
-      "name": "Intelligence Center"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -7497,17 +7493,17 @@
           "name": "Reprogrammed keycard for A.P.'s apartment lock (Blue)"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fdf654e7600691aadf8",
+      "name": "Intelligence Center"
+    }
   },
   {
     "id": "5d93ba4486f77454bd61d2a9",
     "level": 3,
     "duration": 9400,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fba654e7600691aadf7",
-      "name": "Lavatory"
-    },
     "requiredItems": [
       {
         "count": 3,
@@ -7553,17 +7549,17 @@
           "name": "FP-100 filter absorber"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fba654e7600691aadf7",
+      "name": "Lavatory"
+    }
   },
   {
     "id": "657fc79cfd86b9d9680c4a24",
     "level": 2,
     "duration": 1600,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fba654e7600691aadf7",
-      "name": "Lavatory"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -7609,16 +7605,16 @@
           "name": "6B13 custom ballistic plates (Back)"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fba654e7600691aadf7",
+      "name": "Lavatory"
+    }
   },
   {
     "id": "6012ee7e44a0465ee67a58de",
     "level": 2,
     "duration": 5500,
-    "station": {
-      "id": "5d484fcd654e7668ec2ec322",
-      "name": "Medstation"
-    },
     "taskUnlock": {
       "id": "60e71c48c1bfa3050473b8e5",
       "name": "Crisis"
@@ -7661,17 +7657,17 @@
           "name": "M.U.L.E. stimulant injector"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fcd654e7668ec2ec322",
+      "name": "Medstation"
+    }
   },
   {
     "id": "61c77cc6fcc1673f08540e9b",
     "level": 1,
     "duration": 4000,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fd1654e76006732bf2e",
-      "name": "Nutrition Unit"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -7703,17 +7699,17 @@
           "name": "Emergency Water Ration"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fd1654e76006732bf2e",
+      "name": "Nutrition Unit"
+    }
   },
   {
     "id": "5de95c91225b0a76ca0ea0b7",
     "level": 2,
     "duration": 4800,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fda654e7600681d9315",
-      "name": "Workbench"
-    },
     "requiredItems": [
       {
         "count": 2,
@@ -7752,17 +7748,17 @@
           "name": "Electric motor"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fda654e7600681d9315",
+      "name": "Workbench"
+    }
   },
   {
     "id": "619e45ea98398d3b104e8419",
     "level": 2,
     "duration": 25000,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fda654e7600681d9315",
-      "name": "Workbench"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -7815,17 +7811,17 @@
           "name": "Bulbex cable cutter"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fda654e7600681d9315",
+      "name": "Workbench"
+    }
   },
   {
     "id": "5dc1f7de6058e020335c9d88",
     "level": 2,
     "duration": 1290,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fd1654e76006732bf2e",
-      "name": "Nutrition Unit"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -7850,17 +7846,17 @@
           "name": "Slickers chocolate bar"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fd1654e76006732bf2e",
+      "name": "Nutrition Unit"
+    }
   },
   {
     "id": "655b4bbe4343a16d2e047668",
     "level": 2,
     "duration": 5900,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fda654e7600681d9315",
-      "name": "Workbench"
-    },
     "requiredItems": [
       {
         "count": 2,
@@ -7878,17 +7874,17 @@
           "name": "7.62x51mm BCP FMJ"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fda654e7600681d9315",
+      "name": "Workbench"
+    }
   },
   {
     "id": "5d8f614c9ea122564c316462",
     "level": 3,
     "duration": 6900,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fcd654e7668ec2ec322",
-      "name": "Medstation"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -7920,17 +7916,17 @@
           "name": "Propital regenerative stimulant injector"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fcd654e7668ec2ec322",
+      "name": "Medstation"
+    }
   },
   {
     "id": "615c3d800d3afc358a55405e",
     "level": 1,
     "duration": 3100,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fda654e7600681d9315",
-      "name": "Workbench"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -7955,17 +7951,17 @@
           "name": "Weapon parts"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fda654e7600681d9315",
+      "name": "Workbench"
+    }
   },
   {
     "id": "5eecaa6327ccd70521107ff5",
     "level": 1,
     "duration": 2200,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fba654e7600691aadf7",
-      "name": "Lavatory"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -7990,17 +7986,17 @@
           "name": "Ripstop fabric"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fba654e7600691aadf7",
+      "name": "Lavatory"
+    }
   },
   {
     "id": "5e6cfc53a3e6886b9e6c39a8",
     "level": 2,
     "duration": 4990,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fcd654e7668ec2ec322",
-      "name": "Medstation"
-    },
     "requiredItems": [
       {
         "count": 7,
@@ -8039,16 +8035,16 @@
           "name": "SJ1 TGLabs combat stimulant injector"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fcd654e7668ec2ec322",
+      "name": "Medstation"
+    }
   },
   {
     "id": "655b63ac9db22d43ab42b70a",
     "level": 2,
     "duration": 9000,
-    "station": {
-      "id": "5d484fba654e7600691aadf7",
-      "name": "Lavatory"
-    },
     "taskUnlock": {
       "id": "5b47876e86f7744d1c353205",
       "name": "The Blood of War - Part 2"
@@ -8105,17 +8101,17 @@
           "name": "Ars Arma A18 Skanda plate carrier (MultiCam)"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fba654e7600691aadf7",
+      "name": "Lavatory"
+    }
   },
   {
     "id": "5df8fe0deddb880fd56f2d7d",
     "level": 2,
     "duration": 2450,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fba654e7600691aadf7",
-      "name": "Lavatory"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -8147,16 +8143,16 @@
           "name": "Clin window cleaner"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fba654e7600691aadf7",
+      "name": "Lavatory"
+    }
   },
   {
     "id": "655b4669b71eeb7c4168c625",
     "level": 3,
     "duration": 13000,
-    "station": {
-      "id": "5d484fda654e7600681d9315",
-      "name": "Workbench"
-    },
     "taskUnlock": {
       "id": "60e71c9ad54b755a3b53eb66",
       "name": "The Cleaner"
@@ -8192,16 +8188,16 @@
           "name": ".300 Blackout AP"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fda654e7600681d9315",
+      "name": "Workbench"
+    }
   },
   {
     "id": "63a571802116d261d2336cd1",
     "level": 1,
     "duration": 5400,
-    "station": {
-      "id": "5d484fda654e7600681d9315",
-      "name": "Workbench"
-    },
     "taskUnlock": {
       "id": "625d6ffaf7308432be1d44c5",
       "name": "Network Provider - Part 2"
@@ -8258,17 +8254,17 @@
           "name": "Radio repeater"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fda654e7600681d9315",
+      "name": "Workbench"
+    }
   },
   {
     "id": "67f4ec82690e0a541a021d3d",
     "level": 2,
     "duration": 1800,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fc8654e760065037abf",
-      "name": "Water Collector"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -8293,17 +8289,17 @@
           "name": "Emergency Water Ration"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fc8654e760065037abf",
+      "name": "Water Collector"
+    }
   },
   {
     "id": "5eeca9bad874f914d2536585",
     "level": 2,
     "duration": 18000,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fba654e7600691aadf7",
-      "name": "Lavatory"
-    },
     "requiredItems": [
       {
         "count": 3,
@@ -8349,17 +8345,17 @@
           "name": "Lucky Scav Junk box"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fba654e7600691aadf7",
+      "name": "Lavatory"
+    }
   },
   {
     "id": "68f1113b58cb1bc9000d2f8b",
     "level": 3,
     "duration": 6720,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fcd654e7668ec2ec322",
-      "name": "Medstation"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -8398,17 +8394,17 @@
           "name": "Zagustin hemostatic drug injector"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fcd654e7668ec2ec322",
+      "name": "Medstation"
+    }
   },
   {
     "id": "63a3359eaf870e651d58e61a",
     "level": 1,
     "duration": 1200,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fda654e7600681d9315",
-      "name": "Workbench"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -8454,16 +8450,16 @@
           "name": "PM 9x18PM 84-round makeshift drum magazine"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fda654e7600681d9315",
+      "name": "Workbench"
+    }
   },
   {
     "id": "655b65fc1273611d2462ab77",
     "level": 3,
     "duration": 14000,
-    "station": {
-      "id": "5d484fba654e7600691aadf7",
-      "name": "Lavatory"
-    },
     "taskUnlock": {
       "id": "5ae4497b86f7744cf402ed00",
       "name": "Sew it Good - Part 4"
@@ -8513,17 +8509,17 @@
           "name": "5.11 Tactical TacTec plate carrier (Ranger Green)"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fba654e7600691aadf7",
+      "name": "Lavatory"
+    }
   },
   {
     "id": "600a9955ba91d953182d69f0",
     "level": 1,
     "duration": 360,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fda654e7600681d9315",
-      "name": "Workbench"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -8548,17 +8544,17 @@
           "name": "Kalashnikov AKM 7.62x39 assault rifle Default"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fda654e7600681d9315",
+      "name": "Workbench"
+    }
   },
   {
     "id": "5d8a1568df9fc649e81b8b1b",
     "level": 2,
     "duration": 6100,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fd1654e76006732bf2e",
-      "name": "Nutrition Unit"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -8583,17 +8579,17 @@
           "name": "Wilston cigarettes"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fd1654e76006732bf2e",
+      "name": "Nutrition Unit"
+    }
   },
   {
     "id": "5e37f15386f774299f112a2e",
     "level": 1,
     "duration": 4670,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fda654e7600681d9315",
-      "name": "Workbench"
-    },
     "requiredItems": [
       {
         "count": 5,
@@ -8618,17 +8614,17 @@
           "name": "Zarya stun grenade"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fda654e7600681d9315",
+      "name": "Workbench"
+    }
   },
   {
     "id": "68f68abd75ecb35e20030e85",
     "level": 1,
     "duration": 600,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fda654e7600681d9315",
-      "name": "Workbench"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -8653,17 +8649,17 @@
           "name": "Left half of a Physical Bitcoin"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fda654e7600681d9315",
+      "name": "Workbench"
+    }
   },
   {
     "id": "67caf5c5bfe0242ab1032966",
     "level": 1,
     "duration": 60,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fda654e7600681d9315",
-      "name": "Workbench"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -8688,17 +8684,17 @@
           "name": "Unlocked equipment crate (BattlePass 0)"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fda654e7600681d9315",
+      "name": "Workbench"
+    }
   },
   {
     "id": "5eeca7724a8a9b668f0d89cd",
     "level": 3,
     "duration": 7250,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fda654e7600681d9315",
-      "name": "Workbench"
-    },
     "requiredItems": [
       {
         "count": 150,
@@ -8730,17 +8726,17 @@
           "name": "9x19mm AP 6.3"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fda654e7600681d9315",
+      "name": "Workbench"
+    }
   },
   {
     "id": "62a115db5c6bbf22c15ac19d",
     "level": 1,
     "duration": 900,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fda654e7600681d9315",
-      "name": "Workbench"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -8765,17 +8761,17 @@
           "name": "Round pliers"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fda654e7600681d9315",
+      "name": "Workbench"
+    }
   },
   {
     "id": "655b6b641273611d2462ab78",
     "level": 1,
     "duration": 1200,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fba654e7600691aadf7",
-      "name": "Lavatory"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -8800,17 +8796,17 @@
           "name": "Scav backpack"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fba654e7600691aadf7",
+      "name": "Lavatory"
+    }
   },
   {
     "id": "62a11658650cc35fa94e009a",
     "level": 3,
     "duration": 36000,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fd1654e76006732bf2e",
-      "name": "Nutrition Unit"
-    },
     "requiredItems": [
       {
         "count": 5,
@@ -8842,16 +8838,16 @@
           "name": "Bottle of Pevko Light beer"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fd1654e76006732bf2e",
+      "name": "Nutrition Unit"
+    }
   },
   {
     "id": "655b6a50b71eeb7c4168c628",
     "level": 3,
     "duration": 3000,
-    "station": {
-      "id": "5d484fba654e7600691aadf7",
-      "name": "Lavatory"
-    },
     "taskUnlock": {
       "id": "60e71b62a0beca400d69efc4",
       "name": "Escort"
@@ -8908,16 +8904,16 @@
           "name": "Rys-T bulletproof helmet (Black)"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fba654e7600691aadf7",
+      "name": "Lavatory"
+    }
   },
   {
     "id": "5e66408286f7747b2c2d7786",
     "level": 2,
     "duration": 6000,
-    "station": {
-      "id": "5d484fda654e7600681d9315",
-      "name": "Workbench"
-    },
     "taskUnlock": {
       "id": "5c0d190cd09282029f5390d8",
       "name": "Grenadier"
@@ -8953,17 +8949,17 @@
           "name": "VOG-25 Khattabka improvised hand grenade"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fda654e7600681d9315",
+      "name": "Workbench"
+    }
   },
   {
     "id": "5df8ffcbaab5f257bd7ff3a8",
     "level": 2,
     "duration": 9000,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fba654e7600691aadf7",
-      "name": "Lavatory"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -8988,17 +8984,17 @@
           "name": "WD-40 (100ml)"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fba654e7600691aadf7",
+      "name": "Lavatory"
+    }
   },
   {
     "id": "61c226d91b8c294cd411c881",
     "level": 1,
     "duration": 6600,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fda654e7600681d9315",
-      "name": "Workbench"
-    },
     "requiredItems": [
       {
         "count": 2,
@@ -9044,16 +9040,16 @@
           "name": "Gas analyzer"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fda654e7600681d9315",
+      "name": "Workbench"
+    }
   },
   {
     "id": "655b33429db22d43ab42b704",
     "level": 3,
     "duration": 13000,
-    "station": {
-      "id": "5d484fda654e7600681d9315",
-      "name": "Workbench"
-    },
     "taskUnlock": {
       "id": "64e7b9bffd30422ed03dad38",
       "name": "Gendarmerie - District Patrol"
@@ -9089,16 +9085,16 @@
           "name": "5.45x39mm BP gs"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fda654e7600681d9315",
+      "name": "Workbench"
+    }
   },
   {
     "id": "60048c82a7903e00382d9593",
     "level": 3,
     "duration": 21000,
-    "station": {
-      "id": "5d484fda654e7600681d9315",
-      "name": "Workbench"
-    },
     "taskUnlock": {
       "id": "63966ff54c3ef01b6f3ffad8",
       "name": "Provocation"
@@ -9162,17 +9158,17 @@
           "name": "FLIR RS-32 2.25-9x 35mm 60Hz thermal riflescope"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fda654e7600681d9315",
+      "name": "Workbench"
+    }
   },
   {
     "id": "5ffcad24f3fdc212a91d5536",
     "level": 1,
     "duration": 5250,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fda654e7600681d9315",
-      "name": "Workbench"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -9204,17 +9200,17 @@
           "name": "12/70 Piranha"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fda654e7600681d9315",
+      "name": "Workbench"
+    }
   },
   {
     "id": "619eb0eb56579138ec08fed8",
     "level": 1,
     "duration": 2950,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fcd654e7668ec2ec322",
-      "name": "Medstation"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -9246,16 +9242,16 @@
           "name": "CMS surgical kit"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fcd654e7668ec2ec322",
+      "name": "Medstation"
+    }
   },
   {
     "id": "655b598db71eeb7c4168c626",
     "level": 1,
     "duration": 3000,
-    "station": {
-      "id": "5d484fda654e7600681d9315",
-      "name": "Workbench"
-    },
     "taskUnlock": {
       "id": "5c0bc91486f7746ab41857a2",
       "name": "Silent Caliber"
@@ -9291,17 +9287,17 @@
           "name": "12/70 flechette"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fda654e7600681d9315",
+      "name": "Workbench"
+    }
   },
   {
     "id": "5dc1f4d9e078d303d91b44c7",
     "level": 3,
     "duration": 6650,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fd1654e76006732bf2e",
-      "name": "Nutrition Unit"
-    },
     "requiredItems": [
       {
         "count": 1,
@@ -9326,17 +9322,17 @@
           "name": "Bottle of water (0.6L)"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fd1654e76006732bf2e",
+      "name": "Nutrition Unit"
+    }
   },
   {
     "id": "655b50e7c023e22044165de5",
     "level": 2,
     "duration": 5600,
     "taskUnlock": null,
-    "station": {
-      "id": "5d484fda654e7600681d9315",
-      "name": "Workbench"
-    },
     "requiredItems": [
       {
         "count": 180,
@@ -9368,6 +9364,10 @@
           "name": "9x19mm Luger CCI"
         }
       }
-    ]
+    ],
+    "station": {
+      "id": "5d484fda654e7600681d9315",
+      "name": "Workbench"
+    }
   }
 ]

@@ -1249,7 +1249,6 @@
     "finishRewards": {
       "skillLevelReward": [],
       "traderUnlock": [],
-      "craftUnlock": [],
       "traderStanding": [
         {
           "standing": 0.02,
@@ -1307,7 +1306,8 @@
             "name": "Mosin Rifle AIM Sports Recoil Pad"
           }
         }
-      ]
+      ],
+      "craftUnlock": []
     }
   },
   {
@@ -1679,11 +1679,6 @@
     "finishRewards": {
       "skillLevelReward": [],
       "traderUnlock": [],
-      "craftUnlock": [
-        {
-          "id": "655b4f57769de97e1d62d116"
-        }
-      ],
       "traderStanding": [
         {
           "standing": 0.02,
@@ -1728,6 +1723,11 @@
             "id": "5bc5a35cd4351e450201232f",
             "name": "Mosin Rifle Witt Machine 7.62x54R muzzle brake"
           }
+        }
+      ],
+      "craftUnlock": [
+        {
+          "id": "655b4f57769de97e1d62d116"
         }
       ]
     }
@@ -6865,11 +6865,6 @@
       "offerUnlock": [],
       "skillLevelReward": [],
       "traderUnlock": [],
-      "craftUnlock": [
-        {
-          "id": "5e66408286f7747b2c2d7786"
-        }
-      ],
       "traderStanding": [
         {
           "standing": 0.02,
@@ -6921,6 +6916,11 @@
             "id": "617fd91e5539a84ec44ce155",
             "name": "RGN hand grenade"
           }
+        }
+      ],
+      "craftUnlock": [
+        {
+          "id": "5e66408286f7747b2c2d7786"
         }
       ]
     }
@@ -16549,11 +16549,6 @@
       "offerUnlock": [],
       "skillLevelReward": [],
       "traderUnlock": [],
-      "craftUnlock": [
-        {
-          "id": "655b457c9db22d43ab42b706"
-        }
-      ],
       "traderStanding": [
         {
           "standing": 0.04,
@@ -16577,6 +16572,11 @@
             "id": "61bf7c024770ee6f9c6b8b53",
             "name": "Secure magnetic tape cassette"
           }
+        }
+      ],
+      "craftUnlock": [
+        {
+          "id": "655b457c9db22d43ab42b706"
         }
       ]
     }
@@ -17297,11 +17297,6 @@
     "finishRewards": {
       "skillLevelReward": [],
       "traderUnlock": [],
-      "craftUnlock": [
-        {
-          "id": "5dceb6964a98801ba2075d27"
-        }
-      ],
       "traderStanding": [
         {
           "standing": 0.03,
@@ -17346,6 +17341,11 @@
             "id": "5f06d6e1475d472556679d16",
             "name": "FN40GL Mk2 40mm grenade launcher Default"
           }
+        }
+      ],
+      "craftUnlock": [
+        {
+          "id": "5dceb6964a98801ba2075d27"
         }
       ]
     }
@@ -20274,11 +20274,6 @@
       "offerUnlock": [],
       "skillLevelReward": [],
       "traderUnlock": [],
-      "craftUnlock": [
-        {
-          "id": "66509e8c9398c9c9e10a31bb"
-        }
-      ],
       "traderStanding": [
         {
           "standing": 0.02,
@@ -20295,6 +20290,11 @@
             "id": "66507eabf5ddb0818b085b68",
             "name": "2A2-(b-TG) stimulant injector"
           }
+        }
+      ],
+      "craftUnlock": [
+        {
+          "id": "66509e8c9398c9c9e10a31bb"
         }
       ]
     }
@@ -25224,11 +25224,6 @@
       "offerUnlock": [],
       "skillLevelReward": [],
       "traderUnlock": [],
-      "craftUnlock": [
-        {
-          "id": "5dde60e0e2c8f57eb6465327"
-        }
-      ],
       "traderStanding": [
         {
           "standing": 0.02,
@@ -25259,6 +25254,11 @@
             "id": "65118f531b90b4fc77015083",
             "name": "VSS/VAL 9x39 30-round magazine"
           }
+        }
+      ],
+      "craftUnlock": [
+        {
+          "id": "5dde60e0e2c8f57eb6465327"
         }
       ]
     }
@@ -26263,11 +26263,6 @@
       "offerUnlock": [],
       "skillLevelReward": [],
       "traderUnlock": [],
-      "craftUnlock": [
-        {
-          "id": "5d5c1f25d582a5479d4ec458"
-        }
-      ],
       "traderStanding": [
         {
           "standing": 0.04,
@@ -26298,6 +26293,11 @@
             "id": "58dffc5d86f77407c744a847",
             "name": "Lobaev Arms DVL-10 7.62x51 bolt-action sniper rifle Urbana"
           }
+        }
+      ],
+      "craftUnlock": [
+        {
+          "id": "5d5c1f25d582a5479d4ec458"
         }
       ]
     }
@@ -33065,11 +33065,6 @@
     "finishRewards": {
       "skillLevelReward": [],
       "traderUnlock": [],
-      "craftUnlock": [
-        {
-          "id": "655b33429db22d43ab42b704"
-        }
-      ],
       "traderStanding": [
         {
           "standing": 0.04,
@@ -33114,6 +33109,11 @@
             "id": "70726573657400000000001b",
             "name": "Kalashnikov AK-12 5.45x39 assault rifle Silenced"
           }
+        }
+      ],
+      "craftUnlock": [
+        {
+          "id": "655b33429db22d43ab42b704"
         }
       ]
     }
@@ -33494,11 +33494,6 @@
       "offerUnlock": [],
       "skillLevelReward": [],
       "traderUnlock": [],
-      "craftUnlock": [
-        {
-          "id": "655b5af31273611d2462ab76"
-        }
-      ],
       "traderStanding": [
         {
           "standing": 0.02,
@@ -33515,6 +33510,11 @@
             "id": "5449016a4bdc2d6f028b456f",
             "name": "Roubles"
           }
+        }
+      ],
+      "craftUnlock": [
+        {
+          "id": "655b5af31273611d2462ab76"
         }
       ]
     }
@@ -35551,11 +35551,6 @@
     "finishRewards": {
       "skillLevelReward": [],
       "traderUnlock": [],
-      "craftUnlock": [
-        {
-          "id": "655b5fd2975a7f3c734661a8"
-        }
-      ],
       "traderStanding": [
         {
           "standing": 0.03,
@@ -35593,6 +35588,11 @@
             "id": "657127126d197c216005b402",
             "name": "Interceptor OTV body armor (UCP) Default"
           }
+        }
+      ],
+      "craftUnlock": [
+        {
+          "id": "655b5fd2975a7f3c734661a8"
         }
       ]
     }
@@ -37335,11 +37335,6 @@
       "offerUnlock": [],
       "skillLevelReward": [],
       "traderUnlock": [],
-      "craftUnlock": [
-        {
-          "id": "655b5ebc32b0b1645e6f54c9"
-        }
-      ],
       "traderStanding": [
         {
           "standing": 0.02,
@@ -37370,6 +37365,11 @@
             "id": "5f60cd6cf2bcbb675b00dac6",
             "name": "Walker's XCEL 500BT Digital headset"
           }
+        }
+      ],
+      "craftUnlock": [
+        {
+          "id": "655b5ebc32b0b1645e6f54c9"
         }
       ]
     }
@@ -38151,11 +38151,6 @@
       "offerUnlock": [],
       "skillLevelReward": [],
       "traderUnlock": [],
-      "craftUnlock": [
-        {
-          "id": "655b65fc1273611d2462ab77"
-        }
-      ],
       "traderStanding": [
         {
           "standing": 0.03,
@@ -38186,6 +38181,11 @@
             "id": "6571952aacb85662e7024c01",
             "name": "ANA Tactical M2 plate carrier (OD Green) Default"
           }
+        }
+      ],
+      "craftUnlock": [
+        {
+          "id": "655b65fc1273611d2462ab77"
         }
       ]
     }
@@ -38784,11 +38784,6 @@
       "offerUnlock": [],
       "skillLevelReward": [],
       "traderUnlock": [],
-      "craftUnlock": [
-        {
-          "id": "655b63ac9db22d43ab42b70a"
-        }
-      ],
       "traderStanding": [
         {
           "standing": 0.03,
@@ -38819,6 +38814,11 @@
             "id": "65766278526e320fbe0357d4",
             "name": "NPP KlASS Korund-VM body armor (Black) Default"
           }
+        }
+      ],
+      "craftUnlock": [
+        {
+          "id": "655b63ac9db22d43ab42b70a"
         }
       ]
     }
@@ -43160,7 +43160,6 @@
       "offerUnlock": [],
       "skillLevelReward": [],
       "traderUnlock": [],
-      "craftUnlock": [],
       "traderStanding": [
         {
           "standing": 0.05,
@@ -43185,7 +43184,8 @@
             "name": "MP-155 12ga semi-automatic shotgun Ultima"
           }
         }
-      ]
+      ],
+      "craftUnlock": []
     }
   },
   {
@@ -44087,11 +44087,6 @@
       "offerUnlock": [],
       "skillLevelReward": [],
       "traderUnlock": [],
-      "craftUnlock": [
-        {
-          "id": "655b675e1f2b6843ec751fd6"
-        }
-      ],
       "traderStanding": [
         {
           "standing": 0.05,
@@ -44129,6 +44124,11 @@
             "id": "6576667d526e320fbe035806",
             "name": "Ars Arma CPC MOD.1 plate carrier (A-TACS FG) Default"
           }
+        }
+      ],
+      "craftUnlock": [
+        {
+          "id": "655b675e1f2b6843ec751fd6"
         }
       ]
     }
@@ -44529,11 +44529,6 @@
     "finishRewards": {
       "skillLevelReward": [],
       "traderUnlock": [],
-      "craftUnlock": [
-        {
-          "id": "63baedefe6ebc10fe0201083"
-        }
-      ],
       "traderStanding": [
         {
           "standing": 0.04,
@@ -44609,6 +44604,11 @@
             "id": "59bfe68886f7746004266202",
             "name": "AR-15 Vltor MUR-1S 5.56x45 upper receiver"
           }
+        }
+      ],
+      "craftUnlock": [
+        {
+          "id": "63baedefe6ebc10fe0201083"
         }
       ]
     }
@@ -46531,11 +46531,6 @@
       "offerUnlock": [],
       "skillLevelReward": [],
       "traderUnlock": [],
-      "craftUnlock": [
-        {
-          "id": "5ed9ff023a68ec264e5233c2"
-        }
-      ],
       "traderStanding": [
         {
           "standing": 0.01,
@@ -46552,6 +46547,11 @@
             "id": "6389c92d52123d5dd17f8876",
             "name": "Advanced Electronic Materials textbook"
           }
+        }
+      ],
+      "craftUnlock": [
+        {
+          "id": "5ed9ff023a68ec264e5233c2"
         }
       ]
     }
@@ -46638,7 +46638,6 @@
     "finishRewards": {
       "skillLevelReward": [],
       "traderUnlock": [],
-      "craftUnlock": [],
       "traderStanding": [
         {
           "standing": 0.01,
@@ -46670,7 +46669,8 @@
             "name": "Microcontroller board"
           }
         }
-      ]
+      ],
+      "craftUnlock": []
     }
   },
   {
@@ -46775,11 +46775,6 @@
     "finishRewards": {
       "skillLevelReward": [],
       "traderUnlock": [],
-      "craftUnlock": [
-        {
-          "id": "5ee4a093a297eb185236194f"
-        }
-      ],
       "traderStanding": [
         {
           "standing": 0.01,
@@ -46824,6 +46819,11 @@
             "id": "657089638db3adca1009f4ca",
             "name": "Atomic Defense CQCM ballistic mask (Black)"
           }
+        }
+      ],
+      "craftUnlock": [
+        {
+          "id": "5ee4a093a297eb185236194f"
         }
       ]
     }
@@ -47061,7 +47061,6 @@
       "offerUnlock": [],
       "skillLevelReward": [],
       "traderUnlock": [],
-      "craftUnlock": [],
       "traderStanding": [
         {
           "standing": 0.03,
@@ -47079,7 +47078,8 @@
             "name": "Silicon Optoelectronic Integrated Circuits textbook"
           }
         }
-      ]
+      ],
+      "craftUnlock": []
     }
   },
   {
@@ -47189,11 +47189,6 @@
       "offerUnlock": [],
       "skillLevelReward": [],
       "traderUnlock": [],
-      "craftUnlock": [
-        {
-          "id": "60048c82a7903e00382d9593"
-        }
-      ],
       "traderStanding": [
         {
           "standing": 0.03,
@@ -47217,6 +47212,11 @@
             "id": "5c05308086f7746b2101e90b",
             "name": "Virtex programmable processor"
           }
+        }
+      ],
+      "craftUnlock": [
+        {
+          "id": "60048c82a7903e00382d9593"
         }
       ]
     }
@@ -47469,11 +47469,6 @@
       "offerUnlock": [],
       "skillLevelReward": [],
       "traderUnlock": [],
-      "craftUnlock": [
-        {
-          "id": "63a232f8ab6bb51044344bff"
-        }
-      ],
       "traderStanding": [
         {
           "standing": 0.04,
@@ -47490,6 +47485,11 @@
             "id": "6389c7750ef44505c87f5996",
             "name": "Microcontroller board"
           }
+        }
+      ],
+      "craftUnlock": [
+        {
+          "id": "63a232f8ab6bb51044344bff"
         }
       ]
     }
@@ -47556,11 +47556,6 @@
       "offerUnlock": [],
       "skillLevelReward": [],
       "traderUnlock": [],
-      "craftUnlock": [
-        {
-          "id": "63a2327c151bfb591645c104"
-        }
-      ],
       "traderStanding": [
         {
           "standing": 0.04,
@@ -47584,6 +47579,11 @@
             "id": "5d03775b86f774203e7e0c4b",
             "name": "Phased array element"
           }
+        }
+      ],
+      "craftUnlock": [
+        {
+          "id": "63a2327c151bfb591645c104"
         }
       ]
     }
@@ -49156,11 +49156,6 @@
       "offerUnlock": [],
       "skillLevelReward": [],
       "traderUnlock": [],
-      "craftUnlock": [
-        {
-          "id": "655b4489065b076eb02c4b45"
-        }
-      ],
       "traderStanding": [
         {
           "standing": 0.03,
@@ -49177,6 +49172,11 @@
             "id": "5696686a4bdc2da3298b456a",
             "name": "Dollars"
           }
+        }
+      ],
+      "craftUnlock": [
+        {
+          "id": "655b4489065b076eb02c4b45"
         }
       ]
     }
@@ -51358,14 +51358,6 @@
       ],
       "traderStanding": [],
       "traderUnlock": [],
-      "craftUnlock": [
-        {
-          "id": "6012ee7e44a0465ee67a58de"
-        },
-        {
-          "id": "64b6b5c1c3abf20a9660daad"
-        }
-      ],
       "items": [
         {
           "count": 1,
@@ -51373,6 +51365,14 @@
             "id": "5aafbcd986f7745e590fff23",
             "name": "Medicine case"
           }
+        }
+      ],
+      "craftUnlock": [
+        {
+          "id": "6012ee7e44a0465ee67a58de"
+        },
+        {
+          "id": "64b6b5c1c3abf20a9660daad"
         }
       ]
     }
@@ -51536,11 +51536,6 @@
     "finishRewards": {
       "skillLevelReward": [],
       "traderUnlock": [],
-      "craftUnlock": [
-        {
-          "id": "63a2327c151bfb591645c104"
-        }
-      ],
       "traderStanding": [
         {
           "standing": 0.03,
@@ -51597,6 +51592,11 @@
             "id": "60926df0132d4d12c81fd9df",
             "name": "SilencerCo Saker ASR 556 5.56x45 sound suppressor"
           }
+        }
+      ],
+      "craftUnlock": [
+        {
+          "id": "63a2327c151bfb591645c104"
         }
       ]
     }
@@ -53319,11 +53319,6 @@
       ],
       "traderStanding": [],
       "traderUnlock": [],
-      "craftUnlock": [
-        {
-          "id": "655b4669b71eeb7c4168c625"
-        }
-      ],
       "items": [
         {
           "count": 3000,
@@ -53331,6 +53326,11 @@
             "id": "569668774bdc2da2298b4568",
             "name": "Euros"
           }
+        }
+      ],
+      "craftUnlock": [
+        {
+          "id": "655b4669b71eeb7c4168c625"
         }
       ]
     }
@@ -54568,11 +54568,6 @@
       ],
       "traderStanding": [],
       "traderUnlock": [],
-      "craftUnlock": [
-        {
-          "id": "655b6a50b71eeb7c4168c628"
-        }
-      ],
       "items": [
         {
           "count": 1,
@@ -54594,6 +54589,11 @@
             "id": "65766adc234b9f6e050a431a",
             "name": "6B43 Zabralo-Sh body armor (EMR) Default"
           }
+        }
+      ],
+      "craftUnlock": [
+        {
+          "id": "655b6a50b71eeb7c4168c628"
         }
       ]
     }
@@ -54761,11 +54761,6 @@
       ],
       "traderStanding": [],
       "traderUnlock": [],
-      "craftUnlock": [
-        {
-          "id": "6002eec9cc73cd34ac64188a"
-        }
-      ],
       "items": [
         {
           "count": 6000,
@@ -54773,6 +54768,11 @@
             "id": "5696686a4bdc2da3298b456a",
             "name": "Dollars"
           }
+        }
+      ],
+      "craftUnlock": [
+        {
+          "id": "6002eec9cc73cd34ac64188a"
         }
       ]
     }
