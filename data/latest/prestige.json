@@ -50,6 +50,22 @@
       }
     ],
     "rewards": {
+      "items": [
+        {
+          "item": {
+            "id": "6759bb94b8913ff13e049669",
+            "name": "What You Seek poster"
+          },
+          "count": 1
+        },
+        {
+          "item": {
+            "id": "67614b542eb91250020f2b86",
+            "name": "Armband (Prestige 1)"
+          },
+          "count": 1
+        }
+      ],
       "offerUnlock": [],
       "skillLevelReward": [
         {
@@ -58,23 +74,7 @@
         }
       ],
       "traderStanding": [],
-      "traderUnlock": [],
-      "items": [
-        {
-          "count": 1,
-          "item": {
-            "id": "6759bb94b8913ff13e049669",
-            "name": "What You Seek poster"
-          }
-        },
-        {
-          "count": 1,
-          "item": {
-            "id": "67614b542eb91250020f2b86",
-            "name": "Armband (Prestige 1)"
-          }
-        }
-      ]
+      "traderUnlock": []
     }
   },
   {
@@ -149,6 +149,29 @@
       }
     ],
     "rewards": {
+      "items": [
+        {
+          "item": {
+            "id": "674d90b55704568fe60bc8f5",
+            "name": "Akula push dagger"
+          },
+          "count": 1
+        },
+        {
+          "item": {
+            "id": "6759e07e4ff23436160d7fed",
+            "name": "I Bear Loot poster"
+          },
+          "count": 1
+        },
+        {
+          "item": {
+            "id": "67614b6b47c71ea3d40256d7",
+            "name": "Armband (Prestige 2)"
+          },
+          "count": 1
+        }
+      ],
       "offerUnlock": [],
       "skillLevelReward": [
         {
@@ -157,30 +180,7 @@
         }
       ],
       "traderStanding": [],
-      "traderUnlock": [],
-      "items": [
-        {
-          "count": 1,
-          "item": {
-            "id": "674d90b55704568fe60bc8f5",
-            "name": "Akula push dagger"
-          }
-        },
-        {
-          "count": 1,
-          "item": {
-            "id": "6759e07e4ff23436160d7fed",
-            "name": "I Bear Loot poster"
-          }
-        },
-        {
-          "count": 1,
-          "item": {
-            "id": "67614b6b47c71ea3d40256d7",
-            "name": "Armband (Prestige 2)"
-          }
-        }
-      ]
+      "traderUnlock": []
     }
   },
   {
@@ -255,6 +255,29 @@
       }
     ],
     "rewards": {
+      "items": [
+        {
+          "item": {
+            "id": "6841b6b674a3c16f5e03d653",
+            "name": "PMC Origins figurine"
+          },
+          "count": 1
+        },
+        {
+          "item": {
+            "id": "6841b179322db20d190b4b99",
+            "name": "Get a Life poster"
+          },
+          "count": 1
+        },
+        {
+          "item": {
+            "id": "6841b2506c1fcc41ed0db319",
+            "name": "Armband (Prestige 3)"
+          },
+          "count": 1
+        }
+      ],
       "offerUnlock": [],
       "skillLevelReward": [
         {
@@ -263,30 +286,7 @@
         }
       ],
       "traderStanding": [],
-      "traderUnlock": [],
-      "items": [
-        {
-          "count": 1,
-          "item": {
-            "id": "6841b6b674a3c16f5e03d653",
-            "name": "PMC Origins figurine"
-          }
-        },
-        {
-          "count": 1,
-          "item": {
-            "id": "6841b179322db20d190b4b99",
-            "name": "Get a Life poster"
-          }
-        },
-        {
-          "count": 1,
-          "item": {
-            "id": "6841b2506c1fcc41ed0db319",
-            "name": "Armband (Prestige 3)"
-          }
-        }
-      ]
+      "traderUnlock": []
     }
   },
   {
@@ -361,6 +361,22 @@
       }
     ],
     "rewards": {
+      "items": [
+        {
+          "item": {
+            "id": "6841b3463fcc417de40a6768",
+            "name": "Armband (Prestige 4)"
+          },
+          "count": 1
+        },
+        {
+          "item": {
+            "id": "6841b1ff51bf8645f7067bca",
+            "name": "Get a Paw poster"
+          },
+          "count": 1
+        }
+      ],
       "offerUnlock": [],
       "skillLevelReward": [
         {
@@ -369,23 +385,7 @@
         }
       ],
       "traderStanding": [],
-      "traderUnlock": [],
-      "items": [
-        {
-          "count": 1,
-          "item": {
-            "id": "6841b3463fcc417de40a6768",
-            "name": "Armband (Prestige 4)"
-          }
-        },
-        {
-          "count": 1,
-          "item": {
-            "id": "6841b1ff51bf8645f7067bca",
-            "name": "Get a Paw poster"
-          }
-        }
-      ]
+      "traderUnlock": []
     }
   },
   {
@@ -460,6 +460,29 @@
       }
     ],
     "rewards": {
+      "items": [
+        {
+          "item": {
+            "id": "6841b3ab322db20d190b4b9b",
+            "name": "Armband (Prestige 5)"
+          },
+          "count": 1
+        },
+        {
+          "item": {
+            "id": "68f0f8a1375a44d1ed01ea4b",
+            "name": "Killagirl poster"
+          },
+          "count": 1
+        },
+        {
+          "item": {
+            "id": "68f244ae22c8979ee308f4d8",
+            "name": "NKVD Finka knife"
+          },
+          "count": 1
+        }
+      ],
       "offerUnlock": [],
       "skillLevelReward": [
         {
@@ -468,30 +491,7 @@
         }
       ],
       "traderStanding": [],
-      "traderUnlock": [],
-      "items": [
-        {
-          "count": 1,
-          "item": {
-            "id": "6841b3ab322db20d190b4b9b",
-            "name": "Armband (Prestige 5)"
-          }
-        },
-        {
-          "count": 1,
-          "item": {
-            "id": "68f0f8a1375a44d1ed01ea4b",
-            "name": "Killagirl poster"
-          }
-        },
-        {
-          "count": 1,
-          "item": {
-            "id": "68f244ae22c8979ee308f4d8",
-            "name": "NKVD Finka knife"
-          }
-        }
-      ]
+      "traderUnlock": []
     }
   },
   {
@@ -566,6 +566,36 @@
       }
     ],
     "rewards": {
+      "items": [
+        {
+          "item": {
+            "id": "68f0f8f1a1e799f1c3027c71",
+            "name": "Chronicles of Ryzhy poster"
+          },
+          "count": 1
+        },
+        {
+          "item": {
+            "id": "68f117b8121d878a2303eee0",
+            "name": "Secure container Gamma (Loui Peeton)"
+          },
+          "count": 1
+        },
+        {
+          "item": {
+            "id": "68f11224197b61ffe703b16f",
+            "name": "Hardened PMC figurine"
+          },
+          "count": 1
+        },
+        {
+          "item": {
+            "id": "68d65766916a108d7a023c98",
+            "name": "Armband (Prestige 6)"
+          },
+          "count": 1
+        }
+      ],
       "offerUnlock": [],
       "skillLevelReward": [
         {
@@ -574,37 +604,7 @@
         }
       ],
       "traderStanding": [],
-      "traderUnlock": [],
-      "items": [
-        {
-          "count": 1,
-          "item": {
-            "id": "68f0f8f1a1e799f1c3027c71",
-            "name": "Chronicles of Ryzhy poster"
-          }
-        },
-        {
-          "count": 1,
-          "item": {
-            "id": "68f117b8121d878a2303eee0",
-            "name": "Secure container Gamma (Loui Peeton)"
-          }
-        },
-        {
-          "count": 1,
-          "item": {
-            "id": "68f11224197b61ffe703b16f",
-            "name": "Hardened PMC figurine"
-          }
-        },
-        {
-          "count": 1,
-          "item": {
-            "id": "68d65766916a108d7a023c98",
-            "name": "Armband (Prestige 6)"
-          }
-        }
-      ]
+      "traderUnlock": []
     }
   }
 ]

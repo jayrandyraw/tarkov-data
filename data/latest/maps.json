@@ -11,6 +11,19 @@
     ],
     "raidDuration": 20,
     "players": "7-8",
+    "bosses": [
+      {
+        "name": "Tagilla",
+        "spawnChance": 0.5,
+        "spawnLocations": [
+          {
+            "name": "Any scav spawn",
+            "chance": 1
+          }
+        ],
+        "escorts": []
+      }
+    ],
     "extracts": [
       {
         "id": "ffb8b37a6390d2c3b00baeee3295492ea1e19a93",
@@ -67,20 +80,7 @@
         "switches": []
       }
     ],
-    "switches": [],
-    "bosses": [
-      {
-        "spawnChance": 0.5,
-        "spawnLocations": [
-          {
-            "name": "Any scav spawn",
-            "chance": 1
-          }
-        ],
-        "escorts": [],
-        "name": "Tagilla"
-      }
-    ]
+    "switches": []
   },
   {
     "id": "56f40101d2720b2a4d8b45d6",
@@ -92,19 +92,68 @@
       "Scavs",
       "Reshala",
       "Reshala Guard",
-      "Knight",
-      "Big Pipe",
-      "Birdeye",
       "Partisan",
       "Cultist Priest",
       "Cultist Warrior"
     ],
     "raidDuration": 35,
     "players": "10-12",
-    "switches": [
+    "bosses": [
       {
-        "id": "ae4bdfc1fc5b30100701158b56ae4d20840e0550",
-        "name": "ZB-013 Power Switch"
+        "name": "Reshala",
+        "spawnChance": 0.75,
+        "spawnLocations": [
+          {
+            "name": "Dorms",
+            "chance": 0.33
+          },
+          {
+            "name": "New Gas Station",
+            "chance": 0.33
+          },
+          {
+            "name": "Stronghold",
+            "chance": 0.33
+          }
+        ],
+        "escorts": [
+          {
+            "name": "Reshala Guard",
+            "amount": [
+              {
+                "count": 4,
+                "chance": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Partisan",
+        "spawnChance": 0.2,
+        "spawnLocations": [],
+        "escorts": []
+      },
+      {
+        "name": "Cultist Priest",
+        "spawnChance": 0.25,
+        "spawnLocations": [
+          {
+            "name": "Stronghold",
+            "chance": 1
+          }
+        ],
+        "escorts": [
+          {
+            "name": "Cultist Warrior",
+            "amount": [
+              {
+                "count": 4,
+                "chance": 1
+              }
+            ]
+          }
+        ]
       }
     ],
     "extracts": [
@@ -276,92 +325,10 @@
         "switches": []
       }
     ],
-    "bosses": [
+    "switches": [
       {
-        "spawnChance": 0.75,
-        "spawnLocations": [
-          {
-            "name": "Dorms",
-            "chance": 0.33
-          },
-          {
-            "name": "New Gas Station",
-            "chance": 0.33
-          },
-          {
-            "name": "Stronghold",
-            "chance": 0.33
-          }
-        ],
-        "name": "Reshala",
-        "escorts": [
-          {
-            "amount": [
-              {
-                "count": 4,
-                "chance": 1
-              }
-            ],
-            "name": "Reshala Guard"
-          }
-        ]
-      },
-      {
-        "spawnChance": 0.3,
-        "spawnLocations": [
-          {
-            "name": "Stronghold",
-            "chance": 1
-          }
-        ],
-        "name": "Knight",
-        "escorts": [
-          {
-            "amount": [
-              {
-                "count": 1,
-                "chance": 1
-              }
-            ],
-            "name": "Big Pipe"
-          },
-          {
-            "amount": [
-              {
-                "count": 1,
-                "chance": 1
-              }
-            ],
-            "name": "Birdeye"
-          }
-        ]
-      },
-      {
-        "spawnChance": 0.2,
-        "spawnLocations": [],
-        "escorts": [],
-        "name": "Partisan"
-      },
-      {
-        "spawnChance": 0.25,
-        "spawnLocations": [
-          {
-            "name": "Stronghold",
-            "chance": 1
-          }
-        ],
-        "name": "Cultist Priest",
-        "escorts": [
-          {
-            "amount": [
-              {
-                "count": 4,
-                "chance": 1
-              }
-            ],
-            "name": "Cultist Warrior"
-          }
-        ]
+        "id": "ae4bdfc1fc5b30100701158b56ae4d20840e0550",
+        "name": "ZB-013 Power Switch"
       }
     ]
   },
@@ -375,15 +342,70 @@
       "Scavs",
       "Shturman",
       "Shturman Guard",
-      "Knight",
-      "Big Pipe",
-      "Birdeye",
       "Partisan",
       "Cultist Priest",
       "Cultist Warrior"
     ],
     "raidDuration": 35,
     "players": "10-14",
+    "bosses": [
+      {
+        "name": "Shturman",
+        "spawnChance": 0.75,
+        "spawnLocations": [
+          {
+            "name": "Lumber Mill",
+            "chance": 1
+          }
+        ],
+        "escorts": [
+          {
+            "name": "Shturman Guard",
+            "amount": [
+              {
+                "count": 2,
+                "chance": 0.5
+              },
+              {
+                "count": 3,
+                "chance": 0.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Partisan",
+        "spawnChance": 0.2,
+        "spawnLocations": [],
+        "escorts": []
+      },
+      {
+        "name": "Cultist Priest",
+        "spawnChance": 0.3,
+        "spawnLocations": [
+          {
+            "name": "West of Lumber Mill",
+            "chance": 0.5
+          },
+          {
+            "name": "Rundown Village",
+            "chance": 0.5
+          }
+        ],
+        "escorts": [
+          {
+            "name": "Cultist Warrior",
+            "amount": [
+              {
+                "count": 4,
+                "chance": 1
+              }
+            ]
+          }
+        ]
+      }
+    ],
     "extracts": [
       {
         "id": "742010f4b5dde77d692c99991e2576fb6c90f351",
@@ -506,95 +528,7 @@
         "switches": []
       }
     ],
-    "switches": [],
-    "bosses": [
-      {
-        "spawnChance": 0.75,
-        "spawnLocations": [
-          {
-            "name": "Lumber Mill",
-            "chance": 1
-          }
-        ],
-        "name": "Shturman",
-        "escorts": [
-          {
-            "amount": [
-              {
-                "count": 2,
-                "chance": 0.5
-              },
-              {
-                "count": 3,
-                "chance": 0.5
-              }
-            ],
-            "name": "Shturman Guard"
-          }
-        ]
-      },
-      {
-        "spawnChance": 0.25,
-        "spawnLocations": [
-          {
-            "name": "Northwest Scav Bunker",
-            "chance": 1
-          }
-        ],
-        "name": "Knight",
-        "escorts": [
-          {
-            "amount": [
-              {
-                "count": 1,
-                "chance": 1
-              }
-            ],
-            "name": "Big Pipe"
-          },
-          {
-            "amount": [
-              {
-                "count": 1,
-                "chance": 1
-              }
-            ],
-            "name": "Birdeye"
-          }
-        ]
-      },
-      {
-        "spawnChance": 0.2,
-        "spawnLocations": [],
-        "escorts": [],
-        "name": "Partisan"
-      },
-      {
-        "spawnChance": 0.3,
-        "spawnLocations": [
-          {
-            "name": "West of Lumber Mill",
-            "chance": 0.5
-          },
-          {
-            "name": "Rundown Village",
-            "chance": 0.5
-          }
-        ],
-        "name": "Cultist Priest",
-        "escorts": [
-          {
-            "amount": [
-              {
-                "count": 4,
-                "chance": 1
-              }
-            ],
-            "name": "Cultist Warrior"
-          }
-        ]
-      }
-    ]
+    "switches": []
   },
   {
     "id": "5704e4dad2720bb55b8b4567",
@@ -606,14 +540,247 @@
       "Scavs",
       "Zryachiy",
       "Zryachiy Guard",
-      "Knight",
-      "Big Pipe",
-      "Birdeye",
       "Partisan",
       "Rogue"
     ],
     "raidDuration": 40,
     "players": "10-12",
+    "bosses": [
+      {
+        "name": "Zryachiy",
+        "spawnChance": 1,
+        "spawnLocations": [
+          {
+            "name": "Island",
+            "chance": 1
+          }
+        ],
+        "escorts": [
+          {
+            "name": "Zryachiy Guard",
+            "amount": [
+              {
+                "count": 2,
+                "chance": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Partisan",
+        "spawnChance": 0.2,
+        "spawnLocations": [],
+        "escorts": []
+      },
+      {
+        "name": "Rogue",
+        "spawnChance": 0.5,
+        "spawnLocations": [
+          {
+            "name": "Water Treatment Southwest Gate",
+            "chance": 1
+          }
+        ],
+        "escorts": [
+          {
+            "name": "Rogue",
+            "amount": [
+              {
+                "count": 1,
+                "chance": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Rogue",
+        "spawnChance": 0.5,
+        "spawnLocations": [
+          {
+            "name": "Water Treatment North Building",
+            "chance": 1
+          }
+        ],
+        "escorts": [
+          {
+            "name": "Rogue",
+            "amount": [
+              {
+                "count": 1,
+                "chance": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Rogue",
+        "spawnChance": 0.5,
+        "spawnLocations": [
+          {
+            "name": "Water Treatment East Building",
+            "chance": 1
+          }
+        ],
+        "escorts": [
+          {
+            "name": "Rogue",
+            "amount": [
+              {
+                "count": 1,
+                "chance": 0.5
+              },
+              {
+                "count": 2,
+                "chance": 0.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Rogue",
+        "spawnChance": 0.5,
+        "spawnLocations": [
+          {
+            "name": "Water Treatment West Building",
+            "chance": 1
+          }
+        ],
+        "escorts": [
+          {
+            "name": "Rogue",
+            "amount": [
+              {
+                "count": 1,
+                "chance": 0.5
+              },
+              {
+                "count": 2,
+                "chance": 0.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Rogue",
+        "spawnChance": 0.8,
+        "spawnLocations": [
+          {
+            "name": "Water Treatment East Building Roof",
+            "chance": 1
+          }
+        ],
+        "escorts": []
+      },
+      {
+        "name": "Rogue",
+        "spawnChance": 0.4,
+        "spawnLocations": [
+          {
+            "name": "Water Treatment West Building Roof",
+            "chance": 1
+          }
+        ],
+        "escorts": [
+          {
+            "name": "Rogue",
+            "amount": [
+              {
+                "count": 1,
+                "chance": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Rogue",
+        "spawnChance": 0.2,
+        "spawnLocations": [
+          {
+            "name": "Water Treatment Helicopter",
+            "chance": 1
+          }
+        ],
+        "escorts": [
+          {
+            "name": "Rogue",
+            "amount": [
+              {
+                "count": 1,
+                "chance": 0.5
+              },
+              {
+                "count": 2,
+                "chance": 0.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Rogue",
+        "spawnChance": 1,
+        "spawnLocations": [
+          {
+            "name": "Chalet",
+            "chance": 1
+          }
+        ],
+        "escorts": [
+          {
+            "name": "Rogue",
+            "amount": [
+              {
+                "count": 1,
+                "chance": 0.25
+              },
+              {
+                "count": 2,
+                "chance": 0.38
+              },
+              {
+                "count": 3,
+                "chance": 0.38
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Rogue",
+        "spawnChance": 1,
+        "spawnLocations": [
+          {
+            "name": "DestroyedHouse",
+            "chance": 1
+          }
+        ],
+        "escorts": [
+          {
+            "name": "Rogue",
+            "amount": [
+              {
+                "count": 1,
+                "chance": 0.25
+              },
+              {
+                "count": 2,
+                "chance": 0.38
+              },
+              {
+                "count": 3,
+                "chance": 0.38
+              }
+            ]
+          }
+        ]
+      }
+    ],
     "extracts": [
       {
         "id": "3a8cfedc77147d2e438f8a2c55a01ae3d6defb25",
@@ -703,222 +870,6 @@
         "id": "a7e6ca8bfddbc8335d7a16e9d9416e794e1db598",
         "name": "Lightkeeper Switch"
       }
-    ],
-    "bosses": [
-      {
-        "spawnChance": 1,
-        "spawnLocations": [
-          {
-            "name": "Island",
-            "chance": 1
-          }
-        ],
-        "name": "Zryachiy",
-        "escorts": [
-          {
-            "amount": [
-              {
-                "count": 2,
-                "chance": 1
-              }
-            ],
-            "name": "Zryachiy Guard"
-          }
-        ]
-      },
-      {
-        "spawnChance": 0.3,
-        "spawnLocations": [
-          {
-            "name": "Water Treatment North Building",
-            "chance": 0.5
-          },
-          {
-            "name": "Chalet",
-            "chance": 0.5
-          }
-        ],
-        "name": "Knight",
-        "escorts": [
-          {
-            "amount": [
-              {
-                "count": 1,
-                "chance": 1
-              }
-            ],
-            "name": "Big Pipe"
-          },
-          {
-            "amount": [
-              {
-                "count": 1,
-                "chance": 1
-              }
-            ],
-            "name": "Birdeye"
-          }
-        ]
-      },
-      {
-        "spawnChance": 0.2,
-        "spawnLocations": [],
-        "escorts": [],
-        "name": "Partisan"
-      },
-      {
-        "spawnChance": 0.8,
-        "spawnLocations": [
-          {
-            "name": "Water Treatment Southwest Gate",
-            "chance": 1
-          }
-        ],
-        "name": "Rogue",
-        "escorts": [
-          {
-            "amount": [
-              {
-                "count": 1,
-                "chance": 1
-              }
-            ],
-            "name": "Rogue"
-          }
-        ]
-      },
-      {
-        "spawnChance": 0.8,
-        "spawnLocations": [
-          {
-            "name": "Water Treatment North Building",
-            "chance": 1
-          }
-        ],
-        "name": "Rogue",
-        "escorts": [
-          {
-            "amount": [
-              {
-                "count": 1,
-                "chance": 0.5
-              },
-              {
-                "count": 2,
-                "chance": 0.5
-              }
-            ],
-            "name": "Rogue"
-          }
-        ]
-      },
-      {
-        "spawnChance": 0.5,
-        "spawnLocations": [
-          {
-            "name": "Water Treatment East Building",
-            "chance": 1
-          }
-        ],
-        "name": "Rogue",
-        "escorts": [
-          {
-            "amount": [
-              {
-                "count": 1,
-                "chance": 0.67
-              },
-              {
-                "count": 2,
-                "chance": 0.33
-              }
-            ],
-            "name": "Rogue"
-          }
-        ]
-      },
-      {
-        "spawnChance": 0.5,
-        "spawnLocations": [
-          {
-            "name": "Water Treatment West Building",
-            "chance": 1
-          }
-        ],
-        "name": "Rogue",
-        "escorts": [
-          {
-            "amount": [
-              {
-                "count": 1,
-                "chance": 0.67
-              },
-              {
-                "count": 2,
-                "chance": 0.33
-              }
-            ],
-            "name": "Rogue"
-          }
-        ]
-      },
-      {
-        "spawnChance": 0.8,
-        "spawnLocations": [
-          {
-            "name": "Water Treatment East Building Roof",
-            "chance": 1
-          }
-        ],
-        "escorts": [],
-        "name": "Rogue"
-      },
-      {
-        "spawnChance": 0.8,
-        "spawnLocations": [
-          {
-            "name": "Water Treatment West Building Roof",
-            "chance": 1
-          }
-        ],
-        "name": "Rogue",
-        "escorts": [
-          {
-            "amount": [
-              {
-                "count": 1,
-                "chance": 1
-              }
-            ],
-            "name": "Rogue"
-          }
-        ]
-      },
-      {
-        "spawnChance": 0.2,
-        "spawnLocations": [
-          {
-            "name": "Water Treatment Helicopter",
-            "chance": 1
-          }
-        ],
-        "name": "Rogue",
-        "escorts": [
-          {
-            "amount": [
-              {
-                "count": 1,
-                "chance": 0.5
-              },
-              {
-                "count": 2,
-                "chance": 0.5
-              }
-            ],
-            "name": "Rogue"
-          }
-        ]
-      }
     ]
   },
   {
@@ -937,10 +888,228 @@
       "Partisan",
       "Cultist Priest",
       "Cultist Warrior",
-      "AF"
+      "AF",
+      "Rogue"
     ],
     "raidDuration": 45,
     "players": "10-14",
+    "bosses": [
+      {
+        "name": "Sanitar",
+        "spawnChance": 0.75,
+        "spawnLocations": [
+          {
+            "name": "Greenhouses",
+            "chance": 0.5
+          },
+          {
+            "name": "West Wing",
+            "chance": 0.25
+          },
+          {
+            "name": "East Wing",
+            "chance": 0.25
+          }
+        ],
+        "escorts": [
+          {
+            "name": "Sanitar Guard",
+            "amount": [
+              {
+                "count": 3,
+                "chance": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Knight",
+        "spawnChance": 1,
+        "spawnLocations": [
+          {
+            "name": "New Gas Station",
+            "chance": 1
+          }
+        ],
+        "escorts": [
+          {
+            "name": "Big Pipe",
+            "amount": [
+              {
+                "count": 1,
+                "chance": 1
+              }
+            ]
+          },
+          {
+            "name": "Birdeye",
+            "amount": [
+              {
+                "count": 1,
+                "chance": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Partisan",
+        "spawnChance": 0.2,
+        "spawnLocations": [],
+        "escorts": []
+      },
+      {
+        "name": "Cultist Priest",
+        "spawnChance": 0.25,
+        "spawnLocations": [
+          {
+            "name": "West Wing",
+            "chance": 0.2
+          },
+          {
+            "name": "East Wing",
+            "chance": 0.2
+          },
+          {
+            "name": "Northeast of Sunken Village",
+            "chance": 0.6
+          }
+        ],
+        "escorts": [
+          {
+            "name": "Cultist Warrior",
+            "amount": [
+              {
+                "count": 3,
+                "chance": 0.5
+              },
+              {
+                "count": 4,
+                "chance": 0.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "AF",
+        "spawnChance": 1,
+        "spawnLocations": [
+          {
+            "name": "GateTowerRight",
+            "chance": 1
+          }
+        ],
+        "escorts": []
+      },
+      {
+        "name": "AF",
+        "spawnChance": 1,
+        "spawnLocations": [
+          {
+            "name": "GateTowerLeft",
+            "chance": 1
+          }
+        ],
+        "escorts": []
+      },
+      {
+        "name": "Rogue",
+        "spawnChance": 1,
+        "spawnLocations": [
+          {
+            "name": "Pier",
+            "chance": 0.5
+          },
+          {
+            "name": "Island",
+            "chance": 0.5
+          }
+        ],
+        "escorts": [
+          {
+            "name": "Rogue",
+            "amount": [
+              {
+                "count": 1,
+                "chance": 0.29
+              },
+              {
+                "count": 2,
+                "chance": 0.43
+              },
+              {
+                "count": 3,
+                "chance": 0.29
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Rogue",
+        "spawnChance": 1,
+        "spawnLocations": [
+          {
+            "name": "Tunnel",
+            "chance": 1
+          }
+        ],
+        "escorts": [
+          {
+            "name": "Rogue",
+            "amount": [
+              {
+                "count": 1,
+                "chance": 0.29
+              },
+              {
+                "count": 2,
+                "chance": 0.43
+              },
+              {
+                "count": 3,
+                "chance": 0.29
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Rogue",
+        "spawnChance": 1,
+        "spawnLocations": [
+          {
+            "name": "RailWays",
+            "chance": 0.5
+          },
+          {
+            "name": "Weather Station",
+            "chance": 0.5
+          }
+        ],
+        "escorts": [
+          {
+            "name": "Rogue",
+            "amount": [
+              {
+                "count": 1,
+                "chance": 0.29
+              },
+              {
+                "count": 2,
+                "chance": 0.43
+              },
+              {
+                "count": 3,
+                "chance": 0.29
+              }
+            ]
+          }
+        ]
+      }
+    ],
     "extracts": [
       {
         "id": "e95d3547939574dfb73ce20064c5aff811bf02ea",
@@ -1027,133 +1196,7 @@
         "switches": []
       }
     ],
-    "switches": [],
-    "bosses": [
-      {
-        "spawnChance": 0.75,
-        "spawnLocations": [
-          {
-            "name": "Greenhouses",
-            "chance": 0.4
-          },
-          {
-            "name": "West Wing",
-            "chance": 0.2
-          },
-          {
-            "name": "East Wing",
-            "chance": 0.2
-          },
-          {
-            "name": "Pier",
-            "chance": 0.2
-          }
-        ],
-        "name": "Sanitar",
-        "escorts": [
-          {
-            "amount": [
-              {
-                "count": 3,
-                "chance": 1
-              }
-            ],
-            "name": "Sanitar Guard"
-          }
-        ]
-      },
-      {
-        "spawnChance": 0.3,
-        "spawnLocations": [
-          {
-            "name": "Weather Station",
-            "chance": 1
-          }
-        ],
-        "name": "Knight",
-        "escorts": [
-          {
-            "amount": [
-              {
-                "count": 1,
-                "chance": 1
-              }
-            ],
-            "name": "Big Pipe"
-          },
-          {
-            "amount": [
-              {
-                "count": 1,
-                "chance": 1
-              }
-            ],
-            "name": "Birdeye"
-          }
-        ]
-      },
-      {
-        "spawnChance": 0.2,
-        "spawnLocations": [],
-        "escorts": [],
-        "name": "Partisan"
-      },
-      {
-        "spawnChance": 0.25,
-        "spawnLocations": [
-          {
-            "name": "West Wing",
-            "chance": 0.2
-          },
-          {
-            "name": "East Wing",
-            "chance": 0.2
-          },
-          {
-            "name": "Northeast of Sunken Village",
-            "chance": 0.6
-          }
-        ],
-        "name": "Cultist Priest",
-        "escorts": [
-          {
-            "amount": [
-              {
-                "count": 3,
-                "chance": 0.5
-              },
-              {
-                "count": 4,
-                "chance": 0.5
-              }
-            ],
-            "name": "Cultist Warrior"
-          }
-        ]
-      },
-      {
-        "spawnChance": 1,
-        "spawnLocations": [
-          {
-            "name": "GateTowerRight",
-            "chance": 1
-          }
-        ],
-        "escorts": [],
-        "name": "AF"
-      },
-      {
-        "spawnChance": 1,
-        "spawnLocations": [
-          {
-            "name": "GateTowerLeft",
-            "chance": 1
-          }
-        ],
-        "escorts": [],
-        "name": "AF"
-      }
-    ]
+    "switches": []
   },
   {
     "id": "5704e5fad2720bc05b8b4567",
@@ -1167,22 +1210,266 @@
       "Glukhar Guard (Assault)",
       "Glukhar Guard (Security)",
       "Glukhar Guard (Scout)",
-      "Raider"
+      "Raider",
+      "Rogue"
     ],
     "raidDuration": 40,
     "players": "9-11",
-    "switches": [
+    "bosses": [
       {
-        "id": "2c4a9ff1d031afefbd0965b189f58e3834cdb367",
-        "name": "Bunker Hermetic Door Power Switch"
+        "name": "Glukhar",
+        "spawnChance": 1,
+        "spawnLocations": [
+          {
+            "name": "K Buildings",
+            "chance": 0.25
+          },
+          {
+            "name": "White Knight",
+            "chance": 0.25
+          },
+          {
+            "name": "Barracks",
+            "chance": 0.25
+          },
+          {
+            "name": "Storage Bunker",
+            "chance": 0.25
+          }
+        ],
+        "escorts": [
+          {
+            "name": "Glukhar Guard (Assault)",
+            "amount": [
+              {
+                "count": 2,
+                "chance": 1
+              }
+            ]
+          },
+          {
+            "name": "Glukhar Guard (Security)",
+            "amount": [
+              {
+                "count": 2,
+                "chance": 1
+              }
+            ]
+          },
+          {
+            "name": "Glukhar Guard (Scout)",
+            "amount": [
+              {
+                "count": 2,
+                "chance": 1
+              }
+            ]
+          }
+        ]
       },
       {
-        "id": "9cad024bc31223f02f7296c3cb1834c5f6fa2fe2",
-        "name": "D-2 Power Switch"
+        "name": "Raider",
+        "spawnChance": 0.4,
+        "spawnLocations": [
+          {
+            "name": "K Buildings",
+            "chance": 1
+          }
+        ],
+        "escorts": [
+          {
+            "name": "Raider",
+            "amount": [
+              {
+                "count": 2,
+                "chance": 0.8
+              },
+              {
+                "count": 3,
+                "chance": 0.2
+              }
+            ]
+          }
+        ]
       },
       {
-        "id": "fa1f22e776e4724582eb1dbb18ae864a9303cc5a",
-        "name": "D-2 Door Switch"
+        "name": "Raider",
+        "spawnChance": 0.3,
+        "spawnLocations": [
+          {
+            "name": "K Buildings",
+            "chance": 1
+          }
+        ],
+        "escorts": [
+          {
+            "name": "Raider",
+            "amount": [
+              {
+                "count": 2,
+                "chance": 0.8
+              },
+              {
+                "count": 3,
+                "chance": 0.2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Raider",
+        "spawnChance": 0.3,
+        "spawnLocations": [
+          {
+            "name": "Command Bunker",
+            "chance": 1
+          }
+        ],
+        "escorts": [
+          {
+            "name": "Raider",
+            "amount": [
+              {
+                "count": 2,
+                "chance": 0.8
+              },
+              {
+                "count": 3,
+                "chance": 0.2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Raider",
+        "spawnChance": 0.3,
+        "spawnLocations": [
+          {
+            "name": "Command Bunker",
+            "chance": 1
+          }
+        ],
+        "escorts": [
+          {
+            "name": "Raider",
+            "amount": [
+              {
+                "count": 2,
+                "chance": 0.8
+              },
+              {
+                "count": 3,
+                "chance": 0.2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Rogue",
+        "spawnChance": 1,
+        "spawnLocations": [
+          {
+            "name": "Command Bunker",
+            "chance": 1
+          }
+        ],
+        "escorts": [
+          {
+            "name": "Rogue",
+            "amount": [
+              {
+                "count": 2,
+                "chance": 0.8
+              },
+              {
+                "count": 3,
+                "chance": 0.2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Rogue",
+        "spawnChance": 1,
+        "spawnLocations": [
+          {
+            "name": "K Buildings",
+            "chance": 1
+          }
+        ],
+        "escorts": [
+          {
+            "name": "Rogue",
+            "amount": [
+              {
+                "count": 2,
+                "chance": 0.75
+              },
+              {
+                "count": 3,
+                "chance": 0.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Rogue",
+        "spawnChance": 1,
+        "spawnLocations": [
+          {
+            "name": "K Buildings",
+            "chance": 1
+          }
+        ],
+        "escorts": [
+          {
+            "name": "Rogue",
+            "amount": [
+              {
+                "count": 2,
+                "chance": 0.6
+              },
+              {
+                "count": 3,
+                "chance": 0.4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Rogue",
+        "spawnChance": 1,
+        "spawnLocations": [
+          {
+            "name": "K Buildings",
+            "chance": 1
+          }
+        ],
+        "escorts": [
+          {
+            "name": "Rogue",
+            "amount": [
+              {
+                "count": 1,
+                "chance": 0.2
+              },
+              {
+                "count": 2,
+                "chance": 0.6
+              },
+              {
+                "count": 3,
+                "chance": 0.2
+              }
+            ]
+          }
+        ]
       }
     ],
     "extracts": [
@@ -1267,157 +1554,18 @@
         "switches": []
       }
     ],
-    "bosses": [
+    "switches": [
       {
-        "spawnChance": 0.75,
-        "spawnLocations": [
-          {
-            "name": "K Buildings",
-            "chance": 0.25
-          },
-          {
-            "name": "White Knight",
-            "chance": 0.25
-          },
-          {
-            "name": "Barracks",
-            "chance": 0.25
-          },
-          {
-            "name": "Storage Bunker",
-            "chance": 0.25
-          }
-        ],
-        "name": "Glukhar",
-        "escorts": [
-          {
-            "amount": [
-              {
-                "count": 2,
-                "chance": 1
-              }
-            ],
-            "name": "Glukhar Guard (Assault)"
-          },
-          {
-            "amount": [
-              {
-                "count": 2,
-                "chance": 1
-              }
-            ],
-            "name": "Glukhar Guard (Security)"
-          },
-          {
-            "amount": [
-              {
-                "count": 2,
-                "chance": 1
-              }
-            ],
-            "name": "Glukhar Guard (Scout)"
-          }
-        ]
+        "id": "2c4a9ff1d031afefbd0965b189f58e3834cdb367",
+        "name": "Bunker Hermetic Door Power Switch"
       },
       {
-        "spawnChance": 0.4,
-        "spawnLocations": [
-          {
-            "name": "K Buildings",
-            "chance": 1
-          }
-        ],
-        "name": "Raider",
-        "escorts": [
-          {
-            "amount": [
-              {
-                "count": 2,
-                "chance": 0.8
-              },
-              {
-                "count": 3,
-                "chance": 0.2
-              }
-            ],
-            "name": "Raider"
-          }
-        ]
+        "id": "9cad024bc31223f02f7296c3cb1834c5f6fa2fe2",
+        "name": "D-2 Power Switch"
       },
       {
-        "spawnChance": 0.3,
-        "spawnLocations": [
-          {
-            "name": "K Buildings",
-            "chance": 1
-          }
-        ],
-        "name": "Raider",
-        "escorts": [
-          {
-            "amount": [
-              {
-                "count": 2,
-                "chance": 0.8
-              },
-              {
-                "count": 3,
-                "chance": 0.2
-              }
-            ],
-            "name": "Raider"
-          }
-        ]
-      },
-      {
-        "spawnChance": 0.3,
-        "spawnLocations": [
-          {
-            "name": "Command Bunker",
-            "chance": 1
-          }
-        ],
-        "name": "Raider",
-        "escorts": [
-          {
-            "amount": [
-              {
-                "count": 2,
-                "chance": 0.8
-              },
-              {
-                "count": 3,
-                "chance": 0.2
-              }
-            ],
-            "name": "Raider"
-          }
-        ]
-      },
-      {
-        "spawnChance": 0.3,
-        "spawnLocations": [
-          {
-            "name": "Command Bunker",
-            "chance": 1
-          }
-        ],
-        "name": "Raider",
-        "escorts": [
-          {
-            "amount": [
-              {
-                "count": 2,
-                "chance": 0.8
-              },
-              {
-                "count": 3,
-                "chance": 0.2
-              }
-            ],
-            "name": "Raider"
-          }
-        ]
+        "id": "fa1f22e776e4724582eb1dbb18ae864a9303cc5a",
+        "name": "D-2 Door Switch"
       }
     ]
   },
@@ -1434,34 +1582,9 @@
     ],
     "raidDuration": 40,
     "players": "11-15",
-    "switches": [
-      {
-        "id": "b6ebc39ee29cb6659334df309194b696bbfef555",
-        "name": "Mall Main Power Switch"
-      },
-      {
-        "id": "6b9023f26446d73433823e872e6d69688083beaf",
-        "name": "Non-Kiba Alarms Switch"
-      },
-      {
-        "id": "7850544cf54bb60c9d259b6b0583f53082637bf3",
-        "name": "Alarms Switch"
-      },
-      {
-        "id": "42d13e53ae13417e3ee1dab2606e9b2fa4ff6147",
-        "name": "Saferoom Exfil Switch"
-      },
-      {
-        "id": "5173fd12df8e7445613e130233e235a94d94b70d",
-        "name": "Saferoom Exfil Unlock Switch"
-      },
-      {
-        "id": "a91897cf1f9ab86c1376fec5fdf8a921e491a1a4",
-        "name": "Object 14 Container Switch"
-      }
-    ],
     "bosses": [
       {
+        "name": "Killa",
         "spawnChance": 0.75,
         "spawnLocations": [
           {
@@ -1481,10 +1604,10 @@
             "chance": 0.2
           }
         ],
-        "escorts": [],
-        "name": "Killa"
+        "escorts": []
       },
       {
+        "name": "Tagilla",
         "spawnChance": 0.5,
         "spawnLocations": [
           {
@@ -1492,8 +1615,7 @@
             "chance": 1
           }
         ],
-        "escorts": [],
-        "name": "Tagilla"
+        "escorts": []
       }
     ],
     "extracts": [
@@ -1538,6 +1660,32 @@
           }
         ]
       }
+    ],
+    "switches": [
+      {
+        "id": "b6ebc39ee29cb6659334df309194b696bbfef555",
+        "name": "Mall Main Power Switch"
+      },
+      {
+        "id": "6b9023f26446d73433823e872e6d69688083beaf",
+        "name": "Non-Kiba Alarms Switch"
+      },
+      {
+        "id": "7850544cf54bb60c9d259b6b0583f53082637bf3",
+        "name": "Alarms Switch"
+      },
+      {
+        "id": "42d13e53ae13417e3ee1dab2606e9b2fa4ff6147",
+        "name": "Saferoom Exfil Switch"
+      },
+      {
+        "id": "5173fd12df8e7445613e130233e235a94d94b70d",
+        "name": "Saferoom Exfil Unlock Switch"
+      },
+      {
+        "id": "a91897cf1f9ab86c1376fec5fdf8a921e491a1a4",
+        "name": "Object 14 Container Switch"
+      }
     ]
   },
   {
@@ -1560,6 +1708,94 @@
     ],
     "raidDuration": 40,
     "players": "12-16",
+    "bosses": [
+      {
+        "name": "Kaban",
+        "spawnChance": 0.75,
+        "spawnLocations": [
+          {
+            "name": "Car Dealership",
+            "chance": 1
+          }
+        ],
+        "escorts": [
+          {
+            "name": "Kaban Guard",
+            "amount": [
+              {
+                "count": 4,
+                "chance": 1
+              }
+            ]
+          },
+          {
+            "name": "Basmach",
+            "amount": [
+              {
+                "count": 1,
+                "chance": 1
+              }
+            ]
+          },
+          {
+            "name": "Gus",
+            "amount": [
+              {
+                "count": 1,
+                "chance": 1
+              }
+            ]
+          },
+          {
+            "name": "Kaban Guard (Sniper)",
+            "amount": [
+              {
+                "count": 1,
+                "chance": 0.5
+              },
+              {
+                "count": 2,
+                "chance": 0.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Kollontay",
+        "spawnChance": 0.75,
+        "spawnLocations": [
+          {
+            "name": "Klimov Shopping Mall",
+            "chance": 0.5
+          },
+          {
+            "name": "Ministry of the Interior Academy",
+            "chance": 0.5
+          }
+        ],
+        "escorts": [
+          {
+            "name": "Kollontay Guard (Assault)",
+            "amount": [
+              {
+                "count": 2,
+                "chance": 1
+              }
+            ]
+          },
+          {
+            "name": "Kollontay Guard (Security)",
+            "amount": [
+              {
+                "count": 2,
+                "chance": 1
+              }
+            ]
+          }
+        ]
+      }
+    ],
     "extracts": [
       {
         "id": "8fcf0902c03e68a2201173fc1fb9ba62376353a7",
@@ -1664,95 +1900,7 @@
         "switches": []
       }
     ],
-    "switches": [],
-    "bosses": [
-      {
-        "spawnChance": 0.75,
-        "spawnLocations": [
-          {
-            "name": "Car Dealership",
-            "chance": 1
-          }
-        ],
-        "name": "Kaban",
-        "escorts": [
-          {
-            "amount": [
-              {
-                "count": 4,
-                "chance": 1
-              }
-            ],
-            "name": "Kaban Guard"
-          },
-          {
-            "amount": [
-              {
-                "count": 1,
-                "chance": 1
-              }
-            ],
-            "name": "Basmach"
-          },
-          {
-            "amount": [
-              {
-                "count": 1,
-                "chance": 1
-              }
-            ],
-            "name": "Gus"
-          },
-          {
-            "amount": [
-              {
-                "count": 1,
-                "chance": 0.5
-              },
-              {
-                "count": 2,
-                "chance": 0.5
-              }
-            ],
-            "name": "Kaban Guard (Sniper)"
-          }
-        ]
-      },
-      {
-        "spawnChance": 0.75,
-        "spawnLocations": [
-          {
-            "name": "Klimov Shopping Mall",
-            "chance": 0.5
-          },
-          {
-            "name": "Ministry of the Interior Academy",
-            "chance": 0.5
-          }
-        ],
-        "name": "Kollontay",
-        "escorts": [
-          {
-            "amount": [
-              {
-                "count": 2,
-                "chance": 1
-              }
-            ],
-            "name": "Kollontay Guard (Assault)"
-          },
-          {
-            "amount": [
-              {
-                "count": 2,
-                "chance": 1
-              }
-            ],
-            "name": "Kollontay Guard (Security)"
-          }
-        ]
-      }
-    ]
+    "switches": []
   },
   {
     "id": "59fc81d786f774390775787e",
@@ -1768,6 +1916,44 @@
     ],
     "raidDuration": 25,
     "players": "5-6",
+    "bosses": [
+      {
+        "name": "Tagilla",
+        "spawnChance": 0.75,
+        "spawnLocations": [
+          {
+            "name": "Any scav spawn",
+            "chance": 1
+          }
+        ],
+        "escorts": []
+      },
+      {
+        "name": "Cultist Priest",
+        "spawnChance": 0.12,
+        "spawnLocations": [
+          {
+            "name": "Any scav spawn",
+            "chance": 1
+          }
+        ],
+        "escorts": [
+          {
+            "name": "Cultist Warrior",
+            "amount": [
+              {
+                "count": 2,
+                "chance": 0.5
+              },
+              {
+                "count": 3,
+                "chance": 0.5
+              }
+            ]
+          }
+        ]
+      }
+    ],
     "extracts": [
       {
         "id": "643d074d8a95529177d383c0e27e059d2a254c70",
@@ -1824,45 +2010,7 @@
         "switches": []
       }
     ],
-    "switches": [],
-    "bosses": [
-      {
-        "spawnChance": 0.75,
-        "spawnLocations": [
-          {
-            "name": "Any scav spawn",
-            "chance": 1
-          }
-        ],
-        "escorts": [],
-        "name": "Tagilla"
-      },
-      {
-        "spawnChance": 0.12,
-        "spawnLocations": [
-          {
-            "name": "Any scav spawn",
-            "chance": 1
-          }
-        ],
-        "name": "Cultist Priest",
-        "escorts": [
-          {
-            "amount": [
-              {
-                "count": 2,
-                "chance": 0.5
-              },
-              {
-                "count": 3,
-                "chance": 0.5
-              }
-            ],
-            "name": "Cultist Warrior"
-          }
-        ]
-      }
-    ]
+    "switches": []
   },
   {
     "id": "5b0fc42d86f7744a585f9105",
@@ -1875,66 +2023,470 @@
     ],
     "raidDuration": 30,
     "players": "8-10",
-    "switches": [
+    "bosses": [
       {
-        "id": "014e9122e0fad99bcff6f93161712c3c6e1a2a75",
-        "name": "Med Elevator Power Button"
+        "name": "Raider",
+        "spawnChance": 0.6,
+        "spawnLocations": [
+          {
+            "name": "First Floor",
+            "chance": 1
+          }
+        ],
+        "escorts": [
+          {
+            "name": "Raider",
+            "amount": [
+              {
+                "count": 1,
+                "chance": 0.21
+              },
+              {
+                "count": 2,
+                "chance": 0.43
+              },
+              {
+                "count": 3,
+                "chance": 0.36
+              }
+            ]
+          }
+        ]
       },
       {
-        "id": "72848c177c54e2913e7d0259f23fba929d14ebf5",
-        "name": "Main Elevator Call Button"
+        "name": "Raider",
+        "spawnChance": 0.6,
+        "spawnLocations": [
+          {
+            "name": "Second Floor",
+            "chance": 1
+          }
+        ],
+        "escorts": [
+          {
+            "name": "Raider",
+            "amount": [
+              {
+                "count": 1,
+                "chance": 0.21
+              },
+              {
+                "count": 2,
+                "chance": 0.43
+              },
+              {
+                "count": 3,
+                "chance": 0.36
+              }
+            ]
+          }
+        ]
       },
       {
-        "id": "d1d16f043cea7be35b2729c5e1e1dd648c6dee13",
-        "name": "Med Elevator Call Button"
+        "name": "Raider",
+        "spawnChance": 0.45,
+        "spawnLocations": [
+          {
+            "name": "Basement",
+            "chance": 1
+          }
+        ],
+        "escorts": [
+          {
+            "name": "Raider",
+            "amount": [
+              {
+                "count": 1,
+                "chance": 0.21
+              },
+              {
+                "count": 2,
+                "chance": 0.43
+              },
+              {
+                "count": 3,
+                "chance": 0.36
+              }
+            ]
+          }
+        ]
       },
       {
-        "id": "40ec0101fbf68e6d1b762a72080b9b9b9c91f6f1",
-        "name": "Hangar Gate Switch"
+        "name": "Raider",
+        "spawnChance": 0.45,
+        "spawnLocations": [
+          {
+            "name": "Basement",
+            "chance": 1
+          }
+        ],
+        "escorts": [
+          {
+            "name": "Raider",
+            "amount": [
+              {
+                "count": 1,
+                "chance": 0.21
+              },
+              {
+                "count": 2,
+                "chance": 0.43
+              },
+              {
+                "count": 3,
+                "chance": 0.36
+              }
+            ]
+          }
+        ]
       },
       {
-        "id": "8e6aa12e37d1b09a56e1ae19ab203832b0e78df9",
-        "name": "Cargo Elevator Call Button"
+        "name": "Raider",
+        "spawnChance": 0.4,
+        "spawnLocations": [
+          {
+            "name": "Basement",
+            "chance": 1
+          }
+        ],
+        "escorts": [
+          {
+            "name": "Raider",
+            "amount": [
+              {
+                "count": 1,
+                "chance": 0.21
+              },
+              {
+                "count": 2,
+                "chance": 0.43
+              },
+              {
+                "count": 3,
+                "chance": 0.36
+              }
+            ]
+          }
+        ]
       },
       {
-        "id": "558a518a272f611d2e6879b917adb407f428977f",
-        "name": "Cargo Elevator Extract Button"
+        "name": "Raider",
+        "spawnChance": 0.45,
+        "spawnLocations": [
+          {
+            "name": "Second Floor",
+            "chance": 1
+          }
+        ],
+        "escorts": [
+          {
+            "name": "Raider",
+            "amount": [
+              {
+                "count": 1,
+                "chance": 0.21
+              },
+              {
+                "count": 2,
+                "chance": 0.43
+              },
+              {
+                "count": 3,
+                "chance": 0.36
+              }
+            ]
+          }
+        ]
       },
       {
-        "id": "911ef57b76415c1d42fdba3b5c8fdb587dd229a7",
-        "name": "Main Elevator Power Button"
+        "name": "Raider",
+        "spawnChance": 0.35,
+        "spawnLocations": [
+          {
+            "name": "First Floor",
+            "chance": 1
+          }
+        ],
+        "escorts": [
+          {
+            "name": "Raider",
+            "amount": [
+              {
+                "count": 1,
+                "chance": 0.21
+              },
+              {
+                "count": 2,
+                "chance": 0.43
+              },
+              {
+                "count": 3,
+                "chance": 0.36
+              }
+            ]
+          }
+        ]
       },
       {
-        "id": "e7096cec97efb58f59f78f048792235f89318a94",
-        "name": "Water Level Switch"
+        "name": "Raider",
+        "spawnChance": 0.35,
+        "spawnLocations": [
+          {
+            "name": "Second Floor",
+            "chance": 1
+          }
+        ],
+        "escorts": [
+          {
+            "name": "Raider",
+            "amount": [
+              {
+                "count": 1,
+                "chance": 0.21
+              },
+              {
+                "count": 2,
+                "chance": 0.43
+              },
+              {
+                "count": 3,
+                "chance": 0.36
+              }
+            ]
+          }
+        ]
       },
       {
-        "id": "89170f110a27deb607f63b2382f28c25ba75e861",
-        "name": "Main Elevator Extract Button"
+        "name": "Raider",
+        "spawnChance": 0.35,
+        "spawnLocations": [
+          {
+            "name": "First Floor",
+            "chance": 1
+          }
+        ],
+        "escorts": [
+          {
+            "name": "Raider",
+            "amount": [
+              {
+                "count": 1,
+                "chance": 0.21
+              },
+              {
+                "count": 2,
+                "chance": 0.43
+              },
+              {
+                "count": 3,
+                "chance": 0.36
+              }
+            ]
+          }
+        ]
       },
       {
-        "id": "07fe694c3915c1363b5fa1faa604c68fe5849aba",
-        "name": "Parking Gate Switch"
+        "name": "Raider",
+        "spawnChance": 0.35,
+        "spawnLocations": [
+          {
+            "name": "Second Floor",
+            "chance": 1
+          }
+        ],
+        "escorts": [
+          {
+            "name": "Raider",
+            "amount": [
+              {
+                "count": 1,
+                "chance": 0.21
+              },
+              {
+                "count": 2,
+                "chance": 0.43
+              },
+              {
+                "count": 3,
+                "chance": 0.36
+              }
+            ]
+          }
+        ]
       },
       {
-        "id": "a948c3ba250ffcaaa508230d0b3392bf09cb6964",
-        "name": "Sewage Conduit Pump Button"
+        "name": "Raider",
+        "spawnChance": 0.35,
+        "spawnLocations": [
+          {
+            "name": "First Floor",
+            "chance": 1
+          }
+        ],
+        "escorts": [
+          {
+            "name": "Raider",
+            "amount": [
+              {
+                "count": 1,
+                "chance": 0.21
+              },
+              {
+                "count": 2,
+                "chance": 0.43
+              },
+              {
+                "count": 3,
+                "chance": 0.36
+              }
+            ]
+          }
+        ]
       },
       {
-        "id": "c39cf1e7caac3b830c00b539ee12dfddeb061e2b",
-        "name": "Cargo Elevator Power Button"
+        "name": "Raider",
+        "spawnChance": 0.35,
+        "spawnLocations": [
+          {
+            "name": "Second Floor",
+            "chance": 1
+          }
+        ],
+        "escorts": [
+          {
+            "name": "Raider",
+            "amount": [
+              {
+                "count": 1,
+                "chance": 0.21
+              },
+              {
+                "count": 2,
+                "chance": 0.43
+              },
+              {
+                "count": 3,
+                "chance": 0.36
+              }
+            ]
+          }
+        ]
       },
       {
-        "id": "5077fd224eb1bb588b65e4d3c0b4b5719bdebb66",
-        "name": "Med Elevator Extract Button"
+        "name": "Raider",
+        "spawnChance": 0.35,
+        "spawnLocations": [
+          {
+            "name": "First Floor",
+            "chance": 1
+          }
+        ],
+        "escorts": [
+          {
+            "name": "Raider",
+            "amount": [
+              {
+                "count": 1,
+                "chance": 0.21
+              },
+              {
+                "count": 2,
+                "chance": 0.43
+              },
+              {
+                "count": 3,
+                "chance": 0.36
+              }
+            ]
+          }
+        ]
       },
       {
-        "id": "d5f297a1f5aee9dc19f1e4f54946850b99dca5e9",
-        "name": "Alarm Switch"
+        "name": "Raider",
+        "spawnChance": 0.35,
+        "spawnLocations": [
+          {
+            "name": "Second Floor",
+            "chance": 1
+          }
+        ],
+        "escorts": [
+          {
+            "name": "Raider",
+            "amount": [
+              {
+                "count": 1,
+                "chance": 0.21
+              },
+              {
+                "count": 2,
+                "chance": 0.43
+              },
+              {
+                "count": 3,
+                "chance": 0.36
+              }
+            ]
+          }
+        ]
       },
       {
-        "id": "5e017c1cab122d7b6dcccf32f6d7fdb152aa7027",
-        "name": "Containment Block Power Switch"
+        "name": "Raider",
+        "spawnChance": 0.35,
+        "spawnLocations": [
+          {
+            "name": "Parking Gate",
+            "chance": 1
+          }
+        ],
+        "escorts": [
+          {
+            "name": "Raider",
+            "amount": [
+              {
+                "count": 1,
+                "chance": 0.21
+              },
+              {
+                "count": 2,
+                "chance": 0.43
+              },
+              {
+                "count": 3,
+                "chance": 0.36
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Raider",
+        "spawnChance": 0.45,
+        "spawnLocations": [
+          {
+            "name": "Hangar Gate",
+            "chance": 1
+          }
+        ],
+        "escorts": [
+          {
+            "name": "Raider",
+            "amount": [
+              {
+                "count": 1,
+                "chance": 0.21
+              },
+              {
+                "count": 2,
+                "chance": 0.43
+              },
+              {
+                "count": 3,
+                "chance": 0.36
+              }
+            ]
+          }
+        ]
       }
     ],
     "extracts": [
@@ -2039,470 +2591,66 @@
         ]
       }
     ],
-    "bosses": [
+    "switches": [
       {
-        "spawnChance": 0.6,
-        "spawnLocations": [
-          {
-            "name": "First Floor",
-            "chance": 1
-          }
-        ],
-        "name": "Raider",
-        "escorts": [
-          {
-            "amount": [
-              {
-                "count": 1,
-                "chance": 0.21
-              },
-              {
-                "count": 2,
-                "chance": 0.43
-              },
-              {
-                "count": 3,
-                "chance": 0.36
-              }
-            ],
-            "name": "Raider"
-          }
-        ]
+        "id": "014e9122e0fad99bcff6f93161712c3c6e1a2a75",
+        "name": "Med Elevator Power Button"
       },
       {
-        "spawnChance": 0.6,
-        "spawnLocations": [
-          {
-            "name": "Second Floor",
-            "chance": 1
-          }
-        ],
-        "name": "Raider",
-        "escorts": [
-          {
-            "amount": [
-              {
-                "count": 1,
-                "chance": 0.21
-              },
-              {
-                "count": 2,
-                "chance": 0.43
-              },
-              {
-                "count": 3,
-                "chance": 0.36
-              }
-            ],
-            "name": "Raider"
-          }
-        ]
+        "id": "72848c177c54e2913e7d0259f23fba929d14ebf5",
+        "name": "Main Elevator Call Button"
       },
       {
-        "spawnChance": 0.45,
-        "spawnLocations": [
-          {
-            "name": "Basement",
-            "chance": 1
-          }
-        ],
-        "name": "Raider",
-        "escorts": [
-          {
-            "amount": [
-              {
-                "count": 1,
-                "chance": 0.21
-              },
-              {
-                "count": 2,
-                "chance": 0.43
-              },
-              {
-                "count": 3,
-                "chance": 0.36
-              }
-            ],
-            "name": "Raider"
-          }
-        ]
+        "id": "d1d16f043cea7be35b2729c5e1e1dd648c6dee13",
+        "name": "Med Elevator Call Button"
       },
       {
-        "spawnChance": 0.45,
-        "spawnLocations": [
-          {
-            "name": "Basement",
-            "chance": 1
-          }
-        ],
-        "name": "Raider",
-        "escorts": [
-          {
-            "amount": [
-              {
-                "count": 1,
-                "chance": 0.21
-              },
-              {
-                "count": 2,
-                "chance": 0.43
-              },
-              {
-                "count": 3,
-                "chance": 0.36
-              }
-            ],
-            "name": "Raider"
-          }
-        ]
+        "id": "40ec0101fbf68e6d1b762a72080b9b9b9c91f6f1",
+        "name": "Hangar Gate Switch"
       },
       {
-        "spawnChance": 0.4,
-        "spawnLocations": [
-          {
-            "name": "Basement",
-            "chance": 1
-          }
-        ],
-        "name": "Raider",
-        "escorts": [
-          {
-            "amount": [
-              {
-                "count": 1,
-                "chance": 0.21
-              },
-              {
-                "count": 2,
-                "chance": 0.43
-              },
-              {
-                "count": 3,
-                "chance": 0.36
-              }
-            ],
-            "name": "Raider"
-          }
-        ]
+        "id": "8e6aa12e37d1b09a56e1ae19ab203832b0e78df9",
+        "name": "Cargo Elevator Call Button"
       },
       {
-        "spawnChance": 0.45,
-        "spawnLocations": [
-          {
-            "name": "Second Floor",
-            "chance": 1
-          }
-        ],
-        "name": "Raider",
-        "escorts": [
-          {
-            "amount": [
-              {
-                "count": 1,
-                "chance": 0.21
-              },
-              {
-                "count": 2,
-                "chance": 0.43
-              },
-              {
-                "count": 3,
-                "chance": 0.36
-              }
-            ],
-            "name": "Raider"
-          }
-        ]
+        "id": "558a518a272f611d2e6879b917adb407f428977f",
+        "name": "Cargo Elevator Extract Button"
       },
       {
-        "spawnChance": 0.35,
-        "spawnLocations": [
-          {
-            "name": "First Floor",
-            "chance": 1
-          }
-        ],
-        "name": "Raider",
-        "escorts": [
-          {
-            "amount": [
-              {
-                "count": 1,
-                "chance": 0.21
-              },
-              {
-                "count": 2,
-                "chance": 0.43
-              },
-              {
-                "count": 3,
-                "chance": 0.36
-              }
-            ],
-            "name": "Raider"
-          }
-        ]
+        "id": "911ef57b76415c1d42fdba3b5c8fdb587dd229a7",
+        "name": "Main Elevator Power Button"
       },
       {
-        "spawnChance": 0.35,
-        "spawnLocations": [
-          {
-            "name": "Second Floor",
-            "chance": 1
-          }
-        ],
-        "name": "Raider",
-        "escorts": [
-          {
-            "amount": [
-              {
-                "count": 1,
-                "chance": 0.21
-              },
-              {
-                "count": 2,
-                "chance": 0.43
-              },
-              {
-                "count": 3,
-                "chance": 0.36
-              }
-            ],
-            "name": "Raider"
-          }
-        ]
+        "id": "e7096cec97efb58f59f78f048792235f89318a94",
+        "name": "Water Level Switch"
       },
       {
-        "spawnChance": 0.35,
-        "spawnLocations": [
-          {
-            "name": "First Floor",
-            "chance": 1
-          }
-        ],
-        "name": "Raider",
-        "escorts": [
-          {
-            "amount": [
-              {
-                "count": 1,
-                "chance": 0.21
-              },
-              {
-                "count": 2,
-                "chance": 0.43
-              },
-              {
-                "count": 3,
-                "chance": 0.36
-              }
-            ],
-            "name": "Raider"
-          }
-        ]
+        "id": "89170f110a27deb607f63b2382f28c25ba75e861",
+        "name": "Main Elevator Extract Button"
       },
       {
-        "spawnChance": 0.35,
-        "spawnLocations": [
-          {
-            "name": "Second Floor",
-            "chance": 1
-          }
-        ],
-        "name": "Raider",
-        "escorts": [
-          {
-            "amount": [
-              {
-                "count": 1,
-                "chance": 0.21
-              },
-              {
-                "count": 2,
-                "chance": 0.43
-              },
-              {
-                "count": 3,
-                "chance": 0.36
-              }
-            ],
-            "name": "Raider"
-          }
-        ]
+        "id": "07fe694c3915c1363b5fa1faa604c68fe5849aba",
+        "name": "Parking Gate Switch"
       },
       {
-        "spawnChance": 0.35,
-        "spawnLocations": [
-          {
-            "name": "First Floor",
-            "chance": 1
-          }
-        ],
-        "name": "Raider",
-        "escorts": [
-          {
-            "amount": [
-              {
-                "count": 1,
-                "chance": 0.21
-              },
-              {
-                "count": 2,
-                "chance": 0.43
-              },
-              {
-                "count": 3,
-                "chance": 0.36
-              }
-            ],
-            "name": "Raider"
-          }
-        ]
+        "id": "a948c3ba250ffcaaa508230d0b3392bf09cb6964",
+        "name": "Sewage Conduit Pump Button"
       },
       {
-        "spawnChance": 0.35,
-        "spawnLocations": [
-          {
-            "name": "Second Floor",
-            "chance": 1
-          }
-        ],
-        "name": "Raider",
-        "escorts": [
-          {
-            "amount": [
-              {
-                "count": 1,
-                "chance": 0.21
-              },
-              {
-                "count": 2,
-                "chance": 0.43
-              },
-              {
-                "count": 3,
-                "chance": 0.36
-              }
-            ],
-            "name": "Raider"
-          }
-        ]
+        "id": "c39cf1e7caac3b830c00b539ee12dfddeb061e2b",
+        "name": "Cargo Elevator Power Button"
       },
       {
-        "spawnChance": 0.35,
-        "spawnLocations": [
-          {
-            "name": "First Floor",
-            "chance": 1
-          }
-        ],
-        "name": "Raider",
-        "escorts": [
-          {
-            "amount": [
-              {
-                "count": 1,
-                "chance": 0.21
-              },
-              {
-                "count": 2,
-                "chance": 0.43
-              },
-              {
-                "count": 3,
-                "chance": 0.36
-              }
-            ],
-            "name": "Raider"
-          }
-        ]
+        "id": "5077fd224eb1bb588b65e4d3c0b4b5719bdebb66",
+        "name": "Med Elevator Extract Button"
       },
       {
-        "spawnChance": 0.35,
-        "spawnLocations": [
-          {
-            "name": "Second Floor",
-            "chance": 1
-          }
-        ],
-        "name": "Raider",
-        "escorts": [
-          {
-            "amount": [
-              {
-                "count": 1,
-                "chance": 0.21
-              },
-              {
-                "count": 2,
-                "chance": 0.43
-              },
-              {
-                "count": 3,
-                "chance": 0.36
-              }
-            ],
-            "name": "Raider"
-          }
-        ]
+        "id": "d5f297a1f5aee9dc19f1e4f54946850b99dca5e9",
+        "name": "Alarm Switch"
       },
       {
-        "spawnChance": 0.35,
-        "spawnLocations": [
-          {
-            "name": "Parking Gate",
-            "chance": 1
-          }
-        ],
-        "name": "Raider",
-        "escorts": [
-          {
-            "amount": [
-              {
-                "count": 1,
-                "chance": 0.21
-              },
-              {
-                "count": 2,
-                "chance": 0.43
-              },
-              {
-                "count": 3,
-                "chance": 0.36
-              }
-            ],
-            "name": "Raider"
-          }
-        ]
-      },
-      {
-        "spawnChance": 0.45,
-        "spawnLocations": [
-          {
-            "name": "Hangar Gate",
-            "chance": 1
-          }
-        ],
-        "name": "Raider",
-        "escorts": [
-          {
-            "amount": [
-              {
-                "count": 1,
-                "chance": 0.21
-              },
-              {
-                "count": 2,
-                "chance": 0.43
-              },
-              {
-                "count": 3,
-                "chance": 0.36
-              }
-            ],
-            "name": "Raider"
-          }
-        ]
+        "id": "5e017c1cab122d7b6dcccf32f6d7fdb152aa7027",
+        "name": "Containment Block Power Switch"
       }
     ]
   },
@@ -2568,6 +2716,33 @@
     ],
     "raidDuration": 30,
     "players": "9-12",
+    "bosses": [
+      {
+        "name": "Cultist Priest",
+        "spawnChance": 0.02,
+        "spawnLocations": [
+          {
+            "name": "Any scav spawn",
+            "chance": 1
+          }
+        ],
+        "escorts": [
+          {
+            "name": "Cultist Warrior",
+            "amount": [
+              {
+                "count": 3,
+                "chance": 0.5
+              },
+              {
+                "count": 4,
+                "chance": 0.5
+              }
+            ]
+          }
+        ]
+      }
+    ],
     "extracts": [
       {
         "id": "78b945ec320190d896a16bda3066892d9368bf17",
@@ -2606,34 +2781,7 @@
         "switches": []
       }
     ],
-    "switches": [],
-    "bosses": [
-      {
-        "spawnChance": 0.02,
-        "spawnLocations": [
-          {
-            "name": "Any scav spawn",
-            "chance": 1
-          }
-        ],
-        "name": "Cultist Priest",
-        "escorts": [
-          {
-            "amount": [
-              {
-                "count": 3,
-                "chance": 0.5
-              },
-              {
-                "count": 4,
-                "chance": 0.5
-              }
-            ],
-            "name": "Cultist Warrior"
-          }
-        ]
-      }
-    ]
+    "switches": []
   },
   {
     "id": "6733700029c367a3d40b02af",
@@ -2648,6 +2796,24 @@
     ],
     "raidDuration": 30,
     "players": "5-5",
+    "bosses": [
+      {
+        "name": "Shadow of Tagilla",
+        "spawnChance": 1,
+        "spawnLocations": [],
+        "escorts": [
+          {
+            "name": "Vengeful Killa",
+            "amount": [
+              {
+                "count": 1,
+                "chance": 1
+              }
+            ]
+          }
+        ]
+      }
+    ],
     "extracts": [
       {
         "id": "145db8cb7d81891137f780e183901f601a461127",
@@ -2711,24 +2877,6 @@
         "id": "0f6a9ab8c77afe7609feaec4e2053c9e709a632f",
         "name": "Steam Trap Switch"
       }
-    ],
-    "bosses": [
-      {
-        "spawnChance": 1,
-        "spawnLocations": [],
-        "name": "Shadow of Tagilla",
-        "escorts": [
-          {
-            "amount": [
-              {
-                "count": 1,
-                "chance": 1
-              }
-            ],
-            "name": "Vengeful Killa"
-          }
-        ]
-      }
     ]
   },
   {
@@ -2761,10 +2909,9 @@
     ],
     "raidDuration": 50,
     "players": "1-5",
-    "extracts": [],
-    "switches": [],
     "bosses": [
       {
+        "name": "Black Div.",
         "spawnChance": 1,
         "spawnLocations": [
           {
@@ -2772,29 +2919,29 @@
             "chance": 1
           }
         ],
-        "name": "Black Div.",
         "escorts": [
           {
+            "name": "Black Div.",
             "amount": [
               {
                 "count": 1,
                 "chance": 1
               }
-            ],
-            "name": "Black Div."
+            ]
           },
           {
+            "name": "Black Div.",
             "amount": [
               {
                 "count": 1,
                 "chance": 1
               }
-            ],
-            "name": "Black Div."
+            ]
           }
         ]
       },
       {
+        "name": "Black Div.",
         "spawnChance": 1,
         "spawnLocations": [
           {
@@ -2802,20 +2949,20 @@
             "chance": 1
           }
         ],
-        "name": "Black Div.",
         "escorts": [
           {
+            "name": "Black Div.",
             "amount": [
               {
                 "count": 1,
                 "chance": 1
               }
-            ],
-            "name": "Black Div."
+            ]
           }
         ]
       },
       {
+        "name": "Black Div.",
         "spawnChance": 1,
         "spawnLocations": [
           {
@@ -2823,20 +2970,20 @@
             "chance": 1
           }
         ],
-        "name": "Black Div.",
         "escorts": [
           {
+            "name": "Black Div.",
             "amount": [
               {
                 "count": 1,
                 "chance": 1
               }
-            ],
-            "name": "Black Div."
+            ]
           }
         ]
       },
       {
+        "name": "AF",
         "spawnChance": 1,
         "spawnLocations": [
           {
@@ -2844,10 +2991,10 @@
             "chance": 1
           }
         ],
-        "escorts": [],
-        "name": "AF"
+        "escorts": []
       },
       {
+        "name": "AF",
         "spawnChance": 1,
         "spawnLocations": [
           {
@@ -2855,29 +3002,29 @@
             "chance": 1
           }
         ],
-        "name": "AF",
         "escorts": [
           {
+            "name": "AF",
             "amount": [
               {
                 "count": 1,
                 "chance": 1
               }
-            ],
-            "name": "AF"
+            ]
           },
           {
+            "name": "AF",
             "amount": [
               {
                 "count": 1,
                 "chance": 1
               }
-            ],
-            "name": "AF"
+            ]
           }
         ]
       },
       {
+        "name": "AF",
         "spawnChance": 1,
         "spawnLocations": [
           {
@@ -2885,29 +3032,29 @@
             "chance": 1
           }
         ],
-        "name": "AF",
         "escorts": [
           {
+            "name": "AF",
             "amount": [
               {
                 "count": 1,
                 "chance": 1
               }
-            ],
-            "name": "AF"
+            ]
           },
           {
+            "name": "AF",
             "amount": [
               {
                 "count": 1,
                 "chance": 1
               }
-            ],
-            "name": "AF"
+            ]
           }
         ]
       },
       {
+        "name": "AF",
         "spawnChance": 1,
         "spawnLocations": [
           {
@@ -2915,29 +3062,29 @@
             "chance": 1
           }
         ],
-        "name": "AF",
         "escorts": [
           {
+            "name": "AF",
             "amount": [
               {
                 "count": 1,
                 "chance": 1
               }
-            ],
-            "name": "AF"
+            ]
           },
           {
+            "name": "AF",
             "amount": [
               {
                 "count": 1,
                 "chance": 1
               }
-            ],
-            "name": "AF"
+            ]
           }
         ]
       },
       {
+        "name": "AF",
         "spawnChance": 1,
         "spawnLocations": [
           {
@@ -2945,110 +3092,110 @@
             "chance": 1
           }
         ],
+        "escorts": [
+          {
+            "name": "AF",
+            "amount": [
+              {
+                "count": 1,
+                "chance": 1
+              }
+            ]
+          },
+          {
+            "name": "AF",
+            "amount": [
+              {
+                "count": 1,
+                "chance": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Black Div.",
+        "spawnChance": 1,
+        "spawnLocations": [
+          {
+            "name": "1BD1HangarAmbush11",
+            "chance": 1
+          }
+        ],
+        "escorts": [
+          {
+            "name": "Black Div.",
+            "amount": [
+              {
+                "count": 1,
+                "chance": 1
+              }
+            ]
+          },
+          {
+            "name": "Black Div.",
+            "amount": [
+              {
+                "count": 1,
+                "chance": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Black Div.",
+        "spawnChance": 1,
+        "spawnLocations": [
+          {
+            "name": "1BD1HangarAmbush11",
+            "chance": 1
+          }
+        ],
+        "escorts": [
+          {
+            "name": "Black Div.",
+            "amount": [
+              {
+                "count": 1,
+                "chance": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Black Div.",
+        "spawnChance": 1,
+        "spawnLocations": [
+          {
+            "name": "1BD1HangarAmbush11",
+            "chance": 1
+          }
+        ],
+        "escorts": [
+          {
+            "name": "Black Div.",
+            "amount": [
+              {
+                "count": 1,
+                "chance": 1
+              }
+            ]
+          },
+          {
+            "name": "Black Div.",
+            "amount": [
+              {
+                "count": 1,
+                "chance": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
         "name": "AF",
-        "escorts": [
-          {
-            "amount": [
-              {
-                "count": 1,
-                "chance": 1
-              }
-            ],
-            "name": "AF"
-          },
-          {
-            "amount": [
-              {
-                "count": 1,
-                "chance": 1
-              }
-            ],
-            "name": "AF"
-          }
-        ]
-      },
-      {
-        "spawnChance": 1,
-        "spawnLocations": [
-          {
-            "name": "1BD1HangarAmbush11",
-            "chance": 1
-          }
-        ],
-        "name": "Black Div.",
-        "escorts": [
-          {
-            "amount": [
-              {
-                "count": 1,
-                "chance": 1
-              }
-            ],
-            "name": "Black Div."
-          },
-          {
-            "amount": [
-              {
-                "count": 1,
-                "chance": 1
-              }
-            ],
-            "name": "Black Div."
-          }
-        ]
-      },
-      {
-        "spawnChance": 1,
-        "spawnLocations": [
-          {
-            "name": "1BD1HangarAmbush11",
-            "chance": 1
-          }
-        ],
-        "name": "Black Div.",
-        "escorts": [
-          {
-            "amount": [
-              {
-                "count": 1,
-                "chance": 1
-              }
-            ],
-            "name": "Black Div."
-          }
-        ]
-      },
-      {
-        "spawnChance": 1,
-        "spawnLocations": [
-          {
-            "name": "1BD1HangarAmbush11",
-            "chance": 1
-          }
-        ],
-        "name": "Black Div.",
-        "escorts": [
-          {
-            "amount": [
-              {
-                "count": 1,
-                "chance": 1
-              }
-            ],
-            "name": "Black Div."
-          },
-          {
-            "amount": [
-              {
-                "count": 1,
-                "chance": 1
-              }
-            ],
-            "name": "Black Div."
-          }
-        ]
-      },
-      {
         "spawnChance": 1,
         "spawnLocations": [
           {
@@ -3056,38 +3203,38 @@
             "chance": 1
           }
         ],
-        "name": "AF",
         "escorts": [
           {
+            "name": "AF",
             "amount": [
               {
                 "count": 1,
                 "chance": 1
               }
-            ],
-            "name": "AF"
+            ]
           },
           {
+            "name": "AF",
             "amount": [
               {
                 "count": 1,
                 "chance": 1
               }
-            ],
-            "name": "AF"
+            ]
           },
           {
+            "name": "AF",
             "amount": [
               {
                 "count": 1,
                 "chance": 1
               }
-            ],
-            "name": "AF"
+            ]
           }
         ]
       },
       {
+        "name": "Black Div.",
         "spawnChance": 1,
         "spawnLocations": [
           {
@@ -3095,20 +3242,20 @@
             "chance": 1
           }
         ],
-        "name": "Black Div.",
         "escorts": [
           {
+            "name": "Black Div.",
             "amount": [
               {
                 "count": 1,
                 "chance": 1
               }
-            ],
-            "name": "Black Div."
+            ]
           }
         ]
       },
       {
+        "name": "Black Div.",
         "spawnChance": 1,
         "spawnLocations": [
           {
@@ -3116,20 +3263,20 @@
             "chance": 1
           }
         ],
-        "name": "Black Div.",
         "escorts": [
           {
+            "name": "Black Div.",
             "amount": [
               {
                 "count": 1,
                 "chance": 1
               }
-            ],
-            "name": "Black Div."
+            ]
           }
         ]
       },
       {
+        "name": "AF",
         "spawnChance": 1,
         "spawnLocations": [
           {
@@ -3137,20 +3284,20 @@
             "chance": 1
           }
         ],
-        "name": "AF",
         "escorts": [
           {
+            "name": "AF",
             "amount": [
               {
                 "count": 1,
                 "chance": 1
               }
-            ],
-            "name": "AF"
+            ]
           }
         ]
       },
       {
+        "name": "Black Div.",
         "spawnChance": 1,
         "spawnLocations": [
           {
@@ -3158,20 +3305,20 @@
             "chance": 1
           }
         ],
-        "name": "Black Div.",
         "escorts": [
           {
+            "name": "Black Div.",
             "amount": [
               {
                 "count": 1,
                 "chance": 1
               }
-            ],
-            "name": "Black Div."
+            ]
           }
         ]
       },
       {
+        "name": "AF",
         "spawnChance": 1,
         "spawnLocations": [
           {
@@ -3179,20 +3326,20 @@
             "chance": 1
           }
         ],
-        "name": "AF",
         "escorts": [
           {
+            "name": "AF",
             "amount": [
               {
                 "count": 1,
                 "chance": 1
               }
-            ],
-            "name": "AF"
+            ]
           }
         ]
       },
       {
+        "name": "Black Div.",
         "spawnChance": 1,
         "spawnLocations": [
           {
@@ -3200,29 +3347,29 @@
             "chance": 1
           }
         ],
-        "name": "Black Div.",
         "escorts": [
           {
+            "name": "Black Div.",
             "amount": [
               {
                 "count": 1,
                 "chance": 1
               }
-            ],
-            "name": "Black Div."
+            ]
           },
           {
+            "name": "Black Div.",
             "amount": [
               {
                 "count": 1,
                 "chance": 1
               }
-            ],
-            "name": "Black Div."
+            ]
           }
         ]
       },
       {
+        "name": "Black Div.",
         "spawnChance": 1,
         "spawnLocations": [
           {
@@ -3230,38 +3377,38 @@
             "chance": 1
           }
         ],
-        "name": "Black Div.",
         "escorts": [
           {
+            "name": "Black Div.",
             "amount": [
               {
                 "count": 1,
                 "chance": 1
               }
-            ],
-            "name": "Black Div."
+            ]
           },
           {
+            "name": "Black Div.",
             "amount": [
               {
                 "count": 1,
                 "chance": 1
               }
-            ],
-            "name": "Black Div."
+            ]
           },
           {
+            "name": "Black Div.",
             "amount": [
               {
                 "count": 1,
                 "chance": 1
               }
-            ],
-            "name": "Black Div."
+            ]
           }
         ]
       },
       {
+        "name": "Black Div.",
         "spawnChance": 1,
         "spawnLocations": [
           {
@@ -3269,38 +3416,38 @@
             "chance": 1
           }
         ],
-        "name": "Black Div.",
         "escorts": [
           {
+            "name": "Black Div.",
             "amount": [
               {
                 "count": 1,
                 "chance": 1
               }
-            ],
-            "name": "Black Div."
+            ]
           },
           {
+            "name": "Black Div.",
             "amount": [
               {
                 "count": 1,
                 "chance": 1
               }
-            ],
-            "name": "Black Div."
+            ]
           },
           {
+            "name": "Black Div.",
             "amount": [
               {
                 "count": 1,
                 "chance": 1
               }
-            ],
-            "name": "Black Div."
+            ]
           }
         ]
       },
       {
+        "name": "Black Div.",
         "spawnChance": 1,
         "spawnLocations": [
           {
@@ -3308,29 +3455,29 @@
             "chance": 1
           }
         ],
-        "name": "Black Div.",
         "escorts": [
           {
+            "name": "Black Div.",
             "amount": [
               {
                 "count": 1,
                 "chance": 1
               }
-            ],
-            "name": "Black Div."
+            ]
           },
           {
+            "name": "Black Div.",
             "amount": [
               {
                 "count": 1,
                 "chance": 1
               }
-            ],
-            "name": "Black Div."
+            ]
           }
         ]
       },
       {
+        "name": "AF",
         "spawnChance": 1,
         "spawnLocations": [
           {
@@ -3338,38 +3485,38 @@
             "chance": 1
           }
         ],
-        "name": "AF",
         "escorts": [
           {
+            "name": "AF",
             "amount": [
               {
                 "count": 1,
                 "chance": 1
               }
-            ],
-            "name": "AF"
+            ]
           },
           {
+            "name": "AF",
             "amount": [
               {
                 "count": 2,
                 "chance": 1
               }
-            ],
-            "name": "AF"
+            ]
           },
           {
+            "name": "AF",
             "amount": [
               {
                 "count": 1,
                 "chance": 1
               }
-            ],
-            "name": "AF"
+            ]
           }
         ]
       },
       {
+        "name": "Black Div.",
         "spawnChance": 1,
         "spawnLocations": [
           {
@@ -3377,38 +3524,38 @@
             "chance": 1
           }
         ],
-        "name": "Black Div.",
         "escorts": [
           {
+            "name": "Black Div.",
             "amount": [
               {
                 "count": 1,
                 "chance": 1
               }
-            ],
-            "name": "Black Div."
+            ]
           },
           {
+            "name": "Black Div.",
             "amount": [
               {
                 "count": 1,
                 "chance": 1
               }
-            ],
-            "name": "Black Div."
+            ]
           },
           {
+            "name": "Black Div.",
             "amount": [
               {
                 "count": 1,
                 "chance": 1
               }
-            ],
-            "name": "Black Div."
+            ]
           }
         ]
       },
       {
+        "name": "Tagilla",
         "spawnChance": 1,
         "spawnLocations": [
           {
@@ -3416,9 +3563,10 @@
             "chance": 1
           }
         ],
-        "escorts": [],
-        "name": "Tagilla"
+        "escorts": []
       }
-    ]
+    ],
+    "extracts": [],
+    "switches": []
   }
 ]
