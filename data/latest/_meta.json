@@ -1,7 +1,7 @@
 {
-  "snapshot_at": "2026-05-18T16:51:12.719678+00:00",
-  "finished_at": "2026-05-18T16:51:36.531125+00:00",
-  "duration_seconds": 23.811447,
+  "snapshot_at": "2026-05-25T16:06:49.989974+00:00",
+  "finished_at": "2026-05-25T16:07:06.321770+00:00",
+  "duration_seconds": 16.331796,
   "source": "https://api.tarkov.dev/graphql",
   "language": "en",
   "game_mode": "regular",
@@ -10,24 +10,24 @@
   "queries_failed": 0,
   "results": {
     "traders": {
-      "records": 15,
-      "kb": 19.8
+      "records": 16,
+      "kb": 20.5
     },
     "tasks": {
       "records": 499,
-      "kb": 1411.0
+      "kb": 1411.8
     },
     "items": {
-      "records": 4947,
-      "kb": 10268.3
+      "records": 5044,
+      "kb": 10422.3
     },
     "hideout": {
       "records": 26,
       "kb": 353.9
     },
     "maps": {
-      "records": 15,
-      "kb": 82.3
+      "records": 16,
+      "kb": 94.5
     },
     "barters": {
       "records": 786,
@@ -42,8 +42,8 @@
       "kb": 79.6
     },
     "bosses": {
-      "records": 36,
-      "kb": 1168.8
+      "records": 40,
+      "kb": 1298.2
     },
     "prestige": {
       "records": 6,
@@ -54,8 +54,8 @@
       "kb": 1.6
     },
     "achievements": {
-      "records": 105,
-      "kb": 46.9
+      "records": 109,
+      "kb": 48.8
     },
     "questItems": {
       "records": 109,
@@ -66,8 +66,8 @@
       "kb": 24.5
     },
     "itemCategories": {
-      "records": 110,
-      "kb": 32.9
+      "records": 111,
+      "kb": 33.3
     },
     "lootContainers": {
       "records": 43,
@@ -95,7 +95,7 @@
     },
     "status": {
       "records": null,
-      "kb": 0.9
+      "kb": 1.2
     }
   },
   "failures": []

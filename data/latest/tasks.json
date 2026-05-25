@@ -47808,12 +47808,8 @@
             "name": "Lighthouse"
           },
           {
-            "id": "5704e554d2720bac5b8b456e",
-            "name": "Shoreline"
-          },
-          {
-            "id": "5704e5fad2720bc05b8b4567",
-            "name": "Reserve"
+            "id": "69af492a4819ea4ba10a69c5",
+            "name": "Icebreaker"
           }
         ]
       },
@@ -47884,12 +47880,8 @@
             "name": "Lighthouse"
           },
           {
-            "id": "5704e554d2720bac5b8b456e",
-            "name": "Shoreline"
-          },
-          {
-            "id": "5704e5fad2720bc05b8b4567",
-            "name": "Reserve"
+            "id": "69af492a4819ea4ba10a69c5",
+            "name": "Icebreaker"
           }
         ]
       },
@@ -50679,8 +50671,24 @@
         "optional": false,
         "maps": [
           {
+            "id": "56f40101d2720b2a4d8b45d6",
+            "name": "Customs"
+          },
+          {
+            "id": "5704e3c2d2720bac5b8b4567",
+            "name": "Woods"
+          },
+          {
+            "id": "5704e4dad2720bb55b8b4567",
+            "name": "Lighthouse"
+          },
+          {
             "id": "5704e554d2720bac5b8b456e",
             "name": "Shoreline"
+          },
+          {
+            "id": "69af492a4819ea4ba10a69c5",
+            "name": "Icebreaker"
           }
         ]
       },
@@ -50690,6 +50698,18 @@
         "description": "Locate and neutralize Big Pipe",
         "optional": false,
         "maps": [
+          {
+            "id": "56f40101d2720b2a4d8b45d6",
+            "name": "Customs"
+          },
+          {
+            "id": "5704e3c2d2720bac5b8b4567",
+            "name": "Woods"
+          },
+          {
+            "id": "5704e4dad2720bb55b8b4567",
+            "name": "Lighthouse"
+          },
           {
             "id": "5704e554d2720bac5b8b456e",
             "name": "Shoreline"
@@ -50702,6 +50722,18 @@
         "description": "Locate and neutralize Birdeye",
         "optional": false,
         "maps": [
+          {
+            "id": "56f40101d2720b2a4d8b45d6",
+            "name": "Customs"
+          },
+          {
+            "id": "5704e3c2d2720bac5b8b4567",
+            "name": "Woods"
+          },
+          {
+            "id": "5704e4dad2720bb55b8b4567",
+            "name": "Lighthouse"
+          },
           {
             "id": "5704e554d2720bac5b8b456e",
             "name": "Shoreline"

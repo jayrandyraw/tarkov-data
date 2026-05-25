@@ -239,7 +239,12 @@
       "id": "54009119af1c881c07000029",
       "name": "Item"
     },
-    "children": []
+    "children": [
+      {
+        "id": "69f071ae35c3b5e6dd00df07",
+        "name": "Volumetric Throw Weapon"
+      }
+    ]
   },
   {
     "id": "5448bc234bdc2d3c308b4569",
@@ -1554,6 +1559,16 @@
     "parent": {
       "id": "664b81bfa322b5b99a037a03",
       "name": "Completable"
+    },
+    "children": []
+  },
+  {
+    "id": "69f071ae35c3b5e6dd00df07",
+    "name": "Volumetric Throw Weapon",
+    "normalizedName": "volumetric-throw-weapon",
+    "parent": {
+      "id": "543be6564bdc2df4348b4568",
+      "name": "Throwable weapon"
     },
     "children": []
   }

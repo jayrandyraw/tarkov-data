@@ -112,6 +112,35 @@
             ]
           },
           {
+            "id": "600ab99ce4022c380a726090",
+            "duration": 1800,
+            "requiredItems": [
+              {
+                "item": {
+                  "id": "5e8488fa988a8701445df1e4",
+                  "name": "CALOK-B hemostatic applicator"
+                },
+                "count": 1
+              },
+              {
+                "item": {
+                  "id": "5d1b3a5d86f774252167ba22",
+                  "name": "Pile of meds"
+                },
+                "count": 1
+              }
+            ],
+            "rewardItems": [
+              {
+                "item": {
+                  "id": "5e8488fa988a8701445df1e4",
+                  "name": "CALOK-B hemostatic applicator"
+                },
+                "count": 1
+              }
+            ]
+          },
+          {
             "id": "68f11230b10b42c44a0a5f8f",
             "duration": 5340,
             "requiredItems": [
@@ -192,35 +221,6 @@
                 "item": {
                   "id": "5d02778e86f774203e7dedbe",
                   "name": "CMS surgical kit"
-                },
-                "count": 1
-              }
-            ]
-          },
-          {
-            "id": "600ab99ce4022c380a726090",
-            "duration": 1800,
-            "requiredItems": [
-              {
-                "item": {
-                  "id": "5e8488fa988a8701445df1e4",
-                  "name": "CALOK-B hemostatic applicator"
-                },
-                "count": 1
-              },
-              {
-                "item": {
-                  "id": "5d1b3a5d86f774252167ba22",
-                  "name": "Pile of meds"
-                },
-                "count": 1
-              }
-            ],
-            "rewardItems": [
-              {
-                "item": {
-                  "id": "5e8488fa988a8701445df1e4",
-                  "name": "CALOK-B hemostatic applicator"
                 },
                 "count": 1
               }
@@ -348,27 +348,41 @@
             ]
           },
           {
-            "id": "5ede01e062155304b6512067",
-            "duration": 1670,
+            "id": "5eeca8e327ccd70521107fdc",
+            "duration": 18900,
             "requiredItems": [
               {
                 "item": {
-                  "id": "5d1b39a386f774252339976f",
-                  "name": "Silicone tube"
+                  "id": "590a391c86f774385a33c404",
+                  "name": "Magnet"
+                },
+                "count": 2
+              },
+              {
+                "item": {
+                  "id": "5c06779c86f77426e00dd782",
+                  "name": "Bundle of wires"
+                },
+                "count": 3
+              },
+              {
+                "item": {
+                  "id": "5c06782b86f77426df5407d2",
+                  "name": "Capacitors"
+                },
+                "count": 4
+              },
+              {
+                "item": {
+                  "id": "5af0561e86f7745f5f3ad6ac",
+                  "name": "Portable Powerbank"
                 },
                 "count": 1
               },
               {
                 "item": {
-                  "id": "5d1b3f2d86f774253763b735",
-                  "name": "Disposable syringe"
-                },
-                "count": 1
-              },
-              {
-                "item": {
-                  "id": "619cc01e0a7c3a1a2731940c",
-                  "name": "Medical tools"
+                  "id": "590c2e1186f77425357b6124",
+                  "name": "Toolset"
                 },
                 "count": 1
               }
@@ -376,159 +390,8 @@
             "rewardItems": [
               {
                 "item": {
-                  "id": "5b4335ba86f7744d2837a264",
-                  "name": "Medical bloodset"
-                },
-                "count": 2
-              }
-            ]
-          },
-          {
-            "id": "600aa0d1090cb6338027028c",
-            "duration": 3200,
-            "requiredItems": [
-              {
-                "item": {
-                  "id": "544fb3364bdc2d34748b456a",
-                  "name": "Immobilizing splint"
-                },
-                "count": 5
-              },
-              {
-                "item": {
-                  "id": "5e2af22086f7746d3f3c33fa",
-                  "name": "Tube of Poxeram cold welding"
-                },
-                "count": 1
-              }
-            ],
-            "rewardItems": [
-              {
-                "item": {
-                  "id": "5af0454c86f7746bf20992e8",
-                  "name": "Aluminum splint"
-                },
-                "count": 2
-              }
-            ]
-          },
-          {
-            "id": "68f111a853aec9cbde0aa22f",
-            "duration": 2820,
-            "requiredItems": [
-              {
-                "item": {
-                  "id": "5d1b3a5d86f774252167ba22",
-                  "name": "Pile of meds"
-                },
-                "count": 5
-              },
-              {
-                "item": {
-                  "id": "5d1b3f2d86f774253763b735",
-                  "name": "Disposable syringe"
-                },
-                "count": 2
-              },
-              {
-                "item": {
-                  "id": "5e8488fa988a8701445df1e4",
-                  "name": "CALOK-B hemostatic applicator"
-                },
-                "count": 1
-              },
-              {
-                "item": {
-                  "id": "5d1b39a386f774252339976f",
-                  "name": "Silicone tube"
-                },
-                "count": 1
-              }
-            ],
-            "rewardItems": [
-              {
-                "item": {
-                  "id": "5ed515f6915ec335206e4152",
-                  "name": "AHF1-M stimulant injector"
-                },
-                "count": 2
-              }
-            ]
-          },
-          {
-            "id": "64b6b5c1c3abf20a9660daad",
-            "duration": 4800,
-            "requiredItems": [
-              {
-                "item": {
-                  "id": "5d1b3a5d86f774252167ba22",
-                  "name": "Pile of meds"
-                },
-                "count": 2
-              },
-              {
-                "item": {
-                  "id": "5d1b3f2d86f774253763b735",
-                  "name": "Disposable syringe"
-                },
-                "count": 2
-              },
-              {
-                "item": {
-                  "id": "5c0e530286f7747fa1419862",
-                  "name": "Propital regenerative stimulant injector"
-                },
-                "count": 2
-              },
-              {
-                "item": {
-                  "id": "5e8f3423fd7471236e6e3b64",
-                  "name": "Bottle of Norvinsky Yadreniy premium kvass (0.6L)"
-                },
-                "count": 1
-              }
-            ],
-            "rewardItems": [
-              {
-                "item": {
-                  "id": "5c0e534186f7747fa1419867",
-                  "name": "eTG-change regenerative stimulant injector"
-                },
-                "count": 1
-              }
-            ]
-          },
-          {
-            "id": "6002eec9cc73cd34ac64188a",
-            "duration": 4200,
-            "requiredItems": [
-              {
-                "item": {
-                  "id": "5c10c8fd86f7743d7d706df3",
-                  "name": "Adrenaline injector"
-                },
-                "count": 1
-              },
-              {
-                "item": {
-                  "id": "5755356824597772cb798962",
-                  "name": "AI-2 medkit"
-                },
-                "count": 2
-              },
-              {
-                "item": {
-                  "id": "5d1b3a5d86f774252167ba22",
-                  "name": "Pile of meds"
-                },
-                "count": 2
-              }
-            ],
-            "rewardItems": [
-              {
-                "item": {
-                  "id": "5fca138c2a7b221b2852a5c6",
-                  "name": "xTG-12 antidote injector"
+                  "id": "5c052e6986f7746b207bc3c9",
+                  "name": "Portable defibrillator"
                 },
                 "count": 1
               }
@@ -657,20 +520,63 @@
             ]
           },
           {
-            "id": "5e6cfc53a3e6886b9e6c39a8",
-            "duration": 4990,
+            "id": "68f111a853aec9cbde0aa22f",
+            "duration": 2820,
             "requiredItems": [
               {
                 "item": {
                   "id": "5d1b3a5d86f774252167ba22",
                   "name": "Pile of meds"
                 },
-                "count": 7
+                "count": 5
               },
               {
                 "item": {
-                  "id": "59e3606886f77417674759a5",
-                  "name": "Bottle of saline solution"
+                  "id": "5d1b3f2d86f774253763b735",
+                  "name": "Disposable syringe"
+                },
+                "count": 2
+              },
+              {
+                "item": {
+                  "id": "5e8488fa988a8701445df1e4",
+                  "name": "CALOK-B hemostatic applicator"
+                },
+                "count": 1
+              },
+              {
+                "item": {
+                  "id": "5d1b39a386f774252339976f",
+                  "name": "Silicone tube"
+                },
+                "count": 1
+              }
+            ],
+            "rewardItems": [
+              {
+                "item": {
+                  "id": "5ed515f6915ec335206e4152",
+                  "name": "AHF1-M stimulant injector"
+                },
+                "count": 2
+              }
+            ]
+          },
+          {
+            "id": "64b6b5c1c3abf20a9660daad",
+            "duration": 4800,
+            "requiredItems": [
+              {
+                "item": {
+                  "id": "5d1b3a5d86f774252167ba22",
+                  "name": "Pile of meds"
+                },
+                "count": 2
+              },
+              {
+                "item": {
+                  "id": "5d1b3f2d86f774253763b735",
+                  "name": "Disposable syringe"
                 },
                 "count": 2
               },
@@ -679,12 +585,12 @@
                   "id": "5c0e530286f7747fa1419862",
                   "name": "Propital regenerative stimulant injector"
                 },
-                "count": 3
+                "count": 2
               },
               {
                 "item": {
-                  "id": "544fb3f34bdc2d03748b456a",
-                  "name": "Morphine injector"
+                  "id": "5e8f3423fd7471236e6e3b64",
+                  "name": "Bottle of Norvinsky Yadreniy premium kvass (0.6L)"
                 },
                 "count": 1
               }
@@ -692,49 +598,71 @@
             "rewardItems": [
               {
                 "item": {
-                  "id": "5c0e531286f7747fa54205c2",
-                  "name": "SJ1 TGLabs combat stimulant injector"
+                  "id": "5c0e534186f7747fa1419867",
+                  "name": "eTG-change regenerative stimulant injector"
                 },
-                "count": 5
+                "count": 1
               }
             ]
           },
           {
-            "id": "5eeca8e327ccd70521107fdc",
-            "duration": 18900,
+            "id": "6002eec9cc73cd34ac64188a",
+            "duration": 4200,
             "requiredItems": [
               {
                 "item": {
-                  "id": "590a391c86f774385a33c404",
-                  "name": "Magnet"
+                  "id": "5c10c8fd86f7743d7d706df3",
+                  "name": "Adrenaline injector"
+                },
+                "count": 1
+              },
+              {
+                "item": {
+                  "id": "5755356824597772cb798962",
+                  "name": "AI-2 medkit"
                 },
                 "count": 2
               },
               {
                 "item": {
-                  "id": "5c06779c86f77426e00dd782",
-                  "name": "Bundle of wires"
+                  "id": "5d1b3a5d86f774252167ba22",
+                  "name": "Pile of meds"
                 },
-                "count": 3
-              },
+                "count": 2
+              }
+            ],
+            "rewardItems": [
               {
                 "item": {
-                  "id": "5c06782b86f77426df5407d2",
-                  "name": "Capacitors"
+                  "id": "5fca138c2a7b221b2852a5c6",
+                  "name": "xTG-12 antidote injector"
                 },
-                "count": 4
-              },
+                "count": 1
+              }
+            ]
+          },
+          {
+            "id": "5ede01e062155304b6512067",
+            "duration": 1670,
+            "requiredItems": [
               {
                 "item": {
-                  "id": "5af0561e86f7745f5f3ad6ac",
-                  "name": "Portable Powerbank"
+                  "id": "5d1b39a386f774252339976f",
+                  "name": "Silicone tube"
                 },
                 "count": 1
               },
               {
                 "item": {
-                  "id": "590c2e1186f77425357b6124",
-                  "name": "Toolset"
+                  "id": "5d1b3f2d86f774253763b735",
+                  "name": "Disposable syringe"
+                },
+                "count": 1
+              },
+              {
+                "item": {
+                  "id": "619cc01e0a7c3a1a2731940c",
+                  "name": "Medical tools"
                 },
                 "count": 1
               }
@@ -742,10 +670,39 @@
             "rewardItems": [
               {
                 "item": {
-                  "id": "5c052e6986f7746b207bc3c9",
-                  "name": "Portable defibrillator"
+                  "id": "5b4335ba86f7744d2837a264",
+                  "name": "Medical bloodset"
+                },
+                "count": 2
+              }
+            ]
+          },
+          {
+            "id": "600aa0d1090cb6338027028c",
+            "duration": 3200,
+            "requiredItems": [
+              {
+                "item": {
+                  "id": "544fb3364bdc2d34748b456a",
+                  "name": "Immobilizing splint"
+                },
+                "count": 5
+              },
+              {
+                "item": {
+                  "id": "5e2af22086f7746d3f3c33fa",
+                  "name": "Tube of Poxeram cold welding"
                 },
                 "count": 1
+              }
+            ],
+            "rewardItems": [
+              {
+                "item": {
+                  "id": "5af0454c86f7746bf20992e8",
+                  "name": "Aluminum splint"
+                },
+                "count": 2
               }
             ]
           },
@@ -904,6 +861,49 @@
                   "name": "2A2-(b-TG) stimulant injector"
                 },
                 "count": 1
+              }
+            ]
+          },
+          {
+            "id": "5e6cfc53a3e6886b9e6c39a8",
+            "duration": 4990,
+            "requiredItems": [
+              {
+                "item": {
+                  "id": "5d1b3a5d86f774252167ba22",
+                  "name": "Pile of meds"
+                },
+                "count": 7
+              },
+              {
+                "item": {
+                  "id": "59e3606886f77417674759a5",
+                  "name": "Bottle of saline solution"
+                },
+                "count": 2
+              },
+              {
+                "item": {
+                  "id": "5c0e530286f7747fa1419862",
+                  "name": "Propital regenerative stimulant injector"
+                },
+                "count": 3
+              },
+              {
+                "item": {
+                  "id": "544fb3f34bdc2d03748b456a",
+                  "name": "Morphine injector"
+                },
+                "count": 1
+              }
+            ],
+            "rewardItems": [
+              {
+                "item": {
+                  "id": "5c0e531286f7747fa54205c2",
+                  "name": "SJ1 TGLabs combat stimulant injector"
+                },
+                "count": 5
               }
             ]
           }
@@ -1079,70 +1079,6 @@
             ]
           },
           {
-            "id": "600abc08e4022c380a7260a8",
-            "duration": 120000,
-            "requiredItems": [
-              {
-                "item": {
-                  "id": "5af0534a86f7743b6f354284",
-                  "name": "Ophthalmoscope"
-                },
-                "count": 2
-              },
-              {
-                "item": {
-                  "id": "590a391c86f774385a33c404",
-                  "name": "Magnet"
-                },
-                "count": 3
-              },
-              {
-                "item": {
-                  "id": "5c052fb986f7746b2101e909",
-                  "name": "UHF RFID Reader"
-                },
-                "count": 3
-              },
-              {
-                "item": {
-                  "id": "5af0561e86f7745f5f3ad6ac",
-                  "name": "Portable Powerbank"
-                },
-                "count": 3
-              },
-              {
-                "item": {
-                  "id": "590c2e1186f77425357b6124",
-                  "name": "Toolset"
-                },
-                "count": 1
-              },
-              {
-                "item": {
-                  "id": "6389c7750ef44505c87f5996",
-                  "name": "Microcontroller board"
-                },
-                "count": 1
-              },
-              {
-                "item": {
-                  "id": "6389c8fb46b54c634724d847",
-                  "name": "Silicon Optoelectronic Integrated Circuits textbook"
-                },
-                "count": 1
-              }
-            ],
-            "rewardItems": [
-              {
-                "item": {
-                  "id": "5c0530ee86f774697952d952",
-                  "name": "LEDX Skin Transilluminator"
-                },
-                "count": 1
-              }
-            ]
-          },
-          {
             "id": "5d8f614c9ea122564c316462",
             "duration": 6900,
             "requiredItems": [
@@ -1215,6 +1151,70 @@
             ]
           },
           {
+            "id": "600abc08e4022c380a7260a8",
+            "duration": 120000,
+            "requiredItems": [
+              {
+                "item": {
+                  "id": "5af0534a86f7743b6f354284",
+                  "name": "Ophthalmoscope"
+                },
+                "count": 2
+              },
+              {
+                "item": {
+                  "id": "590a391c86f774385a33c404",
+                  "name": "Magnet"
+                },
+                "count": 3
+              },
+              {
+                "item": {
+                  "id": "5c052fb986f7746b2101e909",
+                  "name": "UHF RFID Reader"
+                },
+                "count": 3
+              },
+              {
+                "item": {
+                  "id": "5af0561e86f7745f5f3ad6ac",
+                  "name": "Portable Powerbank"
+                },
+                "count": 3
+              },
+              {
+                "item": {
+                  "id": "590c2e1186f77425357b6124",
+                  "name": "Toolset"
+                },
+                "count": 1
+              },
+              {
+                "item": {
+                  "id": "6389c7750ef44505c87f5996",
+                  "name": "Microcontroller board"
+                },
+                "count": 1
+              },
+              {
+                "item": {
+                  "id": "6389c8fb46b54c634724d847",
+                  "name": "Silicon Optoelectronic Integrated Circuits textbook"
+                },
+                "count": 1
+              }
+            ],
+            "rewardItems": [
+              {
+                "item": {
+                  "id": "5c0530ee86f774697952d952",
+                  "name": "LEDX Skin Transilluminator"
+                },
+                "count": 1
+              }
+            ]
+          },
+          {
             "id": "5ede0053879619077751cff1",
             "duration": 4600,
             "requiredItems": [
@@ -1252,6 +1252,49 @@
                 "item": {
                   "id": "5d02797c86f774203f38e30a",
                   "name": "Surv12 field surgical kit"
+                },
+                "count": 1
+              }
+            ]
+          },
+          {
+            "id": "68f1113b58cb1bc9000d2f8b",
+            "duration": 6720,
+            "requiredItems": [
+              {
+                "item": {
+                  "id": "5e8488fa988a8701445df1e4",
+                  "name": "CALOK-B hemostatic applicator"
+                },
+                "count": 1
+              },
+              {
+                "item": {
+                  "id": "590c657e86f77412b013051d",
+                  "name": "Grizzly medical kit"
+                },
+                "count": 1
+              },
+              {
+                "item": {
+                  "id": "5d1b3a5d86f774252167ba22",
+                  "name": "Pile of meds"
+                },
+                "count": 2
+              },
+              {
+                "item": {
+                  "id": "5d1b39a386f774252339976f",
+                  "name": "Silicone tube"
+                },
+                "count": 1
+              }
+            ],
+            "rewardItems": [
+              {
+                "item": {
+                  "id": "5c0e533786f7747fa23f4d47",
+                  "name": "Zagustin hemostatic drug injector"
                 },
                 "count": 1
               }
@@ -1302,49 +1345,6 @@
                 "item": {
                   "id": "637b6251104668754b72f8f9",
                   "name": "Perfotoran (Blue Blood) stimulant injector"
-                },
-                "count": 1
-              }
-            ]
-          },
-          {
-            "id": "68f1113b58cb1bc9000d2f8b",
-            "duration": 6720,
-            "requiredItems": [
-              {
-                "item": {
-                  "id": "5e8488fa988a8701445df1e4",
-                  "name": "CALOK-B hemostatic applicator"
-                },
-                "count": 1
-              },
-              {
-                "item": {
-                  "id": "590c657e86f77412b013051d",
-                  "name": "Grizzly medical kit"
-                },
-                "count": 1
-              },
-              {
-                "item": {
-                  "id": "5d1b3a5d86f774252167ba22",
-                  "name": "Pile of meds"
-                },
-                "count": 2
-              },
-              {
-                "item": {
-                  "id": "5d1b39a386f774252339976f",
-                  "name": "Silicone tube"
-                },
-                "count": 1
-              }
-            ],
-            "rewardItems": [
-              {
-                "item": {
-                  "id": "5c0e533786f7747fa23f4d47",
-                  "name": "Zagustin hemostatic drug injector"
                 },
                 "count": 1
               }
@@ -1453,78 +1453,6 @@
             ]
           },
           {
-            "id": "61c77cc6fcc1673f08540e9b",
-            "duration": 4000,
-            "requiredItems": [
-              {
-                "item": {
-                  "id": "5448fee04bdc2dbc018b4567",
-                  "name": "Bottle of water (0.6L)"
-                },
-                "count": 1
-              },
-              {
-                "item": {
-                  "id": "5e2af29386f7746d4159f077",
-                  "name": "KEKTAPE duct tape"
-                },
-                "count": 1
-              },
-              {
-                "item": {
-                  "id": "5d1b39a386f774252339976f",
-                  "name": "Silicone tube"
-                },
-                "count": 1
-              }
-            ],
-            "rewardItems": [
-              {
-                "item": {
-                  "id": "60098b1705871270cd5352a1",
-                  "name": "Emergency Water Ration"
-                },
-                "count": 2
-              }
-            ]
-          },
-          {
-            "id": "68f207d400ca7e22d3081a07",
-            "duration": 2400,
-            "requiredItems": [
-              {
-                "item": {
-                  "id": "57347da92459774491567cf5",
-                  "name": "Can of beef stew (Large)"
-                },
-                "count": 1
-              },
-              {
-                "item": {
-                  "id": "5448ff904bdc2d6f028b456e",
-                  "name": "Army crackers"
-                },
-                "count": 2
-              },
-              {
-                "item": {
-                  "id": "544fb6cc4bdc2d34748b456e",
-                  "name": "Slickers chocolate bar"
-                },
-                "count": 1
-              }
-            ],
-            "rewardItems": [
-              {
-                "item": {
-                  "id": "590c5f0d86f77413997acfab",
-                  "name": "MRE ration pack"
-                },
-                "count": 2
-              }
-            ]
-          },
-          {
             "id": "5f240f45f4a9420a8c328ee0",
             "duration": 6500,
             "requiredItems": [
@@ -1591,6 +1519,78 @@
                 "item": {
                   "id": "5e8f3423fd7471236e6e3b64",
                   "name": "Bottle of Norvinsky Yadreniy premium kvass (0.6L)"
+                },
+                "count": 2
+              }
+            ]
+          },
+          {
+            "id": "68f207d400ca7e22d3081a07",
+            "duration": 2400,
+            "requiredItems": [
+              {
+                "item": {
+                  "id": "57347da92459774491567cf5",
+                  "name": "Can of beef stew (Large)"
+                },
+                "count": 1
+              },
+              {
+                "item": {
+                  "id": "5448ff904bdc2d6f028b456e",
+                  "name": "Army crackers"
+                },
+                "count": 2
+              },
+              {
+                "item": {
+                  "id": "544fb6cc4bdc2d34748b456e",
+                  "name": "Slickers chocolate bar"
+                },
+                "count": 1
+              }
+            ],
+            "rewardItems": [
+              {
+                "item": {
+                  "id": "590c5f0d86f77413997acfab",
+                  "name": "MRE ration pack"
+                },
+                "count": 2
+              }
+            ]
+          },
+          {
+            "id": "61c77cc6fcc1673f08540e9b",
+            "duration": 4000,
+            "requiredItems": [
+              {
+                "item": {
+                  "id": "5448fee04bdc2dbc018b4567",
+                  "name": "Bottle of water (0.6L)"
+                },
+                "count": 1
+              },
+              {
+                "item": {
+                  "id": "5e2af29386f7746d4159f077",
+                  "name": "KEKTAPE duct tape"
+                },
+                "count": 1
+              },
+              {
+                "item": {
+                  "id": "5d1b39a386f774252339976f",
+                  "name": "Silicone tube"
+                },
+                "count": 1
+              }
+            ],
+            "rewardItems": [
+              {
+                "item": {
+                  "id": "60098b1705871270cd5352a1",
+                  "name": "Emergency Water Ration"
                 },
                 "count": 2
               }
@@ -1777,6 +1777,28 @@
             ]
           },
           {
+            "id": "5de10c50c607752a1f1262c7",
+            "duration": 5000,
+            "requiredItems": [
+              {
+                "item": {
+                  "id": "57505f6224597709a92585a9",
+                  "name": "Alyonka chocolate bar"
+                },
+                "count": 2
+              }
+            ],
+            "rewardItems": [
+              {
+                "item": {
+                  "id": "59e3577886f774176a362503",
+                  "name": "Pack of sugar"
+                },
+                "count": 1
+              }
+            ]
+          },
+          {
             "id": "61c77c830f3639492721e99c",
             "duration": 17500,
             "requiredItems": [
@@ -1814,64 +1836,6 @@
                 "item": {
                   "id": "5c0fa877d174af02a012e1cf",
                   "name": "Aquamari water bottle with filter"
-                },
-                "count": 3
-              }
-            ]
-          },
-          {
-            "id": "5d8a13564ac882218d2085b0",
-            "duration": 4900,
-            "requiredItems": [
-              {
-                "item": {
-                  "id": "59e3577886f774176a362503",
-                  "name": "Pack of sugar"
-                },
-                "count": 1
-              },
-              {
-                "item": {
-                  "id": "575146b724597720a27126d5",
-                  "name": "Pack of milk"
-                },
-                "count": 1
-              }
-            ],
-            "rewardItems": [
-              {
-                "item": {
-                  "id": "5734773724597737fd047c14",
-                  "name": "Can of condensed milk"
-                },
-                "count": 3
-              }
-            ]
-          },
-          {
-            "id": "68f2094c00ca7e22d3081a08",
-            "duration": 9000,
-            "requiredItems": [
-              {
-                "item": {
-                  "id": "57347d7224597744596b4e72",
-                  "name": "Can of beef stew (Small)"
-                },
-                "count": 4
-              },
-              {
-                "item": {
-                  "id": "5751487e245977207e26a315",
-                  "name": "Emelya rye croutons"
-                },
-                "count": 2
-              }
-            ],
-            "rewardItems": [
-              {
-                "item": {
-                  "id": "57347da92459774491567cf5",
-                  "name": "Can of beef stew (Large)"
                 },
                 "count": 3
               }
@@ -1936,13 +1900,49 @@
             ]
           },
           {
-            "id": "5de10c50c607752a1f1262c7",
-            "duration": 5000,
+            "id": "5d8a13564ac882218d2085b0",
+            "duration": 4900,
             "requiredItems": [
               {
                 "item": {
-                  "id": "57505f6224597709a92585a9",
-                  "name": "Alyonka chocolate bar"
+                  "id": "59e3577886f774176a362503",
+                  "name": "Pack of sugar"
+                },
+                "count": 1
+              },
+              {
+                "item": {
+                  "id": "575146b724597720a27126d5",
+                  "name": "Pack of milk"
+                },
+                "count": 1
+              }
+            ],
+            "rewardItems": [
+              {
+                "item": {
+                  "id": "5734773724597737fd047c14",
+                  "name": "Can of condensed milk"
+                },
+                "count": 3
+              }
+            ]
+          },
+          {
+            "id": "68f2094c00ca7e22d3081a08",
+            "duration": 9000,
+            "requiredItems": [
+              {
+                "item": {
+                  "id": "57347d7224597744596b4e72",
+                  "name": "Can of beef stew (Small)"
+                },
+                "count": 4
+              },
+              {
+                "item": {
+                  "id": "5751487e245977207e26a315",
+                  "name": "Emelya rye croutons"
                 },
                 "count": 2
               }
@@ -1950,10 +1950,10 @@
             "rewardItems": [
               {
                 "item": {
-                  "id": "59e3577886f774176a362503",
-                  "name": "Pack of sugar"
+                  "id": "57347da92459774491567cf5",
+                  "name": "Can of beef stew (Large)"
                 },
-                "count": 1
+                "count": 3
               }
             ]
           }
@@ -3551,35 +3551,6 @@
         ],
         "crafts": [
           {
-            "id": "67f4ec82690e0a541a021d3d",
-            "duration": 1800,
-            "requiredItems": [
-              {
-                "item": {
-                  "id": "57513f9324597720a7128161",
-                  "name": "Pack of Grand juice"
-                },
-                "count": 1
-              },
-              {
-                "item": {
-                  "id": "5d1b39a386f774252339976f",
-                  "name": "Silicone tube"
-                },
-                "count": 1
-              }
-            ],
-            "rewardItems": [
-              {
-                "item": {
-                  "id": "60098b1705871270cd5352a1",
-                  "name": "Emergency Water Ration"
-                },
-                "count": 2
-              }
-            ]
-          },
-          {
             "id": "67f4ec521d41954d4f09a9c8",
             "duration": 3600,
             "requiredItems": [
@@ -3605,6 +3576,35 @@
                   "name": "Aquamari water bottle with filter"
                 },
                 "count": 5
+              }
+            ]
+          },
+          {
+            "id": "67f4ec82690e0a541a021d3d",
+            "duration": 1800,
+            "requiredItems": [
+              {
+                "item": {
+                  "id": "57513f9324597720a7128161",
+                  "name": "Pack of Grand juice"
+                },
+                "count": 1
+              },
+              {
+                "item": {
+                  "id": "5d1b39a386f774252339976f",
+                  "name": "Silicone tube"
+                },
+                "count": 1
+              }
+            ],
+            "rewardItems": [
+              {
+                "item": {
+                  "id": "60098b1705871270cd5352a1",
+                  "name": "Emergency Water Ration"
+                },
+                "count": 2
               }
             ]
           }
@@ -3983,35 +3983,6 @@
         ],
         "crafts": [
           {
-            "id": "67caf5c5bfe0242ab1032966",
-            "duration": 60,
-            "requiredItems": [
-              {
-                "item": {
-                  "id": "5d1b317c86f7742523398392",
-                  "name": "Hand drill"
-                },
-                "count": 1
-              },
-              {
-                "item": {
-                  "id": "67cad1ec19b006e9e50f44d6",
-                  "name": "Locked equipment crate (BattlePass 0)"
-                },
-                "count": 1
-              }
-            ],
-            "rewardItems": [
-              {
-                "item": {
-                  "id": "67cad3226bf74131800752b7",
-                  "name": "Unlocked equipment crate (BattlePass 0)"
-                },
-                "count": 1
-              }
-            ]
-          },
-          {
             "id": "603cf3094bb658618458e010",
             "duration": 1500,
             "requiredItems": [
@@ -4048,24 +4019,31 @@
             ]
           },
           {
-            "id": "5dd1126571e3fd3f634b1c8b",
-            "duration": 7100,
+            "id": "67caf5c5bfe0242ab1032966",
+            "duration": 60,
             "requiredItems": [
               {
                 "item": {
-                  "id": "59e36c6f86f774176c10a2a7",
-                  "name": "Power cord"
+                  "id": "5d1b317c86f7742523398392",
+                  "name": "Hand drill"
                 },
-                "count": 2
+                "count": 1
+              },
+              {
+                "item": {
+                  "id": "67cad1ec19b006e9e50f44d6",
+                  "name": "Locked equipment crate (BattlePass 0)"
+                },
+                "count": 1
               }
             ],
             "rewardItems": [
               {
                 "item": {
-                  "id": "5c06779c86f77426e00dd782",
-                  "name": "Bundle of wires"
+                  "id": "67cad3226bf74131800752b7",
+                  "name": "Unlocked equipment crate (BattlePass 0)"
                 },
-                "count": 8
+                "count": 1
               }
             ]
           },
@@ -4178,7 +4156,108 @@
             ]
           },
           {
-            "id": "66575197464c4b4ba4671004",
+            "id": "5dd1126571e3fd3f634b1c8b",
+            "duration": 7100,
+            "requiredItems": [
+              {
+                "item": {
+                  "id": "59e36c6f86f774176c10a2a7",
+                  "name": "Power cord"
+                },
+                "count": 2
+              }
+            ],
+            "rewardItems": [
+              {
+                "item": {
+                  "id": "5c06779c86f77426e00dd782",
+                  "name": "Bundle of wires"
+                },
+                "count": 8
+              }
+            ]
+          },
+          {
+            "id": "600a98d076fc4b1877509ead",
+            "duration": 4900,
+            "requiredItems": [
+              {
+                "item": {
+                  "id": "5d1c819a86f774771b0acd6c",
+                  "name": "Weapon parts"
+                },
+                "count": 1
+              },
+              {
+                "item": {
+                  "id": "5648b0744bdc2d363b8b4578",
+                  "name": "AK-74 wooden handguard"
+                },
+                "count": 1
+              },
+              {
+                "item": {
+                  "id": "5649b1c04bdc2d16268b457c",
+                  "name": "AK-74 wooden stock"
+                },
+                "count": 1
+              },
+              {
+                "item": {
+                  "id": "590c2b4386f77425357b6123",
+                  "name": "Pliers"
+                },
+                "count": 1
+              },
+              {
+                "item": {
+                  "id": "590c2d8786f774245b1f03f3",
+                  "name": "Screwdriver"
+                },
+                "count": 1
+              }
+            ],
+            "rewardItems": [
+              {
+                "item": {
+                  "id": "5841474424597759ba49be91",
+                  "name": "Kalashnikov AK-74N 5.45x39 assault rifle Default"
+                },
+                "count": 1
+              }
+            ]
+          },
+          {
+            "id": "6002e26ac6b84d04cc62045e",
+            "duration": 2600,
+            "requiredItems": [
+              {
+                "item": {
+                  "id": "590a386e86f77429692b27ab",
+                  "name": "Damaged hard drive"
+                },
+                "count": 1
+              },
+              {
+                "item": {
+                  "id": "590c2d8786f774245b1f03f3",
+                  "name": "Screwdriver"
+                },
+                "count": 1
+              }
+            ],
+            "rewardItems": [
+              {
+                "item": {
+                  "id": "590a391c86f774385a33c404",
+                  "name": "Magnet"
+                },
+                "count": 1
+              }
+            ]
+          },
+          {
+            "id": "6666d7ea0b734650a91d0a42",
             "duration": 300,
             "requiredItems": [
               {
@@ -4204,8 +4283,8 @@
               },
               {
                 "item": {
-                  "id": "66572b3f6a723f7f005a066c",
-                  "name": "Locked weapon crate (Rare)"
+                  "id": "66572bb3ac60f009f270d1df",
+                  "name": "Locked valuables crate (Rare)"
                 },
                 "count": 1
               }
@@ -4213,10 +4292,198 @@
             "rewardItems": [
               {
                 "item": {
-                  "id": "665732e7ac60f009f270d1ef",
-                  "name": "Unlocked weapon crate (Rare)"
+                  "id": "66573310a1657263d816a139",
+                  "name": "Unlocked valuables crate (Rare)"
                 },
                 "count": 1
+              }
+            ]
+          },
+          {
+            "id": "68f68abd75ecb35e20030e85",
+            "duration": 600,
+            "requiredItems": [
+              {
+                "item": {
+                  "id": "59faff1d86f7746c51718c9c",
+                  "name": "Physical Bitcoin"
+                },
+                "count": 1
+              },
+              {
+                "item": {
+                  "id": "68f244ae22c8979ee308f4d8",
+                  "name": "NKVD Finka knife"
+                },
+                "count": 1
+              }
+            ],
+            "rewardItems": [
+              {
+                "item": {
+                  "id": "68f11adfcd0babab2c0fb003",
+                  "name": "Left half of a Physical Bitcoin"
+                },
+                "count": 1
+              }
+            ]
+          },
+          {
+            "id": "5ffcac4e1285295b7441ee01",
+            "duration": 2900,
+            "requiredItems": [
+              {
+                "item": {
+                  "id": "590a3efd86f77437d351a25b",
+                  "name": "Gas analyzer"
+                },
+                "count": 1
+              },
+              {
+                "item": {
+                  "id": "590c2d8786f774245b1f03f3",
+                  "name": "Screwdriver"
+                },
+                "count": 1
+              }
+            ],
+            "rewardItems": [
+              {
+                "item": {
+                  "id": "590a3b0486f7743954552bdb",
+                  "name": "Printed circuit board"
+                },
+                "count": 2
+              }
+            ]
+          },
+          {
+            "id": "67c9d447b53b0fcf1d0bb0ab",
+            "duration": 60,
+            "requiredItems": [
+              {
+                "item": {
+                  "id": "5d1b317c86f7742523398392",
+                  "name": "Hand drill"
+                },
+                "count": 1
+              },
+              {
+                "item": {
+                  "id": "66572bb3ac60f009f270d1df",
+                  "name": "Locked valuables crate (Rare)"
+                },
+                "count": 1
+              }
+            ],
+            "rewardItems": [
+              {
+                "item": {
+                  "id": "66573310a1657263d816a139",
+                  "name": "Unlocked valuables crate (Rare)"
+                },
+                "count": 1
+              }
+            ]
+          },
+          {
+            "id": "5de950a845b5d67bad6e9ef7",
+            "duration": 2100,
+            "requiredItems": [
+              {
+                "item": {
+                  "id": "57347cd0245977445a2d6ff1",
+                  "name": "T-Shaped plug"
+                },
+                "count": 2
+              },
+              {
+                "item": {
+                  "id": "5c06779c86f77426e00dd782",
+                  "name": "Bundle of wires"
+                },
+                "count": 2
+              },
+              {
+                "item": {
+                  "id": "5734795124597738002c6176",
+                  "name": "Insulating tape"
+                },
+                "count": 1
+              }
+            ],
+            "rewardItems": [
+              {
+                "item": {
+                  "id": "59e36c6f86f774176c10a2a7",
+                  "name": "Power cord"
+                },
+                "count": 2
+              }
+            ]
+          },
+          {
+            "id": "5ffcad24f3fdc212a91d5536",
+            "duration": 5250,
+            "requiredItems": [
+              {
+                "item": {
+                  "id": "590c31c586f774245e3141b2",
+                  "name": "Pack of nails"
+                },
+                "count": 1
+              },
+              {
+                "item": {
+                  "id": "5d6fc87386f77449db3db94e",
+                  "name": "Gunpowder \"Hawk\""
+                },
+                "count": 1
+              },
+              {
+                "item": {
+                  "id": "544fb5454bdc2df8738b456a",
+                  "name": "Leatherman Multitool"
+                },
+                "count": 1
+              }
+            ],
+            "rewardItems": [
+              {
+                "item": {
+                  "id": "64b8ee384b75259c590fa89b",
+                  "name": "12/70 Piranha"
+                },
+                "count": 120
+              }
+            ]
+          },
+          {
+            "id": "5dd3c5487058311d4b267186",
+            "duration": 900,
+            "requiredItems": [
+              {
+                "item": {
+                  "id": "56dff216d2720bbd668b4568",
+                  "name": "5.45x39mm HP"
+                },
+                "count": 120
+              },
+              {
+                "item": {
+                  "id": "590c2b4386f77425357b6123",
+                  "name": "Pliers"
+                },
+                "count": 1
+              }
+            ],
+            "rewardItems": [
+              {
+                "item": {
+                  "id": "590c5a7286f7747884343aea",
+                  "name": "Gunpowder \"Kite\""
+                },
+                "count": 2
               }
             ]
           },
@@ -4690,317 +4957,6 @@
             ]
           },
           {
-            "id": "68f68abd75ecb35e20030e85",
-            "duration": 600,
-            "requiredItems": [
-              {
-                "item": {
-                  "id": "59faff1d86f7746c51718c9c",
-                  "name": "Physical Bitcoin"
-                },
-                "count": 1
-              },
-              {
-                "item": {
-                  "id": "68f244ae22c8979ee308f4d8",
-                  "name": "NKVD Finka knife"
-                },
-                "count": 1
-              }
-            ],
-            "rewardItems": [
-              {
-                "item": {
-                  "id": "68f11adfcd0babab2c0fb003",
-                  "name": "Left half of a Physical Bitcoin"
-                },
-                "count": 1
-              }
-            ]
-          },
-          {
-            "id": "5ffcac4e1285295b7441ee01",
-            "duration": 2900,
-            "requiredItems": [
-              {
-                "item": {
-                  "id": "590a3efd86f77437d351a25b",
-                  "name": "Gas analyzer"
-                },
-                "count": 1
-              },
-              {
-                "item": {
-                  "id": "590c2d8786f774245b1f03f3",
-                  "name": "Screwdriver"
-                },
-                "count": 1
-              }
-            ],
-            "rewardItems": [
-              {
-                "item": {
-                  "id": "590a3b0486f7743954552bdb",
-                  "name": "Printed circuit board"
-                },
-                "count": 2
-              }
-            ]
-          },
-          {
-            "id": "67c9d447b53b0fcf1d0bb0ab",
-            "duration": 60,
-            "requiredItems": [
-              {
-                "item": {
-                  "id": "5d1b317c86f7742523398392",
-                  "name": "Hand drill"
-                },
-                "count": 1
-              },
-              {
-                "item": {
-                  "id": "66572bb3ac60f009f270d1df",
-                  "name": "Locked valuables crate (Rare)"
-                },
-                "count": 1
-              }
-            ],
-            "rewardItems": [
-              {
-                "item": {
-                  "id": "66573310a1657263d816a139",
-                  "name": "Unlocked valuables crate (Rare)"
-                },
-                "count": 1
-              }
-            ]
-          },
-          {
-            "id": "5de950a845b5d67bad6e9ef7",
-            "duration": 2100,
-            "requiredItems": [
-              {
-                "item": {
-                  "id": "57347cd0245977445a2d6ff1",
-                  "name": "T-Shaped plug"
-                },
-                "count": 2
-              },
-              {
-                "item": {
-                  "id": "5c06779c86f77426e00dd782",
-                  "name": "Bundle of wires"
-                },
-                "count": 2
-              },
-              {
-                "item": {
-                  "id": "5734795124597738002c6176",
-                  "name": "Insulating tape"
-                },
-                "count": 1
-              }
-            ],
-            "rewardItems": [
-              {
-                "item": {
-                  "id": "59e36c6f86f774176c10a2a7",
-                  "name": "Power cord"
-                },
-                "count": 2
-              }
-            ]
-          },
-          {
-            "id": "5ffcad24f3fdc212a91d5536",
-            "duration": 5250,
-            "requiredItems": [
-              {
-                "item": {
-                  "id": "590c31c586f774245e3141b2",
-                  "name": "Pack of nails"
-                },
-                "count": 1
-              },
-              {
-                "item": {
-                  "id": "5d6fc87386f77449db3db94e",
-                  "name": "Gunpowder \"Hawk\""
-                },
-                "count": 1
-              },
-              {
-                "item": {
-                  "id": "544fb5454bdc2df8738b456a",
-                  "name": "Leatherman Multitool"
-                },
-                "count": 1
-              }
-            ],
-            "rewardItems": [
-              {
-                "item": {
-                  "id": "64b8ee384b75259c590fa89b",
-                  "name": "12/70 Piranha"
-                },
-                "count": 120
-              }
-            ]
-          },
-          {
-            "id": "5dd3c5487058311d4b267186",
-            "duration": 900,
-            "requiredItems": [
-              {
-                "item": {
-                  "id": "56dff216d2720bbd668b4568",
-                  "name": "5.45x39mm HP"
-                },
-                "count": 120
-              },
-              {
-                "item": {
-                  "id": "590c2b4386f77425357b6123",
-                  "name": "Pliers"
-                },
-                "count": 1
-              }
-            ],
-            "rewardItems": [
-              {
-                "item": {
-                  "id": "590c5a7286f7747884343aea",
-                  "name": "Gunpowder \"Kite\""
-                },
-                "count": 2
-              }
-            ]
-          },
-          {
-            "id": "68f0e32460d1d6ebba02de4a",
-            "duration": 3600,
-            "requiredItems": [
-              {
-                "item": {
-                  "id": "5c06779c86f77426e00dd782",
-                  "name": "Bundle of wires"
-                },
-                "count": 2
-              },
-              {
-                "item": {
-                  "id": "590c31c586f774245e3141b2",
-                  "name": "Pack of nails"
-                },
-                "count": 1
-              },
-              {
-                "item": {
-                  "id": "61bf7b6302b3924be92fa8c3",
-                  "name": "Metal spare parts"
-                },
-                "count": 1
-              }
-            ],
-            "rewardItems": [
-              {
-                "item": {
-                  "id": "5d1b392c86f77425243e98fe",
-                  "name": "Light bulb"
-                },
-                "count": 4
-              }
-            ]
-          },
-          {
-            "id": "5dd3c9c8449c0c31795b0f0b",
-            "duration": 2150,
-            "requiredItems": [
-              {
-                "item": {
-                  "id": "57347b8b24597737dd42e192",
-                  "name": "Classic matches"
-                },
-                "count": 1
-              },
-              {
-                "item": {
-                  "id": "5d6fc78386f77449d825f9dc",
-                  "name": "Gunpowder \"Eagle\""
-                },
-                "count": 1
-              }
-            ],
-            "rewardItems": [
-              {
-                "item": {
-                  "id": "5d6fc87386f77449db3db94e",
-                  "name": "Gunpowder \"Hawk\""
-                },
-                "count": 3
-              }
-            ]
-          },
-          {
-            "id": "5d78f27d115f693ad750d2c6",
-            "duration": 18300,
-            "requiredItems": [
-              {
-                "item": {
-                  "id": "60391b0fb847c71012789415",
-                  "name": "TP-200 TNT brick"
-                },
-                "count": 2
-              },
-              {
-                "item": {
-                  "id": "5e2af51086f7746d3f3c3402",
-                  "name": "UZRGM grenade fuze"
-                },
-                "count": 3
-              }
-            ],
-            "rewardItems": [
-              {
-                "item": {
-                  "id": "5448be9a4bdc2dfd2f8b456a",
-                  "name": "RGD-5 hand grenade"
-                },
-                "count": 6
-              }
-            ]
-          },
-          {
-            "id": "6941307f73dcf473e50be4b7",
-            "duration": 3600,
-            "requiredItems": [
-              {
-                "item": {
-                  "id": "5af0484c86f7740f02001f7f",
-                  "name": "Can of Majaica coffee beans"
-                },
-                "count": 1
-              },
-              {
-                "item": {
-                  "id": "5d63d33b86f7746ea9275524",
-                  "name": "Flat screwdriver"
-                },
-                "count": 1
-              }
-            ],
-            "rewardItems": [
-              {
-                "item": {
-                  "id": "693bfb50d5c25889e701d444",
-                  "name": "Nut can"
-                },
-                "count": 1
-              }
-            ]
-          },
-          {
             "id": "655b505c32b0b1645e6f54c5",
             "duration": 3300,
             "requiredItems": [
@@ -5059,86 +5015,7 @@
             ]
           },
           {
-            "id": "600a98d076fc4b1877509ead",
-            "duration": 4900,
-            "requiredItems": [
-              {
-                "item": {
-                  "id": "5d1c819a86f774771b0acd6c",
-                  "name": "Weapon parts"
-                },
-                "count": 1
-              },
-              {
-                "item": {
-                  "id": "5648b0744bdc2d363b8b4578",
-                  "name": "AK-74 wooden handguard"
-                },
-                "count": 1
-              },
-              {
-                "item": {
-                  "id": "5649b1c04bdc2d16268b457c",
-                  "name": "AK-74 wooden stock"
-                },
-                "count": 1
-              },
-              {
-                "item": {
-                  "id": "590c2b4386f77425357b6123",
-                  "name": "Pliers"
-                },
-                "count": 1
-              },
-              {
-                "item": {
-                  "id": "590c2d8786f774245b1f03f3",
-                  "name": "Screwdriver"
-                },
-                "count": 1
-              }
-            ],
-            "rewardItems": [
-              {
-                "item": {
-                  "id": "5841474424597759ba49be91",
-                  "name": "Kalashnikov AK-74N 5.45x39 assault rifle Default"
-                },
-                "count": 1
-              }
-            ]
-          },
-          {
-            "id": "6002e26ac6b84d04cc62045e",
-            "duration": 2600,
-            "requiredItems": [
-              {
-                "item": {
-                  "id": "590a386e86f77429692b27ab",
-                  "name": "Damaged hard drive"
-                },
-                "count": 1
-              },
-              {
-                "item": {
-                  "id": "590c2d8786f774245b1f03f3",
-                  "name": "Screwdriver"
-                },
-                "count": 1
-              }
-            ],
-            "rewardItems": [
-              {
-                "item": {
-                  "id": "590a391c86f774385a33c404",
-                  "name": "Magnet"
-                },
-                "count": 1
-              }
-            ]
-          },
-          {
-            "id": "6666d7ea0b734650a91d0a42",
+            "id": "66575197464c4b4ba4671004",
             "duration": 300,
             "requiredItems": [
               {
@@ -5164,8 +5041,8 @@
               },
               {
                 "item": {
-                  "id": "66572bb3ac60f009f270d1df",
-                  "name": "Locked valuables crate (Rare)"
+                  "id": "66572b3f6a723f7f005a066c",
+                  "name": "Locked weapon crate (Rare)"
                 },
                 "count": 1
               }
@@ -5173,8 +5050,8 @@
             "rewardItems": [
               {
                 "item": {
-                  "id": "66573310a1657263d816a139",
-                  "name": "Unlocked valuables crate (Rare)"
+                  "id": "665732e7ac60f009f270d1ef",
+                  "name": "Unlocked weapon crate (Rare)"
                 },
                 "count": 1
               }
@@ -5397,6 +5274,71 @@
             ]
           },
           {
+            "id": "68f0e32460d1d6ebba02de4a",
+            "duration": 3600,
+            "requiredItems": [
+              {
+                "item": {
+                  "id": "5c06779c86f77426e00dd782",
+                  "name": "Bundle of wires"
+                },
+                "count": 2
+              },
+              {
+                "item": {
+                  "id": "590c31c586f774245e3141b2",
+                  "name": "Pack of nails"
+                },
+                "count": 1
+              },
+              {
+                "item": {
+                  "id": "61bf7b6302b3924be92fa8c3",
+                  "name": "Metal spare parts"
+                },
+                "count": 1
+              }
+            ],
+            "rewardItems": [
+              {
+                "item": {
+                  "id": "5d1b392c86f77425243e98fe",
+                  "name": "Light bulb"
+                },
+                "count": 4
+              }
+            ]
+          },
+          {
+            "id": "5dd3c9c8449c0c31795b0f0b",
+            "duration": 2150,
+            "requiredItems": [
+              {
+                "item": {
+                  "id": "57347b8b24597737dd42e192",
+                  "name": "Classic matches"
+                },
+                "count": 1
+              },
+              {
+                "item": {
+                  "id": "5d6fc78386f77449d825f9dc",
+                  "name": "Gunpowder \"Eagle\""
+                },
+                "count": 1
+              }
+            ],
+            "rewardItems": [
+              {
+                "item": {
+                  "id": "5d6fc87386f77449db3db94e",
+                  "name": "Gunpowder \"Hawk\""
+                },
+                "count": 3
+              }
+            ]
+          },
+          {
             "id": "68f0e37d1ddd18a6290a7e68",
             "duration": 9000,
             "requiredItems": [
@@ -5523,6 +5465,64 @@
                   "name": "12/70 flechette"
                 },
                 "count": 40
+              }
+            ]
+          },
+          {
+            "id": "5d78f27d115f693ad750d2c6",
+            "duration": 18300,
+            "requiredItems": [
+              {
+                "item": {
+                  "id": "60391b0fb847c71012789415",
+                  "name": "TP-200 TNT brick"
+                },
+                "count": 2
+              },
+              {
+                "item": {
+                  "id": "5e2af51086f7746d3f3c3402",
+                  "name": "UZRGM grenade fuze"
+                },
+                "count": 3
+              }
+            ],
+            "rewardItems": [
+              {
+                "item": {
+                  "id": "5448be9a4bdc2dfd2f8b456a",
+                  "name": "RGD-5 hand grenade"
+                },
+                "count": 6
+              }
+            ]
+          },
+          {
+            "id": "6941307f73dcf473e50be4b7",
+            "duration": 3600,
+            "requiredItems": [
+              {
+                "item": {
+                  "id": "5af0484c86f7740f02001f7f",
+                  "name": "Can of Majaica coffee beans"
+                },
+                "count": 1
+              },
+              {
+                "item": {
+                  "id": "5d63d33b86f7746ea9275524",
+                  "name": "Flat screwdriver"
+                },
+                "count": 1
+              }
+            ],
+            "rewardItems": [
+              {
+                "item": {
+                  "id": "693bfb50d5c25889e701d444",
+                  "name": "Nut can"
+                },
+                "count": 1
               }
             ]
           },
@@ -5780,164 +5780,6 @@
             ]
           },
           {
-            "id": "64b6aefe25251516d768542d",
-            "duration": 4800,
-            "requiredItems": [
-              {
-                "item": {
-                  "id": "62a0a098de7ac8199358053b",
-                  "name": "Awl"
-                },
-                "count": 1
-              },
-              {
-                "item": {
-                  "id": "5e2af51086f7746d3f3c3402",
-                  "name": "UZRGM grenade fuze"
-                },
-                "count": 5
-              },
-              {
-                "item": {
-                  "id": "60391b0fb847c71012789415",
-                  "name": "TP-200 TNT brick"
-                },
-                "count": 1
-              }
-            ],
-            "rewardItems": [
-              {
-                "item": {
-                  "id": "5e32f56fcb6d5863cc5e5ee4",
-                  "name": "VOG-17 Khattabka improvised hand grenade"
-                },
-                "count": 8
-              }
-            ]
-          },
-          {
-            "id": "655b50e7c023e22044165de5",
-            "duration": 5600,
-            "requiredItems": [
-              {
-                "item": {
-                  "id": "64b7bbb74b75259c590fa897",
-                  "name": "9x19mm FMJ M882"
-                },
-                "count": 180
-              },
-              {
-                "item": {
-                  "id": "5d1c774f86f7746d6620f8db",
-                  "name": "Radiator helix"
-                },
-                "count": 1
-              },
-              {
-                "item": {
-                  "id": "5c06779c86f77426e00dd782",
-                  "name": "Bundle of wires"
-                },
-                "count": 1
-              }
-            ],
-            "rewardItems": [
-              {
-                "item": {
-                  "id": "5a3c16fe86f77452b62de32a",
-                  "name": "9x19mm Luger CCI"
-                },
-                "count": 180
-              }
-            ]
-          },
-          {
-            "id": "677d4fdb42cdfce74006f961",
-            "duration": 1887,
-            "requiredItems": [
-              {
-                "item": {
-                  "id": "5d1b309586f77425227d1676",
-                  "name": "Broken LCD"
-                },
-                "count": 1
-              },
-              {
-                "item": {
-                  "id": "5c06782b86f77426df5407d2",
-                  "name": "Capacitors"
-                },
-                "count": 1
-              },
-              {
-                "item": {
-                  "id": "6389c70ca33d8c4cdf4932c6",
-                  "name": "Electronic components"
-                },
-                "count": 1
-              },
-              {
-                "item": {
-                  "id": "590c2e1186f77425357b6124",
-                  "name": "Toolset"
-                },
-                "count": 1
-              }
-            ],
-            "rewardItems": [
-              {
-                "item": {
-                  "id": "5d1b304286f774253763a528",
-                  "name": "Working LCD"
-                },
-                "count": 1
-              }
-            ]
-          },
-          {
-            "id": "603cf23a420e7f487e175d7f",
-            "duration": 7000,
-            "requiredItems": [
-              {
-                "item": {
-                  "id": "57347c77245977448d35f6e2",
-                  "name": "Screw nuts"
-                },
-                "count": 1
-              },
-              {
-                "item": {
-                  "id": "57347c5b245977448d35f6e1",
-                  "name": "Bolts"
-                },
-                "count": 2
-              },
-              {
-                "item": {
-                  "id": "5e2af37686f774755a234b65",
-                  "name": "SurvL Survivor Lighter"
-                },
-                "count": 1
-              },
-              {
-                "item": {
-                  "id": "590c2b4386f77425357b6123",
-                  "name": "Pliers"
-                },
-                "count": 1
-              }
-            ],
-            "rewardItems": [
-              {
-                "item": {
-                  "id": "590a3c0a86f774385a33c450",
-                  "name": "Spark plug"
-                },
-                "count": 1
-              }
-            ]
-          },
-          {
             "id": "655b58a49db22d43ab42b709",
             "duration": 4200,
             "requiredItems": [
@@ -6024,92 +5866,20 @@
             ]
           },
           {
-            "id": "655b457c9db22d43ab42b706",
-            "duration": 6800,
+            "id": "677d4fdb42cdfce74006f961",
+            "duration": 1887,
             "requiredItems": [
               {
                 "item": {
-                  "id": "59e68f6f86f7746c9f75e846",
-                  "name": "5.56x45mm M856"
-                },
-                "count": 120
-              },
-              {
-                "item": {
-                  "id": "590a373286f774287540368b",
-                  "name": "Dry fuel"
+                  "id": "5d1b309586f77425227d1676",
+                  "name": "Broken LCD"
                 },
                 "count": 1
               },
               {
                 "item": {
-                  "id": "5e2af37686f774755a234b65",
-                  "name": "SurvL Survivor Lighter"
-                },
-                "count": 1
-              }
-            ],
-            "rewardItems": [
-              {
-                "item": {
-                  "id": "619636be6db0f2477964e710",
-                  "name": ".300 Blackout M62 Tracer"
-                },
-                "count": 100
-              }
-            ]
-          },
-          {
-            "id": "655b54e7065b076eb02c4b47",
-            "duration": 3400,
-            "requiredItems": [
-              {
-                "item": {
-                  "id": "590c5a7286f7747884343aea",
-                  "name": "Gunpowder \"Kite\""
-                },
-                "count": 1
-              },
-              {
-                "item": {
-                  "id": "5d6fc87386f77449db3db94e",
-                  "name": "Gunpowder \"Hawk\""
-                },
-                "count": 1
-              },
-              {
-                "item": {
-                  "id": "544fb5454bdc2df8738b456a",
-                  "name": "Leatherman Multitool"
-                },
-                "count": 1
-              }
-            ],
-            "rewardItems": [
-              {
-                "item": {
-                  "id": "5cc80f53e4a949000e1ea4f8",
-                  "name": "5.7x28mm L191"
-                },
-                "count": 150
-              }
-            ]
-          },
-          {
-            "id": "5de95c91225b0a76ca0ea0b7",
-            "duration": 4800,
-            "requiredItems": [
-              {
-                "item": {
-                  "id": "5c06779c86f77426e00dd782",
-                  "name": "Bundle of wires"
-                },
-                "count": 2
-              },
-              {
-                "item": {
-                  "id": "590a391c86f774385a33c404",
-                  "name": "Magnet"
+                  "id": "5c06782b86f77426df5407d2",
+                  "name": "Capacitors"
                 },
                 "count": 1
               },
@@ -6122,58 +5892,51 @@
               },
               {
                 "item": {
-                  "id": "5c06782b86f77426df5407d2",
-                  "name": "Capacitors"
+                  "id": "590c2e1186f77425357b6124",
+                  "name": "Toolset"
+                },
+                "count": 1
+              }
+            ],
+            "rewardItems": [
+              {
+                "item": {
+                  "id": "5d1b304286f774253763a528",
+                  "name": "Working LCD"
+                },
+                "count": 1
+              }
+            ]
+          },
+          {
+            "id": "603cf23a420e7f487e175d7f",
+            "duration": 7000,
+            "requiredItems": [
+              {
+                "item": {
+                  "id": "57347c77245977448d35f6e2",
+                  "name": "Screw nuts"
+                },
+                "count": 1
+              },
+              {
+                "item": {
+                  "id": "57347c5b245977448d35f6e1",
+                  "name": "Bolts"
                 },
                 "count": 2
-              }
-            ],
-            "rewardItems": [
+              },
               {
                 "item": {
-                  "id": "5d1b2fa286f77425227d1674",
-                  "name": "Electric motor"
-                },
-                "count": 1
-              }
-            ]
-          },
-          {
-            "id": "5ffcacbf24fa2e741e767234",
-            "duration": 5500,
-            "requiredItems": [
-              {
-                "item": {
-                  "id": "590a3efd86f77437d351a25b",
-                  "name": "Gas analyzer"
+                  "id": "5e2af37686f774755a234b65",
+                  "name": "SurvL Survivor Lighter"
                 },
                 "count": 1
               },
               {
                 "item": {
-                  "id": "5c06779c86f77426e00dd782",
-                  "name": "Bundle of wires"
-                },
-                "count": 1
-              },
-              {
-                "item": {
-                  "id": "5c06782b86f77426df5407d2",
-                  "name": "Capacitors"
-                },
-                "count": 1
-              },
-              {
-                "item": {
-                  "id": "5672cb124bdc2d1a0f8b4568",
-                  "name": "AA Battery"
-                },
-                "count": 1
-              },
-              {
-                "item": {
-                  "id": "590c2e1186f77425357b6124",
-                  "name": "Toolset"
+                  "id": "590c2b4386f77425357b6123",
+                  "name": "Pliers"
                 },
                 "count": 1
               }
@@ -6181,51 +5944,8 @@
             "rewardItems": [
               {
                 "item": {
-                  "id": "5672cb724bdc2dc2088b456b",
-                  "name": "Geiger-Muller counter"
-                },
-                "count": 1
-              }
-            ]
-          },
-          {
-            "id": "5d78dbfb65aebb016d20b6f3",
-            "duration": 5000,
-            "requiredItems": [
-              {
-                "item": {
-                  "id": "5d1c819a86f774771b0acd6c",
-                  "name": "Weapon parts"
-                },
-                "count": 1
-              },
-              {
-                "item": {
-                  "id": "5648b1504bdc2d9d488b4584",
-                  "name": "AK-74M polymer handguard"
-                },
-                "count": 1
-              },
-              {
-                "item": {
-                  "id": "5ac50c185acfc400163398d4",
-                  "name": "AK-74M polymer stock"
-                },
-                "count": 1
-              },
-              {
-                "item": {
-                  "id": "590c2e1186f77425357b6124",
-                  "name": "Toolset"
-                },
-                "count": 1
-              }
-            ],
-            "rewardItems": [
-              {
-                "item": {
-                  "id": "5acf7db286f7743a9c7092e3",
-                  "name": "Kalashnikov AK-74M 5.45x39 assault rifle Default"
+                  "id": "590a3c0a86f774385a33c450",
+                  "name": "Spark plug"
                 },
                 "count": 1
               }
@@ -6319,6 +6039,78 @@
             ]
           },
           {
+            "id": "64b6aefe25251516d768542d",
+            "duration": 4800,
+            "requiredItems": [
+              {
+                "item": {
+                  "id": "62a0a098de7ac8199358053b",
+                  "name": "Awl"
+                },
+                "count": 1
+              },
+              {
+                "item": {
+                  "id": "5e2af51086f7746d3f3c3402",
+                  "name": "UZRGM grenade fuze"
+                },
+                "count": 5
+              },
+              {
+                "item": {
+                  "id": "60391b0fb847c71012789415",
+                  "name": "TP-200 TNT brick"
+                },
+                "count": 1
+              }
+            ],
+            "rewardItems": [
+              {
+                "item": {
+                  "id": "5e32f56fcb6d5863cc5e5ee4",
+                  "name": "VOG-17 Khattabka improvised hand grenade"
+                },
+                "count": 8
+              }
+            ]
+          },
+          {
+            "id": "655b50e7c023e22044165de5",
+            "duration": 5600,
+            "requiredItems": [
+              {
+                "item": {
+                  "id": "64b7bbb74b75259c590fa897",
+                  "name": "9x19mm FMJ M882"
+                },
+                "count": 180
+              },
+              {
+                "item": {
+                  "id": "5d1c774f86f7746d6620f8db",
+                  "name": "Radiator helix"
+                },
+                "count": 1
+              },
+              {
+                "item": {
+                  "id": "5c06779c86f77426e00dd782",
+                  "name": "Bundle of wires"
+                },
+                "count": 1
+              }
+            ],
+            "rewardItems": [
+              {
+                "item": {
+                  "id": "5a3c16fe86f77452b62de32a",
+                  "name": "9x19mm Luger CCI"
+                },
+                "count": 180
+              }
+            ]
+          },
+          {
             "id": "5e66408286f7747b2c2d7786",
             "duration": 6000,
             "requiredItems": [
@@ -6351,6 +6143,78 @@
                   "name": "VOG-25 Khattabka improvised hand grenade"
                 },
                 "count": 5
+              }
+            ]
+          },
+          {
+            "id": "655b457c9db22d43ab42b706",
+            "duration": 6800,
+            "requiredItems": [
+              {
+                "item": {
+                  "id": "59e68f6f86f7746c9f75e846",
+                  "name": "5.56x45mm M856"
+                },
+                "count": 120
+              },
+              {
+                "item": {
+                  "id": "590a373286f774287540368b",
+                  "name": "Dry fuel"
+                },
+                "count": 1
+              },
+              {
+                "item": {
+                  "id": "5e2af37686f774755a234b65",
+                  "name": "SurvL Survivor Lighter"
+                },
+                "count": 1
+              }
+            ],
+            "rewardItems": [
+              {
+                "item": {
+                  "id": "619636be6db0f2477964e710",
+                  "name": ".300 Blackout M62 Tracer"
+                },
+                "count": 100
+              }
+            ]
+          },
+          {
+            "id": "655b54e7065b076eb02c4b47",
+            "duration": 3400,
+            "requiredItems": [
+              {
+                "item": {
+                  "id": "590c5a7286f7747884343aea",
+                  "name": "Gunpowder \"Kite\""
+                },
+                "count": 1
+              },
+              {
+                "item": {
+                  "id": "5d6fc87386f77449db3db94e",
+                  "name": "Gunpowder \"Hawk\""
+                },
+                "count": 1
+              },
+              {
+                "item": {
+                  "id": "544fb5454bdc2df8738b456a",
+                  "name": "Leatherman Multitool"
+                },
+                "count": 1
+              }
+            ],
+            "rewardItems": [
+              {
+                "item": {
+                  "id": "5cc80f53e4a949000e1ea4f8",
+                  "name": "5.7x28mm L191"
+                },
+                "count": 150
               }
             ]
           },
@@ -6557,6 +6421,142 @@
                 "item": {
                   "id": "619cbfeb6b8a1b37a54eebfa",
                   "name": "Bulbex cable cutter"
+                },
+                "count": 1
+              }
+            ]
+          },
+          {
+            "id": "5de95c91225b0a76ca0ea0b7",
+            "duration": 4800,
+            "requiredItems": [
+              {
+                "item": {
+                  "id": "5c06779c86f77426e00dd782",
+                  "name": "Bundle of wires"
+                },
+                "count": 2
+              },
+              {
+                "item": {
+                  "id": "590a391c86f774385a33c404",
+                  "name": "Magnet"
+                },
+                "count": 1
+              },
+              {
+                "item": {
+                  "id": "6389c70ca33d8c4cdf4932c6",
+                  "name": "Electronic components"
+                },
+                "count": 1
+              },
+              {
+                "item": {
+                  "id": "5c06782b86f77426df5407d2",
+                  "name": "Capacitors"
+                },
+                "count": 2
+              }
+            ],
+            "rewardItems": [
+              {
+                "item": {
+                  "id": "5d1b2fa286f77425227d1674",
+                  "name": "Electric motor"
+                },
+                "count": 1
+              }
+            ]
+          },
+          {
+            "id": "5ffcacbf24fa2e741e767234",
+            "duration": 5500,
+            "requiredItems": [
+              {
+                "item": {
+                  "id": "590a3efd86f77437d351a25b",
+                  "name": "Gas analyzer"
+                },
+                "count": 1
+              },
+              {
+                "item": {
+                  "id": "5c06779c86f77426e00dd782",
+                  "name": "Bundle of wires"
+                },
+                "count": 1
+              },
+              {
+                "item": {
+                  "id": "5c06782b86f77426df5407d2",
+                  "name": "Capacitors"
+                },
+                "count": 1
+              },
+              {
+                "item": {
+                  "id": "5672cb124bdc2d1a0f8b4568",
+                  "name": "AA Battery"
+                },
+                "count": 1
+              },
+              {
+                "item": {
+                  "id": "590c2e1186f77425357b6124",
+                  "name": "Toolset"
+                },
+                "count": 1
+              }
+            ],
+            "rewardItems": [
+              {
+                "item": {
+                  "id": "5672cb724bdc2dc2088b456b",
+                  "name": "Geiger-Muller counter"
+                },
+                "count": 1
+              }
+            ]
+          },
+          {
+            "id": "5d78dbfb65aebb016d20b6f3",
+            "duration": 5000,
+            "requiredItems": [
+              {
+                "item": {
+                  "id": "5d1c819a86f774771b0acd6c",
+                  "name": "Weapon parts"
+                },
+                "count": 1
+              },
+              {
+                "item": {
+                  "id": "5648b1504bdc2d9d488b4584",
+                  "name": "AK-74M polymer handguard"
+                },
+                "count": 1
+              },
+              {
+                "item": {
+                  "id": "5ac50c185acfc400163398d4",
+                  "name": "AK-74M polymer stock"
+                },
+                "count": 1
+              },
+              {
+                "item": {
+                  "id": "590c2e1186f77425357b6124",
+                  "name": "Toolset"
+                },
+                "count": 1
+              }
+            ],
+            "rewardItems": [
+              {
+                "item": {
+                  "id": "5acf7db286f7743a9c7092e3",
+                  "name": "Kalashnikov AK-74M 5.45x39 assault rifle Default"
                 },
                 "count": 1
               }
@@ -6950,9 +6950,66 @@
             ]
           },
           {
-            "id": "600a9fb7ba91d953182d6a1c",
-            "duration": 39000,
+            "id": "6913722bd4c6de533e0c774a",
+            "duration": 1500,
             "requiredItems": [
+              {
+                "item": {
+                  "id": "591094e086f7747caa7bb2ef",
+                  "name": "Body armor repair kit"
+                },
+                "count": 1
+              },
+              {
+                "item": {
+                  "id": "5e2af41e86f774755a234b67",
+                  "name": "Cordura polyamide fabric"
+                },
+                "count": 1
+              },
+              {
+                "item": {
+                  "id": "5e2af4a786f7746d3f3c3400",
+                  "name": "Ripstop fabric"
+                },
+                "count": 1
+              },
+              {
+                "item": {
+                  "id": "5e2af47786f7746d404f3aaa",
+                  "name": "Fleece fabric"
+                },
+                "count": 1
+              },
+              {
+                "item": {
+                  "id": "61bf83814088ec1a363d7097",
+                  "name": "Sewing kit"
+                },
+                "count": 1
+              }
+            ],
+            "rewardItems": [
+              {
+                "item": {
+                  "id": "591094e086f7747caa7bb2ef",
+                  "name": "Body armor repair kit"
+                },
+                "count": 1
+              }
+            ]
+          },
+          {
+            "id": "6558d7894626375d6735670c",
+            "duration": 15000,
+            "requiredItems": [
+              {
+                "item": {
+                  "id": "5fc382c1016cce60e8341b20",
+                  "name": ".338 Lapua Magnum UCW"
+                },
+                "count": 50
+              },
               {
                 "item": {
                   "id": "5d6fc87386f77449db3db94e",
@@ -6962,29 +7019,8 @@
               },
               {
                 "item": {
-                  "id": "5d6fc78386f77449d825f9dc",
-                  "name": "Gunpowder \"Eagle\""
-                },
-                "count": 1
-              },
-              {
-                "item": {
-                  "id": "60391b0fb847c71012789415",
-                  "name": "TP-200 TNT brick"
-                },
-                "count": 2
-              },
-              {
-                "item": {
-                  "id": "60391a8b3364dc22b04d0ce5",
-                  "name": "Can of thermite"
-                },
-                "count": 1
-              },
-              {
-                "item": {
-                  "id": "5af04b6486f774195a3ebb49",
-                  "name": "Pliers Elite"
+                  "id": "544fb5454bdc2df8738b456a",
+                  "name": "Leatherman Multitool"
                 },
                 "count": 1
               }
@@ -6992,10 +7028,10 @@
             "rewardItems": [
               {
                 "item": {
-                  "id": "5d0379a886f77420407aa271",
-                  "name": "OFZ 30x165mm shell"
+                  "id": "5fc275cf85fd526b824a571a",
+                  "name": ".338 Lapua Magnum FMJ"
                 },
-                "count": 2
+                "count": 30
               }
             ]
           },
@@ -7082,6 +7118,142 @@
                   "name": "7.62x51mm M80A1"
                 },
                 "count": 40
+              }
+            ]
+          },
+          {
+            "id": "600a9fb7ba91d953182d6a1c",
+            "duration": 39000,
+            "requiredItems": [
+              {
+                "item": {
+                  "id": "5d6fc87386f77449db3db94e",
+                  "name": "Gunpowder \"Hawk\""
+                },
+                "count": 2
+              },
+              {
+                "item": {
+                  "id": "5d6fc78386f77449d825f9dc",
+                  "name": "Gunpowder \"Eagle\""
+                },
+                "count": 1
+              },
+              {
+                "item": {
+                  "id": "60391b0fb847c71012789415",
+                  "name": "TP-200 TNT brick"
+                },
+                "count": 2
+              },
+              {
+                "item": {
+                  "id": "60391a8b3364dc22b04d0ce5",
+                  "name": "Can of thermite"
+                },
+                "count": 1
+              },
+              {
+                "item": {
+                  "id": "5af04b6486f774195a3ebb49",
+                  "name": "Pliers Elite"
+                },
+                "count": 1
+              }
+            ],
+            "rewardItems": [
+              {
+                "item": {
+                  "id": "5d0379a886f77420407aa271",
+                  "name": "OFZ 30x165mm shell"
+                },
+                "count": 2
+              }
+            ]
+          },
+          {
+            "id": "655b4f57769de97e1d62d116",
+            "duration": 9500,
+            "requiredItems": [
+              {
+                "item": {
+                  "id": "59e77a2386f7742ee578960a",
+                  "name": "7.62x54mm R PS gzh"
+                },
+                "count": 50
+              },
+              {
+                "item": {
+                  "id": "60391a8b3364dc22b04d0ce5",
+                  "name": "Can of thermite"
+                },
+                "count": 1
+              },
+              {
+                "item": {
+                  "id": "62a0a0bb621468534a797ad5",
+                  "name": "Set of files \"Master\""
+                },
+                "count": 1
+              },
+              {
+                "item": {
+                  "id": "5d6fc78386f77449d825f9dc",
+                  "name": "Gunpowder \"Eagle\""
+                },
+                "count": 2
+              }
+            ],
+            "rewardItems": [
+              {
+                "item": {
+                  "id": "5e023d34e8a400319a28ed44",
+                  "name": "7.62x54mm R BT gzh"
+                },
+                "count": 30
+              }
+            ]
+          },
+          {
+            "id": "63bd4c3964d7e356983c4cf5",
+            "duration": 8700,
+            "requiredItems": [
+              {
+                "item": {
+                  "id": "5cc80f79e4a949033c7343b2",
+                  "name": "5.7x28mm SS198LF"
+                },
+                "count": 100
+              },
+              {
+                "item": {
+                  "id": "5d6fc78386f77449d825f9dc",
+                  "name": "Gunpowder \"Eagle\""
+                },
+                "count": 1
+              },
+              {
+                "item": {
+                  "id": "5c06782b86f77426df5407d2",
+                  "name": "Capacitors"
+                },
+                "count": 4
+              },
+              {
+                "item": {
+                  "id": "544fb5454bdc2df8738b456a",
+                  "name": "Leatherman Multitool"
+                },
+                "count": 1
+              }
+            ],
+            "rewardItems": [
+              {
+                "item": {
+                  "id": "5cc80f38e4a949001152b560",
+                  "name": "5.7x28mm SS190"
+                },
+                "count": 60
               }
             ]
           },
@@ -7243,6 +7415,99 @@
             ]
           },
           {
+            "id": "655b33429db22d43ab42b704",
+            "duration": 13000,
+            "requiredItems": [
+              {
+                "item": {
+                  "id": "56dff3afd2720bba668b4567",
+                  "name": "5.45x39mm PS gs"
+                },
+                "count": 180
+              },
+              {
+                "item": {
+                  "id": "5d6fc78386f77449d825f9dc",
+                  "name": "Gunpowder \"Eagle\""
+                },
+                "count": 1
+              },
+              {
+                "item": {
+                  "id": "590c2e1186f77425357b6124",
+                  "name": "Toolset"
+                },
+                "count": 1
+              }
+            ],
+            "rewardItems": [
+              {
+                "item": {
+                  "id": "56dfef82d2720bbd668b4567",
+                  "name": "5.45x39mm BP gs"
+                },
+                "count": 60
+              }
+            ]
+          },
+          {
+            "id": "600a9bd0189b226f40059751",
+            "duration": 16500,
+            "requiredItems": [
+              {
+                "item": {
+                  "id": "5d6fc78386f77449d825f9dc",
+                  "name": "Gunpowder \"Eagle\""
+                },
+                "count": 1
+              },
+              {
+                "item": {
+                  "id": "5e2af37686f774755a234b65",
+                  "name": "SurvL Survivor Lighter"
+                },
+                "count": 5
+              },
+              {
+                "item": {
+                  "id": "590c5a7286f7747884343aea",
+                  "name": "Gunpowder \"Kite\""
+                },
+                "count": 1
+              },
+              {
+                "item": {
+                  "id": "5a0c27731526d80618476ac4",
+                  "name": "Zarya stun grenade"
+                },
+                "count": 1
+              },
+              {
+                "item": {
+                  "id": "590c2e1186f77425357b6124",
+                  "name": "Toolset"
+                },
+                "count": 1
+              },
+              {
+                "item": {
+                  "id": "544fb5454bdc2df8738b456a",
+                  "name": "Leatherman Multitool"
+                },
+                "count": 1
+              }
+            ],
+            "rewardItems": [
+              {
+                "item": {
+                  "id": "5e85a9f4add9fe03027d9bf1",
+                  "name": "23x75mm Zvezda flashbang round"
+                },
+                "count": 7
+              }
+            ]
+          },
+          {
             "id": "655b4669b71eeb7c4168c625",
             "duration": 13000,
             "requiredItems": [
@@ -7368,271 +7633,6 @@
                   "name": "5.56x45mm M855A1"
                 },
                 "count": 90
-              }
-            ]
-          },
-          {
-            "id": "600a9bd0189b226f40059751",
-            "duration": 16500,
-            "requiredItems": [
-              {
-                "item": {
-                  "id": "5d6fc78386f77449d825f9dc",
-                  "name": "Gunpowder \"Eagle\""
-                },
-                "count": 1
-              },
-              {
-                "item": {
-                  "id": "5e2af37686f774755a234b65",
-                  "name": "SurvL Survivor Lighter"
-                },
-                "count": 5
-              },
-              {
-                "item": {
-                  "id": "590c5a7286f7747884343aea",
-                  "name": "Gunpowder \"Kite\""
-                },
-                "count": 1
-              },
-              {
-                "item": {
-                  "id": "5a0c27731526d80618476ac4",
-                  "name": "Zarya stun grenade"
-                },
-                "count": 1
-              },
-              {
-                "item": {
-                  "id": "590c2e1186f77425357b6124",
-                  "name": "Toolset"
-                },
-                "count": 1
-              },
-              {
-                "item": {
-                  "id": "544fb5454bdc2df8738b456a",
-                  "name": "Leatherman Multitool"
-                },
-                "count": 1
-              }
-            ],
-            "rewardItems": [
-              {
-                "item": {
-                  "id": "5e85a9f4add9fe03027d9bf1",
-                  "name": "23x75mm Zvezda flashbang round"
-                },
-                "count": 7
-              }
-            ]
-          },
-          {
-            "id": "6913722bd4c6de533e0c774a",
-            "duration": 1500,
-            "requiredItems": [
-              {
-                "item": {
-                  "id": "591094e086f7747caa7bb2ef",
-                  "name": "Body armor repair kit"
-                },
-                "count": 1
-              },
-              {
-                "item": {
-                  "id": "5e2af41e86f774755a234b67",
-                  "name": "Cordura polyamide fabric"
-                },
-                "count": 1
-              },
-              {
-                "item": {
-                  "id": "5e2af4a786f7746d3f3c3400",
-                  "name": "Ripstop fabric"
-                },
-                "count": 1
-              },
-              {
-                "item": {
-                  "id": "5e2af47786f7746d404f3aaa",
-                  "name": "Fleece fabric"
-                },
-                "count": 1
-              },
-              {
-                "item": {
-                  "id": "61bf83814088ec1a363d7097",
-                  "name": "Sewing kit"
-                },
-                "count": 1
-              }
-            ],
-            "rewardItems": [
-              {
-                "item": {
-                  "id": "591094e086f7747caa7bb2ef",
-                  "name": "Body armor repair kit"
-                },
-                "count": 1
-              }
-            ]
-          },
-          {
-            "id": "6558d7894626375d6735670c",
-            "duration": 15000,
-            "requiredItems": [
-              {
-                "item": {
-                  "id": "5fc382c1016cce60e8341b20",
-                  "name": ".338 Lapua Magnum UCW"
-                },
-                "count": 50
-              },
-              {
-                "item": {
-                  "id": "5d6fc87386f77449db3db94e",
-                  "name": "Gunpowder \"Hawk\""
-                },
-                "count": 2
-              },
-              {
-                "item": {
-                  "id": "544fb5454bdc2df8738b456a",
-                  "name": "Leatherman Multitool"
-                },
-                "count": 1
-              }
-            ],
-            "rewardItems": [
-              {
-                "item": {
-                  "id": "5fc275cf85fd526b824a571a",
-                  "name": ".338 Lapua Magnum FMJ"
-                },
-                "count": 30
-              }
-            ]
-          },
-          {
-            "id": "655b4f57769de97e1d62d116",
-            "duration": 9500,
-            "requiredItems": [
-              {
-                "item": {
-                  "id": "59e77a2386f7742ee578960a",
-                  "name": "7.62x54mm R PS gzh"
-                },
-                "count": 50
-              },
-              {
-                "item": {
-                  "id": "60391a8b3364dc22b04d0ce5",
-                  "name": "Can of thermite"
-                },
-                "count": 1
-              },
-              {
-                "item": {
-                  "id": "62a0a0bb621468534a797ad5",
-                  "name": "Set of files \"Master\""
-                },
-                "count": 1
-              },
-              {
-                "item": {
-                  "id": "5d6fc78386f77449d825f9dc",
-                  "name": "Gunpowder \"Eagle\""
-                },
-                "count": 2
-              }
-            ],
-            "rewardItems": [
-              {
-                "item": {
-                  "id": "5e023d34e8a400319a28ed44",
-                  "name": "7.62x54mm R BT gzh"
-                },
-                "count": 30
-              }
-            ]
-          },
-          {
-            "id": "63bd4c3964d7e356983c4cf5",
-            "duration": 8700,
-            "requiredItems": [
-              {
-                "item": {
-                  "id": "5cc80f79e4a949033c7343b2",
-                  "name": "5.7x28mm SS198LF"
-                },
-                "count": 100
-              },
-              {
-                "item": {
-                  "id": "5d6fc78386f77449d825f9dc",
-                  "name": "Gunpowder \"Eagle\""
-                },
-                "count": 1
-              },
-              {
-                "item": {
-                  "id": "5c06782b86f77426df5407d2",
-                  "name": "Capacitors"
-                },
-                "count": 4
-              },
-              {
-                "item": {
-                  "id": "544fb5454bdc2df8738b456a",
-                  "name": "Leatherman Multitool"
-                },
-                "count": 1
-              }
-            ],
-            "rewardItems": [
-              {
-                "item": {
-                  "id": "5cc80f38e4a949001152b560",
-                  "name": "5.7x28mm SS190"
-                },
-                "count": 60
-              }
-            ]
-          },
-          {
-            "id": "655b33429db22d43ab42b704",
-            "duration": 13000,
-            "requiredItems": [
-              {
-                "item": {
-                  "id": "56dff3afd2720bba668b4567",
-                  "name": "5.45x39mm PS gs"
-                },
-                "count": 180
-              },
-              {
-                "item": {
-                  "id": "5d6fc78386f77449d825f9dc",
-                  "name": "Gunpowder \"Eagle\""
-                },
-                "count": 1
-              },
-              {
-                "item": {
-                  "id": "590c2e1186f77425357b6124",
-                  "name": "Toolset"
-                },
-                "count": 1
-              }
-            ],
-            "rewardItems": [
-              {
-                "item": {
-                  "id": "56dfef82d2720bbd668b4567",
-                  "name": "5.45x39mm BP gs"
-                },
-                "count": 60
               }
             ]
           }
@@ -8066,6 +8066,121 @@
             ]
           },
           {
+            "id": "68ef997a4fc35ae00505dcf2",
+            "duration": 9900,
+            "requiredItems": [
+              {
+                "item": {
+                  "id": "5c052fb986f7746b2101e909",
+                  "name": "UHF RFID Reader"
+                },
+                "count": 1
+              },
+              {
+                "item": {
+                  "id": "5c1d0efb86f7744baf2e7b7b",
+                  "name": "TerraGroup Labs keycard (Red)"
+                },
+                "count": 1
+              },
+              {
+                "item": {
+                  "id": "6389c8c5dbfd5e4b95197e6b",
+                  "name": "TerraGroup \"Blue Folders\" materials"
+                },
+                "count": 1
+              }
+            ],
+            "rewardItems": [
+              {
+                "item": {
+                  "id": "68e7d904aded99fd1a0624f2",
+                  "name": "Reprogrammed keycard for A.P.'s apartment lock (Red)"
+                },
+                "count": 1
+              }
+            ]
+          },
+          {
+            "id": "67da01179cbeb8d6f4011961",
+            "duration": 14400,
+            "requiredItems": [
+              {
+                "item": {
+                  "id": "590c2e1186f77425357b6124",
+                  "name": "Toolset"
+                },
+                "count": 1
+              },
+              {
+                "item": {
+                  "id": "5d4042a986f7743185265463",
+                  "name": "Flat screwdriver (Long)"
+                },
+                "count": 1
+              },
+              {
+                "item": {
+                  "id": "590a391c86f774385a33c404",
+                  "name": "Magnet"
+                },
+                "count": 3
+              },
+              {
+                "item": {
+                  "id": "6389c70ca33d8c4cdf4932c6",
+                  "name": "Electronic components"
+                },
+                "count": 1
+              },
+              {
+                "item": {
+                  "id": "590a3b0486f7743954552bdb",
+                  "name": "Printed circuit board"
+                },
+                "count": 1
+              }
+            ],
+            "rewardItems": [
+              {
+                "item": {
+                  "id": "61bf7c024770ee6f9c6b8b53",
+                  "name": "Secure magnetic tape cassette"
+                },
+                "count": 1
+              }
+            ]
+          },
+          {
+            "id": "67bc980c3c4c5942cb0ac53f",
+            "duration": 84600,
+            "requiredItems": [
+              {
+                "item": {
+                  "id": "67c031b79320f644db06f456",
+                  "name": "Blank RFID keycard"
+                },
+                "count": 1
+              },
+              {
+                "item": {
+                  "id": "67bdea8667098e658f064695",
+                  "name": "Kruglov's RFID keycard"
+                },
+                "count": 1
+              }
+            ],
+            "rewardItems": [
+              {
+                "item": {
+                  "id": "67bdf04d66ca1d79a2024637",
+                  "name": "Activated Kruglov's RFID keycard"
+                },
+                "count": 1
+              }
+            ]
+          },
+          {
             "id": "68fe55248312b42f5f02129a",
             "duration": 12600,
             "requiredItems": [
@@ -8174,9 +8289,16 @@
             ]
           },
           {
-            "id": "67bc980c3c4c5942cb0ac53f",
-            "duration": 84600,
+            "id": "67bdfb12884b40ea9d08b5c9",
+            "duration": 19800,
             "requiredItems": [
+              {
+                "item": {
+                  "id": "67c0345b354fca26a0008036",
+                  "name": "Flash drive with Mr. Kerman's hash codes"
+                },
+                "count": 1
+              },
               {
                 "item": {
                   "id": "67c031b79320f644db06f456",
@@ -8186,89 +8308,17 @@
               },
               {
                 "item": {
-                  "id": "67bdea8667098e658f064695",
-                  "name": "Kruglov's RFID keycard"
-                },
-                "count": 1
-              }
-            ],
-            "rewardItems": [
-              {
-                "item": {
                   "id": "67bdf04d66ca1d79a2024637",
                   "name": "Activated Kruglov's RFID keycard"
                 },
                 "count": 1
               }
-            ]
-          },
-          {
-            "id": "67da01179cbeb8d6f4011961",
-            "duration": 14400,
-            "requiredItems": [
-              {
-                "item": {
-                  "id": "590c2e1186f77425357b6124",
-                  "name": "Toolset"
-                },
-                "count": 1
-              },
-              {
-                "item": {
-                  "id": "5d4042a986f7743185265463",
-                  "name": "Flat screwdriver (Long)"
-                },
-                "count": 1
-              },
-              {
-                "item": {
-                  "id": "590a391c86f774385a33c404",
-                  "name": "Magnet"
-                },
-                "count": 3
-              },
-              {
-                "item": {
-                  "id": "6389c70ca33d8c4cdf4932c6",
-                  "name": "Electronic components"
-                },
-                "count": 1
-              },
-              {
-                "item": {
-                  "id": "590a3b0486f7743954552bdb",
-                  "name": "Printed circuit board"
-                },
-                "count": 1
-              }
             ],
             "rewardItems": [
               {
                 "item": {
-                  "id": "61bf7c024770ee6f9c6b8b53",
-                  "name": "Secure magnetic tape cassette"
-                },
-                "count": 1
-              }
-            ]
-          },
-          {
-            "id": "686c17583cf79421d70b007e",
-            "duration": 600,
-            "requiredItems": [
-              {
-                "item": {
-                  "id": "6889e4cd3ff7e9cfbc0c507c",
-                  "name": "Military thumb drive"
-                },
-                "count": 1
-              }
-            ],
-            "rewardItems": [
-              {
-                "item": {
-                  "id": "68666887df54e1190902df57",
-                  "name": "Decrypted intelligence folder"
+                  "id": "67c033fd0610e91bea056998",
+                  "name": "Reprogrammed RFID keycard with Mr. Kerman's hash codes"
                 },
                 "count": 1
               }
@@ -8354,63 +8404,13 @@
             ]
           },
           {
-            "id": "690a89f3f986495a06051d5b",
-            "duration": 19800,
+            "id": "686c17583cf79421d70b007e",
+            "duration": 600,
             "requiredItems": [
               {
                 "item": {
-                  "id": "577e1c9d2459773cd707c525",
-                  "name": "Printer paper"
-                },
-                "count": 1
-              },
-              {
-                "item": {
-                  "id": "590a3b0486f7743954552bdb",
-                  "name": "Printed circuit board"
-                },
-                "count": 3
-              },
-              {
-                "item": {
-                  "id": "573477e124597737dd42e191",
-                  "name": "PC CPU"
-                },
-                "count": 2
-              }
-            ],
-            "rewardItems": [
-              {
-                "item": {
-                  "id": "689b512b075404ce7e09ec12",
-                  "name": "Hard drive printout"
-                },
-                "count": 1
-              }
-            ]
-          },
-          {
-            "id": "68ef997a4fc35ae00505dcf2",
-            "duration": 9900,
-            "requiredItems": [
-              {
-                "item": {
-                  "id": "5c052fb986f7746b2101e909",
-                  "name": "UHF RFID Reader"
-                },
-                "count": 1
-              },
-              {
-                "item": {
-                  "id": "5c1d0efb86f7744baf2e7b7b",
-                  "name": "TerraGroup Labs keycard (Red)"
-                },
-                "count": 1
-              },
-              {
-                "item": {
-                  "id": "6389c8c5dbfd5e4b95197e6b",
-                  "name": "TerraGroup \"Blue Folders\" materials"
+                  "id": "6889e4cd3ff7e9cfbc0c507c",
+                  "name": "Military thumb drive"
                 },
                 "count": 1
               }
@@ -8418,44 +8418,8 @@
             "rewardItems": [
               {
                 "item": {
-                  "id": "68e7d904aded99fd1a0624f2",
-                  "name": "Reprogrammed keycard for A.P.'s apartment lock (Red)"
-                },
-                "count": 1
-              }
-            ]
-          },
-          {
-            "id": "67bdfb12884b40ea9d08b5c9",
-            "duration": 19800,
-            "requiredItems": [
-              {
-                "item": {
-                  "id": "67c0345b354fca26a0008036",
-                  "name": "Flash drive with Mr. Kerman's hash codes"
-                },
-                "count": 1
-              },
-              {
-                "item": {
-                  "id": "67c031b79320f644db06f456",
-                  "name": "Blank RFID keycard"
-                },
-                "count": 1
-              },
-              {
-                "item": {
-                  "id": "67bdf04d66ca1d79a2024637",
-                  "name": "Activated Kruglov's RFID keycard"
-                },
-                "count": 1
-              }
-            ],
-            "rewardItems": [
-              {
-                "item": {
-                  "id": "67c033fd0610e91bea056998",
-                  "name": "Reprogrammed RFID keycard with Mr. Kerman's hash codes"
+                  "id": "68666887df54e1190902df57",
+                  "name": "Decrypted intelligence folder"
                 },
                 "count": 1
               }
@@ -8492,6 +8456,42 @@
                 "item": {
                   "id": "68e7d984308332889e0b5e71",
                   "name": "Reprogrammed keycard for A.P.'s apartment lock (Blue)"
+                },
+                "count": 1
+              }
+            ]
+          },
+          {
+            "id": "690a89f3f986495a06051d5b",
+            "duration": 19800,
+            "requiredItems": [
+              {
+                "item": {
+                  "id": "577e1c9d2459773cd707c525",
+                  "name": "Printer paper"
+                },
+                "count": 1
+              },
+              {
+                "item": {
+                  "id": "590a3b0486f7743954552bdb",
+                  "name": "Printed circuit board"
+                },
+                "count": 3
+              },
+              {
+                "item": {
+                  "id": "573477e124597737dd42e191",
+                  "name": "PC CPU"
+                },
+                "count": 2
+              }
+            ],
+            "rewardItems": [
+              {
+                "item": {
+                  "id": "689b512b075404ce7e09ec12",
+                  "name": "Hard drive printout"
                 },
                 "count": 1
               }
@@ -8647,6 +8647,49 @@
             ]
           },
           {
+            "id": "5ee4a093a297eb185236194f",
+            "duration": 43200,
+            "requiredItems": [
+              {
+                "item": {
+                  "id": "5c94bbff86f7747ee735c08f",
+                  "name": "TerraGroup Labs access keycard"
+                },
+                "count": 1
+              },
+              {
+                "item": {
+                  "id": "5c05300686f7746dce784e5d",
+                  "name": "VPX Flash Storage Module"
+                },
+                "count": 1
+              },
+              {
+                "item": {
+                  "id": "6389c92d52123d5dd17f8876",
+                  "name": "Advanced Electronic Materials textbook"
+                },
+                "count": 1
+              },
+              {
+                "item": {
+                  "id": "590c621186f774138d11ea29",
+                  "name": "Secure Flash drive"
+                },
+                "count": 1
+              }
+            ],
+            "rewardItems": [
+              {
+                "item": {
+                  "id": "5c052fb986f7746b2101e909",
+                  "name": "UHF RFID Reader"
+                },
+                "count": 1
+              }
+            ]
+          },
+          {
             "id": "5ed9ff023a68ec264e5233c2",
             "duration": 82800,
             "requiredItems": [
@@ -8697,49 +8740,6 @@
             ]
           },
           {
-            "id": "5ee4a093a297eb185236194f",
-            "duration": 43200,
-            "requiredItems": [
-              {
-                "item": {
-                  "id": "5c94bbff86f7747ee735c08f",
-                  "name": "TerraGroup Labs access keycard"
-                },
-                "count": 1
-              },
-              {
-                "item": {
-                  "id": "5c05300686f7746dce784e5d",
-                  "name": "VPX Flash Storage Module"
-                },
-                "count": 1
-              },
-              {
-                "item": {
-                  "id": "6389c92d52123d5dd17f8876",
-                  "name": "Advanced Electronic Materials textbook"
-                },
-                "count": 1
-              },
-              {
-                "item": {
-                  "id": "590c621186f774138d11ea29",
-                  "name": "Secure Flash drive"
-                },
-                "count": 1
-              }
-            ],
-            "rewardItems": [
-              {
-                "item": {
-                  "id": "5c052fb986f7746b2101e909",
-                  "name": "UHF RFID Reader"
-                },
-                "count": 1
-              }
-            ]
-          },
-          {
             "id": "6399c421d65735732c6ba765",
             "duration": 7200,
             "requiredItems": [
@@ -8772,35 +8772,6 @@
                   "name": "Digital secure DSP radio transmitter"
                 },
                 "count": 1
-              }
-            ]
-          },
-          {
-            "id": "67da0223078f1947650d7bb7",
-            "duration": 2400,
-            "requiredItems": [
-              {
-                "item": {
-                  "id": "5c052fb986f7746b2101e909",
-                  "name": "UHF RFID Reader"
-                },
-                "count": 1
-              },
-              {
-                "item": {
-                  "id": "5c12613b86f7743bbe2c3f76",
-                  "name": "Intelligence folder"
-                },
-                "count": 1
-              }
-            ],
-            "rewardItems": [
-              {
-                "item": {
-                  "id": "5c94bbff86f7747ee735c08f",
-                  "name": "TerraGroup Labs access keycard"
-                },
-                "count": 3
               }
             ]
           },
@@ -8851,6 +8822,35 @@
                   "name": "Object #11SR keycard"
                 },
                 "count": 1
+              }
+            ]
+          },
+          {
+            "id": "67da0223078f1947650d7bb7",
+            "duration": 2400,
+            "requiredItems": [
+              {
+                "item": {
+                  "id": "5c052fb986f7746b2101e909",
+                  "name": "UHF RFID Reader"
+                },
+                "count": 1
+              },
+              {
+                "item": {
+                  "id": "5c12613b86f7743bbe2c3f76",
+                  "name": "Intelligence folder"
+                },
+                "count": 1
+              }
+            ],
+            "rewardItems": [
+              {
+                "item": {
+                  "id": "5c94bbff86f7747ee735c08f",
+                  "name": "TerraGroup Labs access keycard"
+                },
+                "count": 3
               }
             ]
           }
@@ -8956,56 +8956,6 @@
         ],
         "crafts": [
           {
-            "id": "6002e55595c402039a2747f4",
-            "duration": 476000,
-            "requiredItems": [
-              {
-                "item": {
-                  "id": "5c94bbff86f7747ee735c08f",
-                  "name": "TerraGroup Labs access keycard"
-                },
-                "count": 10
-              },
-              {
-                "item": {
-                  "id": "5c1d0d6d86f7744bb2683e1f",
-                  "name": "TerraGroup Labs keycard (Yellow)"
-                },
-                "count": 1
-              },
-              {
-                "item": {
-                  "id": "5c12613b86f7743bbe2c3f76",
-                  "name": "Intelligence folder"
-                },
-                "count": 4
-              },
-              {
-                "item": {
-                  "id": "61bf7c024770ee6f9c6b8b53",
-                  "name": "Secure magnetic tape cassette"
-                },
-                "count": 1
-              },
-              {
-                "item": {
-                  "id": "5c052fb986f7746b2101e909",
-                  "name": "UHF RFID Reader"
-                },
-                "count": 1
-              }
-            ],
-            "rewardItems": [
-              {
-                "item": {
-                  "id": "5c1e495a86f7743109743dfb",
-                  "name": "TerraGroup Labs keycard (Violet)"
-                },
-                "count": 1
-              }
-            ]
-          },
-          {
             "id": "67da05c8078f1947650d7bb9",
             "duration": 90000,
             "requiredItems": [
@@ -9063,6 +9013,56 @@
             ]
           },
           {
+            "id": "6002e55595c402039a2747f4",
+            "duration": 476000,
+            "requiredItems": [
+              {
+                "item": {
+                  "id": "5c94bbff86f7747ee735c08f",
+                  "name": "TerraGroup Labs access keycard"
+                },
+                "count": 10
+              },
+              {
+                "item": {
+                  "id": "5c1d0d6d86f7744bb2683e1f",
+                  "name": "TerraGroup Labs keycard (Yellow)"
+                },
+                "count": 1
+              },
+              {
+                "item": {
+                  "id": "5c12613b86f7743bbe2c3f76",
+                  "name": "Intelligence folder"
+                },
+                "count": 4
+              },
+              {
+                "item": {
+                  "id": "61bf7c024770ee6f9c6b8b53",
+                  "name": "Secure magnetic tape cassette"
+                },
+                "count": 1
+              },
+              {
+                "item": {
+                  "id": "5c052fb986f7746b2101e909",
+                  "name": "UHF RFID Reader"
+                },
+                "count": 1
+              }
+            ],
+            "rewardItems": [
+              {
+                "item": {
+                  "id": "5c1e495a86f7743109743dfb",
+                  "name": "TerraGroup Labs keycard (Violet)"
+                },
+                "count": 1
+              }
+            ]
+          },
+          {
             "id": "5e58e0c286f7740ba7486ca3",
             "duration": 114000,
             "requiredItems": [
@@ -9086,70 +9086,6 @@
                 "item": {
                   "id": "5c12613b86f7743bbe2c3f76",
                   "name": "Intelligence folder"
-                },
-                "count": 1
-              }
-            ]
-          },
-          {
-            "id": "67da04db9cbeb8d6f4011962",
-            "duration": 90000,
-            "requiredItems": [
-              {
-                "item": {
-                  "id": "5c052fb986f7746b2101e909",
-                  "name": "UHF RFID Reader"
-                },
-                "count": 1
-              },
-              {
-                "item": {
-                  "id": "5c94bbff86f7747ee735c08f",
-                  "name": "TerraGroup Labs access keycard"
-                },
-                "count": 10
-              },
-              {
-                "item": {
-                  "id": "6389c8c5dbfd5e4b95197e6b",
-                  "name": "TerraGroup \"Blue Folders\" materials"
-                },
-                "count": 5
-              },
-              {
-                "item": {
-                  "id": "5c12613b86f7743bbe2c3f76",
-                  "name": "Intelligence folder"
-                },
-                "count": 3
-              },
-              {
-                "item": {
-                  "id": "5c05300686f7746dce784e5d",
-                  "name": "VPX Flash Storage Module"
-                },
-                "count": 3
-              },
-              {
-                "item": {
-                  "id": "5c05308086f7746b2101e90b",
-                  "name": "Virtex programmable processor"
-                },
-                "count": 2
-              },
-              {
-                "item": {
-                  "id": "61bf7c024770ee6f9c6b8b53",
-                  "name": "Secure magnetic tape cassette"
-                },
-                "count": 4
-              }
-            ],
-            "rewardItems": [
-              {
-                "item": {
-                  "id": "5c1d0efb86f7744baf2e7b7b",
-                  "name": "TerraGroup Labs keycard (Red)"
                 },
                 "count": 1
               }
@@ -9250,6 +9186,70 @@
                 "item": {
                   "id": "62a0a16d0b9d3c46de5b6e97",
                   "name": "Military flash drive"
+                },
+                "count": 1
+              }
+            ]
+          },
+          {
+            "id": "67da04db9cbeb8d6f4011962",
+            "duration": 90000,
+            "requiredItems": [
+              {
+                "item": {
+                  "id": "5c052fb986f7746b2101e909",
+                  "name": "UHF RFID Reader"
+                },
+                "count": 1
+              },
+              {
+                "item": {
+                  "id": "5c94bbff86f7747ee735c08f",
+                  "name": "TerraGroup Labs access keycard"
+                },
+                "count": 10
+              },
+              {
+                "item": {
+                  "id": "6389c8c5dbfd5e4b95197e6b",
+                  "name": "TerraGroup \"Blue Folders\" materials"
+                },
+                "count": 5
+              },
+              {
+                "item": {
+                  "id": "5c12613b86f7743bbe2c3f76",
+                  "name": "Intelligence folder"
+                },
+                "count": 3
+              },
+              {
+                "item": {
+                  "id": "5c05300686f7746dce784e5d",
+                  "name": "VPX Flash Storage Module"
+                },
+                "count": 3
+              },
+              {
+                "item": {
+                  "id": "5c05308086f7746b2101e90b",
+                  "name": "Virtex programmable processor"
+                },
+                "count": 2
+              },
+              {
+                "item": {
+                  "id": "61bf7c024770ee6f9c6b8b53",
+                  "name": "Secure magnetic tape cassette"
+                },
+                "count": 4
+              }
+            ],
+            "rewardItems": [
+              {
+                "item": {
+                  "id": "5c1d0efb86f7744baf2e7b7b",
+                  "name": "TerraGroup Labs keycard (Red)"
                 },
                 "count": 1
               }
@@ -11118,27 +11118,20 @@
             ]
           },
           {
-            "id": "603ce7c5fd70f047f93bee2a",
-            "duration": 1200,
+            "id": "5e1330dca0f0f8773c069c99",
+            "duration": 120,
             "requiredItems": [
               {
                 "item": {
-                  "id": "5e2af4d286f7746d4159f07a",
-                  "name": "Aramid fiber fabric"
+                  "id": "60363c0c92ec1c31037959f5",
+                  "name": "GP-7 gas mask"
                 },
                 "count": 1
               },
               {
                 "item": {
-                  "id": "57347c1124597737fb1379e3",
-                  "name": "Duct tape"
-                },
-                "count": 1
-              },
-              {
-                "item": {
-                  "id": "61bf83814088ec1a363d7097",
-                  "name": "Sewing kit"
+                  "id": "590c2d8786f774245b1f03f3",
+                  "name": "Screwdriver"
                 },
                 "count": 1
               }
@@ -11146,8 +11139,8 @@
             "rewardItems": [
               {
                 "item": {
-                  "id": "5aa7cfc0e5b5b00015693143",
-                  "name": "6B47 Ratnik-BSh helmet (EMR cover)"
+                  "id": "590c595c86f7747884343ad7",
+                  "name": "Gas mask air filter"
                 },
                 "count": 1
               }
@@ -11284,6 +11277,71 @@
             ]
           },
           {
+            "id": "603ce7c5fd70f047f93bee2a",
+            "duration": 1200,
+            "requiredItems": [
+              {
+                "item": {
+                  "id": "5e2af4d286f7746d4159f07a",
+                  "name": "Aramid fiber fabric"
+                },
+                "count": 1
+              },
+              {
+                "item": {
+                  "id": "57347c1124597737fb1379e3",
+                  "name": "Duct tape"
+                },
+                "count": 1
+              },
+              {
+                "item": {
+                  "id": "61bf83814088ec1a363d7097",
+                  "name": "Sewing kit"
+                },
+                "count": 1
+              }
+            ],
+            "rewardItems": [
+              {
+                "item": {
+                  "id": "5aa7cfc0e5b5b00015693143",
+                  "name": "6B47 Ratnik-BSh helmet (EMR cover)"
+                },
+                "count": 1
+              }
+            ]
+          },
+          {
+            "id": "5ffcaa60f3fdc212a91d552b",
+            "duration": 2000,
+            "requiredItems": [
+              {
+                "item": {
+                  "id": "5648a7494bdc2d9d488b4583",
+                  "name": "PACA Soft Armor"
+                },
+                "count": 1
+              },
+              {
+                "item": {
+                  "id": "544fb5454bdc2df8738b456a",
+                  "name": "Leatherman Multitool"
+                },
+                "count": 1
+              }
+            ],
+            "rewardItems": [
+              {
+                "item": {
+                  "id": "5e2af4d286f7746d4159f07a",
+                  "name": "Aramid fiber fabric"
+                },
+                "count": 2
+              }
+            ]
+          },
+          {
             "id": "5dcfe2582f9b3d566c7af977",
             "duration": 12100,
             "requiredItems": [
@@ -11320,20 +11378,20 @@
             ]
           },
           {
-            "id": "600aa140090cb63380270290",
-            "duration": 2900,
+            "id": "655b6b641273611d2462ab78",
+            "duration": 1200,
             "requiredItems": [
               {
                 "item": {
-                  "id": "5ab8f04f86f774585f4237d8",
-                  "name": "Tactical sling bag (Khaki)"
+                  "id": "5e2af41e86f774755a234b67",
+                  "name": "Cordura polyamide fabric"
                 },
-                "count": 2
+                "count": 1
               },
               {
                 "item": {
-                  "id": "61bf83814088ec1a363d7097",
-                  "name": "Sewing kit"
+                  "id": "5734795124597738002c6176",
+                  "name": "Insulating tape"
                 },
                 "count": 1
               }
@@ -11341,10 +11399,10 @@
             "rewardItems": [
               {
                 "item": {
-                  "id": "5e2af41e86f774755a234b67",
-                  "name": "Cordura polyamide fabric"
+                  "id": "56e335e4d2720b6c058b456d",
+                  "name": "Scav backpack"
                 },
-                "count": 2
+                "count": 1
               }
             ]
           },
@@ -11407,89 +11465,31 @@
             ]
           },
           {
-            "id": "5e1330dca0f0f8773c069c99",
-            "duration": 120,
+            "id": "600aa140090cb63380270290",
+            "duration": 2900,
             "requiredItems": [
               {
                 "item": {
-                  "id": "60363c0c92ec1c31037959f5",
-                  "name": "GP-7 gas mask"
-                },
-                "count": 1
-              },
-              {
-                "item": {
-                  "id": "590c2d8786f774245b1f03f3",
-                  "name": "Screwdriver"
-                },
-                "count": 1
-              }
-            ],
-            "rewardItems": [
-              {
-                "item": {
-                  "id": "590c595c86f7747884343ad7",
-                  "name": "Gas mask air filter"
-                },
-                "count": 1
-              }
-            ]
-          },
-          {
-            "id": "5ffcaa60f3fdc212a91d552b",
-            "duration": 2000,
-            "requiredItems": [
-              {
-                "item": {
-                  "id": "5648a7494bdc2d9d488b4583",
-                  "name": "PACA Soft Armor"
-                },
-                "count": 1
-              },
-              {
-                "item": {
-                  "id": "544fb5454bdc2df8738b456a",
-                  "name": "Leatherman Multitool"
-                },
-                "count": 1
-              }
-            ],
-            "rewardItems": [
-              {
-                "item": {
-                  "id": "5e2af4d286f7746d4159f07a",
-                  "name": "Aramid fiber fabric"
+                  "id": "5ab8f04f86f774585f4237d8",
+                  "name": "Tactical sling bag (Khaki)"
                 },
                 "count": 2
+              },
+              {
+                "item": {
+                  "id": "61bf83814088ec1a363d7097",
+                  "name": "Sewing kit"
+                },
+                "count": 1
               }
-            ]
-          },
-          {
-            "id": "655b6b641273611d2462ab78",
-            "duration": 1200,
-            "requiredItems": [
+            ],
+            "rewardItems": [
               {
                 "item": {
                   "id": "5e2af41e86f774755a234b67",
                   "name": "Cordura polyamide fabric"
                 },
-                "count": 1
-              },
-              {
-                "item": {
-                  "id": "5734795124597738002c6176",
-                  "name": "Insulating tape"
-                },
-                "count": 1
-              }
-            ],
-            "rewardItems": [
-              {
-                "item": {
-                  "id": "56e335e4d2720b6c058b456d",
-                  "name": "Scav backpack"
-                },
-                "count": 1
+                "count": 2
               }
             ]
           },
@@ -11638,13 +11638,13 @@
         ],
         "crafts": [
           {
-            "id": "5eda07acb6c564225571536c",
-            "duration": 2800,
+            "id": "600aa209f64dfd63ec1293d6",
+            "duration": 3600,
             "requiredItems": [
               {
                 "item": {
-                  "id": "5e2af41e86f774755a234b67",
-                  "name": "Cordura polyamide fabric"
+                  "id": "5e4abfed86f77406a2713cf7",
+                  "name": "Splav Tarzan M22 chest rig (Smog)"
                 },
                 "count": 1
               },
@@ -11657,8 +11657,8 @@
               },
               {
                 "item": {
-                  "id": "62a0a098de7ac8199358053b",
-                  "name": "Awl"
+                  "id": "5e2af41e86f774755a234b67",
+                  "name": "Cordura polyamide fabric"
                 },
                 "count": 1
               },
@@ -11673,8 +11673,130 @@
             "rewardItems": [
               {
                 "item": {
-                  "id": "5c0e9f2c86f77432297fe0a3",
-                  "name": "BlackHawk! Commando chest harness (Black)"
+                  "id": "5648a69d4bdc2ded0b8b457b",
+                  "name": "BlackRock chest rig (Gray)"
+                },
+                "count": 1
+              }
+            ]
+          },
+          {
+            "id": "5ffcafd468c55773943fc71e",
+            "duration": 2600,
+            "requiredItems": [
+              {
+                "item": {
+                  "id": "5aa2ba46e5b5b000137b758d",
+                  "name": "UX PRO beanie"
+                },
+                "count": 2
+              },
+              {
+                "item": {
+                  "id": "61bf83814088ec1a363d7097",
+                  "name": "Sewing kit"
+                },
+                "count": 1
+              }
+            ],
+            "rewardItems": [
+              {
+                "item": {
+                  "id": "5e2af47786f7746d404f3aaa",
+                  "name": "Fleece fabric"
+                },
+                "count": 1
+              }
+            ]
+          },
+          {
+            "id": "655b5fd2975a7f3c734661a8",
+            "duration": 1980,
+            "requiredItems": [
+              {
+                "item": {
+                  "id": "5e2af4a786f7746d3f3c3400",
+                  "name": "Ripstop fabric"
+                },
+                "count": 1
+              },
+              {
+                "item": {
+                  "id": "5e2af4d286f7746d4159f07a",
+                  "name": "Aramid fiber fabric"
+                },
+                "count": 1
+              },
+              {
+                "item": {
+                  "id": "5e2af41e86f774755a234b67",
+                  "name": "Cordura polyamide fabric"
+                },
+                "count": 2
+              },
+              {
+                "item": {
+                  "id": "5d40419286f774318526545f",
+                  "name": "Metal cutting scissors"
+                },
+                "count": 1
+              },
+              {
+                "item": {
+                  "id": "656fb21fa0dce000a2020f7c",
+                  "name": "NewSphereTech level III ballistic plate"
+                },
+                "count": 1
+              }
+            ],
+            "rewardItems": [
+              {
+                "item": {
+                  "id": "61bcc89aef0f505f0c6cd0fc",
+                  "name": "First Spear Strandhogg plate carrier (Ranger Green)"
+                },
+                "count": 1
+              }
+            ]
+          },
+          {
+            "id": "655b6bc01f2b6843ec751fd7",
+            "duration": 2500,
+            "requiredItems": [
+              {
+                "item": {
+                  "id": "5e2af4a786f7746d3f3c3400",
+                  "name": "Ripstop fabric"
+                },
+                "count": 2
+              },
+              {
+                "item": {
+                  "id": "5e2af41e86f774755a234b67",
+                  "name": "Cordura polyamide fabric"
+                },
+                "count": 2
+              },
+              {
+                "item": {
+                  "id": "61bf83814088ec1a363d7097",
+                  "name": "Sewing kit"
+                },
+                "count": 1
+              },
+              {
+                "item": {
+                  "id": "59e3556c86f7741776641ac2",
+                  "name": "Ox bleach"
+                },
+                "count": 1
+              }
+            ],
+            "rewardItems": [
+              {
+                "item": {
+                  "id": "5f5e467b0bc58666c37e7821",
+                  "name": "Eberlestock F5 Switchblade backpack (Dry Earth)"
                 },
                 "count": 1
               }
@@ -11753,9 +11875,16 @@
             ]
           },
           {
-            "id": "655b5fd2975a7f3c734661a8",
-            "duration": 1980,
+            "id": "5eda07acb6c564225571536c",
+            "duration": 2800,
             "requiredItems": [
+              {
+                "item": {
+                  "id": "5e2af41e86f774755a234b67",
+                  "name": "Cordura polyamide fabric"
+                },
+                "count": 1
+              },
               {
                 "item": {
                   "id": "5e2af4a786f7746d3f3c3400",
@@ -11765,29 +11894,15 @@
               },
               {
                 "item": {
-                  "id": "5e2af4d286f7746d4159f07a",
-                  "name": "Aramid fiber fabric"
+                  "id": "62a0a098de7ac8199358053b",
+                  "name": "Awl"
                 },
                 "count": 1
               },
               {
                 "item": {
-                  "id": "5e2af41e86f774755a234b67",
-                  "name": "Cordura polyamide fabric"
-                },
-                "count": 2
-              },
-              {
-                "item": {
-                  "id": "5d40419286f774318526545f",
-                  "name": "Metal cutting scissors"
-                },
-                "count": 1
-              },
-              {
-                "item": {
-                  "id": "656fb21fa0dce000a2020f7c",
-                  "name": "NewSphereTech level III ballistic plate"
+                  "id": "61bf83814088ec1a363d7097",
+                  "name": "Sewing kit"
                 },
                 "count": 1
               }
@@ -11795,8 +11910,101 @@
             "rewardItems": [
               {
                 "item": {
-                  "id": "61bcc89aef0f505f0c6cd0fc",
-                  "name": "First Spear Strandhogg plate carrier (Ranger Green)"
+                  "id": "5c0e9f2c86f77432297fe0a3",
+                  "name": "BlackHawk! Commando chest harness (Black)"
+                },
+                "count": 1
+              }
+            ]
+          },
+          {
+            "id": "5eeca9bad874f914d2536585",
+            "duration": 18000,
+            "requiredItems": [
+              {
+                "item": {
+                  "id": "5c127c4486f7745625356c13",
+                  "name": "Magazine case"
+                },
+                "count": 3
+              },
+              {
+                "item": {
+                  "id": "57347c5b245977448d35f6e1",
+                  "name": "Bolts"
+                },
+                "count": 6
+              },
+              {
+                "item": {
+                  "id": "5e2af29386f7746d4159f077",
+                  "name": "KEKTAPE duct tape"
+                },
+                "count": 3
+              },
+              {
+                "item": {
+                  "id": "61bf7b6302b3924be92fa8c3",
+                  "name": "Metal spare parts"
+                },
+                "count": 5
+              },
+              {
+                "item": {
+                  "id": "5d40419286f774318526545f",
+                  "name": "Metal cutting scissors"
+                },
+                "count": 1
+              }
+            ],
+            "rewardItems": [
+              {
+                "item": {
+                  "id": "5b7c710788a4506dec015957",
+                  "name": "Lucky Scav Junk box"
+                },
+                "count": 1
+              }
+            ]
+          },
+          {
+            "id": "5d8f5ee9de0799001d229ed2",
+            "duration": 3720,
+            "requiredItems": [
+              {
+                "item": {
+                  "id": "56742c2e4bdc2d95058b456d",
+                  "name": "Zibbo lighter"
+                },
+                "count": 2
+              },
+              {
+                "item": {
+                  "id": "56742c284bdc2d98058b456d",
+                  "name": "Crickent lighter"
+                },
+                "count": 2
+              },
+              {
+                "item": {
+                  "id": "5d1b39a386f774252339976f",
+                  "name": "Silicone tube"
+                },
+                "count": 1
+              },
+              {
+                "item": {
+                  "id": "5448fee04bdc2dbc018b4567",
+                  "name": "Bottle of water (0.6L)"
+                },
+                "count": 1
+              }
+            ],
+            "rewardItems": [
+              {
+                "item": {
+                  "id": "5d1b371186f774253763a656",
+                  "name": "Expeditionary fuel tank"
                 },
                 "count": 1
               }
@@ -11926,314 +12134,6 @@
                 "item": {
                   "id": "5c127c4486f7745625356c13",
                   "name": "Magazine case"
-                },
-                "count": 1
-              }
-            ]
-          },
-          {
-            "id": "5ffcab66fd851f4b000d61ef",
-            "duration": 30000,
-            "requiredItems": [
-              {
-                "item": {
-                  "id": "5d1b36a186f7742523398433",
-                  "name": "Metal fuel tank"
-                },
-                "count": 2
-              },
-              {
-                "item": {
-                  "id": "57347c77245977448d35f6e2",
-                  "name": "Screw nuts"
-                },
-                "count": 5
-              },
-              {
-                "item": {
-                  "id": "57347c5b245977448d35f6e1",
-                  "name": "Bolts"
-                },
-                "count": 5
-              },
-              {
-                "item": {
-                  "id": "61bf7b6302b3924be92fa8c3",
-                  "name": "Metal spare parts"
-                },
-                "count": 2
-              },
-              {
-                "item": {
-                  "id": "5d40419286f774318526545f",
-                  "name": "Metal cutting scissors"
-                },
-                "count": 1
-              }
-            ],
-            "rewardItems": [
-              {
-                "item": {
-                  "id": "5e2af55f86f7746d4159f07c",
-                  "name": "Grenade case"
-                },
-                "count": 1
-              }
-            ]
-          },
-          {
-            "id": "655b63ac9db22d43ab42b70a",
-            "duration": 9000,
-            "requiredItems": [
-              {
-                "item": {
-                  "id": "5e2af41e86f774755a234b67",
-                  "name": "Cordura polyamide fabric"
-                },
-                "count": 2
-              },
-              {
-                "item": {
-                  "id": "5e2af4d286f7746d4159f07a",
-                  "name": "Aramid fiber fabric"
-                },
-                "count": 3
-              },
-              {
-                "item": {
-                  "id": "5e2af4a786f7746d3f3c3400",
-                  "name": "Ripstop fabric"
-                },
-                "count": 1
-              },
-              {
-                "item": {
-                  "id": "61bf83814088ec1a363d7097",
-                  "name": "Sewing kit"
-                },
-                "count": 1
-              },
-              {
-                "item": {
-                  "id": "590c2e1186f77425357b6124",
-                  "name": "Toolset"
-                },
-                "count": 1
-              },
-              {
-                "item": {
-                  "id": "656f9fa0498d1b7e3e071d98",
-                  "name": "SPRTN Omega ballistic plate"
-                },
-                "count": 2
-              }
-            ],
-            "rewardItems": [
-              {
-                "item": {
-                  "id": "5d5d87f786f77427997cfaef",
-                  "name": "Ars Arma A18 Skanda plate carrier (MultiCam)"
-                },
-                "count": 1
-              }
-            ]
-          },
-          {
-            "id": "5df8fe0deddb880fd56f2d7d",
-            "duration": 2450,
-            "requiredItems": [
-              {
-                "item": {
-                  "id": "5d40407c86f774318526545a",
-                  "name": "Bottle of Tarkovskaya vodka"
-                },
-                "count": 1
-              },
-              {
-                "item": {
-                  "id": "5d40412b86f7743cb332ac3a",
-                  "name": "Schaman shampoo"
-                },
-                "count": 1
-              },
-              {
-                "item": {
-                  "id": "5d1b39a386f774252339976f",
-                  "name": "Silicone tube"
-                },
-                "count": 1
-              }
-            ],
-            "rewardItems": [
-              {
-                "item": {
-                  "id": "59e358a886f7741776641ac3",
-                  "name": "Clin window cleaner"
-                },
-                "count": 2
-              }
-            ]
-          },
-          {
-            "id": "5eeca9bad874f914d2536585",
-            "duration": 18000,
-            "requiredItems": [
-              {
-                "item": {
-                  "id": "5c127c4486f7745625356c13",
-                  "name": "Magazine case"
-                },
-                "count": 3
-              },
-              {
-                "item": {
-                  "id": "57347c5b245977448d35f6e1",
-                  "name": "Bolts"
-                },
-                "count": 6
-              },
-              {
-                "item": {
-                  "id": "5e2af29386f7746d4159f077",
-                  "name": "KEKTAPE duct tape"
-                },
-                "count": 3
-              },
-              {
-                "item": {
-                  "id": "61bf7b6302b3924be92fa8c3",
-                  "name": "Metal spare parts"
-                },
-                "count": 5
-              },
-              {
-                "item": {
-                  "id": "5d40419286f774318526545f",
-                  "name": "Metal cutting scissors"
-                },
-                "count": 1
-              }
-            ],
-            "rewardItems": [
-              {
-                "item": {
-                  "id": "5b7c710788a4506dec015957",
-                  "name": "Lucky Scav Junk box"
-                },
-                "count": 1
-              }
-            ]
-          },
-          {
-            "id": "5d8f5ee9de0799001d229ed2",
-            "duration": 3720,
-            "requiredItems": [
-              {
-                "item": {
-                  "id": "56742c2e4bdc2d95058b456d",
-                  "name": "Zibbo lighter"
-                },
-                "count": 2
-              },
-              {
-                "item": {
-                  "id": "56742c284bdc2d98058b456d",
-                  "name": "Crickent lighter"
-                },
-                "count": 2
-              },
-              {
-                "item": {
-                  "id": "5d1b39a386f774252339976f",
-                  "name": "Silicone tube"
-                },
-                "count": 1
-              },
-              {
-                "item": {
-                  "id": "5448fee04bdc2dbc018b4567",
-                  "name": "Bottle of water (0.6L)"
-                },
-                "count": 1
-              }
-            ],
-            "rewardItems": [
-              {
-                "item": {
-                  "id": "5d1b371186f774253763a656",
-                  "name": "Expeditionary fuel tank"
-                },
-                "count": 1
-              }
-            ]
-          },
-          {
-            "id": "600aa209f64dfd63ec1293d6",
-            "duration": 3600,
-            "requiredItems": [
-              {
-                "item": {
-                  "id": "5e4abfed86f77406a2713cf7",
-                  "name": "Splav Tarzan M22 chest rig (Smog)"
-                },
-                "count": 1
-              },
-              {
-                "item": {
-                  "id": "5e2af4a786f7746d3f3c3400",
-                  "name": "Ripstop fabric"
-                },
-                "count": 1
-              },
-              {
-                "item": {
-                  "id": "5e2af41e86f774755a234b67",
-                  "name": "Cordura polyamide fabric"
-                },
-                "count": 1
-              },
-              {
-                "item": {
-                  "id": "61bf83814088ec1a363d7097",
-                  "name": "Sewing kit"
-                },
-                "count": 1
-              }
-            ],
-            "rewardItems": [
-              {
-                "item": {
-                  "id": "5648a69d4bdc2ded0b8b457b",
-                  "name": "BlackRock chest rig (Gray)"
-                },
-                "count": 1
-              }
-            ]
-          },
-          {
-            "id": "5ffcafd468c55773943fc71e",
-            "duration": 2600,
-            "requiredItems": [
-              {
-                "item": {
-                  "id": "5aa2ba46e5b5b000137b758d",
-                  "name": "UX PRO beanie"
-                },
-                "count": 2
-              },
-              {
-                "item": {
-                  "id": "61bf83814088ec1a363d7097",
-                  "name": "Sewing kit"
-                },
-                "count": 1
-              }
-            ],
-            "rewardItems": [
-              {
-                "item": {
-                  "id": "5e2af47786f7746d404f3aaa",
-                  "name": "Fleece fabric"
                 },
                 "count": 1
               }
@@ -12405,22 +12305,79 @@
             ]
           },
           {
-            "id": "655b6bc01f2b6843ec751fd7",
-            "duration": 2500,
+            "id": "5ffcab66fd851f4b000d61ef",
+            "duration": 30000,
             "requiredItems": [
               {
                 "item": {
-                  "id": "5e2af4a786f7746d3f3c3400",
-                  "name": "Ripstop fabric"
+                  "id": "5d1b36a186f7742523398433",
+                  "name": "Metal fuel tank"
                 },
                 "count": 2
               },
+              {
+                "item": {
+                  "id": "57347c77245977448d35f6e2",
+                  "name": "Screw nuts"
+                },
+                "count": 5
+              },
+              {
+                "item": {
+                  "id": "57347c5b245977448d35f6e1",
+                  "name": "Bolts"
+                },
+                "count": 5
+              },
+              {
+                "item": {
+                  "id": "61bf7b6302b3924be92fa8c3",
+                  "name": "Metal spare parts"
+                },
+                "count": 2
+              },
+              {
+                "item": {
+                  "id": "5d40419286f774318526545f",
+                  "name": "Metal cutting scissors"
+                },
+                "count": 1
+              }
+            ],
+            "rewardItems": [
+              {
+                "item": {
+                  "id": "5e2af55f86f7746d4159f07c",
+                  "name": "Grenade case"
+                },
+                "count": 1
+              }
+            ]
+          },
+          {
+            "id": "655b63ac9db22d43ab42b70a",
+            "duration": 9000,
+            "requiredItems": [
               {
                 "item": {
                   "id": "5e2af41e86f774755a234b67",
                   "name": "Cordura polyamide fabric"
                 },
                 "count": 2
+              },
+              {
+                "item": {
+                  "id": "5e2af4d286f7746d4159f07a",
+                  "name": "Aramid fiber fabric"
+                },
+                "count": 3
+              },
+              {
+                "item": {
+                  "id": "5e2af4a786f7746d3f3c3400",
+                  "name": "Ripstop fabric"
+                },
+                "count": 1
               },
               {
                 "item": {
@@ -12431,8 +12388,51 @@
               },
               {
                 "item": {
-                  "id": "59e3556c86f7741776641ac2",
-                  "name": "Ox bleach"
+                  "id": "590c2e1186f77425357b6124",
+                  "name": "Toolset"
+                },
+                "count": 1
+              },
+              {
+                "item": {
+                  "id": "656f9fa0498d1b7e3e071d98",
+                  "name": "SPRTN Omega ballistic plate"
+                },
+                "count": 2
+              }
+            ],
+            "rewardItems": [
+              {
+                "item": {
+                  "id": "5d5d87f786f77427997cfaef",
+                  "name": "Ars Arma A18 Skanda plate carrier (MultiCam)"
+                },
+                "count": 1
+              }
+            ]
+          },
+          {
+            "id": "5df8fe0deddb880fd56f2d7d",
+            "duration": 2450,
+            "requiredItems": [
+              {
+                "item": {
+                  "id": "5d40407c86f774318526545a",
+                  "name": "Bottle of Tarkovskaya vodka"
+                },
+                "count": 1
+              },
+              {
+                "item": {
+                  "id": "5d40412b86f7743cb332ac3a",
+                  "name": "Schaman shampoo"
+                },
+                "count": 1
+              },
+              {
+                "item": {
+                  "id": "5d1b39a386f774252339976f",
+                  "name": "Silicone tube"
                 },
                 "count": 1
               }
@@ -12440,10 +12440,10 @@
             "rewardItems": [
               {
                 "item": {
-                  "id": "5f5e467b0bc58666c37e7821",
-                  "name": "Eberlestock F5 Switchblade backpack (Dry Earth)"
+                  "id": "59e358a886f7741776641ac3",
+                  "name": "Clin window cleaner"
                 },
-                "count": 1
+                "count": 2
               }
             ]
           }
@@ -12620,56 +12620,6 @@
             ]
           },
           {
-            "id": "5d93ba4486f77454bd61d2a9",
-            "duration": 9400,
-            "requiredItems": [
-              {
-                "item": {
-                  "id": "590c595c86f7747884343ad7",
-                  "name": "Gas mask air filter"
-                },
-                "count": 3
-              },
-              {
-                "item": {
-                  "id": "5d1b385e86f774252167b98a",
-                  "name": "Water filter"
-                },
-                "count": 3
-              },
-              {
-                "item": {
-                  "id": "61bf7b6302b3924be92fa8c3",
-                  "name": "Metal spare parts"
-                },
-                "count": 3
-              },
-              {
-                "item": {
-                  "id": "5d40425986f7743185265461",
-                  "name": "Nippers"
-                },
-                "count": 1
-              },
-              {
-                "item": {
-                  "id": "590c2e1186f77425357b6124",
-                  "name": "Toolset"
-                },
-                "count": 1
-              }
-            ],
-            "rewardItems": [
-              {
-                "item": {
-                  "id": "5d1b2f3f86f774252167a52c",
-                  "name": "FP-100 filter absorber"
-                },
-                "count": 1
-              }
-            ]
-          },
-          {
             "id": "655b6a50b71eeb7c4168c628",
             "duration": 3000,
             "requiredItems": [
@@ -12771,6 +12721,56 @@
                 "item": {
                   "id": "5ab8dced86f774646209ec87",
                   "name": "ANA Tactical M2 plate carrier (OD Green)"
+                },
+                "count": 1
+              }
+            ]
+          },
+          {
+            "id": "5d93ba4486f77454bd61d2a9",
+            "duration": 9400,
+            "requiredItems": [
+              {
+                "item": {
+                  "id": "590c595c86f7747884343ad7",
+                  "name": "Gas mask air filter"
+                },
+                "count": 3
+              },
+              {
+                "item": {
+                  "id": "5d1b385e86f774252167b98a",
+                  "name": "Water filter"
+                },
+                "count": 3
+              },
+              {
+                "item": {
+                  "id": "61bf7b6302b3924be92fa8c3",
+                  "name": "Metal spare parts"
+                },
+                "count": 3
+              },
+              {
+                "item": {
+                  "id": "5d40425986f7743185265461",
+                  "name": "Nippers"
+                },
+                "count": 1
+              },
+              {
+                "item": {
+                  "id": "590c2e1186f77425357b6124",
+                  "name": "Toolset"
+                },
+                "count": 1
+              }
+            ],
+            "rewardItems": [
+              {
+                "item": {
+                  "id": "5d1b2f3f86f774252167a52c",
+                  "name": "FP-100 filter absorber"
                 },
                 "count": 1
               }

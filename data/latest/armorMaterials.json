@@ -11,7 +11,7 @@
   },
   {
     "id": "Titan",
-    "name": "Titan",
+    "name": "Titanium",
     "destructibility": 0.4125,
     "minRepairDegradation": 0.06,
     "maxRepairDegradation": 0.1,
