@@ -944,23 +944,15 @@
     "bosses": [
       {
         "name": "Sanitar",
-        "spawnChance": 0.75,
+        "spawnChance": 0.7,
         "spawnLocations": [
           {
-            "name": "Greenhouses",
-            "chance": 0.4
-          },
-          {
-            "name": "West Wing",
-            "chance": 0.2
-          },
-          {
-            "name": "East Wing",
-            "chance": 0.2
-          },
-          {
             "name": "Pier",
-            "chance": 0.2
+            "chance": 0.5
+          },
+          {
+            "name": "Greenhouses",
+            "chance": 0.5
           }
         ],
         "escorts": [
@@ -2757,8 +2749,8 @@
       "Black Div.",
       "AF",
       "AF",
-      "Glukhar",
-      "Glukhar Guard (Security)"
+      "Sanitar",
+      "Sanitar Guard"
     ],
     "raidDuration": 50,
     "players": "1-5",
@@ -3408,7 +3400,7 @@
         ]
       },
       {
-        "name": "Glukhar",
+        "name": "Sanitar",
         "spawnChance": 1,
         "spawnLocations": [
           {
@@ -3418,7 +3410,7 @@
         ],
         "escorts": [
           {
-            "name": "Glukhar Guard (Security)",
+            "name": "Sanitar Guard",
             "amount": [
               {
                 "count": 3,
@@ -3447,7 +3439,7 @@
       "pmcBotBlackDiv",
       "bossWedge"
     ],
-    "raidDuration": 40,
+    "raidDuration": 50,
     "players": "1-3",
     "bosses": [
       {
@@ -3485,7 +3477,7 @@
             "name": "Rogue",
             "amount": [
               {
-                "count": 2,
+                "count": 1,
                 "chance": 1
               }
             ]
@@ -3506,7 +3498,7 @@
             "name": "Rogue",
             "amount": [
               {
-                "count": 2,
+                "count": 1,
                 "chance": 1
               }
             ]
@@ -3788,7 +3780,7 @@
       },
       {
         "name": "bossBullyBlackDiv",
-        "spawnChance": 1,
+        "spawnChance": 0.7,
         "spawnLocations": [
           {
             "name": "Stern",
@@ -4191,6 +4183,90 @@
             "amount": [
               {
                 "count": 4,
+                "chance": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Rogue",
+        "spawnChance": 0.5,
+        "spawnLocations": [
+          {
+            "name": "KorrDown1",
+            "chance": 1
+          }
+        ],
+        "escorts": [
+          {
+            "name": "Rogue",
+            "amount": [
+              {
+                "count": 1,
+                "chance": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Rogue",
+        "spawnChance": 0.5,
+        "spawnLocations": [
+          {
+            "name": "Room_Eng",
+            "chance": 1
+          }
+        ],
+        "escorts": [
+          {
+            "name": "Rogue",
+            "amount": [
+              {
+                "count": 1,
+                "chance": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Rogue",
+        "spawnChance": 0.5,
+        "spawnLocations": [
+          {
+            "name": "Room_Eng2",
+            "chance": 1
+          }
+        ],
+        "escorts": [
+          {
+            "name": "Rogue",
+            "amount": [
+              {
+                "count": 1,
+                "chance": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Rogue",
+        "spawnChance": 0.5,
+        "spawnLocations": [
+          {
+            "name": "Front2",
+            "chance": 1
+          }
+        ],
+        "escorts": [
+          {
+            "name": "Rogue",
+            "amount": [
+              {
+                "count": 1,
                 "chance": 1
               }
             ]

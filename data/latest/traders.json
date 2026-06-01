@@ -4,7 +4,7 @@
     "name": "Prapor",
     "normalizedName": "prapor",
     "description": "The Warrant officer in charge of supply warehouses on the sustaining base enforcing the Norvinsk region blockade. Secretly supplied the BEAR PMC operators with weapons, ammunition, and various other provisions he had at his disposal during the Contract Wars.",
-    "resetTime": "2026-05-25T17:02:58.000Z",
+    "resetTime": "2026-06-01T22:48:56.000Z",
     "currency": {
       "id": "5449016a4bdc2d6f028b456f",
       "name": "Roubles"
@@ -60,7 +60,7 @@
     "name": "Therapist",
     "normalizedName": "therapist",
     "description": "Head of the Trauma Care Department of the Tarkov Central City Hospital.",
-    "resetTime": "2026-05-25T16:50:51.000Z",
+    "resetTime": "2026-06-01T21:21:59.000Z",
     "currency": {
       "id": "5449016a4bdc2d6f028b456f",
       "name": "Roubles"
@@ -116,7 +116,7 @@
     "name": "Fence",
     "normalizedName": "fence",
     "description": "The conflict had barely started when Fence began setting up anonymous outlets for buying and selling goods. Keeping incognito, he nevertheless managed to put together a well-organised smuggler network, operating all over the Norvinsk region.",
-    "resetTime": "2026-05-25T17:05:28.000Z",
+    "resetTime": "2026-06-01T21:43:32.000Z",
     "currency": {
       "id": "5449016a4bdc2d6f028b456f",
       "name": "Roubles"
@@ -162,7 +162,7 @@
     "name": "Skier",
     "normalizedName": "skier",
     "description": "Previously a port zone customs terminal employee, who initially oversaw dealings of the terminal's goods. Over the course of the conflict, he put together a gang of thugs in order to grab everything of value that he could lay his hands on in the vicinity of the terminal.",
-    "resetTime": "2026-05-25T17:19:34.000Z",
+    "resetTime": "2026-06-01T21:43:16.000Z",
     "currency": {
       "id": "5449016a4bdc2d6f028b456f",
       "name": "Roubles"
@@ -218,7 +218,7 @@
     "name": "Peacekeeper",
     "normalizedName": "peacekeeper",
     "description": "UN peacekeeping Force supply officer, based in one of the central checkpoints leading to the Tarkov port zone. The blue helmets have been seen poking their heads into small deals from the very beginning of the conflict, buying everything of value in exchange for western weapons, ammo, and all kinds of military equipment.",
-    "resetTime": "2026-05-25T18:44:06.000Z",
+    "resetTime": "2026-06-01T23:07:09.000Z",
     "currency": {
       "id": "5696686a4bdc2da3298b456a",
       "name": "Dollars"
@@ -274,7 +274,7 @@
     "name": "Mechanic",
     "normalizedName": "mechanic",
     "description": "A former chemical plant foreman, who from the very beginning of the conflict took to weapon modification, repairs, and maintenance of complex equipment and technology. He prefers clandestine solo living and operates discreetly, while placing complicated and challenging tasks above all else.",
-    "resetTime": "2026-05-25T16:00:58.000Z",
+    "resetTime": "2026-06-01T23:29:21.000Z",
     "currency": {
       "id": "5449016a4bdc2d6f028b456f",
       "name": "Roubles"
@@ -330,7 +330,7 @@
     "name": "Ragman",
     "normalizedName": "ragman",
     "description": "Previously, he worked as a director in a shopping center located in the suburbs of Tarkov. Now dealing in mostly clothing- and gear-related items, anywhere from sunglasses to body armor.",
-    "resetTime": "2026-05-25T18:38:11.000Z",
+    "resetTime": "2026-06-01T22:51:01.000Z",
     "currency": {
       "id": "5449016a4bdc2d6f028b456f",
       "name": "Roubles"
@@ -386,7 +386,7 @@
     "name": "Jaeger",
     "normalizedName": "jaeger",
     "description": "Before the conflict, he worked as a hunter in the Priozersk Natural Reserve under the State Hunting Service. A professional hunter and survival specialist. Even now, he still guards the reserve's hunting grounds from various aggressive individuals.",
-    "resetTime": "2026-05-25T16:56:22.000Z",
+    "resetTime": "2026-06-01T21:17:13.000Z",
     "currency": {
       "id": "5449016a4bdc2d6f028b456f",
       "name": "Roubles"
@@ -442,7 +442,7 @@
     "name": "Lightkeeper",
     "normalizedName": "lightkeeper",
     "description": "<Classified>",
-    "resetTime": "2026-05-25T16:46:54.000Z",
+    "resetTime": "2026-06-01T21:18:54.000Z",
     "currency": {
       "id": "5449016a4bdc2d6f028b456f",
       "name": "Roubles"
@@ -468,7 +468,7 @@
     "name": "Taran",
     "normalizedName": "taran",
     "description": "Member of the Bogatyr squad.",
-    "resetTime": "2026-05-25T15:56:54.000Z",
+    "resetTime": "2026-06-01T21:40:55.000Z",
     "currency": {
       "id": "5449016a4bdc2d6f028b456f",
       "name": "Roubles"
@@ -494,7 +494,7 @@
     "name": "BTR Driver",
     "normalizedName": "btr-driver",
     "description": "<Unknown>",
-    "resetTime": "2026-05-25T16:06:01.000Z",
+    "resetTime": "2026-06-01T21:49:55.000Z",
     "currency": {
       "id": "5449016a4bdc2d6f028b456f",
       "name": "Roubles"
@@ -520,7 +520,7 @@
     "name": "Radio station",
     "normalizedName": "radio-station",
     "description": "A multi-function radio station with built-in cryptographic processor.",
-    "resetTime": "2026-05-25T16:33:54.000Z",
+    "resetTime": "2026-06-01T21:16:54.000Z",
     "currency": {
       "id": "5449016a4bdc2d6f028b456f",
       "name": "Roubles"
@@ -546,7 +546,7 @@
     "name": "Ref",
     "normalizedName": "ref",
     "description": "The Arena host who organizes pit fights across Tarkov.",
-    "resetTime": "2026-05-25T16:34:10.000Z",
+    "resetTime": "2026-06-01T22:52:16.000Z",
     "currency": {
       "id": "5449016a4bdc2d6f028b456f",
       "name": "Roubles"
@@ -602,7 +602,7 @@
     "name": "Mr. Kerman",
     "normalizedName": "mr-kerman",
     "description": "<Unknown>",
-    "resetTime": "2026-05-25T15:55:54.000Z",
+    "resetTime": "2026-06-01T21:40:55.000Z",
     "currency": {
       "id": "5449016a4bdc2d6f028b456f",
       "name": "Roubles"
@@ -628,7 +628,7 @@
     "name": "Voevoda",
     "normalizedName": "voevoda",
     "description": "Commander of the Bogatyr squad.",
-    "resetTime": "2026-05-25T16:28:54.000Z",
+    "resetTime": "2026-06-01T21:02:54.000Z",
     "currency": {
       "id": "5449016a4bdc2d6f028b456f",
       "name": "Roubles"
@@ -654,7 +654,7 @@
     "name": "Survivor",
     "normalizedName": "survivor",
     "description": "Survivor",
-    "resetTime": "2026-05-25T16:38:54.000Z",
+    "resetTime": "2026-06-01T21:23:57.000Z",
     "currency": {
       "id": "5449016a4bdc2d6f028b456f",
       "name": "Roubles"

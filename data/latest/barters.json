@@ -321,33 +321,6 @@
     ]
   },
   {
-    "id": "69c67337bb9f4cb77d081d6d8",
-    "trader": {
-      "id": "5ac3b934156ae10c4430e83c",
-      "name": "Ragman"
-    },
-    "level": 1,
-    "taskUnlock": null,
-    "requiredItems": [
-      {
-        "item": {
-          "id": "62a0a098de7ac8199358053b",
-          "name": "Awl"
-        },
-        "count": 1
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "5c13cd2486f774072c757944",
-          "name": "Soap"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
     "id": "69c67395bb9f4cb77d084aba8",
     "trader": {
       "id": "54cb57776803fa99248b456e",
@@ -369,6 +342,33 @@
         "item": {
           "id": "57347c93245977448d35f6e3",
           "name": "Toothpaste"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "6a15764860e36e62900a8fb98",
+    "trader": {
+      "id": "5ac3b934156ae10c4430e83c",
+      "name": "Ragman"
+    },
+    "level": 1,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "62a0a098de7ac8199358053b",
+          "name": "Awl"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5c13cd2486f774072c757944",
+          "name": "Soap"
         },
         "count": 1
       }
@@ -2777,293 +2777,6 @@
     ]
   },
   {
-    "id": "69c67333bb9f4cb77d081aad5",
-    "trader": {
-      "id": "5ac3b934156ae10c4430e83c",
-      "name": "Ragman"
-    },
-    "level": 2,
-    "taskUnlock": null,
-    "requiredItems": [
-      {
-        "item": {
-          "id": "59e3556c86f7741776641ac2",
-          "name": "Ox bleach"
-        },
-        "count": 2
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "5aa7cfc0e5b5b00015693143",
-          "name": "6B47 Ratnik-BSh helmet (EMR cover)"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "69c67333bb9f4cb77d081ac25",
-    "trader": {
-      "id": "5ac3b934156ae10c4430e83c",
-      "name": "Ragman"
-    },
-    "level": 4,
-    "taskUnlock": {
-      "id": "60e71d23c1bfa3050473b8e6",
-      "name": "Calibration"
-    },
-    "requiredItems": [
-      {
-        "item": {
-          "id": "5d1b31ce86f7742523398394",
-          "name": "Round pliers"
-        },
-        "count": 3
-      },
-      {
-        "item": {
-          "id": "5d1b317c86f7742523398392",
-          "name": "Hand drill"
-        },
-        "count": 1
-      },
-      {
-        "item": {
-          "id": "590c31c586f774245e3141b2",
-          "name": "Pack of nails"
-        },
-        "count": 3
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "5aa7e276e5b5b000171d0647",
-          "name": "Altyn bulletproof helmet (Olive Drab)"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "69c67333bb9f4cb77d081b105",
-    "trader": {
-      "id": "5ac3b934156ae10c4430e83c",
-      "name": "Ragman"
-    },
-    "level": 4,
-    "taskUnlock": null,
-    "requiredItems": [
-      {
-        "item": {
-          "id": "57347ca924597744596b4e71",
-          "name": "Graphics card"
-        },
-        "count": 1
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "5ca20ee186f774799474abc2",
-          "name": "Vulkan-5 LShZ-5 bulletproof helmet (Black)"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "69c67334bb9f4cb77d081b485",
-    "trader": {
-      "id": "5ac3b934156ae10c4430e83c",
-      "name": "Ragman"
-    },
-    "level": 2,
-    "taskUnlock": null,
-    "requiredItems": [
-      {
-        "item": {
-          "id": "59e770b986f7742cbd762754",
-          "name": "Anti-fragmentation glasses"
-        },
-        "count": 2
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "5aa7d03ae5b5b00016327db5",
-          "name": "UNTAR helmet"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "69c67334bb9f4cb77d081bc65",
-    "trader": {
-      "id": "5ac3b934156ae10c4430e83c",
-      "name": "Ragman"
-    },
-    "level": 3,
-    "taskUnlock": null,
-    "requiredItems": [
-      {
-        "item": {
-          "id": "5e2af29386f7746d4159f077",
-          "name": "KEKTAPE duct tape"
-        },
-        "count": 1
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "5aa2b9ede5b5b000137b758b",
-          "name": "Kinda cowboy hat"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "69c67335bb9f4cb77d081c705",
-    "trader": {
-      "id": "5ac3b934156ae10c4430e83c",
-      "name": "Ragman"
-    },
-    "level": 2,
-    "taskUnlock": null,
-    "requiredItems": [
-      {
-        "item": {
-          "id": "590c2c9c86f774245b1f03f2",
-          "name": "Construction measuring tape"
-        },
-        "count": 1
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "5aa2ba19e5b5b00014028f4e",
-          "name": "Tactical fleece beanie (Tan)"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "69c67338bb9f4cb77d081dfb5",
-    "trader": {
-      "id": "5ac3b934156ae10c4430e83c",
-      "name": "Ragman"
-    },
-    "level": 2,
-    "taskUnlock": null,
-    "requiredItems": [
-      {
-        "item": {
-          "id": "59e3556c86f7741776641ac2",
-          "name": "Ox bleach"
-        },
-        "count": 2
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "6745895717824b1ec20570a6",
-          "name": "6B47 Ratnik-BSh helmet (EMR Arctic cover)"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "69c67338bb9f4cb77d081e6a5",
-    "trader": {
-      "id": "5ac3b934156ae10c4430e83c",
-      "name": "Ragman"
-    },
-    "level": 1,
-    "taskUnlock": null,
-    "requiredItems": [
-      {
-        "item": {
-          "id": "57e26fc7245977162a14b800",
-          "name": "Bars A-2607 95Kh18 knife"
-        },
-        "count": 1
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "59e7708286f7742cbd762753",
-          "name": "Ushanka ear flap hat"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "69c67338bb9f4cb77d081e6d5",
-    "trader": {
-      "id": "5ac3b934156ae10c4430e83c",
-      "name": "Ragman"
-    },
-    "level": 1,
-    "taskUnlock": null,
-    "requiredItems": [
-      {
-        "item": {
-          "id": "573474f924597738002c6174",
-          "name": "Chainlet"
-        },
-        "count": 1
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "59e7708286f7742cbd762753",
-          "name": "Ushanka ear flap hat"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "69c67339bb9f4cb77d081eae5",
-    "trader": {
-      "id": "5ac3b934156ae10c4430e83c",
-      "name": "Ragman"
-    },
-    "level": 1,
-    "taskUnlock": null,
-    "requiredItems": [
-      {
-        "item": {
-          "id": "573478bc24597738002c6175",
-          "name": "Horse figurine"
-        },
-        "count": 1
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "5b4329075acfc400153b78ff",
-          "name": "Pompon hat"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
     "id": "69ea3c65b4310eb6f70018a75",
     "trader": {
       "id": "6617beeaa9cfa777ca915b7c",
@@ -4009,7 +3722,7 @@
     ]
   },
   {
-    "id": "6a0da99690e28431670f17045",
+    "id": "6a15763a60e36e62900a88745",
     "trader": {
       "id": "5935c25fb3acc3127c3d8cd9",
       "name": "Peacekeeper"
@@ -4043,7 +3756,7 @@
     ]
   },
   {
-    "id": "6a0da99690e28431670f17115",
+    "id": "6a15763a60e36e62900a88845",
     "trader": {
       "id": "5935c25fb3acc3127c3d8cd9",
       "name": "Peacekeeper"
@@ -4071,6 +3784,320 @@
         "item": {
           "id": "70726573657400000000001d",
           "name": "Ops-Core FAST MT Super High Cut helmet (Black) RAC"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "6a15764560e36e62900a8d0b5",
+    "trader": {
+      "id": "5ac3b934156ae10c4430e83c",
+      "name": "Ragman"
+    },
+    "level": 4,
+    "taskUnlock": {
+      "id": "60e71d23c1bfa3050473b8e6",
+      "name": "Calibration"
+    },
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5d1b31ce86f7742523398394",
+          "name": "Round pliers"
+        },
+        "count": 3
+      },
+      {
+        "item": {
+          "id": "5d1b317c86f7742523398392",
+          "name": "Hand drill"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "590c31c586f774245e3141b2",
+          "name": "Pack of nails"
+        },
+        "count": 3
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5aa7e276e5b5b000171d0647",
+          "name": "Altyn bulletproof helmet (Olive Drab)"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "6a15764560e36e62900a8d235",
+    "trader": {
+      "id": "5ac3b934156ae10c4430e83c",
+      "name": "Ragman"
+    },
+    "level": 2,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "59e3556c86f7741776641ac2",
+          "name": "Ox bleach"
+        },
+        "count": 2
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5aa7cfc0e5b5b00015693143",
+          "name": "6B47 Ratnik-BSh helmet (EMR cover)"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "6a15764560e36e62900a8d535",
+    "trader": {
+      "id": "5ac3b934156ae10c4430e83c",
+      "name": "Ragman"
+    },
+    "level": 2,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "59e770b986f7742cbd762754",
+          "name": "Anti-fragmentation glasses"
+        },
+        "count": 2
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5aa7d03ae5b5b00016327db5",
+          "name": "UNTAR helmet"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "6a15764660e36e62900a8e1f5",
+    "trader": {
+      "id": "5ac3b934156ae10c4430e83c",
+      "name": "Ragman"
+    },
+    "level": 4,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "57347ca924597744596b4e71",
+          "name": "Graphics card"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5ca20ee186f774799474abc2",
+          "name": "Vulkan-5 LShZ-5 bulletproof helmet (Black)"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "6a15764760e36e62900a8e6d5",
+    "trader": {
+      "id": "5ac3b934156ae10c4430e83c",
+      "name": "Ragman"
+    },
+    "level": 3,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5e2af29386f7746d4159f077",
+          "name": "KEKTAPE duct tape"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5aa2b9ede5b5b000137b758b",
+          "name": "Kinda cowboy hat"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "6a15764760e36e62900a8eba5",
+    "trader": {
+      "id": "5ac3b934156ae10c4430e83c",
+      "name": "Ragman"
+    },
+    "level": 2,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "590c2c9c86f774245b1f03f2",
+          "name": "Construction measuring tape"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5aa2ba19e5b5b00014028f4e",
+          "name": "Tactical fleece beanie (Tan)"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "6a15764960e36e62900a905c5",
+    "trader": {
+      "id": "5ac3b934156ae10c4430e83c",
+      "name": "Ragman"
+    },
+    "level": 2,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "59e3556c86f7741776641ac2",
+          "name": "Ox bleach"
+        },
+        "count": 2
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "6745895717824b1ec20570a6",
+          "name": "6B47 Ratnik-BSh helmet (EMR Arctic cover)"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "6a15764a60e36e62900a90795",
+    "trader": {
+      "id": "5ac3b934156ae10c4430e83c",
+      "name": "Ragman"
+    },
+    "level": 1,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "573474f924597738002c6174",
+          "name": "Chainlet"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "59e7708286f7742cbd762753",
+          "name": "Ushanka ear flap hat"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "6a15764a60e36e62900a90e25",
+    "trader": {
+      "id": "5ac3b934156ae10c4430e83c",
+      "name": "Ragman"
+    },
+    "level": 1,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "57e26fc7245977162a14b800",
+          "name": "Bars A-2607 95Kh18 knife"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "59e7708286f7742cbd762753",
+          "name": "Ushanka ear flap hat"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "6a15764a60e36e62900a91085",
+    "trader": {
+      "id": "5ac3b934156ae10c4430e83c",
+      "name": "Ragman"
+    },
+    "level": 1,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "573478bc24597738002c6175",
+          "name": "Horse figurine"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5b4329075acfc400153b78ff",
+          "name": "Pompon hat"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "6a15764a60e36e62900a91285",
+    "trader": {
+      "id": "5ac3b934156ae10c4430e83c",
+      "name": "Ragman"
+    },
+    "level": 1,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "69bb424e99f3fda8f107247d",
+          "name": "Memento Server RAM Module"
+        },
+        "count": 2
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5f60c74e3b85f6263c145586",
+          "name": "Rys-T bulletproof helmet (Black)"
         },
         "count": 1
       }
@@ -6360,87 +6387,6 @@
     ]
   },
   {
-    "id": "69c67334bb9f4cb77d081b9b5",
-    "trader": {
-      "id": "5ac3b934156ae10c4430e83c",
-      "name": "Ragman"
-    },
-    "level": 1,
-    "taskUnlock": null,
-    "requiredItems": [
-      {
-        "item": {
-          "id": "5c13cef886f774072e618e82",
-          "name": "Toilet paper"
-        },
-        "count": 3
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "5b432b965acfc47a8774094e",
-          "name": "GSSh-01 active headset"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "69c67334bb9f4cb77d081bab5",
-    "trader": {
-      "id": "5ac3b934156ae10c4430e83c",
-      "name": "Ragman"
-    },
-    "level": 2,
-    "taskUnlock": null,
-    "requiredItems": [
-      {
-        "item": {
-          "id": "57347b8b24597737dd42e192",
-          "name": "Classic matches"
-        },
-        "count": 2
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "5645bcc04bdc2d363b8b4572",
-          "name": "Peltor ComTac II headset (OD Green)"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "69c67337bb9f4cb77d081d485",
-    "trader": {
-      "id": "5ac3b934156ae10c4430e83c",
-      "name": "Ragman"
-    },
-    "level": 2,
-    "taskUnlock": null,
-    "requiredItems": [
-      {
-        "item": {
-          "id": "5f745ee30acaeb0d490d8c5b",
-          "name": "Veritas guitar pick"
-        },
-        "count": 1
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "5aa2ba71e5b5b000137b758f",
-          "name": "MSA Sordin Supreme PRO-X/L headset"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
     "id": "69ea3c6ab4310eb6f7001cba5",
     "trader": {
       "id": "6617beeaa9cfa777ca915b7c",
@@ -6711,64 +6657,34 @@
     ]
   },
   {
-    "id": "69c67333bb9f4cb77d081acb5",
+    "id": "6a15764560e36e62900a8d6a5",
     "trader": {
       "id": "5ac3b934156ae10c4430e83c",
       "name": "Ragman"
     },
-    "level": 4,
+    "level": 1,
     "taskUnlock": null,
     "requiredItems": [
       {
         "item": {
-          "id": "5c1267ee86f77416ec610f72",
-          "name": "Chain with Prokill medallion"
+          "id": "5c13cef886f774072e618e82",
+          "name": "Toilet paper"
         },
-        "count": 1
+        "count": 3
       }
     ],
     "rewardItems": [
       {
         "item": {
-          "id": "5ab8ebf186f7742d8b372e80",
-          "name": "SSO Attack 2 raid backpack (Khaki)"
+          "id": "5b432b965acfc47a8774094e",
+          "name": "GSSh-01 active headset"
         },
         "count": 1
       }
     ]
   },
   {
-    "id": "69c67334bb9f4cb77d081b425",
-    "trader": {
-      "id": "5ac3b934156ae10c4430e83c",
-      "name": "Ragman"
-    },
-    "level": 4,
-    "taskUnlock": {
-      "id": "5b478b1886f7744d1b23c57d",
-      "name": "Hot Delivery"
-    },
-    "requiredItems": [
-      {
-        "item": {
-          "id": "5c05300686f7746dce784e5d",
-          "name": "VPX Flash Storage Module"
-        },
-        "count": 1
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "5c0e774286f77468413cc5b2",
-          "name": "Mystery Ranch Blackjack 50 backpack (MultiCam)"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "69c67335bb9f4cb77d081c3c5",
+    "id": "6a15764660e36e62900a8dba5",
     "trader": {
       "id": "5ac3b934156ae10c4430e83c",
       "name": "Ragman"
@@ -6778,123 +6694,8 @@
     "requiredItems": [
       {
         "item": {
-          "id": "573478bc24597738002c6175",
-          "name": "Horse figurine"
-        },
-        "count": 1
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "60a2828e8689911a226117f9",
-          "name": "Hazard 4 Pillbox backpack (Black)"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "69c67335bb9f4cb77d081c645",
-    "trader": {
-      "id": "5ac3b934156ae10c4430e83c",
-      "name": "Ragman"
-    },
-    "level": 2,
-    "taskUnlock": null,
-    "requiredItems": [
-      {
-        "item": {
-          "id": "5e2af41e86f774755a234b67",
-          "name": "Cordura polyamide fabric"
-        },
-        "count": 1
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "618cfae774bb2d036a049e7c",
-          "name": "LBT-1476A 3Day Pack (Woodland)"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "69c67336bb9f4cb77d081c735",
-    "trader": {
-      "id": "5ac3b934156ae10c4430e83c",
-      "name": "Ragman"
-    },
-    "level": 3,
-    "taskUnlock": null,
-    "requiredItems": [
-      {
-        "item": {
-          "id": "customdogtags12345678910",
-          "name": "Dogtag"
-        },
-        "count": 10
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "62a1b7fbc30cfa1d366af586",
-          "name": "Gruppa 99 T30 backpack (MultiCam)"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "69c67336bb9f4cb77d081cf25",
-    "trader": {
-      "id": "5ac3b934156ae10c4430e83c",
-      "name": "Ragman"
-    },
-    "level": 4,
-    "taskUnlock": null,
-    "requiredItems": [
-      {
-        "item": {
-          "id": "5734773724597737fd047c14",
-          "name": "Can of condensed milk"
-        },
-        "count": 2
-      },
-      {
-        "item": {
-          "id": "575146b724597720a27126d5",
-          "name": "Pack of milk"
-        },
-        "count": 1
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "639346cc1c8f182ad90c8972",
-          "name": "Tasmanian Tiger Trooper 35 backpack (Khaki)"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "69c67337bb9f4cb77d081d855",
-    "trader": {
-      "id": "5ac3b934156ae10c4430e83c",
-      "name": "Ragman"
-    },
-    "level": 3,
-    "taskUnlock": null,
-    "requiredItems": [
-      {
-        "item": {
-          "id": "57347baf24597738002c6178",
-          "name": "RAM stick"
+          "id": "57347b8b24597737dd42e192",
+          "name": "Classic matches"
         },
         "count": 2
       }
@@ -6902,15 +6703,15 @@
     "rewardItems": [
       {
         "item": {
-          "id": "67458730df3c1da90b0b052b",
-          "name": "5.11 Tactical RUSH 100 backpack (Black)"
+          "id": "5645bcc04bdc2d363b8b4572",
+          "name": "Peltor ComTac II headset (OD Green)"
         },
         "count": 1
       }
     ]
   },
   {
-    "id": "69c67337bb9f4cb77d081dc65",
+    "id": "6a15764860e36e62900a8f1a5",
     "trader": {
       "id": "5ac3b934156ae10c4430e83c",
       "name": "Ragman"
@@ -6920,8 +6721,8 @@
     "requiredItems": [
       {
         "item": {
-          "id": "5e2af41e86f774755a234b67",
-          "name": "Cordura polyamide fabric"
+          "id": "5f745ee30acaeb0d490d8c5b",
+          "name": "Veritas guitar pick"
         },
         "count": 1
       }
@@ -6929,8 +6730,8 @@
     "rewardItems": [
       {
         "item": {
-          "id": "67458794e21e5d724e066976",
-          "name": "LBT-1476A 3Day Pack (MultiCam Alpine)"
+          "id": "5aa2ba71e5b5b000137b758f",
+          "name": "MSA Sordin Supreme PRO-X/L headset"
         },
         "count": 1
       }
@@ -7103,7 +6904,7 @@
     ]
   },
   {
-    "id": "6a0da98a90e28431670f11665",
+    "id": "6a15762d60e36e62900a82255",
     "trader": {
       "id": "5935c25fb3acc3127c3d8cd9",
       "name": "Peacekeeper"
@@ -7130,7 +6931,7 @@
     ]
   },
   {
-    "id": "6a0da99090e28431670f14285",
+    "id": "6a15763460e36e62900a857e5",
     "trader": {
       "id": "5935c25fb3acc3127c3d8cd9",
       "name": "Peacekeeper"
@@ -7164,18 +6965,18 @@
     ]
   },
   {
-    "id": "69c67333bb9f4cb77d081afd5",
+    "id": "6a15764560e36e62900a8d055",
     "trader": {
       "id": "5ac3b934156ae10c4430e83c",
       "name": "Ragman"
     },
-    "level": 3,
+    "level": 4,
     "taskUnlock": null,
     "requiredItems": [
       {
         "item": {
-          "id": "590de71386f774347051a052",
-          "name": "Antique teapot"
+          "id": "5c1267ee86f77416ec610f72",
+          "name": "Chain with Prokill medallion"
         },
         "count": 1
       }
@@ -7183,33 +6984,29 @@
     "rewardItems": [
       {
         "item": {
-          "id": "5c0e6a1586f77404597b4965",
-          "name": "Poyas-A + Poyas-B gear rig"
+          "id": "5ab8ebf186f7742d8b372e80",
+          "name": "SSO Attack 2 raid backpack (Khaki)"
         },
         "count": 1
       }
     ]
   },
   {
-    "id": "69c67333bb9f4cb77d081b1c5",
+    "id": "6a15764560e36e62900a8d915",
     "trader": {
       "id": "5ac3b934156ae10c4430e83c",
       "name": "Ragman"
     },
-    "level": 3,
-    "taskUnlock": null,
+    "level": 4,
+    "taskUnlock": {
+      "id": "5b478b1886f7744d1b23c57d",
+      "name": "Hot Delivery"
+    },
     "requiredItems": [
       {
         "item": {
-          "id": "5e8f3423fd7471236e6e3b64",
-          "name": "Bottle of Norvinsky Yadreniy premium kvass (0.6L)"
-        },
-        "count": 2
-      },
-      {
-        "item": {
-          "id": "5c0fa877d174af02a012e1cf",
-          "name": "Aquamari water bottle with filter"
+          "id": "5c05300686f7746dce784e5d",
+          "name": "VPX Flash Storage Module"
         },
         "count": 1
       }
@@ -7217,15 +7014,15 @@
     "rewardItems": [
       {
         "item": {
-          "id": "6576616086f11bca4106d35f",
-          "name": "ANA Tactical M1 plate carrier (OD Green) Default"
+          "id": "5c0e774286f77468413cc5b2",
+          "name": "Mystery Ranch Blackjack 50 backpack (MultiCam)"
         },
         "count": 1
       }
     ]
   },
   {
-    "id": "69c67333bb9f4cb77d081b315",
+    "id": "6a15764760e36e62900a8ea25",
     "trader": {
       "id": "5ac3b934156ae10c4430e83c",
       "name": "Ragman"
@@ -7235,15 +7032,8 @@
     "requiredItems": [
       {
         "item": {
-          "id": "57347c1124597737fb1379e3",
-          "name": "Duct tape"
-        },
-        "count": 5
-      },
-      {
-        "item": {
-          "id": "59faf98186f774067b6be103",
-          "name": "Alkaline cleaner for heat exchangers"
+          "id": "5e2af41e86f774755a234b67",
+          "name": "Cordura polyamide fabric"
         },
         "count": 1
       }
@@ -7251,20 +7041,20 @@
     "rewardItems": [
       {
         "item": {
-          "id": "592c2d1a86f7746dbe2af32a",
-          "name": "ANA Tactical Alpha chest rig (Olive Drab)"
+          "id": "618cfae774bb2d036a049e7c",
+          "name": "LBT-1476A 3Day Pack (Woodland)"
         },
         "count": 1
       }
     ]
   },
   {
-    "id": "69c67334bb9f4cb77d081b515",
+    "id": "6a15764760e36e62900a8ea85",
     "trader": {
       "id": "5ac3b934156ae10c4430e83c",
       "name": "Ragman"
     },
-    "level": 4,
+    "level": 3,
     "taskUnlock": null,
     "requiredItems": [
       {
@@ -7278,20 +7068,47 @@
     "rewardItems": [
       {
         "item": {
-          "id": "6571952aacb85662e7024c01",
-          "name": "ANA Tactical M2 plate carrier (OD Green) Default"
+          "id": "62a1b7fbc30cfa1d366af586",
+          "name": "Gruppa 99 T30 backpack (MultiCam)"
         },
         "count": 1
       }
     ]
   },
   {
-    "id": "69c67335bb9f4cb77d081c3f5",
+    "id": "6a15764760e36e62900a8eb75",
     "trader": {
       "id": "5ac3b934156ae10c4430e83c",
       "name": "Ragman"
     },
-    "level": 3,
+    "level": 2,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "573478bc24597738002c6175",
+          "name": "Horse figurine"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "60a2828e8689911a226117f9",
+          "name": "Hazard 4 Pillbox backpack (Black)"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "6a15764860e36e62900a8f345",
+    "trader": {
+      "id": "5ac3b934156ae10c4430e83c",
+      "name": "Ragman"
+    },
+    "level": 4,
     "taskUnlock": null,
     "requiredItems": [
       {
@@ -7299,39 +7116,12 @@
           "id": "5734773724597737fd047c14",
           "name": "Can of condensed milk"
         },
-        "count": 3
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "5df8a42886f77412640e2e75",
-          "name": "Velocity Systems MPPV Multi-Purpose Patrol Vest (Wolf Grey)"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "69c67335bb9f4cb77d081c575",
-    "trader": {
-      "id": "5ac3b934156ae10c4430e83c",
-      "name": "Ragman"
-    },
-    "level": 4,
-    "taskUnlock": null,
-    "requiredItems": [
-      {
-        "item": {
-          "id": "5734758f24597738025ee253",
-          "name": "Golden neck chain"
-        },
         "count": 2
       },
       {
         "item": {
-          "id": "5b3b713c5acfc4330140bd8d",
-          "name": "Tokarev TT-33 7.62x25 TT pistol (Golden)"
+          "id": "575146b724597720a27126d5",
+          "name": "Pack of milk"
         },
         "count": 1
       }
@@ -7339,15 +7129,15 @@
     "rewardItems": [
       {
         "item": {
-          "id": "65719d367a553968340d88b8",
-          "name": "Crye Precision AVS plate carrier (Ranger Green) Default"
+          "id": "639346cc1c8f182ad90c8972",
+          "name": "Tasmanian Tiger Trooper 35 backpack (Khaki)"
         },
         "count": 1
       }
     ]
   },
   {
-    "id": "69c67336bb9f4cb77d081c765",
+    "id": "6a15764960e36e62900a90115",
     "trader": {
       "id": "5ac3b934156ae10c4430e83c",
       "name": "Ragman"
@@ -7355,328 +7145,19 @@
     "level": 2,
     "taskUnlock": null,
     "requiredItems": [
-      {
-        "item": {
-          "id": "5d5d646386f7742797261fd9",
-          "name": "6B3TM-01 armored rig (Khaki)"
-        },
-        "count": 2
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "5d5d646386f7742797261fd9",
-          "name": "6B3TM-01 armored rig (Khaki)"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "69c67336bb9f4cb77d081d185",
-    "trader": {
-      "id": "5ac3b934156ae10c4430e83c",
-      "name": "Ragman"
-    },
-    "level": 3,
-    "taskUnlock": null,
-    "requiredItems": [
-      {
-        "item": {
-          "id": "61bf83814088ec1a363d7097",
-          "name": "Sewing kit"
-        },
-        "count": 1
-      },
       {
         "item": {
           "id": "5e2af41e86f774755a234b67",
           "name": "Cordura polyamide fabric"
         },
-        "count": 2
-      },
-      {
-        "item": {
-          "id": "5d40407c86f774318526545a",
-          "name": "Bottle of Tarkovskaya vodka"
-        },
         "count": 1
       }
     ],
     "rewardItems": [
       {
         "item": {
-          "id": "6576604f86f11bca4106d33d",
-          "name": "First Spear Strandhogg plate carrier (Ranger Green) Default"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "69c67337bb9f4cb77d081d3d5",
-    "trader": {
-      "id": "5ac3b934156ae10c4430e83c",
-      "name": "Ragman"
-    },
-    "level": 2,
-    "taskUnlock": {
-      "id": "5ae4493d86f7744b8e15aa8f",
-      "name": "Database - Part 2"
-    },
-    "requiredItems": [
-      {
-        "item": {
-          "id": "573474f924597738002c6174",
-          "name": "Chainlet"
-        },
-        "count": 3
-      },
-      {
-        "item": {
-          "id": "590de71386f774347051a052",
-          "name": "Antique teapot"
-        },
-        "count": 1
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "5d5d646386f7742797261fd9",
-          "name": "6B3TM-01 armored rig (Khaki)"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "69c67337bb9f4cb77d081d515",
-    "trader": {
-      "id": "5ac3b934156ae10c4430e83c",
-      "name": "Ragman"
-    },
-    "level": 3,
-    "taskUnlock": null,
-    "requiredItems": [
-      {
-        "item": {
-          "id": "62a09e974f842e1bd12da3f0",
-          "name": "Video cassette with the Cyborg Killer movie"
-        },
-        "count": 1
-      },
-      {
-        "item": {
-          "id": "60098b1705871270cd5352a1",
-          "name": "Emergency Water Ration"
-        },
-        "count": 1
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "657661ad234b9f6e050a42a2",
-          "name": "Shellback Tactical Banshee plate carrier (A-TACS AU) Default"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "69c67337bb9f4cb77d081d825",
-    "trader": {
-      "id": "5ac3b934156ae10c4430e83c",
-      "name": "Ragman"
-    },
-    "level": 4,
-    "taskUnlock": null,
-    "requiredItems": [
-      {
-        "item": {
-          "id": "62a091170b9d3c46de5b6cf2",
-          "name": "Axel parrot figurine"
-        },
-        "count": 1
-      },
-      {
-        "item": {
-          "id": "62a09ee4cf4a99369e262453",
-          "name": "Can of white salt"
-        },
-        "count": 2
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "5e9db13186f7742f845ee9d3",
-          "name": "LBT-1961A Load Bearing Chest Rig (MAS Grey)"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "69c67337bb9f4cb77d081dbf5",
-    "trader": {
-      "id": "5ac3b934156ae10c4430e83c",
-      "name": "Ragman"
-    },
-    "level": 4,
-    "taskUnlock": null,
-    "requiredItems": [
-      {
-        "item": {
-          "id": "5f745ee30acaeb0d490d8c5b",
-          "name": "Veritas guitar pick"
-        },
-        "count": 3
-      },
-      {
-        "item": {
-          "id": "5bc9c377d4351e3bac12251b",
-          "name": "Old firesteel"
-        },
-        "count": 2
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "70726573657400000000003e",
-          "name": "Tasmanian Tiger Plate Carrier MKIII (Coyote Brown) Default"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "69c67338bb9f4cb77d081e0d5",
-    "trader": {
-      "id": "5ac3b934156ae10c4430e83c",
-      "name": "Ragman"
-    },
-    "level": 3,
-    "taskUnlock": null,
-    "requiredItems": [
-      {
-        "item": {
-          "id": "66b37eb4acff495a29492407",
-          "name": "Viibiin sneaker"
-        },
-        "count": 2
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "66b9c5db19a3ab39b7175e2b",
-          "name": "Stich Profi Plate Carrier V2 (Black) Default"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "69c67338bb9f4cb77d081e435",
-    "trader": {
-      "id": "5ac3b934156ae10c4430e83c",
-      "name": "Ragman"
-    },
-    "level": 2,
-    "taskUnlock": null,
-    "requiredItems": [
-      {
-        "item": {
-          "id": "656df4fec921ad01000481a2",
-          "name": "Pack of instant noodles"
-        },
-        "count": 5
-      },
-      {
-        "item": {
-          "id": "5751496424597720a27126da",
-          "name": "Can of Hot Rod energy drink"
-        },
-        "count": 1
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "6943e31c0c2475ee910105f6",
-          "name": "Tac-Kek JayPC plate carrier (OD Green) Default"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "69c67339bb9f4cb77d081eb15",
-    "trader": {
-      "id": "5ac3b934156ae10c4430e83c",
-      "name": "Ragman"
-    },
-    "level": 4,
-    "taskUnlock": null,
-    "requiredItems": [
-      {
-        "item": {
-          "id": "59e3647686f774176a362507",
-          "name": "Wooden clock"
-        },
-        "count": 2
-      },
-      {
-        "item": {
-          "id": "59faf7ca86f7740dbe19f6c2",
-          "name": "Roler Submariner gold wrist watch"
-        },
-        "count": 1
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "6943e2bc23fd3c3adb076611",
-          "name": "Crye Precision JPC Plate Carrier (MultiCam) Default"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "69c67339bb9f4cb77d081ebb5",
-    "trader": {
-      "id": "5ac3b934156ae10c4430e83c",
-      "name": "Ragman"
-    },
-    "level": 2,
-    "taskUnlock": null,
-    "requiredItems": [
-      {
-        "item": {
-          "id": "544fb6cc4bdc2d34748b456e",
-          "name": "Slickers chocolate bar"
-        },
-        "count": 3
-      },
-      {
-        "item": {
-          "id": "5751496424597720a27126da",
-          "name": "Can of Hot Rod energy drink"
-        },
-        "count": 1
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "6943e2f97649f4942e059af6",
-          "name": "Tac-Kek JayPC plate carrier (Black) Default"
+          "id": "67458794e21e5d724e066976",
+          "name": "LBT-1476A 3Day Pack (MultiCam Alpine)"
         },
         "count": 1
       }
@@ -8466,7 +7947,7 @@
     ]
   },
   {
-    "id": "6a0da98d90e28431670f13205",
+    "id": "6a15763260e36e62900a84945",
     "trader": {
       "id": "5935c25fb3acc3127c3d8cd9",
       "name": "Peacekeeper"
@@ -8487,6 +7968,525 @@
         "item": {
           "id": "657664ae303700411c02428c",
           "name": "CQC Osprey MK4A plate carrier (Protection, MTP) Default"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "6a15764560e36e62900a8d495",
+    "trader": {
+      "id": "5ac3b934156ae10c4430e83c",
+      "name": "Ragman"
+    },
+    "level": 3,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "590de71386f774347051a052",
+          "name": "Antique teapot"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5c0e6a1586f77404597b4965",
+          "name": "Poyas-A + Poyas-B gear rig"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "6a15764560e36e62900a8d705",
+    "trader": {
+      "id": "5ac3b934156ae10c4430e83c",
+      "name": "Ragman"
+    },
+    "level": 2,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "57347c1124597737fb1379e3",
+          "name": "Duct tape"
+        },
+        "count": 5
+      },
+      {
+        "item": {
+          "id": "59faf98186f774067b6be103",
+          "name": "Alkaline cleaner for heat exchangers"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "592c2d1a86f7746dbe2af32a",
+          "name": "ANA Tactical Alpha chest rig (Olive Drab)"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "6a15764660e36e62900a8ddf5",
+    "trader": {
+      "id": "5ac3b934156ae10c4430e83c",
+      "name": "Ragman"
+    },
+    "level": 3,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5e8f3423fd7471236e6e3b64",
+          "name": "Bottle of Norvinsky Yadreniy premium kvass (0.6L)"
+        },
+        "count": 2
+      },
+      {
+        "item": {
+          "id": "5c0fa877d174af02a012e1cf",
+          "name": "Aquamari water bottle with filter"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "6576616086f11bca4106d35f",
+          "name": "ANA Tactical M1 plate carrier (OD Green) Default"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "6a15764660e36e62900a8e4b5",
+    "trader": {
+      "id": "5ac3b934156ae10c4430e83c",
+      "name": "Ragman"
+    },
+    "level": 4,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "customdogtags12345678910",
+          "name": "Dogtag"
+        },
+        "count": 10
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "6571952aacb85662e7024c01",
+          "name": "ANA Tactical M2 plate carrier (OD Green) Default"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "6a15764760e36e62900a8e885",
+    "trader": {
+      "id": "5ac3b934156ae10c4430e83c",
+      "name": "Ragman"
+    },
+    "level": 3,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5734773724597737fd047c14",
+          "name": "Can of condensed milk"
+        },
+        "count": 3
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5df8a42886f77412640e2e75",
+          "name": "Velocity Systems MPPV Multi-Purpose Patrol Vest (Wolf Grey)"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "6a15764760e36e62900a8e8b5",
+    "trader": {
+      "id": "5ac3b934156ae10c4430e83c",
+      "name": "Ragman"
+    },
+    "level": 2,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5d5d646386f7742797261fd9",
+          "name": "6B3TM-01 armored rig (Khaki)"
+        },
+        "count": 2
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5d5d646386f7742797261fd9",
+          "name": "6B3TM-01 armored rig (Khaki)"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "6a15764760e36e62900a8ed85",
+    "trader": {
+      "id": "5ac3b934156ae10c4430e83c",
+      "name": "Ragman"
+    },
+    "level": 4,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5734758f24597738025ee253",
+          "name": "Golden neck chain"
+        },
+        "count": 2
+      },
+      {
+        "item": {
+          "id": "5b3b713c5acfc4330140bd8d",
+          "name": "Tokarev TT-33 7.62x25 TT pistol (Golden)"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "65719d367a553968340d88b8",
+          "name": "Crye Precision AVS plate carrier (Ranger Green) Default"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "6a15764860e36e62900a8f295",
+    "trader": {
+      "id": "5ac3b934156ae10c4430e83c",
+      "name": "Ragman"
+    },
+    "level": 2,
+    "taskUnlock": {
+      "id": "5ae4493d86f7744b8e15aa8f",
+      "name": "Database - Part 2"
+    },
+    "requiredItems": [
+      {
+        "item": {
+          "id": "573474f924597738002c6174",
+          "name": "Chainlet"
+        },
+        "count": 3
+      },
+      {
+        "item": {
+          "id": "590de71386f774347051a052",
+          "name": "Antique teapot"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5d5d646386f7742797261fd9",
+          "name": "6B3TM-01 armored rig (Khaki)"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "6a15764860e36e62900a8f885",
+    "trader": {
+      "id": "5ac3b934156ae10c4430e83c",
+      "name": "Ragman"
+    },
+    "level": 3,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "62a09e974f842e1bd12da3f0",
+          "name": "Video cassette with the Cyborg Killer movie"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "60098b1705871270cd5352a1",
+          "name": "Emergency Water Ration"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "657661ad234b9f6e050a42a2",
+          "name": "Shellback Tactical Banshee plate carrier (A-TACS AU) Default"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "6a15764860e36e62900a8f9a5",
+    "trader": {
+      "id": "5ac3b934156ae10c4430e83c",
+      "name": "Ragman"
+    },
+    "level": 3,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "61bf83814088ec1a363d7097",
+          "name": "Sewing kit"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "5e2af41e86f774755a234b67",
+          "name": "Cordura polyamide fabric"
+        },
+        "count": 2
+      },
+      {
+        "item": {
+          "id": "5d40407c86f774318526545a",
+          "name": "Bottle of Tarkovskaya vodka"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "6576604f86f11bca4106d33d",
+          "name": "First Spear Strandhogg plate carrier (Ranger Green) Default"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "6a15764960e36e62900a8ff55",
+    "trader": {
+      "id": "5ac3b934156ae10c4430e83c",
+      "name": "Ragman"
+    },
+    "level": 4,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "62a091170b9d3c46de5b6cf2",
+          "name": "Axel parrot figurine"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "62a09ee4cf4a99369e262453",
+          "name": "Can of white salt"
+        },
+        "count": 2
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5e9db13186f7742f845ee9d3",
+          "name": "LBT-1961A Load Bearing Chest Rig (MAS Grey)"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "6a15764960e36e62900a90305",
+    "trader": {
+      "id": "5ac3b934156ae10c4430e83c",
+      "name": "Ragman"
+    },
+    "level": 4,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5f745ee30acaeb0d490d8c5b",
+          "name": "Veritas guitar pick"
+        },
+        "count": 3
+      },
+      {
+        "item": {
+          "id": "5bc9c377d4351e3bac12251b",
+          "name": "Old firesteel"
+        },
+        "count": 2
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "70726573657400000000003e",
+          "name": "Tasmanian Tiger Plate Carrier MKIII (Coyote Brown) Default"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "6a15764960e36e62900a90655",
+    "trader": {
+      "id": "5ac3b934156ae10c4430e83c",
+      "name": "Ragman"
+    },
+    "level": 3,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "66b37eb4acff495a29492407",
+          "name": "Viibiin sneaker"
+        },
+        "count": 2
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "66b9c5db19a3ab39b7175e2b",
+          "name": "Stich Profi Plate Carrier V2 (Black) Default"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "6a15764a60e36e62900a907c5",
+    "trader": {
+      "id": "5ac3b934156ae10c4430e83c",
+      "name": "Ragman"
+    },
+    "level": 2,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "544fb6cc4bdc2d34748b456e",
+          "name": "Slickers chocolate bar"
+        },
+        "count": 3
+      },
+      {
+        "item": {
+          "id": "5751496424597720a27126da",
+          "name": "Can of Hot Rod energy drink"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "6943e2f97649f4942e059af6",
+          "name": "Tac-Kek JayPC plate carrier (Black) Default"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "6a15764a60e36e62900a90835",
+    "trader": {
+      "id": "5ac3b934156ae10c4430e83c",
+      "name": "Ragman"
+    },
+    "level": 2,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "656df4fec921ad01000481a2",
+          "name": "Pack of instant noodles"
+        },
+        "count": 5
+      },
+      {
+        "item": {
+          "id": "5751496424597720a27126da",
+          "name": "Can of Hot Rod energy drink"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "6943e31c0c2475ee910105f6",
+          "name": "Tac-Kek JayPC plate carrier (OD Green) Default"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "6a15764a60e36e62900a90be5",
+    "trader": {
+      "id": "5ac3b934156ae10c4430e83c",
+      "name": "Ragman"
+    },
+    "level": 4,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "59e3647686f774176a362507",
+          "name": "Wooden clock"
+        },
+        "count": 2
+      },
+      {
+        "item": {
+          "id": "59faf7ca86f7740dbe19f6c2",
+          "name": "Roler Submariner gold wrist watch"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "6943e2bc23fd3c3adb076611",
+          "name": "Crye Precision JPC Plate Carrier (MultiCam) Default"
         },
         "count": 1
       }
@@ -9786,7 +9786,34 @@
     ]
   },
   {
-    "id": "6a0da99890e28431670f17f85",
+    "id": "6a140c4e0fad5c72b7057b2b5",
+    "trader": {
+      "id": "54cb57776803fa99248b456e",
+      "name": "Therapist"
+    },
+    "level": 1,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "69bb43df99f3fda8f1072483",
+          "name": "Nooby Shield potassium iodide tablets"
+        },
+        "count": 3
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "59fb016586f7746d0d4b423a",
+          "name": "Money case"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "6a15763c60e36e62900a895e5",
     "trader": {
       "id": "5935c25fb3acc3127c3d8cd9",
       "name": "Peacekeeper"
@@ -9830,7 +9857,41 @@
     ]
   },
   {
-    "id": "6a0da98b90e28431670f11cb5",
+    "id": "6a15764360e36e62900a8ccf5",
+    "trader": {
+      "id": "5935c25fb3acc3127c3d8cd9",
+      "name": "Peacekeeper"
+    },
+    "level": 1,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "69bb41c03b5fb75517065960",
+          "name": "Ultralink satellite communication module"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "69bb4203f94327bc0f0230cd",
+          "name": "IBX Gigachad cryptographic processor"
+        },
+        "count": 2
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5d235bb686f77443f4331278",
+          "name": "S I C C organizational pouch"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "6a15762f60e36e62900a83645",
     "trader": {
       "id": "5935c25fb3acc3127c3d8cd9",
       "name": "Peacekeeper"
@@ -9872,432 +9933,6 @@
         "item": {
           "id": "5857a8b324597729ab0a0e7d",
           "name": "Secure container Beta"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "69c67334bb9f4cb77d081b875",
-    "trader": {
-      "id": "5ac3b934156ae10c4430e83c",
-      "name": "Ragman"
-    },
-    "level": 1,
-    "taskUnlock": null,
-    "requiredItems": [
-      {
-        "item": {
-          "id": "572b7fa524597762b747ce82",
-          "name": "Lower half-mask"
-        },
-        "count": 3
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "5648a7494bdc2d9d488b4583",
-          "name": "PACA Soft Armor"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "69c67334bb9f4cb77d081bcc5",
-    "trader": {
-      "id": "5ac3b934156ae10c4430e83c",
-      "name": "Ragman"
-    },
-    "level": 1,
-    "taskUnlock": null,
-    "requiredItems": [
-      {
-        "item": {
-          "id": "5751435d24597720a27126d1",
-          "name": "Can of Max Energy energy drink"
-        },
-        "count": 2
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "5ab8e4ed86f7742d8e50c7fa",
-          "name": "MF-UNTAR body armor"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "69c67336bb9f4cb77d081caa5",
-    "trader": {
-      "id": "5ac3b934156ae10c4430e83c",
-      "name": "Ragman"
-    },
-    "level": 2,
-    "taskUnlock": null,
-    "requiredItems": [
-      {
-        "item": {
-          "id": "590c651286f7741e566b6461",
-          "name": "Slim diary"
-        },
-        "count": 2
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "65765fbe234b9f6e050a4292",
-          "name": "NFM THOR Concealable Reinforced Vest body armor Default"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "69c67336bb9f4cb77d081cb95",
-    "trader": {
-      "id": "5ac3b934156ae10c4430e83c",
-      "name": "Ragman"
-    },
-    "level": 4,
-    "taskUnlock": null,
-    "requiredItems": [
-      {
-        "item": {
-          "id": "62a091170b9d3c46de5b6cf2",
-          "name": "Axel parrot figurine"
-        },
-        "count": 3
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "657127b7f1074598bf0c02f2",
-          "name": "HighCom Trooper TFO body armor (MultiCam) Default"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "69c67336bb9f4cb77d081cc75",
-    "trader": {
-      "id": "5ac3b934156ae10c4430e83c",
-      "name": "Ragman"
-    },
-    "level": 4,
-    "taskUnlock": null,
-    "requiredItems": [
-      {
-        "item": {
-          "id": "63a0b208f444d32d6f03ea1e",
-          "name": "Fierce Blow sledgehammer"
-        },
-        "count": 1
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "657663ff303700411c024278",
-          "name": "FORT Defender-2 body armor Default"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "69c67336bb9f4cb77d081cdd5",
-    "trader": {
-      "id": "5ac3b934156ae10c4430e83c",
-      "name": "Ragman"
-    },
-    "level": 2,
-    "taskUnlock": null,
-    "requiredItems": [
-      {
-        "item": {
-          "id": "5bc9bc53d4351e00367fbcee",
-          "name": "Golden rooster figurine"
-        },
-        "count": 1
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "657127126d197c216005b402",
-          "name": "Interceptor OTV body armor (UCP) Default"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "69c67336bb9f4cb77d081cfe5",
-    "trader": {
-      "id": "5ac3b934156ae10c4430e83c",
-      "name": "Ragman"
-    },
-    "level": 4,
-    "taskUnlock": null,
-    "requiredItems": [
-      {
-        "item": {
-          "id": "59faf7ca86f7740dbe19f6c2",
-          "name": "Roler Submariner gold wrist watch"
-        },
-        "count": 3
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "657664ec526e320fbe0357fe",
-          "name": "Hexatac HPC Plate Carrier (MultiCam Black) Default"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "69c67337bb9f4cb77d081d8f5",
-    "trader": {
-      "id": "5ac3b934156ae10c4430e83c",
-      "name": "Ragman"
-    },
-    "level": 3,
-    "taskUnlock": null,
-    "requiredItems": [
-      {
-        "item": {
-          "id": "5734758f24597738025ee253",
-          "name": "Golden neck chain"
-        },
-        "count": 1
-      },
-      {
-        "item": {
-          "id": "5af0484c86f7740f02001f7f",
-          "name": "Can of Majaica coffee beans"
-        },
-        "count": 2
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "5ab8e79e86f7742d8b372e78",
-          "name": "BNTI Gzhel-K body armor"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "69c67337bb9f4cb77d081da45",
-    "trader": {
-      "id": "5ac3b934156ae10c4430e83c",
-      "name": "Ragman"
-    },
-    "level": 1,
-    "taskUnlock": null,
-    "requiredItems": [
-      {
-        "item": {
-          "id": "5e54f62086f774219b0f1937",
-          "name": "Raven figurine"
-        },
-        "count": 1
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "64be79c487d1510151095552",
-          "name": "NPP KlASS Kora-Kulon body armor (Black)"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "69c67338bb9f4cb77d081e4a5",
-    "trader": {
-      "id": "5ac3b934156ae10c4430e83c",
-      "name": "Ragman"
-    },
-    "level": 4,
-    "taskUnlock": null,
-    "requiredItems": [
-      {
-        "item": {
-          "id": "5c05300686f7746dce784e5d",
-          "name": "VPX Flash Storage Module"
-        },
-        "count": 1
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "5b44cd8b86f774503d30cba2",
-          "name": "IOTV Gen4 body armor (Full Protection Kit, MultiCam)"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "69c67338bb9f4cb77d081e555",
-    "trader": {
-      "id": "5ac3b934156ae10c4430e83c",
-      "name": "Ragman"
-    },
-    "level": 4,
-    "taskUnlock": null,
-    "requiredItems": [
-      {
-        "item": {
-          "id": "5bc9c049d4351e44f824d360",
-          "name": "Battered antique book"
-        },
-        "count": 2
-      },
-      {
-        "item": {
-          "id": "590c639286f774151567fa95",
-          "name": "Tech manual"
-        },
-        "count": 4
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "6576695d234b9f6e050a42f0",
-          "name": "FORT Redut-M body armor Default"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "69c67338bb9f4cb77d081e705",
-    "trader": {
-      "id": "5ac3b934156ae10c4430e83c",
-      "name": "Ragman"
-    },
-    "level": 4,
-    "taskUnlock": null,
-    "requiredItems": [
-      {
-        "item": {
-          "id": "59e3647686f774176a362507",
-          "name": "Wooden clock"
-        },
-        "count": 3
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "65766910303700411c0242da",
-          "name": "IOTV Gen4 body armor (Full Protection Kit, MultiCam) Default"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "69c67338bb9f4cb77d081e8d5",
-    "trader": {
-      "id": "5ac3b934156ae10c4430e83c",
-      "name": "Ragman"
-    },
-    "level": 4,
-    "taskUnlock": null,
-    "requiredItems": [
-      {
-        "item": {
-          "id": "59e3639286f7741777737013",
-          "name": "Bronze lion figurine"
-        },
-        "count": 3
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "657669c186f11bca4106d3a5",
-          "name": "FORT Redut-T5 body armor (Smog) Default"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "69c67339bb9f4cb77d081ec55",
-    "trader": {
-      "id": "5ac3b934156ae10c4430e83c",
-      "name": "Ragman"
-    },
-    "level": 4,
-    "taskUnlock": null,
-    "requiredItems": [
-      {
-        "item": {
-          "id": "59e3639286f7741777737013",
-          "name": "Bronze lion figurine"
-        },
-        "count": 1
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "5ca21c6986f77479963115a7",
-          "name": "FORT Redut-T5 body armor (Smog)"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "69c67339bb9f4cb77d081ed35",
-    "trader": {
-      "id": "5ac3b934156ae10c4430e83c",
-      "name": "Ragman"
-    },
-    "level": 4,
-    "taskUnlock": null,
-    "requiredItems": [
-      {
-        "item": {
-          "id": "5bc9c049d4351e44f824d360",
-          "name": "Battered antique book"
-        },
-        "count": 1
-      },
-      {
-        "item": {
-          "id": "590c639286f774151567fa95",
-          "name": "Tech manual"
-        },
-        "count": 2
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "5ca2151486f774244a3b8d30",
-          "name": "FORT Redut-M body armor"
         },
         "count": 1
       }
@@ -10912,7 +10547,7 @@
     ]
   },
   {
-    "id": "6a0da99c90e28431670f19f05",
+    "id": "6a15764160e36e62900a8ba25",
     "trader": {
       "id": "5935c25fb3acc3127c3d8cd9",
       "name": "Peacekeeper"
@@ -10939,18 +10574,45 @@
     ]
   },
   {
-    "id": "6a0da99c90e28431670f1a2a5",
+    "id": "6a15764560e36e62900a8d5f5",
     "trader": {
-      "id": "5935c25fb3acc3127c3d8cd9",
-      "name": "Peacekeeper"
+      "id": "5ac3b934156ae10c4430e83c",
+      "name": "Ragman"
     },
-    "level": 3,
+    "level": 1,
     "taskUnlock": null,
     "requiredItems": [
       {
         "item": {
-          "id": "57347baf24597738002c6178",
-          "name": "RAM stick"
+          "id": "572b7fa524597762b747ce82",
+          "name": "Lower half-mask"
+        },
+        "count": 3
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5648a7494bdc2d9d488b4583",
+          "name": "PACA Soft Armor"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "6a15764660e36e62900a8da05",
+    "trader": {
+      "id": "5ac3b934156ae10c4430e83c",
+      "name": "Ragman"
+    },
+    "level": 1,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5751435d24597720a27126d1",
+          "name": "Can of Max Energy energy drink"
         },
         "count": 2
       }
@@ -10958,15 +10620,42 @@
     "rewardItems": [
       {
         "item": {
-          "id": "657668ad86f11bca4106d38b",
-          "name": "IOTV Gen4 body armor (Assault Kit, MultiCam) Default"
+          "id": "5ab8e4ed86f7742d8e50c7fa",
+          "name": "MF-UNTAR body armor"
         },
         "count": 1
       }
     ]
   },
   {
-    "id": "69c67333bb9f4cb77d081af75",
+    "id": "6a15764860e36e62900a8efd5",
+    "trader": {
+      "id": "5ac3b934156ae10c4430e83c",
+      "name": "Ragman"
+    },
+    "level": 4,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "62a091170b9d3c46de5b6cf2",
+          "name": "Axel parrot figurine"
+        },
+        "count": 3
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "657127b7f1074598bf0c02f2",
+          "name": "HighCom Trooper TFO body armor (MultiCam) Default"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "6a15764860e36e62900a8f085",
     "trader": {
       "id": "5ac3b934156ae10c4430e83c",
       "name": "Ragman"
@@ -10976,8 +10665,35 @@
     "requiredItems": [
       {
         "item": {
-          "id": "59e366c186f7741778269d85",
-          "name": "Piece of plexiglass"
+          "id": "5bc9bc53d4351e00367fbcee",
+          "name": "Golden rooster figurine"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "657127126d197c216005b402",
+          "name": "Interceptor OTV body armor (UCP) Default"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "6a15764860e36e62900a8f405",
+    "trader": {
+      "id": "5ac3b934156ae10c4430e83c",
+      "name": "Ragman"
+    },
+    "level": 2,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "590c651286f7741e566b6461",
+          "name": "Slim diary"
         },
         "count": 2
       }
@@ -10985,15 +10701,69 @@
     "rewardItems": [
       {
         "item": {
-          "id": "5aa7e3abe5b5b000171d064d",
-          "name": "ZSh-1-2M face shield"
+          "id": "65765fbe234b9f6e050a4292",
+          "name": "NFM THOR Concealable Reinforced Vest body armor Default"
         },
         "count": 1
       }
     ]
   },
   {
-    "id": "69c67334bb9f4cb77d081ba55",
+    "id": "6a15764860e36e62900a8f635",
+    "trader": {
+      "id": "5ac3b934156ae10c4430e83c",
+      "name": "Ragman"
+    },
+    "level": 4,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "63a0b208f444d32d6f03ea1e",
+          "name": "Fierce Blow sledgehammer"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "657663ff303700411c024278",
+          "name": "FORT Defender-2 body armor Default"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "6a15764860e36e62900a8fab5",
+    "trader": {
+      "id": "5ac3b934156ae10c4430e83c",
+      "name": "Ragman"
+    },
+    "level": 4,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "59faf7ca86f7740dbe19f6c2",
+          "name": "Roler Submariner gold wrist watch"
+        },
+        "count": 3
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "657664ec526e320fbe0357fe",
+          "name": "Hexatac HPC Plate Carrier (MultiCam Black) Default"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "6a15764860e36e62900a8fbf5",
     "trader": {
       "id": "5ac3b934156ae10c4430e83c",
       "name": "Ragman"
@@ -11003,42 +10773,42 @@
     "requiredItems": [
       {
         "item": {
-          "id": "5aa7e373e5b5b000137b76f0",
-          "name": "Altyn helmet face shield"
-        },
-        "count": 3
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "5aa7e373e5b5b000137b76f0",
-          "name": "Altyn helmet face shield"
+          "id": "5734758f24597738025ee253",
+          "name": "Golden neck chain"
         },
         "count": 1
-      }
-    ]
-  },
-  {
-    "id": "69c67334bb9f4cb77d081ba85",
-    "trader": {
-      "id": "5ac3b934156ae10c4430e83c",
-      "name": "Ragman"
-    },
-    "level": 4,
-    "taskUnlock": null,
-    "requiredItems": [
-      {
-        "item": {
-          "id": "59e366c186f7741778269d85",
-          "name": "Piece of plexiglass"
-        },
-        "count": 5
       },
       {
         "item": {
-          "id": "62a09f32621468534a797acb",
-          "name": "Bottle of Pevko Light beer"
+          "id": "5af0484c86f7740f02001f7f",
+          "name": "Can of Majaica coffee beans"
+        },
+        "count": 2
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5ab8e79e86f7742d8b372e78",
+          "name": "BNTI Gzhel-K body armor"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "6a15764960e36e62900a8fe85",
+    "trader": {
+      "id": "5ac3b934156ae10c4430e83c",
+      "name": "Ragman"
+    },
+    "level": 1,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5e54f62086f774219b0f1937",
+          "name": "Raven figurine"
         },
         "count": 1
       }
@@ -11046,15 +10816,15 @@
     "rewardItems": [
       {
         "item": {
-          "id": "5ca2113f86f7740b2547e1d2",
-          "name": "Vulkan-5 helmet face shield"
+          "id": "64be79c487d1510151095552",
+          "name": "NPP KlASS Kora-Kulon body armor (Black)"
         },
         "count": 1
       }
     ]
   },
   {
-    "id": "69c67334bb9f4cb77d081bae5",
+    "id": "6a15764a60e36e62900a908a5",
     "trader": {
       "id": "5ac3b934156ae10c4430e83c",
       "name": "Ragman"
@@ -11064,96 +10834,42 @@
     "requiredItems": [
       {
         "item": {
-          "id": "59e366c186f7741778269d85",
-          "name": "Piece of plexiglass"
-        },
-        "count": 4
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "5aa7e373e5b5b000137b76f0",
-          "name": "Altyn helmet face shield"
+          "id": "5bc9c049d4351e44f824d360",
+          "name": "Battered antique book"
         },
         "count": 1
-      }
-    ]
-  },
-  {
-    "id": "69c67335bb9f4cb77d081bec5",
-    "trader": {
-      "id": "5ac3b934156ae10c4430e83c",
-      "name": "Ragman"
-    },
-    "level": 4,
-    "taskUnlock": null,
-    "requiredItems": [
-      {
-        "item": {
-          "id": "customdogtags12345678910",
-          "name": "Dogtag"
-        },
-        "count": 6
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "5aa7e373e5b5b000137b76f0",
-          "name": "Altyn helmet face shield"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "69c67335bb9f4cb77d081c275",
-    "trader": {
-      "id": "5ac3b934156ae10c4430e83c",
-      "name": "Ragman"
-    },
-    "level": 3,
-    "taskUnlock": null,
-    "requiredItems": [
-      {
-        "item": {
-          "id": "59e366c186f7741778269d85",
-          "name": "Piece of plexiglass"
-        },
-        "count": 3
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "5d6d3829a4b9361bc8618943",
-          "name": "LShZ-2DTM face shield"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "69c67337bb9f4cb77d081d4e5",
-    "trader": {
-      "id": "5ac3b934156ae10c4430e83c",
-      "name": "Ragman"
-    },
-    "level": 4,
-    "taskUnlock": null,
-    "requiredItems": [
-      {
-        "item": {
-          "id": "59e366c186f7741778269d85",
-          "name": "Piece of plexiglass"
-        },
-        "count": 4
       },
       {
         "item": {
-          "id": "57347c5b245977448d35f6e1",
-          "name": "Bolts"
+          "id": "590c639286f774151567fa95",
+          "name": "Tech manual"
+        },
+        "count": 2
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5ca2151486f774244a3b8d30",
+          "name": "FORT Redut-M body armor"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "6a15764a60e36e62900a90935",
+    "trader": {
+      "id": "5ac3b934156ae10c4430e83c",
+      "name": "Ragman"
+    },
+    "level": 4,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "59e3639286f7741777737013",
+          "name": "Bronze lion figurine"
         },
         "count": 1
       }
@@ -11161,45 +10877,42 @@
     "rewardItems": [
       {
         "item": {
-          "id": "5f60c85b58eff926626a60f7",
-          "name": "Rys-T face shield"
+          "id": "5ca21c6986f77479963115a7",
+          "name": "FORT Redut-T5 body armor (Smog)"
         },
         "count": 1
       }
     ]
   },
   {
-    "id": "69c67337bb9f4cb77d081d7f5",
+    "id": "6a15764a60e36e62900a90c55",
     "trader": {
       "id": "5ac3b934156ae10c4430e83c",
       "name": "Ragman"
     },
     "level": 4,
-    "taskUnlock": {
-      "id": "5ae449c386f7744bde357697",
-      "name": "Sales Night"
-    },
+    "taskUnlock": null,
     "requiredItems": [
       {
         "item": {
           "id": "59e3647686f774176a362507",
           "name": "Wooden clock"
         },
-        "count": 1
+        "count": 3
       }
     ],
     "rewardItems": [
       {
         "item": {
-          "id": "65573fa5655447403702a816",
-          "name": "Granit Br4 ballistic plate"
+          "id": "65766910303700411c0242da",
+          "name": "IOTV Gen4 body armor (Full Protection Kit, MultiCam) Default"
         },
         "count": 1
       }
     ]
   },
   {
-    "id": "69c67338bb9f4cb77d081dcf5",
+    "id": "6a15764a60e36e62900a90e55",
     "trader": {
       "id": "5ac3b934156ae10c4430e83c",
       "name": "Ragman"
@@ -11209,35 +10922,42 @@
     "requiredItems": [
       {
         "item": {
-          "id": "57347baf24597738002c6178",
-          "name": "RAM stick"
+          "id": "5bc9c049d4351e44f824d360",
+          "name": "Battered antique book"
         },
         "count": 2
+      },
+      {
+        "item": {
+          "id": "590c639286f774151567fa95",
+          "name": "Tech manual"
+        },
+        "count": 4
       }
     ],
     "rewardItems": [
       {
         "item": {
-          "id": "656faf0ca0dce000a2020f77",
-          "name": "GAC 4sss2 ballistic plate"
+          "id": "6576695d234b9f6e050a42f0",
+          "name": "FORT Redut-M body armor Default"
         },
         "count": 1
       }
     ]
   },
   {
-    "id": "69c67339bb9f4cb77d081eb85",
+    "id": "6a15764a60e36e62900a90fd5",
     "trader": {
       "id": "5ac3b934156ae10c4430e83c",
       "name": "Ragman"
     },
-    "level": 3,
+    "level": 4,
     "taskUnlock": null,
     "requiredItems": [
       {
         "item": {
-          "id": "57347baf24597738002c6178",
-          "name": "RAM stick"
+          "id": "5c05300686f7746dce784e5d",
+          "name": "VPX Flash Storage Module"
         },
         "count": 1
       }
@@ -11245,8 +10965,35 @@
     "rewardItems": [
       {
         "item": {
-          "id": "656fae5f7c2d57afe200c0d7",
-          "name": "GAC 3s15m ballistic plate"
+          "id": "5b44cd8b86f774503d30cba2",
+          "name": "IOTV Gen4 body armor (Full Protection Kit, MultiCam)"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "6a15764a60e36e62900a910b5",
+    "trader": {
+      "id": "5ac3b934156ae10c4430e83c",
+      "name": "Ragman"
+    },
+    "level": 4,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "59e3639286f7741777737013",
+          "name": "Bronze lion figurine"
+        },
+        "count": 3
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "657669c186f11bca4106d3a5",
+          "name": "FORT Redut-T5 body armor (Smog) Default"
         },
         "count": 1
       }
@@ -11829,7 +11576,7 @@
     ]
   },
   {
-    "id": "6a0da99690e28431670f170e5",
+    "id": "6a15763a60e36e62900a887e5",
     "trader": {
       "id": "5935c25fb3acc3127c3d8cd9",
       "name": "Peacekeeper"
@@ -11856,7 +11603,7 @@
     ]
   },
   {
-    "id": "6a0da99790e28431670f17995",
+    "id": "6a15763b60e36e62900a88f45",
     "trader": {
       "id": "5935c25fb3acc3127c3d8cd9",
       "name": "Peacekeeper"
@@ -11880,6 +11627,239 @@
         "item": {
           "id": "655746010177119f4a097ff7",
           "name": "SAPI level III+ ballistic plate"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "6a15764560e36e62900a8d5c5",
+    "trader": {
+      "id": "5ac3b934156ae10c4430e83c",
+      "name": "Ragman"
+    },
+    "level": 4,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "customdogtags12345678910",
+          "name": "Dogtag"
+        },
+        "count": 6
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5aa7e373e5b5b000137b76f0",
+          "name": "Altyn helmet face shield"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "6a15764560e36e62900a8d6d5",
+    "trader": {
+      "id": "5ac3b934156ae10c4430e83c",
+      "name": "Ragman"
+    },
+    "level": 3,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5aa7e373e5b5b000137b76f0",
+          "name": "Altyn helmet face shield"
+        },
+        "count": 3
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5aa7e373e5b5b000137b76f0",
+          "name": "Altyn helmet face shield"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "6a15764560e36e62900a8d945",
+    "trader": {
+      "id": "5ac3b934156ae10c4430e83c",
+      "name": "Ragman"
+    },
+    "level": 4,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "59e366c186f7741778269d85",
+          "name": "Piece of plexiglass"
+        },
+        "count": 5
+      },
+      {
+        "item": {
+          "id": "62a09f32621468534a797acb",
+          "name": "Bottle of Pevko Light beer"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5ca2113f86f7740b2547e1d2",
+          "name": "Vulkan-5 helmet face shield"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "6a15764660e36e62900a8d9a5",
+    "trader": {
+      "id": "5ac3b934156ae10c4430e83c",
+      "name": "Ragman"
+    },
+    "level": 4,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "59e366c186f7741778269d85",
+          "name": "Piece of plexiglass"
+        },
+        "count": 4
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5aa7e373e5b5b000137b76f0",
+          "name": "Altyn helmet face shield"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "6a15764660e36e62900a8dc35",
+    "trader": {
+      "id": "5ac3b934156ae10c4430e83c",
+      "name": "Ragman"
+    },
+    "level": 2,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "59e366c186f7741778269d85",
+          "name": "Piece of plexiglass"
+        },
+        "count": 2
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5aa7e3abe5b5b000171d064d",
+          "name": "ZSh-1-2M face shield"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "6a15764760e36e62900a8ebd5",
+    "trader": {
+      "id": "5ac3b934156ae10c4430e83c",
+      "name": "Ragman"
+    },
+    "level": 3,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "59e366c186f7741778269d85",
+          "name": "Piece of plexiglass"
+        },
+        "count": 3
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5d6d3829a4b9361bc8618943",
+          "name": "LShZ-2DTM face shield"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "6a15764860e36e62900a8f975",
+    "trader": {
+      "id": "5ac3b934156ae10c4430e83c",
+      "name": "Ragman"
+    },
+    "level": 4,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "59e366c186f7741778269d85",
+          "name": "Piece of plexiglass"
+        },
+        "count": 4
+      },
+      {
+        "item": {
+          "id": "57347c5b245977448d35f6e1",
+          "name": "Bolts"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5f60c85b58eff926626a60f7",
+          "name": "Rys-T face shield"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "6a15764960e36e62900a90085",
+    "trader": {
+      "id": "5ac3b934156ae10c4430e83c",
+      "name": "Ragman"
+    },
+    "level": 4,
+    "taskUnlock": {
+      "id": "5ae449c386f7744bde357697",
+      "name": "Sales Night"
+    },
+    "requiredItems": [
+      {
+        "item": {
+          "id": "59e3647686f774176a362507",
+          "name": "Wooden clock"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "65573fa5655447403702a816",
+          "name": "Granit Br4 ballistic plate"
         },
         "count": 1
       }
@@ -12051,7 +12031,7 @@
     ]
   },
   {
-    "id": "6a0da99590e28431670f16813",
+    "id": "6a15763860e36e62900a87c23",
     "trader": {
       "id": "5935c25fb3acc3127c3d8cd9",
       "name": "Peacekeeper"
@@ -12085,7 +12065,7 @@
     ]
   },
   {
-    "id": "6a0da99890e28431670f17fe3",
+    "id": "6a15763b60e36e62900a89233",
     "trader": {
       "id": "5935c25fb3acc3127c3d8cd9",
       "name": "Peacekeeper"
@@ -12112,7 +12092,7 @@
     ]
   },
   {
-    "id": "6a0da99a90e28431670f19103",
+    "id": "6a15763e60e36e62900a8a203",
     "trader": {
       "id": "5935c25fb3acc3127c3d8cd9",
       "name": "Peacekeeper"
@@ -12592,7 +12572,7 @@
     ]
   },
   {
-    "id": "6a0da99990e28431670f18b53",
+    "id": "6a15763d60e36e62900a89f93",
     "trader": {
       "id": "5935c25fb3acc3127c3d8cd9",
       "name": "Peacekeeper"
@@ -12622,7 +12602,7 @@
     ]
   },
   {
-    "id": "6a0da99a90e28431670f192e3",
+    "id": "6a15763e60e36e62900a8a353",
     "trader": {
       "id": "5935c25fb3acc3127c3d8cd9",
       "name": "Peacekeeper"
@@ -12649,44 +12629,7 @@
     ]
   },
   {
-    "id": "6a0da99b90e28431670f194f3",
-    "trader": {
-      "id": "5935c25fb3acc3127c3d8cd9",
-      "name": "Peacekeeper"
-    },
-    "level": 4,
-    "taskUnlock": {
-      "id": "5b47825886f77468074618d3",
-      "name": "Gunsmith - Part 22"
-    },
-    "requiredItems": [
-      {
-        "item": {
-          "id": "57514643245977207f2c2d09",
-          "name": "Can of TarCola soda"
-        },
-        "count": 2
-      },
-      {
-        "item": {
-          "id": "5d403f9186f7743cac3f229b",
-          "name": "Bottle of Dan Jackiel whiskey"
-        },
-        "count": 1
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "60926df0132d4d12c81fd9df",
-          "name": "SilencerCo Saker ASR 556 5.56x45 sound suppressor"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "6a0da99b90e28431670f199a3",
+    "id": "6a15763f60e36e62900a8aae3",
     "trader": {
       "id": "5935c25fb3acc3127c3d8cd9",
       "name": "Peacekeeper"
@@ -12724,6 +12667,43 @@
         "item": {
           "id": "57da93632459771cb65bf83f",
           "name": "KAC QDSS NT4 5.56x45 sound suppressor (Black)"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "6a15764060e36e62900a8b063",
+    "trader": {
+      "id": "5935c25fb3acc3127c3d8cd9",
+      "name": "Peacekeeper"
+    },
+    "level": 4,
+    "taskUnlock": {
+      "id": "5b47825886f77468074618d3",
+      "name": "Gunsmith - Part 22"
+    },
+    "requiredItems": [
+      {
+        "item": {
+          "id": "57514643245977207f2c2d09",
+          "name": "Can of TarCola soda"
+        },
+        "count": 2
+      },
+      {
+        "item": {
+          "id": "5d403f9186f7743cac3f229b",
+          "name": "Bottle of Dan Jackiel whiskey"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "60926df0132d4d12c81fd9df",
+          "name": "SilencerCo Saker ASR 556 5.56x45 sound suppressor"
         },
         "count": 1
       }
@@ -12818,7 +12798,7 @@
     ]
   },
   {
-    "id": "6a0da98c90e28431670f125e3",
+    "id": "6a15763060e36e62900a83ce3",
     "trader": {
       "id": "5935c25fb3acc3127c3d8cd9",
       "name": "Peacekeeper"
@@ -12845,7 +12825,7 @@
     ]
   },
   {
-    "id": "6a0da99e90e28431670f1b463",
+    "id": "6a15764260e36e62900a8caf3",
     "trader": {
       "id": "5935c25fb3acc3127c3d8cd9",
       "name": "Peacekeeper"
@@ -13781,7 +13761,7 @@
     ]
   },
   {
-    "id": "6a0da99090e28431670f143b3",
+    "id": "6a15763460e36e62900a85913",
     "trader": {
       "id": "5935c25fb3acc3127c3d8cd9",
       "name": "Peacekeeper"
@@ -13808,7 +13788,7 @@
     ]
   },
   {
-    "id": "6a0da99490e28431670f16573",
+    "id": "6a15763960e36e62900a87f93",
     "trader": {
       "id": "5935c25fb3acc3127c3d8cd9",
       "name": "Peacekeeper"
@@ -13926,7 +13906,7 @@
     ]
   },
   {
-    "id": "6a0da99c90e28431670f19e33",
+    "id": "6a15764060e36e62900a8b373",
     "trader": {
       "id": "5935c25fb3acc3127c3d8cd9",
       "name": "Peacekeeper"
@@ -14682,7 +14662,7 @@
     ]
   },
   {
-    "id": "6a0da98990e28431670f111a3",
+    "id": "6a15762e60e36e62900a82783",
     "trader": {
       "id": "5935c25fb3acc3127c3d8cd9",
       "name": "Peacekeeper"
@@ -14716,7 +14696,7 @@
     ]
   },
   {
-    "id": "6a0da98b90e28431670f11f83",
+    "id": "6a15763060e36e62900a83733",
     "trader": {
       "id": "5935c25fb3acc3127c3d8cd9",
       "name": "Peacekeeper"
@@ -14746,7 +14726,7 @@
     ]
   },
   {
-    "id": "6a0da98c90e28431670f124a3",
+    "id": "6a15763060e36e62900a83ba3",
     "trader": {
       "id": "5935c25fb3acc3127c3d8cd9",
       "name": "Peacekeeper"
@@ -14773,7 +14753,7 @@
     ]
   },
   {
-    "id": "6a0da99490e28431670f167e3",
+    "id": "6a15763860e36e62900a87bf3",
     "trader": {
       "id": "5935c25fb3acc3127c3d8cd9",
       "name": "Peacekeeper"
@@ -14800,7 +14780,7 @@
     ]
   },
   {
-    "id": "6a0da99590e28431670f16be3",
+    "id": "6a15763a60e36e62900a88593",
     "trader": {
       "id": "5935c25fb3acc3127c3d8cd9",
       "name": "Peacekeeper"
@@ -15307,7 +15287,7 @@
     ]
   },
   {
-    "id": "6a0da99290e28431670f15743",
+    "id": "6a15763860e36e62900a87b03",
     "trader": {
       "id": "5935c25fb3acc3127c3d8cd9",
       "name": "Peacekeeper"
@@ -15770,7 +15750,7 @@
     ]
   },
   {
-    "id": "6a0da99190e28431670f14ee3",
+    "id": "6a15763660e36e62900a864b3",
     "trader": {
       "id": "5935c25fb3acc3127c3d8cd9",
       "name": "Peacekeeper"
@@ -15797,7 +15777,7 @@
     ]
   },
   {
-    "id": "6a0da99690e28431670f175d3",
+    "id": "6a15763960e36e62900a881a3",
     "trader": {
       "id": "5935c25fb3acc3127c3d8cd9",
       "name": "Peacekeeper"
@@ -16175,7 +16155,7 @@
     ]
   },
   {
-    "id": "6a0da98e90e28431670f133f3",
+    "id": "6a15763260e36e62900a84b33",
     "trader": {
       "id": "5935c25fb3acc3127c3d8cd9",
       "name": "Peacekeeper"
@@ -16202,7 +16182,7 @@
     ]
   },
   {
-    "id": "6a0da99590e28431670f16973",
+    "id": "6a15763960e36e62900a88233",
     "trader": {
       "id": "5935c25fb3acc3127c3d8cd9",
       "name": "Peacekeeper"
@@ -18008,7 +17988,34 @@
     ]
   },
   {
-    "id": "6a0da98b90e28431670f12231",
+    "id": "6a140eed05458eb4bc071e7d1",
+    "trader": {
+      "id": "54cb50c76803fa8b248b4571",
+      "name": "Prapor"
+    },
+    "level": 1,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "699f09de81a6c812900a77b7",
+          "name": "AMG-10 hydraulic fluid"
+        },
+        "count": 2
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "707265736574000000000021",
+          "name": "Kalashnikov AK-308 7.62x51 assault rifle RMR"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "6a15762f60e36e62900a82eb1",
     "trader": {
       "id": "5935c25fb3acc3127c3d8cd9",
       "name": "Peacekeeper"
@@ -18042,7 +18049,7 @@
     ]
   },
   {
-    "id": "6a0da99990e28431670f18821",
+    "id": "6a15763f60e36e62900a8a871",
     "trader": {
       "id": "5935c25fb3acc3127c3d8cd9",
       "name": "Peacekeeper"
@@ -18076,7 +18083,7 @@
     ]
   },
   {
-    "id": "6a0da99d90e28431670f1a531",
+    "id": "6a15764160e36e62900a8bc21",
     "trader": {
       "id": "5935c25fb3acc3127c3d8cd9",
       "name": "Peacekeeper"
@@ -18106,7 +18113,7 @@
     ]
   },
   {
-    "id": "6a0da99d90e28431670f1ab41",
+    "id": "6a15764160e36e62900a8bde1",
     "trader": {
       "id": "5935c25fb3acc3127c3d8cd9",
       "name": "Peacekeeper"
@@ -18140,7 +18147,7 @@
     ]
   },
   {
-    "id": "6a0da99d90e28431670f1ad11",
+    "id": "6a15764260e36e62900a8c141",
     "trader": {
       "id": "5935c25fb3acc3127c3d8cd9",
       "name": "Peacekeeper"
@@ -18167,7 +18174,7 @@
     ]
   },
   {
-    "id": "6a0da99e90e28431670f1b491",
+    "id": "6a15764260e36e62900a8c491",
     "trader": {
       "id": "5935c25fb3acc3127c3d8cd9",
       "name": "Peacekeeper"
@@ -18407,7 +18414,7 @@
     ]
   },
   {
-    "id": "6a0da98d90e28431670f12cc1",
+    "id": "6a15763160e36e62900a83ef1",
     "trader": {
       "id": "5935c25fb3acc3127c3d8cd9",
       "name": "Peacekeeper"
@@ -18441,7 +18448,7 @@
     ]
   },
   {
-    "id": "6a0da99490e28431670f166c1",
+    "id": "6a15763960e36e62900a87d51",
     "trader": {
       "id": "5935c25fb3acc3127c3d8cd9",
       "name": "Peacekeeper"
@@ -18468,34 +18475,7 @@
     ]
   },
   {
-    "id": "6a0da99d90e28431670f1a9d1",
-    "trader": {
-      "id": "5935c25fb3acc3127c3d8cd9",
-      "name": "Peacekeeper"
-    },
-    "level": 2,
-    "taskUnlock": null,
-    "requiredItems": [
-      {
-        "item": {
-          "id": "5e2aee0a86f774755a234b62",
-          "name": "Cyclon rechargeable battery"
-        },
-        "count": 1
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "5e03511086f7744ccb1fb6cf",
-          "name": "Knight's Armament Company SR-25 7.62x51 marksman rifle Default"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "6a0da99e90e28431670f1b3d1",
+    "id": "6a15764260e36e62900a8ca31",
     "trader": {
       "id": "5935c25fb3acc3127c3d8cd9",
       "name": "Peacekeeper"
@@ -18519,6 +18499,33 @@
         "item": {
           "id": "5ac4ad3686f774181345c3da",
           "name": "Springfield Armory M1A 7.62x51 rifle Default"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "6a15764260e36e62900a8cb21",
+    "trader": {
+      "id": "5935c25fb3acc3127c3d8cd9",
+      "name": "Peacekeeper"
+    },
+    "level": 2,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5e2aee0a86f774755a234b62",
+          "name": "Cyclon rechargeable battery"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5e03511086f7744ccb1fb6cf",
+          "name": "Knight's Armament Company SR-25 7.62x51 marksman rifle Default"
         },
         "count": 1
       }
@@ -19011,7 +19018,7 @@
     ]
   },
   {
-    "id": "6a0da99790e28431670f17ab1",
+    "id": "6a15763d60e36e62900a89a41",
     "trader": {
       "id": "5935c25fb3acc3127c3d8cd9",
       "name": "Peacekeeper"
@@ -19899,7 +19906,7 @@
     ]
   },
   {
-    "id": "6a0da98990e28431670f10db1",
+    "id": "6a15762d60e36e62900a82371",
     "trader": {
       "id": "5935c25fb3acc3127c3d8cd9",
       "name": "Peacekeeper"
@@ -19926,7 +19933,7 @@
     ]
   },
   {
-    "id": "6a0da98a90e28431670f11871",
+    "id": "6a15762e60e36e62900a82ca1",
     "trader": {
       "id": "5935c25fb3acc3127c3d8cd9",
       "name": "Peacekeeper"
@@ -19960,7 +19967,7 @@
     ]
   },
   {
-    "id": "6a0da99090e28431670f14311",
+    "id": "6a15763460e36e62900a85871",
     "trader": {
       "id": "5935c25fb3acc3127c3d8cd9",
       "name": "Peacekeeper"
@@ -19994,7 +20001,7 @@
     ]
   },
   {
-    "id": "6a0da99090e28431670f14531",
+    "id": "6a15763560e36e62900a85fd1",
     "trader": {
       "id": "5935c25fb3acc3127c3d8cd9",
       "name": "Peacekeeper"
@@ -20021,7 +20028,7 @@
     ]
   },
   {
-    "id": "6a0da99390e28431670f15f51",
+    "id": "6a15763860e36e62900a87651",
     "trader": {
       "id": "5935c25fb3acc3127c3d8cd9",
       "name": "Peacekeeper"
@@ -20055,7 +20062,7 @@
     ]
   },
   {
-    "id": "6a0da99590e28431670f16a91",
+    "id": "6a15763a60e36e62900a88441",
     "trader": {
       "id": "5935c25fb3acc3127c3d8cd9",
       "name": "Peacekeeper"
@@ -20076,6 +20083,33 @@
         "item": {
           "id": "707265736574000000000041",
           "name": "IWI UZI PRO Pistol 9x19 submachine gun EXPS3-0"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "6a0da65929e4ca1a9109cde01",
+    "trader": {
+      "id": "5c0647fdd443bc2504c2d371",
+      "name": "Jaeger"
+    },
+    "level": 1,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5bc9b9ecd4351e3bac122519",
+          "name": "Deadlyslob's beard oil"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5c0c1d6586f7743e5335d264",
+          "name": "Remington Model 700 7.62x51 bolt-action sniper rifle Default"
         },
         "count": 1
       }
@@ -20391,18 +20425,21 @@
     ]
   },
   {
-    "id": "6a0da65929e4ca1a9109cde01",
+    "id": "69ccf254c8ea4e5e1c0ebffb1",
     "trader": {
-      "id": "5c0647fdd443bc2504c2d371",
-      "name": "Jaeger"
+      "id": "5a7c2eca46aef81a7ca2145d",
+      "name": "Mechanic"
     },
-    "level": 1,
-    "taskUnlock": null,
+    "level": 4,
+    "taskUnlock": {
+      "id": "64f83bd983cfca080a362c82",
+      "name": "Gunsmith - Part 25"
+    },
     "requiredItems": [
       {
         "item": {
-          "id": "5bc9b9ecd4351e3bac122519",
-          "name": "Deadlyslob's beard oil"
+          "id": "6389c8c5dbfd5e4b95197e6b",
+          "name": "TerraGroup \"Blue Folders\" materials"
         },
         "count": 1
       }
@@ -20410,42 +20447,76 @@
     "rewardItems": [
       {
         "item": {
-          "id": "5c0c1d6586f7743e5335d264",
-          "name": "Remington Model 700 7.62x51 bolt-action sniper rifle Default"
+          "id": "64cbdff43ccb85468628d5fc",
+          "name": "Kalashnikov PKM 7.62x54R machine gun Default"
         },
         "count": 1
       }
     ]
   },
   {
-    "id": "69c6738bbb9f4cb77d08452d1",
+    "id": "69ccf252c8ea4e5e1c0ebf331",
     "trader": {
-      "id": "54cb50c76803fa8b248b4571",
-      "name": "Prapor"
+      "id": "5a7c2eca46aef81a7ca2145d",
+      "name": "Mechanic"
     },
     "level": 3,
     "taskUnlock": null,
     "requiredItems": [
       {
         "item": {
-          "id": "590c5a7286f7747884343aea",
-          "name": "Gunpowder \"Kite\""
+          "id": "5d0376a486f7747d8050965c",
+          "name": "Military circuit board"
         },
-        "count": 2
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "5e2aee0a86f774755a234b62",
+          "name": "Cyclon rechargeable battery"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "70726573657400000000000d",
+          "name": "Degtyarev RPDN 7.62x39 machine gun OKP-7 DT"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "69ccf247c8ea4e5e1c0eb9eb1",
+    "trader": {
+      "id": "5a7c2eca46aef81a7ca2145d",
+      "name": "Mechanic"
+    },
+    "level": 3,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5c06782b86f77426df5407d2",
+          "name": "Capacitors"
+        },
+        "count": 8
       },
       {
         "item": {
           "id": "5d1c819a86f774771b0acd6c",
           "name": "Weapon parts"
         },
-        "count": 3
+        "count": 2
       }
     ],
     "rewardItems": [
       {
         "item": {
-          "id": "707265736574000000000036",
-          "name": "RPK-16 5.45x39 light machine gun Drum"
+          "id": "5c0d1ec986f77439512a1a72",
+          "name": "RPK-16 5.45x39 light machine gun Default"
         },
         "count": 1
       }
@@ -20489,139 +20560,41 @@
     ]
   },
   {
-    "id": "69ccf247c8ea4e5e1c0eb9eb1",
+    "id": "69c6738bbb9f4cb77d08452d1",
     "trader": {
-      "id": "5a7c2eca46aef81a7ca2145d",
-      "name": "Mechanic"
+      "id": "54cb50c76803fa8b248b4571",
+      "name": "Prapor"
     },
     "level": 3,
     "taskUnlock": null,
     "requiredItems": [
       {
         "item": {
-          "id": "5c06782b86f77426df5407d2",
-          "name": "Capacitors"
+          "id": "590c5a7286f7747884343aea",
+          "name": "Gunpowder \"Kite\""
         },
-        "count": 8
+        "count": 2
       },
       {
         "item": {
           "id": "5d1c819a86f774771b0acd6c",
           "name": "Weapon parts"
         },
-        "count": 2
+        "count": 3
       }
     ],
     "rewardItems": [
       {
         "item": {
-          "id": "5c0d1ec986f77439512a1a72",
-          "name": "RPK-16 5.45x39 light machine gun Default"
+          "id": "707265736574000000000036",
+          "name": "RPK-16 5.45x39 light machine gun Drum"
         },
         "count": 1
       }
     ]
   },
   {
-    "id": "69ccf252c8ea4e5e1c0ebf331",
-    "trader": {
-      "id": "5a7c2eca46aef81a7ca2145d",
-      "name": "Mechanic"
-    },
-    "level": 3,
-    "taskUnlock": null,
-    "requiredItems": [
-      {
-        "item": {
-          "id": "5d0376a486f7747d8050965c",
-          "name": "Military circuit board"
-        },
-        "count": 1
-      },
-      {
-        "item": {
-          "id": "5e2aee0a86f774755a234b62",
-          "name": "Cyclon rechargeable battery"
-        },
-        "count": 1
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "70726573657400000000000d",
-          "name": "Degtyarev RPDN 7.62x39 machine gun OKP-7 DT"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "69ccf254c8ea4e5e1c0ebffb1",
-    "trader": {
-      "id": "5a7c2eca46aef81a7ca2145d",
-      "name": "Mechanic"
-    },
-    "level": 4,
-    "taskUnlock": {
-      "id": "64f83bd983cfca080a362c82",
-      "name": "Gunsmith - Part 25"
-    },
-    "requiredItems": [
-      {
-        "item": {
-          "id": "6389c8c5dbfd5e4b95197e6b",
-          "name": "TerraGroup \"Blue Folders\" materials"
-        },
-        "count": 1
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "64cbdff43ccb85468628d5fc",
-          "name": "Kalashnikov PKM 7.62x54R machine gun Default"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "69ea3c64b4310eb6f700183e1",
-    "trader": {
-      "id": "6617beeaa9cfa777ca915b7c",
-      "name": "Ref"
-    },
-    "level": 4,
-    "taskUnlock": null,
-    "requiredItems": [
-      {
-        "item": {
-          "id": "6656560053eaaa7a23349c86",
-          "name": "Lega Medal"
-        },
-        "count": 1
-      },
-      {
-        "item": {
-          "id": "5d235b4d86f7742e017bc88a",
-          "name": "GP coin"
-        },
-        "count": 40
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "5f06d6e1475d472556679d16",
-          "name": "FN40GL Mk2 40mm grenade launcher Default"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "6a0da99490e28431670f163b1",
+    "id": "6a15763760e36e62900a86ff1",
     "trader": {
       "id": "5935c25fb3acc3127c3d8cd9",
       "name": "Peacekeeper"
@@ -20665,101 +20638,34 @@
     ]
   },
   {
-    "id": "69ccf254c8ea4e5e1c0ec0521",
-    "trader": {
-      "id": "5a7c2eca46aef81a7ca2145d",
-      "name": "Mechanic"
-    },
-    "level": 2,
-    "taskUnlock": {
-      "id": "6744af0969a58fceba101fed",
-      "name": "The Price of Independence"
-    },
-    "requiredItems": [
-      {
-        "item": {
-          "id": "619cbfccbedcde2f5b3f7bdd",
-          "name": "Pipe grip wrench"
-        },
-        "count": 1
-      },
-      {
-        "item": {
-          "id": "66b37f114410565a8f6789e2",
-          "name": "Inseq gas pipe wrench"
-        },
-        "count": 1
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "66d98233302686954b0c6f81",
-          "name": "RSP-30 reactive signal cartridge (Blue)"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "69ccf254c8ea4e5e1c0ec0761",
-    "trader": {
-      "id": "5a7c2eca46aef81a7ca2145d",
-      "name": "Mechanic"
-    },
-    "level": 2,
-    "taskUnlock": {
-      "id": "6744af0969a58fceba101fed",
-      "name": "The Price of Independence"
-    },
-    "requiredItems": [
-      {
-        "item": {
-          "id": "619cbfccbedcde2f5b3f7bdd",
-          "name": "Pipe grip wrench"
-        },
-        "count": 1
-      },
-      {
-        "item": {
-          "id": "66b37f114410565a8f6789e2",
-          "name": "Inseq gas pipe wrench"
-        },
-        "count": 1
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "66d98233302686954b0c6f81",
-          "name": "RSP-30 reactive signal cartridge (Blue)"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "69ea3c66b4310eb6f70019b91",
+    "id": "69ea3c64b4310eb6f700183e1",
     "trader": {
       "id": "6617beeaa9cfa777ca915b7c",
       "name": "Ref"
     },
-    "level": 2,
+    "level": 4,
     "taskUnlock": null,
     "requiredItems": [
+      {
+        "item": {
+          "id": "6656560053eaaa7a23349c86",
+          "name": "Lega Medal"
+        },
+        "count": 1
+      },
       {
         "item": {
           "id": "5d235b4d86f7742e017bc88a",
           "name": "GP coin"
         },
-        "count": 44
+        "count": 40
       }
     ],
     "rewardItems": [
       {
         "item": {
-          "id": "620109578d82e67e7911abf2",
-          "name": "ZiD SP-81 26x75 signal pistol"
+          "id": "5f06d6e1475d472556679d16",
+          "name": "FN40GL Mk2 40mm grenade launcher Default"
         },
         "count": 1
       }
@@ -20807,7 +20713,108 @@
     ]
   },
   {
-    "id": "69c67334bb9f4cb77d081b841",
+    "id": "69ea3c66b4310eb6f70019b91",
+    "trader": {
+      "id": "6617beeaa9cfa777ca915b7c",
+      "name": "Ref"
+    },
+    "level": 2,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5d235b4d86f7742e017bc88a",
+          "name": "GP coin"
+        },
+        "count": 44
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "620109578d82e67e7911abf2",
+          "name": "ZiD SP-81 26x75 signal pistol"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "69ccf254c8ea4e5e1c0ec0761",
+    "trader": {
+      "id": "5a7c2eca46aef81a7ca2145d",
+      "name": "Mechanic"
+    },
+    "level": 2,
+    "taskUnlock": {
+      "id": "6744af0969a58fceba101fed",
+      "name": "The Price of Independence"
+    },
+    "requiredItems": [
+      {
+        "item": {
+          "id": "619cbfccbedcde2f5b3f7bdd",
+          "name": "Pipe grip wrench"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "66b37f114410565a8f6789e2",
+          "name": "Inseq gas pipe wrench"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "66d98233302686954b0c6f81",
+          "name": "RSP-30 reactive signal cartridge (Blue)"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "69ccf254c8ea4e5e1c0ec0521",
+    "trader": {
+      "id": "5a7c2eca46aef81a7ca2145d",
+      "name": "Mechanic"
+    },
+    "level": 2,
+    "taskUnlock": {
+      "id": "6744af0969a58fceba101fed",
+      "name": "The Price of Independence"
+    },
+    "requiredItems": [
+      {
+        "item": {
+          "id": "619cbfccbedcde2f5b3f7bdd",
+          "name": "Pipe grip wrench"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "66b37f114410565a8f6789e2",
+          "name": "Inseq gas pipe wrench"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "66d98233302686954b0c6f81",
+          "name": "RSP-30 reactive signal cartridge (Blue)"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "6a15764660e36e62900a8e191",
     "trader": {
       "id": "5ac3b934156ae10c4430e83c",
       "name": "Ragman"
@@ -20851,52 +20858,117 @@
     ]
   },
   {
-    "id": "69c67389bb9f4cb77d0844101",
+    "id": "6a0da65729e4ca1a9109cc5b1",
     "trader": {
-      "id": "54cb50c76803fa8b248b4571",
-      "name": "Prapor"
+      "id": "5c0647fdd443bc2504c2d371",
+      "name": "Jaeger"
     },
-    "level": 2,
-    "taskUnlock": null,
+    "level": 4,
+    "taskUnlock": {
+      "id": "63a9b36cc31b00242d28a99f",
+      "name": "Slaughterhouse"
+    },
     "requiredItems": [
       {
         "item": {
-          "id": "5c0fa877d174af02a012e1cf",
-          "name": "Aquamari water bottle with filter"
-        },
-        "count": 2
-      },
-      {
-        "item": {
-          "id": "590c595c86f7747884343ad7",
-          "name": "Gas mask air filter"
+          "id": "5c010e350db83400232feec7",
+          "name": "SP-8 Survival Machete"
         },
         "count": 1
-      }
-    ],
-    "rewardItems": [
+      },
       {
         "item": {
           "id": "5bffdc370db834001d23eca8",
           "name": "6Kh5 Bayonet"
         },
         "count": 1
+      },
+      {
+        "item": {
+          "id": "5bffe7930db834001b734a39",
+          "name": "Crash Axe"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "63920105a83e15700a00f168",
+          "name": "SOG Voodoo Hawk tactical tomahawk"
+        },
+        "count": 1
       }
     ]
   },
   {
-    "id": "69c6738abb9f4cb77d0844981",
+    "id": "6a0da65429e4ca1a9109caeb1",
     "trader": {
-      "id": "54cb50c76803fa8b248b4571",
-      "name": "Prapor"
+      "id": "5c0647fdd443bc2504c2d371",
+      "name": "Jaeger"
     },
-    "level": 2,
+    "level": 3,
     "taskUnlock": null,
     "requiredItems": [
       {
         "item": {
-          "id": "5b4329075acfc400153b78ff",
-          "name": "Pompon hat"
+          "id": "59fafb5d86f774067a6f2084",
+          "name": "Propane tank (5L)"
+        },
+        "count": 15
+      },
+      {
+        "item": {
+          "id": "5b43575a86f77424f443fe62",
+          "name": "Fuel conditioner"
+        },
+        "count": 10
+      },
+      {
+        "item": {
+          "id": "590a373286f774287540368b",
+          "name": "Dry fuel"
+        },
+        "count": 15
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5c0126f40db834002a125382",
+          "name": "Red Rebel ice pick"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "6a0da65229e4ca1a9109c9a41",
+    "trader": {
+      "id": "5c0647fdd443bc2504c2d371",
+      "name": "Jaeger"
+    },
+    "level": 3,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "57347c93245977448d35f6e3",
+          "name": "Toothpaste"
+        },
+        "count": 5
+      },
+      {
+        "item": {
+          "id": "5c13cef886f774072e618e82",
+          "name": "Toilet paper"
+        },
+        "count": 5
+      },
+      {
+        "item": {
+          "id": "59e361e886f774176c10a2a5",
+          "name": "Bottle of hydrogen peroxide"
         },
         "count": 2
       }
@@ -20904,38 +20976,8 @@
     "rewardItems": [
       {
         "item": {
-          "id": "5bead2e00db834001c062938",
-          "name": "MPL-50 entrenching tool"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "69ea3c67b4310eb6f7001a331",
-    "trader": {
-      "id": "6617beeaa9cfa777ca915b7c",
-      "name": "Ref"
-    },
-    "level": 2,
-    "taskUnlock": {
-      "id": "69789418b2187365e70bb947",
-      "name": "To Great Heights! - Part 6 [PVP ZONE]"
-    },
-    "requiredItems": [
-      {
-        "item": {
-          "id": "6656560053eaaa7a23349c86",
-          "name": "Lega Medal"
-        },
-        "count": 3
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "664a5428d5e33a713b622379",
-          "name": "APOK Tactical Wasteland Gladius"
+          "id": "5c012ffc0db834001d23f03f",
+          "name": "Camper axe"
         },
         "count": 1
       }
@@ -20993,32 +21035,48 @@
     ]
   },
   {
-    "id": "6a0da65229e4ca1a9109c9a41",
+    "id": "69ea3c67b4310eb6f7001a331",
     "trader": {
-      "id": "5c0647fdd443bc2504c2d371",
-      "name": "Jaeger"
+      "id": "6617beeaa9cfa777ca915b7c",
+      "name": "Ref"
     },
-    "level": 3,
+    "level": 2,
+    "taskUnlock": {
+      "id": "69789418b2187365e70bb947",
+      "name": "To Great Heights! - Part 6 [PVP ZONE]"
+    },
+    "requiredItems": [
+      {
+        "item": {
+          "id": "6656560053eaaa7a23349c86",
+          "name": "Lega Medal"
+        },
+        "count": 3
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "664a5428d5e33a713b622379",
+          "name": "APOK Tactical Wasteland Gladius"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "69c6738abb9f4cb77d0844981",
+    "trader": {
+      "id": "54cb50c76803fa8b248b4571",
+      "name": "Prapor"
+    },
+    "level": 2,
     "taskUnlock": null,
     "requiredItems": [
       {
         "item": {
-          "id": "57347c93245977448d35f6e3",
-          "name": "Toothpaste"
-        },
-        "count": 5
-      },
-      {
-        "item": {
-          "id": "5c13cef886f774072e618e82",
-          "name": "Toilet paper"
-        },
-        "count": 5
-      },
-      {
-        "item": {
-          "id": "59e361e886f774176c10a2a5",
-          "name": "Bottle of hydrogen peroxide"
+          "id": "5b4329075acfc400153b78ff",
+          "name": "Pompon hat"
         },
         "count": 2
       }
@@ -21026,111 +21084,60 @@
     "rewardItems": [
       {
         "item": {
-          "id": "5c012ffc0db834001d23f03f",
-          "name": "Camper axe"
+          "id": "5bead2e00db834001c062938",
+          "name": "MPL-50 entrenching tool"
         },
         "count": 1
       }
     ]
   },
   {
-    "id": "6a0da65429e4ca1a9109caeb1",
+    "id": "69c67389bb9f4cb77d0844101",
     "trader": {
-      "id": "5c0647fdd443bc2504c2d371",
-      "name": "Jaeger"
+      "id": "54cb50c76803fa8b248b4571",
+      "name": "Prapor"
     },
-    "level": 3,
+    "level": 2,
     "taskUnlock": null,
     "requiredItems": [
       {
         "item": {
-          "id": "59fafb5d86f774067a6f2084",
-          "name": "Propane tank (5L)"
+          "id": "5c0fa877d174af02a012e1cf",
+          "name": "Aquamari water bottle with filter"
         },
-        "count": 15
+        "count": 2
       },
       {
         "item": {
-          "id": "5b43575a86f77424f443fe62",
-          "name": "Fuel conditioner"
+          "id": "590c595c86f7747884343ad7",
+          "name": "Gas mask air filter"
         },
-        "count": 10
-      },
-      {
-        "item": {
-          "id": "590a373286f774287540368b",
-          "name": "Dry fuel"
-        },
-        "count": 15
+        "count": 1
       }
     ],
     "rewardItems": [
-      {
-        "item": {
-          "id": "5c0126f40db834002a125382",
-          "name": "Red Rebel ice pick"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "6a0da65729e4ca1a9109cc5b1",
-    "trader": {
-      "id": "5c0647fdd443bc2504c2d371",
-      "name": "Jaeger"
-    },
-    "level": 4,
-    "taskUnlock": {
-      "id": "63a9b36cc31b00242d28a99f",
-      "name": "Slaughterhouse"
-    },
-    "requiredItems": [
-      {
-        "item": {
-          "id": "5c010e350db83400232feec7",
-          "name": "SP-8 Survival Machete"
-        },
-        "count": 1
-      },
       {
         "item": {
           "id": "5bffdc370db834001d23eca8",
           "name": "6Kh5 Bayonet"
         },
         "count": 1
-      },
-      {
-        "item": {
-          "id": "5bffe7930db834001b734a39",
-          "name": "Crash Axe"
-        },
-        "count": 1
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "63920105a83e15700a00f168",
-          "name": "SOG Voodoo Hawk tactical tomahawk"
-        },
-        "count": 1
       }
     ]
   },
   {
-    "id": "69c67388bb9f4cb77d0843f41",
+    "id": "6a15763260e36e62900a845d1",
     "trader": {
-      "id": "54cb50c76803fa8b248b4571",
-      "name": "Prapor"
+      "id": "5935c25fb3acc3127c3d8cd9",
+      "name": "Peacekeeper"
     },
     "level": 2,
     "taskUnlock": null,
     "requiredItems": [
       {
         "item": {
-          "id": "590a3cd386f77436f20848cb",
-          "name": "Energy-saving lamp"
+          "id": "56742c2e4bdc2d95058b456d",
+          "name": "Zibbo lighter"
         },
         "count": 1
       }
@@ -21138,62 +21145,8 @@
     "rewardItems": [
       {
         "item": {
-          "id": "5448be9a4bdc2dfd2f8b456a",
-          "name": "RGD-5 hand grenade"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "69c67389bb9f4cb77d0844311",
-    "trader": {
-      "id": "54cb50c76803fa8b248b4571",
-      "name": "Prapor"
-    },
-    "level": 1,
-    "taskUnlock": null,
-    "requiredItems": [
-      {
-        "item": {
-          "id": "590a3cd386f77436f20848cb",
-          "name": "Energy-saving lamp"
-        },
-        "count": 1
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "5710c24ad2720bc3458b45a3",
-          "name": "F-1 hand grenade"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "69ccf24fc8ea4e5e1c0ebe0f1",
-    "trader": {
-      "id": "5a7c2eca46aef81a7ca2145d",
-      "name": "Mechanic"
-    },
-    "level": 2,
-    "taskUnlock": null,
-    "requiredItems": [
-      {
-        "item": {
-          "id": "5e2af51086f7746d3f3c3402",
-          "name": "UZRGM grenade fuze"
-        },
-        "count": 1
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "5e32f56fcb6d5863cc5e5ee4",
-          "name": "VOG-17 Khattabka improvised hand grenade"
+          "id": "58d3db5386f77426186285a0",
+          "name": "M67 hand grenade"
         },
         "count": 1
       }
@@ -21227,388 +21180,7 @@
     ]
   },
   {
-    "id": "6a0da98d90e28431670f12e61",
-    "trader": {
-      "id": "5935c25fb3acc3127c3d8cd9",
-      "name": "Peacekeeper"
-    },
-    "level": 2,
-    "taskUnlock": null,
-    "requiredItems": [
-      {
-        "item": {
-          "id": "56742c2e4bdc2d95058b456d",
-          "name": "Zibbo lighter"
-        },
-        "count": 1
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "58d3db5386f77426186285a0",
-          "name": "M67 hand grenade"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "69c67395bb9f4cb77d084aa2b",
-    "trader": {
-      "id": "54cb57776803fa99248b456e",
-      "name": "Therapist"
-    },
-    "level": 3,
-    "taskUnlock": null,
-    "requiredItems": [
-      {
-        "item": {
-          "id": "5d1b33a686f7742523398398",
-          "name": "Canister with purified water"
-        },
-        "count": 2
-      },
-      {
-        "item": {
-          "id": "5d1b385e86f774252167b98a",
-          "name": "Water filter"
-        },
-        "count": 2
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "5d80c78786f774403a401e3e",
-          "name": "RB-AK key"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "69c67395bb9f4cb77d084ac3b",
-    "trader": {
-      "id": "54cb57776803fa99248b456e",
-      "name": "Therapist"
-    },
-    "level": 2,
-    "taskUnlock": null,
-    "requiredItems": [
-      {
-        "item": {
-          "id": "5e2af02c86f7746d420957d4",
-          "name": "Pack of chlorine"
-        },
-        "count": 8
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "5a0ee37f86f774023657a86f",
-          "name": "Health Resort west wing room 221 key"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "69c67395bb9f4cb77d084ac6b",
-    "trader": {
-      "id": "54cb57776803fa99248b456e",
-      "name": "Therapist"
-    },
-    "level": 1,
-    "taskUnlock": null,
-    "requiredItems": [
-      {
-        "item": {
-          "id": "57347cd0245977445a2d6ff1",
-          "name": "T-Shaped plug"
-        },
-        "count": 7
-      },
-      {
-        "item": {
-          "id": "5734795124597738002c6176",
-          "name": "Insulating tape"
-        },
-        "count": 3
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "593aa4be86f77457f56379f8",
-          "name": "Dorm room 303 key"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "69c67395bb9f4cb77d084acfb",
-    "trader": {
-      "id": "54cb57776803fa99248b456e",
-      "name": "Therapist"
-    },
-    "level": 1,
-    "taskUnlock": null,
-    "requiredItems": [
-      {
-        "item": {
-          "id": "575062b524597720a31c09a1",
-          "name": "Can of Ice Green tea"
-        },
-        "count": 1
-      },
-      {
-        "item": {
-          "id": "5448ff904bdc2d6f028b456e",
-          "name": "Army crackers"
-        },
-        "count": 2
-      },
-      {
-        "item": {
-          "id": "57347d8724597744596b4e76",
-          "name": "Can of squash spread"
-        },
-        "count": 1
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "5780d0532459777a5108b9a2",
-          "name": "Tarcone Director's office key"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "69c67395bb9f4cb77d084ad5b",
-    "trader": {
-      "id": "54cb57776803fa99248b456e",
-      "name": "Therapist"
-    },
-    "level": 1,
-    "taskUnlock": null,
-    "requiredItems": [
-      {
-        "item": {
-          "id": "5d1b3a5d86f774252167ba22",
-          "name": "Pile of meds"
-        },
-        "count": 7
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "5938603e86f77435642354f4",
-          "name": "Dorm room 206 key"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "69c67395bb9f4cb77d084ae1b",
-    "trader": {
-      "id": "54cb57776803fa99248b456e",
-      "name": "Therapist"
-    },
-    "level": 2,
-    "taskUnlock": null,
-    "requiredItems": [
-      {
-        "item": {
-          "id": "6389c6463485cf0eeb260715",
-          "name": "Pack of Arseniy buckwheat"
-        },
-        "count": 1
-      },
-      {
-        "item": {
-          "id": "6389c6c7dbfd5e4b95197e68",
-          "name": "Aquapeps water purification tablets"
-        },
-        "count": 1
-      },
-      {
-        "item": {
-          "id": "5d1b3a5d86f774252167ba22",
-          "name": "Pile of meds"
-        },
-        "count": 5
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "5780cfa52459777dfb276eb1",
-          "name": "Dorm room 220 key"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "69c67395bb9f4cb77d084ae4b",
-    "trader": {
-      "id": "54cb57776803fa99248b456e",
-      "name": "Therapist"
-    },
-    "level": 1,
-    "taskUnlock": null,
-    "requiredItems": [
-      {
-        "item": {
-          "id": "57513fcc24597720a31c09a6",
-          "name": "Pack of Vita juice"
-        },
-        "count": 1
-      },
-      {
-        "item": {
-          "id": "575146b724597720a27126d5",
-          "name": "Pack of milk"
-        },
-        "count": 1
-      },
-      {
-        "item": {
-          "id": "5c13cef886f774072e618e82",
-          "name": "Toilet paper"
-        },
-        "count": 1
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "5938144586f77473c2087145",
-          "name": "Portable bunkhouse key"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "69c67396bb9f4cb77d084b0bb",
-    "trader": {
-      "id": "54cb57776803fa99248b456e",
-      "name": "Therapist"
-    },
-    "level": 3,
-    "taskUnlock": null,
-    "requiredItems": [
-      {
-        "item": {
-          "id": "5d1b3f2d86f774253763b735",
-          "name": "Disposable syringe"
-        },
-        "count": 5
-      },
-      {
-        "item": {
-          "id": "590c5d4b86f774784e1b9c45",
-          "name": "Iskra ration pack"
-        },
-        "count": 3
-      },
-      {
-        "item": {
-          "id": "5af0534a86f7743b6f354284",
-          "name": "Ophthalmoscope"
-        },
-        "count": 1
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "5ad5db3786f7743568421cce",
-          "name": "EMERCOM medical unit key"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "69c67396bb9f4cb77d084b14b",
-    "trader": {
-      "id": "54cb57776803fa99248b456e",
-      "name": "Therapist"
-    },
-    "level": 3,
-    "taskUnlock": null,
-    "requiredItems": [
-      {
-        "item": {
-          "id": "5d1b3a5d86f774252167ba22",
-          "name": "Pile of meds"
-        },
-        "count": 4
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "5a0dc95c86f77452440fc675",
-          "name": "Health Resort west wing office room 112 key"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "69c67396bb9f4cb77d084b2fb",
-    "trader": {
-      "id": "54cb57776803fa99248b456e",
-      "name": "Therapist"
-    },
-    "level": 2,
-    "taskUnlock": null,
-    "requiredItems": [
-      {
-        "item": {
-          "id": "59e361e886f774176c10a2a5",
-          "name": "Bottle of hydrogen peroxide"
-        },
-        "count": 1
-      },
-      {
-        "item": {
-          "id": "59e3606886f77417674759a5",
-          "name": "Bottle of saline solution"
-        },
-        "count": 1
-      },
-      {
-        "item": {
-          "id": "5d1b3a5d86f774252167ba22",
-          "name": "Pile of meds"
-        },
-        "count": 1
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "59387a4986f77401cc236e62",
-          "name": "Dorm room 114 key"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "69ccf258c8ea4e5e1c0ec271b",
+    "id": "69ccf24fc8ea4e5e1c0ebe0f1",
     "trader": {
       "id": "5a7c2eca46aef81a7ca2145d",
       "name": "Mechanic"
@@ -21618,8 +21190,8 @@
     "requiredItems": [
       {
         "item": {
-          "id": "59faff1d86f7746c51718c9c",
-          "name": "Physical Bitcoin"
+          "id": "5e2af51086f7746d3f3c3402",
+          "name": "UZRGM grenade fuze"
         },
         "count": 1
       }
@@ -21627,217 +21199,53 @@
     "rewardItems": [
       {
         "item": {
-          "id": "68e95d71a3d110355b03e529",
-          "name": "Elektronik's key"
+          "id": "5e32f56fcb6d5863cc5e5ee4",
+          "name": "VOG-17 Khattabka improvised hand grenade"
         },
         "count": 1
       }
     ]
   },
   {
-    "id": "69ccf258c8ea4e5e1c0ec280b",
+    "id": "69c67389bb9f4cb77d0844311",
     "trader": {
-      "id": "5a7c2eca46aef81a7ca2145d",
-      "name": "Mechanic"
-    },
-    "level": 2,
-    "taskUnlock": null,
-    "requiredItems": [
-      {
-        "item": {
-          "id": "5734779624597737e04bf329",
-          "name": "CPU fan"
-        },
-        "count": 2
-      },
-      {
-        "item": {
-          "id": "590a3b0486f7743954552bdb",
-          "name": "Printed circuit board"
-        },
-        "count": 2
-      },
-      {
-        "item": {
-          "id": "5672cb124bdc2d1a0f8b4568",
-          "name": "AA Battery"
-        },
-        "count": 4
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "5a0eee1486f77402aa773226",
-          "name": "Health Resort east wing room 328 key"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "69ea3c66b4310eb6f700197bb",
-    "trader": {
-      "id": "6617beeaa9cfa777ca915b7c",
-      "name": "Ref"
-    },
-    "level": 3,
-    "taskUnlock": null,
-    "requiredItems": [
-      {
-        "item": {
-          "id": "6656560053eaaa7a23349c86",
-          "name": "Lega Medal"
-        },
-        "count": 1
-      },
-      {
-        "item": {
-          "id": "5d235b4d86f7742e017bc88a",
-          "name": "GP coin"
-        },
-        "count": 100
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "664d3ddfdda2e85aca370d75",
-          "name": "Voron's hideout key"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "69ea3c67b4310eb6f7001a30b",
-    "trader": {
-      "id": "6617beeaa9cfa777ca915b7c",
-      "name": "Ref"
-    },
-    "level": 4,
-    "taskUnlock": null,
-    "requiredItems": [
-      {
-        "item": {
-          "id": "6656560053eaaa7a23349c86",
-          "name": "Lega Medal"
-        },
-        "count": 1
-      },
-      {
-        "item": {
-          "id": "5d235b4d86f7742e017bc88a",
-          "name": "GP coin"
-        },
-        "count": 100
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "664d3de85f2355673b09aed5",
-          "name": "Leon's hideout key"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "69ea3c68b4310eb6f7001bcab",
-    "trader": {
-      "id": "6617beeaa9cfa777ca915b7c",
-      "name": "Ref"
-    },
-    "level": 2,
-    "taskUnlock": null,
-    "requiredItems": [
-      {
-        "item": {
-          "id": "6656560053eaaa7a23349c86",
-          "name": "Lega Medal"
-        },
-        "count": 1
-      },
-      {
-        "item": {
-          "id": "5d235b4d86f7742e017bc88a",
-          "name": "GP coin"
-        },
-        "count": 100
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "664d3dd590294949fe2d81b7",
-          "name": "Grumpy's hideout key"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "69ea3c69b4310eb6f7001c1ab",
-    "trader": {
-      "id": "6617beeaa9cfa777ca915b7c",
-      "name": "Ref"
+      "id": "54cb50c76803fa8b248b4571",
+      "name": "Prapor"
     },
     "level": 1,
     "taskUnlock": null,
     "requiredItems": [
       {
         "item": {
-          "id": "6656560053eaaa7a23349c86",
-          "name": "Lega Medal"
+          "id": "590a3cd386f77436f20848cb",
+          "name": "Energy-saving lamp"
         },
         "count": 1
-      },
-      {
-        "item": {
-          "id": "5d235b4d86f7742e017bc88a",
-          "name": "GP coin"
-        },
-        "count": 100
       }
     ],
     "rewardItems": [
       {
         "item": {
-          "id": "664d3db6db5dea2bad286955",
-          "name": "Shatun's hideout key"
+          "id": "5710c24ad2720bc3458b45a3",
+          "name": "F-1 hand grenade"
         },
         "count": 1
       }
     ]
   },
   {
-    "id": "6a0da65229e4ca1a9109c9b2b",
+    "id": "69c67388bb9f4cb77d0843f41",
     "trader": {
-      "id": "5c0647fdd443bc2504c2d371",
-      "name": "Jaeger"
+      "id": "54cb50c76803fa8b248b4571",
+      "name": "Prapor"
     },
     "level": 2,
     "taskUnlock": null,
     "requiredItems": [
       {
         "item": {
-          "id": "5448ba0b4bdc2d02308b456c",
-          "name": "Factory emergency exit key"
-        },
-        "count": 1
-      },
-      {
-        "item": {
-          "id": "590c5d4b86f774784e1b9c45",
-          "name": "Iskra ration pack"
-        },
-        "count": 3
-      },
-      {
-        "item": {
-          "id": "590c5f0d86f77413997acfab",
-          "name": "MRE ration pack"
+          "id": "590a3cd386f77436f20848cb",
+          "name": "Energy-saving lamp"
         },
         "count": 1
       }
@@ -21845,83 +21253,8 @@
     "rewardItems": [
       {
         "item": {
-          "id": "5448ba0b4bdc2d02308b456c",
-          "name": "Factory emergency exit key"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "6a0da65429e4ca1a9109caffb",
-    "trader": {
-      "id": "5c0647fdd443bc2504c2d371",
-      "name": "Jaeger"
-    },
-    "level": 4,
-    "taskUnlock": null,
-    "requiredItems": [
-      {
-        "item": {
-          "id": "5e2aee0a86f774755a234b62",
-          "name": "Cyclon rechargeable battery"
-        },
-        "count": 7
-      },
-      {
-        "item": {
-          "id": "5d4042a986f7743185265463",
-          "name": "Flat screwdriver (Long)"
-        },
-        "count": 5
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "5d95d6fa86f77424484aa5e9",
-          "name": "RB-PSP2 key"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "6a0da65429e4ca1a9109cb30b",
-    "trader": {
-      "id": "5c0647fdd443bc2504c2d371",
-      "name": "Jaeger"
-    },
-    "level": 4,
-    "taskUnlock": null,
-    "requiredItems": [
-      {
-        "item": {
-          "id": "60b0f93284c20f0feb453da7",
-          "name": "Can of RatCola soda"
-        },
-        "count": 4
-      },
-      {
-        "item": {
-          "id": "5b4329075acfc400153b78ff",
-          "name": "Pompon hat"
-        },
-        "count": 8
-      },
-      {
-        "item": {
-          "id": "59e7708286f7742cbd762753",
-          "name": "Ushanka ear flap hat"
-        },
-        "count": 4
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "5d80cb8786f774405611c7d9",
-          "name": "RB-PP key"
+          "id": "5448be9a4bdc2dfd2f8b456a",
+          "name": "RGD-5 hand grenade"
         },
         "count": 1
       }
@@ -21969,32 +21302,107 @@
     ]
   },
   {
-    "id": "6a0da65529e4ca1a9109cb62b",
+    "id": "6a0da65429e4ca1a9109cb30b",
     "trader": {
       "id": "5c0647fdd443bc2504c2d371",
       "name": "Jaeger"
     },
-    "level": 3,
+    "level": 4,
     "taskUnlock": null,
     "requiredItems": [
       {
         "item": {
-          "id": "5d80c62a86f7744036212b3f",
-          "name": "RB-VO marked key"
+          "id": "60b0f93284c20f0feb453da7",
+          "name": "Can of RatCola soda"
+        },
+        "count": 4
+      },
+      {
+        "item": {
+          "id": "5b4329075acfc400153b78ff",
+          "name": "Pompon hat"
+        },
+        "count": 8
+      },
+      {
+        "item": {
+          "id": "59e7708286f7742cbd762753",
+          "name": "Ushanka ear flap hat"
+        },
+        "count": 4
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5d80cb8786f774405611c7d9",
+          "name": "RB-PP key"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "6a0da65429e4ca1a9109caffb",
+    "trader": {
+      "id": "5c0647fdd443bc2504c2d371",
+      "name": "Jaeger"
+    },
+    "level": 4,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5e2aee0a86f774755a234b62",
+          "name": "Cyclon rechargeable battery"
+        },
+        "count": 7
+      },
+      {
+        "item": {
+          "id": "5d4042a986f7743185265463",
+          "name": "Flat screwdriver (Long)"
+        },
+        "count": 5
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5d95d6fa86f77424484aa5e9",
+          "name": "RB-PSP2 key"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "6a0da65229e4ca1a9109c9b2b",
+    "trader": {
+      "id": "5c0647fdd443bc2504c2d371",
+      "name": "Jaeger"
+    },
+    "level": 2,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5448ba0b4bdc2d02308b456c",
+          "name": "Factory emergency exit key"
         },
         "count": 1
       },
       {
         "item": {
-          "id": "5ede7a8229445733cb4c18e2",
-          "name": "RB-PKPM marked key"
+          "id": "590c5d4b86f774784e1b9c45",
+          "name": "Iskra ration pack"
         },
-        "count": 1
+        "count": 3
       },
       {
         "item": {
-          "id": "5d80c60f86f77440373c4ece",
-          "name": "RB-BK marked key"
+          "id": "590c5f0d86f77413997acfab",
+          "name": "MRE ration pack"
         },
         "count": 1
       }
@@ -22002,8 +21410,777 @@
     "rewardItems": [
       {
         "item": {
-          "id": "5780cf7f2459777de4559322",
-          "name": "Dorm room 314 marked key"
+          "id": "5448ba0b4bdc2d02308b456c",
+          "name": "Factory emergency exit key"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "69ea3c69b4310eb6f7001c1ab",
+    "trader": {
+      "id": "6617beeaa9cfa777ca915b7c",
+      "name": "Ref"
+    },
+    "level": 1,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "6656560053eaaa7a23349c86",
+          "name": "Lega Medal"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "5d235b4d86f7742e017bc88a",
+          "name": "GP coin"
+        },
+        "count": 100
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "664d3db6db5dea2bad286955",
+          "name": "Shatun's hideout key"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "69ea3c68b4310eb6f7001bcab",
+    "trader": {
+      "id": "6617beeaa9cfa777ca915b7c",
+      "name": "Ref"
+    },
+    "level": 2,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "6656560053eaaa7a23349c86",
+          "name": "Lega Medal"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "5d235b4d86f7742e017bc88a",
+          "name": "GP coin"
+        },
+        "count": 100
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "664d3dd590294949fe2d81b7",
+          "name": "Grumpy's hideout key"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "69ea3c67b4310eb6f7001a30b",
+    "trader": {
+      "id": "6617beeaa9cfa777ca915b7c",
+      "name": "Ref"
+    },
+    "level": 4,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "6656560053eaaa7a23349c86",
+          "name": "Lega Medal"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "5d235b4d86f7742e017bc88a",
+          "name": "GP coin"
+        },
+        "count": 100
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "664d3de85f2355673b09aed5",
+          "name": "Leon's hideout key"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "69ea3c66b4310eb6f700197bb",
+    "trader": {
+      "id": "6617beeaa9cfa777ca915b7c",
+      "name": "Ref"
+    },
+    "level": 3,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "6656560053eaaa7a23349c86",
+          "name": "Lega Medal"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "5d235b4d86f7742e017bc88a",
+          "name": "GP coin"
+        },
+        "count": 100
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "664d3ddfdda2e85aca370d75",
+          "name": "Voron's hideout key"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "69ccf258c8ea4e5e1c0ec280b",
+    "trader": {
+      "id": "5a7c2eca46aef81a7ca2145d",
+      "name": "Mechanic"
+    },
+    "level": 2,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5734779624597737e04bf329",
+          "name": "CPU fan"
+        },
+        "count": 2
+      },
+      {
+        "item": {
+          "id": "590a3b0486f7743954552bdb",
+          "name": "Printed circuit board"
+        },
+        "count": 2
+      },
+      {
+        "item": {
+          "id": "5672cb124bdc2d1a0f8b4568",
+          "name": "AA Battery"
+        },
+        "count": 4
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5a0eee1486f77402aa773226",
+          "name": "Health Resort east wing room 328 key"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "69ccf258c8ea4e5e1c0ec271b",
+    "trader": {
+      "id": "5a7c2eca46aef81a7ca2145d",
+      "name": "Mechanic"
+    },
+    "level": 2,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "59faff1d86f7746c51718c9c",
+          "name": "Physical Bitcoin"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "68e95d71a3d110355b03e529",
+          "name": "Elektronik's key"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "69c67396bb9f4cb77d084b2fb",
+    "trader": {
+      "id": "54cb57776803fa99248b456e",
+      "name": "Therapist"
+    },
+    "level": 2,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "59e361e886f774176c10a2a5",
+          "name": "Bottle of hydrogen peroxide"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "59e3606886f77417674759a5",
+          "name": "Bottle of saline solution"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "5d1b3a5d86f774252167ba22",
+          "name": "Pile of meds"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "59387a4986f77401cc236e62",
+          "name": "Dorm room 114 key"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "69c67396bb9f4cb77d084b14b",
+    "trader": {
+      "id": "54cb57776803fa99248b456e",
+      "name": "Therapist"
+    },
+    "level": 3,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5d1b3a5d86f774252167ba22",
+          "name": "Pile of meds"
+        },
+        "count": 4
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5a0dc95c86f77452440fc675",
+          "name": "Health Resort west wing office room 112 key"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "69c67396bb9f4cb77d084b0bb",
+    "trader": {
+      "id": "54cb57776803fa99248b456e",
+      "name": "Therapist"
+    },
+    "level": 3,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5d1b3f2d86f774253763b735",
+          "name": "Disposable syringe"
+        },
+        "count": 5
+      },
+      {
+        "item": {
+          "id": "590c5d4b86f774784e1b9c45",
+          "name": "Iskra ration pack"
+        },
+        "count": 3
+      },
+      {
+        "item": {
+          "id": "5af0534a86f7743b6f354284",
+          "name": "Ophthalmoscope"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5ad5db3786f7743568421cce",
+          "name": "EMERCOM medical unit key"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "69c67395bb9f4cb77d084ae4b",
+    "trader": {
+      "id": "54cb57776803fa99248b456e",
+      "name": "Therapist"
+    },
+    "level": 1,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "57513fcc24597720a31c09a6",
+          "name": "Pack of Vita juice"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "575146b724597720a27126d5",
+          "name": "Pack of milk"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "5c13cef886f774072e618e82",
+          "name": "Toilet paper"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5938144586f77473c2087145",
+          "name": "Portable bunkhouse key"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "69c67395bb9f4cb77d084ae1b",
+    "trader": {
+      "id": "54cb57776803fa99248b456e",
+      "name": "Therapist"
+    },
+    "level": 2,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "6389c6463485cf0eeb260715",
+          "name": "Pack of Arseniy buckwheat"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "6389c6c7dbfd5e4b95197e68",
+          "name": "Aquapeps water purification tablets"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "5d1b3a5d86f774252167ba22",
+          "name": "Pile of meds"
+        },
+        "count": 5
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5780cfa52459777dfb276eb1",
+          "name": "Dorm room 220 key"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "69c67395bb9f4cb77d084ad5b",
+    "trader": {
+      "id": "54cb57776803fa99248b456e",
+      "name": "Therapist"
+    },
+    "level": 1,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5d1b3a5d86f774252167ba22",
+          "name": "Pile of meds"
+        },
+        "count": 7
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5938603e86f77435642354f4",
+          "name": "Dorm room 206 key"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "69c67395bb9f4cb77d084acfb",
+    "trader": {
+      "id": "54cb57776803fa99248b456e",
+      "name": "Therapist"
+    },
+    "level": 1,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "575062b524597720a31c09a1",
+          "name": "Can of Ice Green tea"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "5448ff904bdc2d6f028b456e",
+          "name": "Army crackers"
+        },
+        "count": 2
+      },
+      {
+        "item": {
+          "id": "57347d8724597744596b4e76",
+          "name": "Can of squash spread"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5780d0532459777a5108b9a2",
+          "name": "Tarcone Director's office key"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "69c67395bb9f4cb77d084ac6b",
+    "trader": {
+      "id": "54cb57776803fa99248b456e",
+      "name": "Therapist"
+    },
+    "level": 1,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "57347cd0245977445a2d6ff1",
+          "name": "T-Shaped plug"
+        },
+        "count": 7
+      },
+      {
+        "item": {
+          "id": "5734795124597738002c6176",
+          "name": "Insulating tape"
+        },
+        "count": 3
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "593aa4be86f77457f56379f8",
+          "name": "Dorm room 303 key"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "69c67395bb9f4cb77d084ac3b",
+    "trader": {
+      "id": "54cb57776803fa99248b456e",
+      "name": "Therapist"
+    },
+    "level": 2,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5e2af02c86f7746d420957d4",
+          "name": "Pack of chlorine"
+        },
+        "count": 8
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5a0ee37f86f774023657a86f",
+          "name": "Health Resort west wing room 221 key"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "69c67395bb9f4cb77d084aa2b",
+    "trader": {
+      "id": "54cb57776803fa99248b456e",
+      "name": "Therapist"
+    },
+    "level": 3,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5d1b33a686f7742523398398",
+          "name": "Canister with purified water"
+        },
+        "count": 2
+      },
+      {
+        "item": {
+          "id": "5d1b385e86f774252167b98a",
+          "name": "Water filter"
+        },
+        "count": 2
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5d80c78786f774403a401e3e",
+          "name": "RB-AK key"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "69c67395bb9f4cb77d084a7eb",
+    "trader": {
+      "id": "54cb57776803fa99248b456e",
+      "name": "Therapist"
+    },
+    "level": 4,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5734773724597737fd047c14",
+          "name": "Can of condensed milk"
+        },
+        "count": 60
+      },
+      {
+        "item": {
+          "id": "57347d90245977448f7b7f65",
+          "name": "Pack of oat flakes"
+        },
+        "count": 10
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5ad5d7d286f77450166e0a89",
+          "name": "Kiba Arms outer door key"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "69c67394bb9f4cb77d084a72b",
+    "trader": {
+      "id": "54cb57776803fa99248b456e",
+      "name": "Therapist"
+    },
+    "level": 2,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5734758f24597738025ee253",
+          "name": "Golden neck chain"
+        },
+        "count": 4
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5780d0532459777a5108b9a2",
+          "name": "Tarcone Director's office key"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "69c67393bb9f4cb77d084982b",
+    "trader": {
+      "id": "54cb50c76803fa8b248b4571",
+      "name": "Prapor"
+    },
+    "level": 2,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "56742c2e4bdc2d95058b456d",
+          "name": "Zibbo lighter"
+        },
+        "count": 2
+      },
+      {
+        "item": {
+          "id": "5672cb304bdc2dc2088b456a",
+          "name": "D Size battery"
+        },
+        "count": 2
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "593aa4be86f77457f56379f8",
+          "name": "Dorm room 303 key"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "6a15764960e36e62900a9076b",
+    "trader": {
+      "id": "5ac3b934156ae10c4430e83c",
+      "name": "Ragman"
+    },
+    "level": 3,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5bc9bc53d4351e00367fbcee",
+          "name": "Golden rooster figurine"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "573474f924597738002c6174",
+          "name": "Chainlet"
+        },
+        "count": 5
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5a0eb6ac86f7743124037a28",
+          "name": "Cottage back door key"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "6a15764260e36e62900a8c6bb",
+    "trader": {
+      "id": "5935c25fb3acc3127c3d8cd9",
+      "name": "Peacekeeper"
+    },
+    "level": 2,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "590c37d286f77443be3d7827",
+          "name": "SAS drive"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "544fb3f34bdc2d03748b456a",
+          "name": "Morphine injector"
+        },
+        "count": 3
+      },
+      {
+        "item": {
+          "id": "590c645c86f77412b01304d9",
+          "name": "Diary"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5a145d4786f7744cbb6f4a12",
+          "name": "Health Resort east wing room 306 key"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "6a0da65529e4ca1a9109cb9cb",
+    "trader": {
+      "id": "5c0647fdd443bc2504c2d371",
+      "name": "Jaeger"
+    },
+    "level": 2,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "590c639286f774151567fa95",
+          "name": "Tech manual"
+        },
+        "count": 2
+      },
+      {
+        "item": {
+          "id": "5d40407c86f774318526545a",
+          "name": "Bottle of Tarkovskaya vodka"
+        },
+        "count": 4
+      },
+      {
+        "item": {
+          "id": "57347d7224597744596b4e72",
+          "name": "Can of beef stew (Small)"
+        },
+        "count": 2
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5913915886f774123603c392",
+          "name": "Military checkpoint key"
         },
         "count": 1
       }
@@ -22058,202 +22235,32 @@
     ]
   },
   {
-    "id": "6a0da65529e4ca1a9109cb9cb",
+    "id": "6a0da65529e4ca1a9109cb62b",
     "trader": {
       "id": "5c0647fdd443bc2504c2d371",
       "name": "Jaeger"
-    },
-    "level": 2,
-    "taskUnlock": null,
-    "requiredItems": [
-      {
-        "item": {
-          "id": "590c639286f774151567fa95",
-          "name": "Tech manual"
-        },
-        "count": 2
-      },
-      {
-        "item": {
-          "id": "5d40407c86f774318526545a",
-          "name": "Bottle of Tarkovskaya vodka"
-        },
-        "count": 4
-      },
-      {
-        "item": {
-          "id": "57347d7224597744596b4e72",
-          "name": "Can of beef stew (Small)"
-        },
-        "count": 2
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "5913915886f774123603c392",
-          "name": "Military checkpoint key"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "69c67339bb9f4cb77d081ec2b",
-    "trader": {
-      "id": "5ac3b934156ae10c4430e83c",
-      "name": "Ragman"
     },
     "level": 3,
     "taskUnlock": null,
     "requiredItems": [
       {
         "item": {
-          "id": "5bc9bc53d4351e00367fbcee",
-          "name": "Golden rooster figurine"
+          "id": "5d80c62a86f7744036212b3f",
+          "name": "RB-VO marked key"
         },
         "count": 1
       },
       {
         "item": {
-          "id": "573474f924597738002c6174",
-          "name": "Chainlet"
-        },
-        "count": 5
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "5a0eb6ac86f7743124037a28",
-          "name": "Cottage back door key"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "69c67393bb9f4cb77d084982b",
-    "trader": {
-      "id": "54cb50c76803fa8b248b4571",
-      "name": "Prapor"
-    },
-    "level": 2,
-    "taskUnlock": null,
-    "requiredItems": [
-      {
-        "item": {
-          "id": "56742c2e4bdc2d95058b456d",
-          "name": "Zibbo lighter"
-        },
-        "count": 2
-      },
-      {
-        "item": {
-          "id": "5672cb304bdc2dc2088b456a",
-          "name": "D Size battery"
-        },
-        "count": 2
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "593aa4be86f77457f56379f8",
-          "name": "Dorm room 303 key"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "69c67394bb9f4cb77d084a72b",
-    "trader": {
-      "id": "54cb57776803fa99248b456e",
-      "name": "Therapist"
-    },
-    "level": 2,
-    "taskUnlock": null,
-    "requiredItems": [
-      {
-        "item": {
-          "id": "5734758f24597738025ee253",
-          "name": "Golden neck chain"
-        },
-        "count": 4
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "5780d0532459777a5108b9a2",
-          "name": "Tarcone Director's office key"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "69c67395bb9f4cb77d084a7eb",
-    "trader": {
-      "id": "54cb57776803fa99248b456e",
-      "name": "Therapist"
-    },
-    "level": 4,
-    "taskUnlock": null,
-    "requiredItems": [
-      {
-        "item": {
-          "id": "5734773724597737fd047c14",
-          "name": "Can of condensed milk"
-        },
-        "count": 60
-      },
-      {
-        "item": {
-          "id": "57347d90245977448f7b7f65",
-          "name": "Pack of oat flakes"
-        },
-        "count": 10
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "5ad5d7d286f77450166e0a89",
-          "name": "Kiba Arms outer door key"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "6a0da99e90e28431670f1affb",
-    "trader": {
-      "id": "5935c25fb3acc3127c3d8cd9",
-      "name": "Peacekeeper"
-    },
-    "level": 2,
-    "taskUnlock": null,
-    "requiredItems": [
-      {
-        "item": {
-          "id": "590c37d286f77443be3d7827",
-          "name": "SAS drive"
+          "id": "5ede7a8229445733cb4c18e2",
+          "name": "RB-PKPM marked key"
         },
         "count": 1
       },
       {
         "item": {
-          "id": "544fb3f34bdc2d03748b456a",
-          "name": "Morphine injector"
-        },
-        "count": 3
-      },
-      {
-        "item": {
-          "id": "590c645c86f77412b01304d9",
-          "name": "Diary"
+          "id": "5d80c60f86f77440373c4ece",
+          "name": "RB-BK marked key"
         },
         "count": 1
       }
@@ -22261,8 +22268,8 @@
     "rewardItems": [
       {
         "item": {
-          "id": "5a145d4786f7744cbb6f4a12",
-          "name": "Health Resort east wing room 306 key"
+          "id": "5780cf7f2459777de4559322",
+          "name": "Dorm room 314 marked key"
         },
         "count": 1
       }
@@ -22429,7 +22436,7 @@
     ]
   },
   {
-    "id": "6a0da99090e28431670f145ec",
+    "id": "6a15763560e36e62900a8608c",
     "trader": {
       "id": "5935c25fb3acc3127c3d8cd9",
       "name": "Peacekeeper"
