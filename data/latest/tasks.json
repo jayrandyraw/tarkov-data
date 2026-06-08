@@ -50671,20 +50671,8 @@
         "optional": false,
         "maps": [
           {
-            "id": "56f40101d2720b2a4d8b45d6",
-            "name": "Customs"
-          },
-          {
-            "id": "5704e3c2d2720bac5b8b4567",
-            "name": "Woods"
-          },
-          {
             "id": "5704e4dad2720bb55b8b4567",
             "name": "Lighthouse"
-          },
-          {
-            "id": "5704e554d2720bac5b8b456e",
-            "name": "Shoreline"
           },
           {
             "id": "69af492a4819ea4ba10a69c5",
@@ -50699,20 +50687,8 @@
         "optional": false,
         "maps": [
           {
-            "id": "56f40101d2720b2a4d8b45d6",
-            "name": "Customs"
-          },
-          {
-            "id": "5704e3c2d2720bac5b8b4567",
-            "name": "Woods"
-          },
-          {
             "id": "5704e4dad2720bb55b8b4567",
             "name": "Lighthouse"
-          },
-          {
-            "id": "5704e554d2720bac5b8b456e",
-            "name": "Shoreline"
           }
         ]
       },
@@ -50723,20 +50699,8 @@
         "optional": false,
         "maps": [
           {
-            "id": "56f40101d2720b2a4d8b45d6",
-            "name": "Customs"
-          },
-          {
-            "id": "5704e3c2d2720bac5b8b4567",
-            "name": "Woods"
-          },
-          {
             "id": "5704e4dad2720bb55b8b4567",
             "name": "Lighthouse"
-          },
-          {
-            "id": "5704e554d2720bac5b8b456e",
-            "name": "Shoreline"
           }
         ]
       }

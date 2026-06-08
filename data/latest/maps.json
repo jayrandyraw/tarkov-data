@@ -92,19 +92,17 @@
       "Scavs",
       "Reshala",
       "Reshala Guard",
-      "Knight",
-      "Big Pipe",
-      "Birdeye",
       "Partisan",
       "Cultist Priest",
-      "Cultist Warrior"
+      "Cultist Warrior",
+      "arenaFighter"
     ],
     "raidDuration": 35,
     "players": "10-12",
     "bosses": [
       {
         "name": "Reshala",
-        "spawnChance": 0.75,
+        "spawnChance": 1,
         "spawnLocations": [
           {
             "name": "Dorms",
@@ -132,36 +130,6 @@
         ]
       },
       {
-        "name": "Knight",
-        "spawnChance": 0.3,
-        "spawnLocations": [
-          {
-            "name": "Stronghold",
-            "chance": 1
-          }
-        ],
-        "escorts": [
-          {
-            "name": "Big Pipe",
-            "amount": [
-              {
-                "count": 1,
-                "chance": 1
-              }
-            ]
-          },
-          {
-            "name": "Birdeye",
-            "amount": [
-              {
-                "count": 1,
-                "chance": 1
-              }
-            ]
-          }
-        ]
-      },
-      {
         "name": "Partisan",
         "spawnChance": 0.2,
         "spawnLocations": [],
@@ -182,6 +150,27 @@
             "amount": [
               {
                 "count": 4,
+                "chance": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "arenaFighter",
+        "spawnChance": 1,
+        "spawnLocations": [
+          {
+            "name": "Dorms",
+            "chance": 1
+          }
+        ],
+        "escorts": [
+          {
+            "name": "arenaFighter",
+            "amount": [
+              {
+                "count": 5,
                 "chance": 1
               }
             ]
@@ -375,19 +364,17 @@
       "Scavs",
       "Shturman",
       "Shturman Guard",
-      "Knight",
-      "Big Pipe",
-      "Birdeye",
       "Partisan",
       "Cultist Priest",
-      "Cultist Warrior"
+      "Cultist Warrior",
+      "arenaFighter"
     ],
     "raidDuration": 35,
     "players": "10-14",
     "bosses": [
       {
         "name": "Shturman",
-        "spawnChance": 0.75,
+        "spawnChance": 1,
         "spawnLocations": [
           {
             "name": "Lumber Mill",
@@ -405,36 +392,6 @@
               {
                 "count": 3,
                 "chance": 0.5
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "name": "Knight",
-        "spawnChance": 0.25,
-        "spawnLocations": [
-          {
-            "name": "Northwest Scav Bunker",
-            "chance": 1
-          }
-        ],
-        "escorts": [
-          {
-            "name": "Big Pipe",
-            "amount": [
-              {
-                "count": 1,
-                "chance": 1
-              }
-            ]
-          },
-          {
-            "name": "Birdeye",
-            "amount": [
-              {
-                "count": 1,
-                "chance": 1
               }
             ]
           }
@@ -466,6 +423,35 @@
               {
                 "count": 4,
                 "chance": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "arenaFighter",
+        "spawnChance": 1,
+        "spawnLocations": [
+          {
+            "name": "Scav House/Checkpoint Road",
+            "chance": 1
+          }
+        ],
+        "escorts": [
+          {
+            "name": "arenaFighter",
+            "amount": [
+              {
+                "count": 5,
+                "chance": 0.33
+              },
+              {
+                "count": 6,
+                "chance": 0.33
+              },
+              {
+                "count": 7,
+                "chance": 0.33
               }
             ]
           }
@@ -931,28 +917,30 @@
       "Scavs",
       "Sanitar",
       "Sanitar Guard",
-      "Knight",
-      "Big Pipe",
-      "Birdeye",
       "Partisan",
       "Cultist Priest",
       "Cultist Warrior",
-      "AF"
+      "AF",
+      "arenaFighter"
     ],
     "raidDuration": 45,
     "players": "10-14",
     "bosses": [
       {
         "name": "Sanitar",
-        "spawnChance": 0.7,
+        "spawnChance": 1,
         "spawnLocations": [
           {
             "name": "Pier",
-            "chance": 0.5
+            "chance": 0.33
           },
           {
             "name": "Greenhouses",
-            "chance": 0.5
+            "chance": 0.33
+          },
+          {
+            "name": "Smuggler's Depot",
+            "chance": 0.33
           }
         ],
         "escorts": [
@@ -961,36 +949,6 @@
             "amount": [
               {
                 "count": 3,
-                "chance": 1
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "name": "Knight",
-        "spawnChance": 0.3,
-        "spawnLocations": [
-          {
-            "name": "Weather Station",
-            "chance": 1
-          }
-        ],
-        "escorts": [
-          {
-            "name": "Big Pipe",
-            "amount": [
-              {
-                "count": 1,
-                "chance": 1
-              }
-            ]
-          },
-          {
-            "name": "Birdeye",
-            "amount": [
-              {
-                "count": 1,
                 "chance": 1
               }
             ]
@@ -1057,6 +1015,35 @@
           }
         ],
         "escorts": []
+      },
+      {
+        "name": "arenaFighter",
+        "spawnChance": 1,
+        "spawnLocations": [
+          {
+            "name": "Smuggler's Depot",
+            "chance": 1
+          }
+        ],
+        "escorts": [
+          {
+            "name": "arenaFighter",
+            "amount": [
+              {
+                "count": 5,
+                "chance": 0.33
+              },
+              {
+                "count": 6,
+                "chance": 0.33
+              },
+              {
+                "count": 7,
+                "chance": 0.33
+              }
+            ]
+          }
+        ]
       }
     ],
     "extracts": [
@@ -1166,7 +1153,7 @@
     "bosses": [
       {
         "name": "Glukhar",
-        "spawnChance": 0.75,
+        "spawnChance": 0.5,
         "spawnLocations": [
           {
             "name": "K Buildings",
@@ -2749,8 +2736,7 @@
       "Black Div.",
       "AF",
       "AF",
-      "Sanitar",
-      "Sanitar Guard"
+      "Tagilla"
     ],
     "raidDuration": 50,
     "players": "1-5",
@@ -3400,7 +3386,7 @@
         ]
       },
       {
-        "name": "Sanitar",
+        "name": "Tagilla",
         "spawnChance": 1,
         "spawnLocations": [
           {
@@ -3408,17 +3394,7 @@
             "chance": 1
           }
         ],
-        "escorts": [
-          {
-            "name": "Sanitar Guard",
-            "amount": [
-              {
-                "count": 3,
-                "chance": 1
-              }
-            ]
-          }
-        ]
+        "escorts": []
       }
     ],
     "extracts": [],
@@ -3429,15 +3405,15 @@
     "name": "Icebreaker",
     "normalizedName": "icebreaker",
     "wiki": "https://escapefromtarkov.fandom.com/wiki/Icebreaker",
-    "description": "",
+    "description": "In the Gulf of Finland, trapped within the blockade surrounding Tarkov, lies the nuclear-powered icebreaker \"Boreas\", owned by the logistics corporation Paradigm Shipping. The exact purpose of \"Boreas\" and the cargo it carries remain unknown. \n\nIt appears that Paradigm Shipping and TerraGroup made special efforts to minimize any mention of the icebreaker in the press and keep its routes and assignments classified.",
     "enemies": [
       "Scavs",
       "Knight",
       "Rogue",
-      "bossBullyBlackDiv",
-      "bossBullyBlackDiv Guard",
-      "pmcBotBlackDiv",
-      "bossWedge"
+      "Black Div. Boss",
+      "Black Div. Boss Guard",
+      "Black Div. Raider",
+      "The Wedge"
     ],
     "raidDuration": 50,
     "players": "1-3",
@@ -3506,7 +3482,7 @@
         ]
       },
       {
-        "name": "bossBullyBlackDiv",
+        "name": "Black Div. Boss",
         "spawnChance": 1,
         "spawnLocations": [
           {
@@ -3516,7 +3492,7 @@
         ],
         "escorts": [
           {
-            "name": "bossBullyBlackDiv Guard",
+            "name": "Black Div. Boss Guard",
             "amount": [
               {
                 "count": 2,
@@ -3527,7 +3503,7 @@
         ]
       },
       {
-        "name": "bossBullyBlackDiv",
+        "name": "Black Div. Boss",
         "spawnChance": 1,
         "spawnLocations": [
           {
@@ -3537,7 +3513,7 @@
         ],
         "escorts": [
           {
-            "name": "bossBullyBlackDiv Guard",
+            "name": "Black Div. Boss Guard",
             "amount": [
               {
                 "count": 3,
@@ -3548,7 +3524,7 @@
         ]
       },
       {
-        "name": "bossBullyBlackDiv",
+        "name": "Black Div. Boss",
         "spawnChance": 1,
         "spawnLocations": [
           {
@@ -3558,7 +3534,7 @@
         ],
         "escorts": [
           {
-            "name": "bossBullyBlackDiv Guard",
+            "name": "Black Div. Boss Guard",
             "amount": [
               {
                 "count": 4,
@@ -3569,7 +3545,7 @@
         ]
       },
       {
-        "name": "bossBullyBlackDiv",
+        "name": "Black Div. Boss",
         "spawnChance": 1,
         "spawnLocations": [
           {
@@ -3579,7 +3555,7 @@
         ],
         "escorts": [
           {
-            "name": "bossBullyBlackDiv Guard",
+            "name": "Black Div. Boss Guard",
             "amount": [
               {
                 "count": 2,
@@ -3590,7 +3566,7 @@
         ]
       },
       {
-        "name": "bossBullyBlackDiv",
+        "name": "Black Div. Boss",
         "spawnChance": 1,
         "spawnLocations": [
           {
@@ -3600,7 +3576,7 @@
         ],
         "escorts": [
           {
-            "name": "bossBullyBlackDiv Guard",
+            "name": "Black Div. Boss Guard",
             "amount": [
               {
                 "count": 3,
@@ -3611,7 +3587,7 @@
         ]
       },
       {
-        "name": "bossBullyBlackDiv",
+        "name": "Black Div. Boss",
         "spawnChance": 1,
         "spawnLocations": [
           {
@@ -3621,7 +3597,7 @@
         ],
         "escorts": [
           {
-            "name": "bossBullyBlackDiv Guard",
+            "name": "Black Div. Boss Guard",
             "amount": [
               {
                 "count": 4,
@@ -3632,7 +3608,7 @@
         ]
       },
       {
-        "name": "pmcBotBlackDiv",
+        "name": "Black Div. Raider",
         "spawnChance": 1,
         "spawnLocations": [
           {
@@ -3642,7 +3618,7 @@
         ],
         "escorts": [
           {
-            "name": "pmcBotBlackDiv",
+            "name": "Black Div. Raider",
             "amount": [
               {
                 "count": 2,
@@ -3653,7 +3629,7 @@
         ]
       },
       {
-        "name": "pmcBotBlackDiv",
+        "name": "Black Div. Raider",
         "spawnChance": 1,
         "spawnLocations": [
           {
@@ -3663,7 +3639,7 @@
         ],
         "escorts": [
           {
-            "name": "pmcBotBlackDiv",
+            "name": "Black Div. Raider",
             "amount": [
               {
                 "count": 3,
@@ -3674,7 +3650,7 @@
         ]
       },
       {
-        "name": "pmcBotBlackDiv",
+        "name": "Black Div. Raider",
         "spawnChance": 1,
         "spawnLocations": [
           {
@@ -3684,7 +3660,7 @@
         ],
         "escorts": [
           {
-            "name": "pmcBotBlackDiv",
+            "name": "Black Div. Raider",
             "amount": [
               {
                 "count": 4,
@@ -3695,7 +3671,7 @@
         ]
       },
       {
-        "name": "pmcBotBlackDiv",
+        "name": "Black Div. Raider",
         "spawnChance": 1,
         "spawnLocations": [
           {
@@ -3705,7 +3681,7 @@
         ],
         "escorts": [
           {
-            "name": "pmcBotBlackDiv",
+            "name": "Black Div. Raider",
             "amount": [
               {
                 "count": 2,
@@ -3716,7 +3692,7 @@
         ]
       },
       {
-        "name": "pmcBotBlackDiv",
+        "name": "Black Div. Raider",
         "spawnChance": 1,
         "spawnLocations": [
           {
@@ -3726,7 +3702,7 @@
         ],
         "escorts": [
           {
-            "name": "pmcBotBlackDiv",
+            "name": "Black Div. Raider",
             "amount": [
               {
                 "count": 3,
@@ -3737,7 +3713,7 @@
         ]
       },
       {
-        "name": "pmcBotBlackDiv",
+        "name": "Black Div. Raider",
         "spawnChance": 1,
         "spawnLocations": [
           {
@@ -3747,7 +3723,7 @@
         ],
         "escorts": [
           {
-            "name": "pmcBotBlackDiv",
+            "name": "Black Div. Raider",
             "amount": [
               {
                 "count": 4,
@@ -3758,7 +3734,7 @@
         ]
       },
       {
-        "name": "bossBullyBlackDiv",
+        "name": "Black Div. Boss",
         "spawnChance": 1,
         "spawnLocations": [
           {
@@ -3768,7 +3744,7 @@
         ],
         "escorts": [
           {
-            "name": "bossBullyBlackDiv Guard",
+            "name": "Black Div. Boss Guard",
             "amount": [
               {
                 "count": 2,
@@ -3779,7 +3755,7 @@
         ]
       },
       {
-        "name": "bossBullyBlackDiv",
+        "name": "Black Div. Boss",
         "spawnChance": 0.7,
         "spawnLocations": [
           {
@@ -3789,7 +3765,7 @@
         ],
         "escorts": [
           {
-            "name": "bossBullyBlackDiv Guard",
+            "name": "Black Div. Boss Guard",
             "amount": [
               {
                 "count": 3,
@@ -3800,7 +3776,7 @@
         ]
       },
       {
-        "name": "bossBullyBlackDiv",
+        "name": "Black Div. Boss",
         "spawnChance": 1,
         "spawnLocations": [
           {
@@ -3810,7 +3786,7 @@
         ],
         "escorts": [
           {
-            "name": "bossBullyBlackDiv Guard",
+            "name": "Black Div. Boss Guard",
             "amount": [
               {
                 "count": 4,
@@ -3821,7 +3797,7 @@
         ]
       },
       {
-        "name": "bossBullyBlackDiv",
+        "name": "Black Div. Boss",
         "spawnChance": 1,
         "spawnLocations": [
           {
@@ -3831,7 +3807,7 @@
         ],
         "escorts": [
           {
-            "name": "bossBullyBlackDiv Guard",
+            "name": "Black Div. Boss Guard",
             "amount": [
               {
                 "count": 4,
@@ -3842,7 +3818,7 @@
         ]
       },
       {
-        "name": "pmcBotBlackDiv",
+        "name": "Black Div. Raider",
         "spawnChance": 1,
         "spawnLocations": [
           {
@@ -3852,7 +3828,7 @@
         ],
         "escorts": [
           {
-            "name": "pmcBotBlackDiv",
+            "name": "Black Div. Raider",
             "amount": [
               {
                 "count": 2,
@@ -3863,7 +3839,7 @@
         ]
       },
       {
-        "name": "pmcBotBlackDiv",
+        "name": "Black Div. Raider",
         "spawnChance": 1,
         "spawnLocations": [
           {
@@ -3873,7 +3849,7 @@
         ],
         "escorts": [
           {
-            "name": "pmcBotBlackDiv",
+            "name": "Black Div. Raider",
             "amount": [
               {
                 "count": 4,
@@ -3884,7 +3860,7 @@
         ]
       },
       {
-        "name": "bossWedge",
+        "name": "The Wedge",
         "spawnChance": 1,
         "spawnLocations": [
           {
@@ -3895,7 +3871,7 @@
         "escorts": []
       },
       {
-        "name": "bossWedge",
+        "name": "The Wedge",
         "spawnChance": 1,
         "spawnLocations": [
           {
@@ -3905,7 +3881,7 @@
         ],
         "escorts": [
           {
-            "name": "bossWedge",
+            "name": "The Wedge",
             "amount": [
               {
                 "count": 1,
@@ -3916,7 +3892,7 @@
         ]
       },
       {
-        "name": "bossWedge",
+        "name": "The Wedge",
         "spawnChance": 1,
         "spawnLocations": [
           {
@@ -3927,7 +3903,7 @@
         "escorts": []
       },
       {
-        "name": "bossWedge",
+        "name": "The Wedge",
         "spawnChance": 1,
         "spawnLocations": [
           {
@@ -3938,7 +3914,7 @@
         "escorts": []
       },
       {
-        "name": "bossWedge",
+        "name": "The Wedge",
         "spawnChance": 1,
         "spawnLocations": [
           {
@@ -3948,7 +3924,7 @@
         ],
         "escorts": [
           {
-            "name": "bossWedge",
+            "name": "The Wedge",
             "amount": [
               {
                 "count": 1,
@@ -3959,7 +3935,7 @@
         ]
       },
       {
-        "name": "bossWedge",
+        "name": "The Wedge",
         "spawnChance": 1,
         "spawnLocations": [
           {
@@ -3969,7 +3945,7 @@
         ],
         "escorts": [
           {
-            "name": "bossWedge",
+            "name": "The Wedge",
             "amount": [
               {
                 "count": 1,
@@ -3980,7 +3956,7 @@
         ]
       },
       {
-        "name": "bossWedge",
+        "name": "The Wedge",
         "spawnChance": 1,
         "spawnLocations": [
           {
@@ -3990,7 +3966,7 @@
         ],
         "escorts": [
           {
-            "name": "bossWedge",
+            "name": "The Wedge",
             "amount": [
               {
                 "count": 1,
@@ -4001,7 +3977,7 @@
         ]
       },
       {
-        "name": "bossWedge",
+        "name": "The Wedge",
         "spawnChance": 1,
         "spawnLocations": [
           {
@@ -4011,7 +3987,7 @@
         ],
         "escorts": [
           {
-            "name": "bossWedge",
+            "name": "The Wedge",
             "amount": [
               {
                 "count": 1,
@@ -4022,7 +3998,7 @@
         ]
       },
       {
-        "name": "bossWedge",
+        "name": "The Wedge",
         "spawnChance": 1,
         "spawnLocations": [
           {
@@ -4032,7 +4008,7 @@
         ],
         "escorts": [
           {
-            "name": "bossWedge",
+            "name": "The Wedge",
             "amount": [
               {
                 "count": 2,
@@ -4043,7 +4019,7 @@
         ]
       },
       {
-        "name": "bossWedge",
+        "name": "The Wedge",
         "spawnChance": 1,
         "spawnLocations": [
           {
@@ -4053,7 +4029,7 @@
         ],
         "escorts": [
           {
-            "name": "bossWedge",
+            "name": "The Wedge",
             "amount": [
               {
                 "count": 1,
@@ -4064,7 +4040,7 @@
         ]
       },
       {
-        "name": "bossWedge",
+        "name": "The Wedge",
         "spawnChance": 1,
         "spawnLocations": [
           {
@@ -4074,7 +4050,7 @@
         ],
         "escorts": [
           {
-            "name": "bossWedge",
+            "name": "The Wedge",
             "amount": [
               {
                 "count": 1,
@@ -4085,7 +4061,7 @@
         ]
       },
       {
-        "name": "bossWedge",
+        "name": "The Wedge",
         "spawnChance": 1,
         "spawnLocations": [
           {
@@ -4095,7 +4071,7 @@
         ],
         "escorts": [
           {
-            "name": "bossWedge",
+            "name": "The Wedge",
             "amount": [
               {
                 "count": 2,
@@ -4106,7 +4082,7 @@
         ]
       },
       {
-        "name": "pmcBotBlackDiv",
+        "name": "Black Div. Raider",
         "spawnChance": 1,
         "spawnLocations": [
           {
@@ -4116,7 +4092,7 @@
         ],
         "escorts": [
           {
-            "name": "pmcBotBlackDiv",
+            "name": "Black Div. Raider",
             "amount": [
               {
                 "count": 4,
@@ -4127,7 +4103,7 @@
         ]
       },
       {
-        "name": "pmcBotBlackDiv",
+        "name": "Black Div. Raider",
         "spawnChance": 1,
         "spawnLocations": [
           {
@@ -4137,7 +4113,7 @@
         ],
         "escorts": [
           {
-            "name": "pmcBotBlackDiv",
+            "name": "Black Div. Raider",
             "amount": [
               {
                 "count": 4,
@@ -4148,7 +4124,7 @@
         ]
       },
       {
-        "name": "bossBullyBlackDiv",
+        "name": "Black Div. Boss",
         "spawnChance": 1,
         "spawnLocations": [
           {
@@ -4158,7 +4134,7 @@
         ],
         "escorts": [
           {
-            "name": "bossBullyBlackDiv Guard",
+            "name": "Black Div. Boss Guard",
             "amount": [
               {
                 "count": 4,
@@ -4169,7 +4145,7 @@
         ]
       },
       {
-        "name": "bossBullyBlackDiv",
+        "name": "Black Div. Boss",
         "spawnChance": 1,
         "spawnLocations": [
           {
@@ -4179,7 +4155,7 @@
         ],
         "escorts": [
           {
-            "name": "bossBullyBlackDiv Guard",
+            "name": "Black Div. Boss Guard",
             "amount": [
               {
                 "count": 4,

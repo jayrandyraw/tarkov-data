@@ -11866,6 +11866,33 @@
     ]
   },
   {
+    "id": "6a22f1d81f510e36120c67d05",
+    "trader": {
+      "id": "6617beeaa9cfa777ca915b7c",
+      "name": "Ref"
+    },
+    "level": 1,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5d235b4d86f7742e017bc88a",
+          "name": "GP coin"
+        },
+        "count": 0.8
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "664a5480bfcc521bad3192ca",
+          "name": "Armband (ARENA)"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
     "id": "69ea3c67b4310eb6f7001a4b3",
     "trader": {
       "id": "6617beeaa9cfa777ca915b7c",
@@ -20089,33 +20116,6 @@
     ]
   },
   {
-    "id": "6a0da65929e4ca1a9109cde01",
-    "trader": {
-      "id": "5c0647fdd443bc2504c2d371",
-      "name": "Jaeger"
-    },
-    "level": 1,
-    "taskUnlock": null,
-    "requiredItems": [
-      {
-        "item": {
-          "id": "5bc9b9ecd4351e3bac122519",
-          "name": "Deadlyslob's beard oil"
-        },
-        "count": 1
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "5c0c1d6586f7743e5335d264",
-          "name": "Remington Model 700 7.62x51 bolt-action sniper rifle Default"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
     "id": "69c67393bb9f4cb77d0849721",
     "trader": {
       "id": "54cb50c76803fa8b248b4571",
@@ -20425,21 +20425,18 @@
     ]
   },
   {
-    "id": "69ccf254c8ea4e5e1c0ebffb1",
+    "id": "6a0da65929e4ca1a9109cde01",
     "trader": {
-      "id": "5a7c2eca46aef81a7ca2145d",
-      "name": "Mechanic"
+      "id": "5c0647fdd443bc2504c2d371",
+      "name": "Jaeger"
     },
-    "level": 4,
-    "taskUnlock": {
-      "id": "64f83bd983cfca080a362c82",
-      "name": "Gunsmith - Part 25"
-    },
+    "level": 1,
+    "taskUnlock": null,
     "requiredItems": [
       {
         "item": {
-          "id": "6389c8c5dbfd5e4b95197e6b",
-          "name": "TerraGroup \"Blue Folders\" materials"
+          "id": "5bc9b9ecd4351e3bac122519",
+          "name": "Deadlyslob's beard oil"
         },
         "count": 1
       }
@@ -20447,76 +20444,42 @@
     "rewardItems": [
       {
         "item": {
-          "id": "64cbdff43ccb85468628d5fc",
-          "name": "Kalashnikov PKM 7.62x54R machine gun Default"
+          "id": "5c0c1d6586f7743e5335d264",
+          "name": "Remington Model 700 7.62x51 bolt-action sniper rifle Default"
         },
         "count": 1
       }
     ]
   },
   {
-    "id": "69ccf252c8ea4e5e1c0ebf331",
+    "id": "69c6738bbb9f4cb77d08452d1",
     "trader": {
-      "id": "5a7c2eca46aef81a7ca2145d",
-      "name": "Mechanic"
+      "id": "54cb50c76803fa8b248b4571",
+      "name": "Prapor"
     },
     "level": 3,
     "taskUnlock": null,
     "requiredItems": [
       {
         "item": {
-          "id": "5d0376a486f7747d8050965c",
-          "name": "Military circuit board"
+          "id": "590c5a7286f7747884343aea",
+          "name": "Gunpowder \"Kite\""
         },
-        "count": 1
-      },
-      {
-        "item": {
-          "id": "5e2aee0a86f774755a234b62",
-          "name": "Cyclon rechargeable battery"
-        },
-        "count": 1
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "70726573657400000000000d",
-          "name": "Degtyarev RPDN 7.62x39 machine gun OKP-7 DT"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "69ccf247c8ea4e5e1c0eb9eb1",
-    "trader": {
-      "id": "5a7c2eca46aef81a7ca2145d",
-      "name": "Mechanic"
-    },
-    "level": 3,
-    "taskUnlock": null,
-    "requiredItems": [
-      {
-        "item": {
-          "id": "5c06782b86f77426df5407d2",
-          "name": "Capacitors"
-        },
-        "count": 8
+        "count": 2
       },
       {
         "item": {
           "id": "5d1c819a86f774771b0acd6c",
           "name": "Weapon parts"
         },
-        "count": 2
+        "count": 3
       }
     ],
     "rewardItems": [
       {
         "item": {
-          "id": "5c0d1ec986f77439512a1a72",
-          "name": "RPK-16 5.45x39 light machine gun Default"
+          "id": "707265736574000000000036",
+          "name": "RPK-16 5.45x39 light machine gun Drum"
         },
         "count": 1
       }
@@ -20560,34 +20523,132 @@
     ]
   },
   {
-    "id": "69c6738bbb9f4cb77d08452d1",
+    "id": "69ccf247c8ea4e5e1c0eb9eb1",
     "trader": {
-      "id": "54cb50c76803fa8b248b4571",
-      "name": "Prapor"
+      "id": "5a7c2eca46aef81a7ca2145d",
+      "name": "Mechanic"
     },
     "level": 3,
     "taskUnlock": null,
     "requiredItems": [
       {
         "item": {
-          "id": "590c5a7286f7747884343aea",
-          "name": "Gunpowder \"Kite\""
+          "id": "5c06782b86f77426df5407d2",
+          "name": "Capacitors"
         },
-        "count": 2
+        "count": 8
       },
       {
         "item": {
           "id": "5d1c819a86f774771b0acd6c",
           "name": "Weapon parts"
         },
-        "count": 3
+        "count": 2
       }
     ],
     "rewardItems": [
       {
         "item": {
-          "id": "707265736574000000000036",
-          "name": "RPK-16 5.45x39 light machine gun Drum"
+          "id": "5c0d1ec986f77439512a1a72",
+          "name": "RPK-16 5.45x39 light machine gun Default"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "69ccf252c8ea4e5e1c0ebf331",
+    "trader": {
+      "id": "5a7c2eca46aef81a7ca2145d",
+      "name": "Mechanic"
+    },
+    "level": 3,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5d0376a486f7747d8050965c",
+          "name": "Military circuit board"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "5e2aee0a86f774755a234b62",
+          "name": "Cyclon rechargeable battery"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "70726573657400000000000d",
+          "name": "Degtyarev RPDN 7.62x39 machine gun OKP-7 DT"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "69ccf254c8ea4e5e1c0ebffb1",
+    "trader": {
+      "id": "5a7c2eca46aef81a7ca2145d",
+      "name": "Mechanic"
+    },
+    "level": 4,
+    "taskUnlock": {
+      "id": "64f83bd983cfca080a362c82",
+      "name": "Gunsmith - Part 25"
+    },
+    "requiredItems": [
+      {
+        "item": {
+          "id": "6389c8c5dbfd5e4b95197e6b",
+          "name": "TerraGroup \"Blue Folders\" materials"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "64cbdff43ccb85468628d5fc",
+          "name": "Kalashnikov PKM 7.62x54R machine gun Default"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "69ea3c64b4310eb6f700183e1",
+    "trader": {
+      "id": "6617beeaa9cfa777ca915b7c",
+      "name": "Ref"
+    },
+    "level": 4,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "6656560053eaaa7a23349c86",
+          "name": "Lega Medal"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "5d235b4d86f7742e017bc88a",
+          "name": "GP coin"
+        },
+        "count": 40
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5f06d6e1475d472556679d16",
+          "name": "FN40GL Mk2 40mm grenade launcher Default"
         },
         "count": 1
       }
@@ -20638,34 +20699,101 @@
     ]
   },
   {
-    "id": "69ea3c64b4310eb6f700183e1",
+    "id": "69ccf254c8ea4e5e1c0ec0521",
     "trader": {
-      "id": "6617beeaa9cfa777ca915b7c",
-      "name": "Ref"
+      "id": "5a7c2eca46aef81a7ca2145d",
+      "name": "Mechanic"
     },
-    "level": 4,
-    "taskUnlock": null,
+    "level": 2,
+    "taskUnlock": {
+      "id": "6744af0969a58fceba101fed",
+      "name": "The Price of Independence"
+    },
     "requiredItems": [
       {
         "item": {
-          "id": "6656560053eaaa7a23349c86",
-          "name": "Lega Medal"
+          "id": "619cbfccbedcde2f5b3f7bdd",
+          "name": "Pipe grip wrench"
         },
         "count": 1
       },
       {
         "item": {
-          "id": "5d235b4d86f7742e017bc88a",
-          "name": "GP coin"
+          "id": "66b37f114410565a8f6789e2",
+          "name": "Inseq gas pipe wrench"
         },
-        "count": 40
+        "count": 1
       }
     ],
     "rewardItems": [
       {
         "item": {
-          "id": "5f06d6e1475d472556679d16",
-          "name": "FN40GL Mk2 40mm grenade launcher Default"
+          "id": "66d98233302686954b0c6f81",
+          "name": "RSP-30 reactive signal cartridge (Blue)"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "69ccf254c8ea4e5e1c0ec0761",
+    "trader": {
+      "id": "5a7c2eca46aef81a7ca2145d",
+      "name": "Mechanic"
+    },
+    "level": 2,
+    "taskUnlock": {
+      "id": "6744af0969a58fceba101fed",
+      "name": "The Price of Independence"
+    },
+    "requiredItems": [
+      {
+        "item": {
+          "id": "619cbfccbedcde2f5b3f7bdd",
+          "name": "Pipe grip wrench"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "66b37f114410565a8f6789e2",
+          "name": "Inseq gas pipe wrench"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "66d98233302686954b0c6f81",
+          "name": "RSP-30 reactive signal cartridge (Blue)"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "69ea3c66b4310eb6f70019b91",
+    "trader": {
+      "id": "6617beeaa9cfa777ca915b7c",
+      "name": "Ref"
+    },
+    "level": 2,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5d235b4d86f7742e017bc88a",
+          "name": "GP coin"
+        },
+        "count": 44
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "620109578d82e67e7911abf2",
+          "name": "ZiD SP-81 26x75 signal pistol"
         },
         "count": 1
       }
@@ -20713,262 +20841,52 @@
     ]
   },
   {
-    "id": "69ea3c66b4310eb6f70019b91",
+    "id": "69c67389bb9f4cb77d0844101",
     "trader": {
-      "id": "6617beeaa9cfa777ca915b7c",
-      "name": "Ref"
+      "id": "54cb50c76803fa8b248b4571",
+      "name": "Prapor"
     },
     "level": 2,
     "taskUnlock": null,
     "requiredItems": [
       {
         "item": {
-          "id": "5d235b4d86f7742e017bc88a",
-          "name": "GP coin"
+          "id": "5c0fa877d174af02a012e1cf",
+          "name": "Aquamari water bottle with filter"
         },
-        "count": 44
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "620109578d82e67e7911abf2",
-          "name": "ZiD SP-81 26x75 signal pistol"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "69ccf254c8ea4e5e1c0ec0761",
-    "trader": {
-      "id": "5a7c2eca46aef81a7ca2145d",
-      "name": "Mechanic"
-    },
-    "level": 2,
-    "taskUnlock": {
-      "id": "6744af0969a58fceba101fed",
-      "name": "The Price of Independence"
-    },
-    "requiredItems": [
-      {
-        "item": {
-          "id": "619cbfccbedcde2f5b3f7bdd",
-          "name": "Pipe grip wrench"
-        },
-        "count": 1
+        "count": 2
       },
       {
         "item": {
-          "id": "66b37f114410565a8f6789e2",
-          "name": "Inseq gas pipe wrench"
+          "id": "590c595c86f7747884343ad7",
+          "name": "Gas mask air filter"
         },
         "count": 1
       }
     ],
     "rewardItems": [
-      {
-        "item": {
-          "id": "66d98233302686954b0c6f81",
-          "name": "RSP-30 reactive signal cartridge (Blue)"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "69ccf254c8ea4e5e1c0ec0521",
-    "trader": {
-      "id": "5a7c2eca46aef81a7ca2145d",
-      "name": "Mechanic"
-    },
-    "level": 2,
-    "taskUnlock": {
-      "id": "6744af0969a58fceba101fed",
-      "name": "The Price of Independence"
-    },
-    "requiredItems": [
-      {
-        "item": {
-          "id": "619cbfccbedcde2f5b3f7bdd",
-          "name": "Pipe grip wrench"
-        },
-        "count": 1
-      },
-      {
-        "item": {
-          "id": "66b37f114410565a8f6789e2",
-          "name": "Inseq gas pipe wrench"
-        },
-        "count": 1
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "66d98233302686954b0c6f81",
-          "name": "RSP-30 reactive signal cartridge (Blue)"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "6a15764660e36e62900a8e191",
-    "trader": {
-      "id": "5ac3b934156ae10c4430e83c",
-      "name": "Ragman"
-    },
-    "level": 4,
-    "taskUnlock": {
-      "id": "5c112d7e86f7740d6f647486",
-      "name": "Scavenger"
-    },
-    "requiredItems": [
-      {
-        "item": {
-          "id": "5780cf7f2459777de4559322",
-          "name": "Dorm room 314 marked key"
-        },
-        "count": 1
-      },
-      {
-        "item": {
-          "id": "5a0dc95c86f77452440fc675",
-          "name": "Health Resort west wing office room 112 key"
-        },
-        "count": 1
-      },
-      {
-        "item": {
-          "id": "5c12688486f77426843c7d32",
-          "name": "Paracord"
-        },
-        "count": 5
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "5bffe7930db834001b734a39",
-          "name": "Crash Axe"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "6a0da65729e4ca1a9109cc5b1",
-    "trader": {
-      "id": "5c0647fdd443bc2504c2d371",
-      "name": "Jaeger"
-    },
-    "level": 4,
-    "taskUnlock": {
-      "id": "63a9b36cc31b00242d28a99f",
-      "name": "Slaughterhouse"
-    },
-    "requiredItems": [
-      {
-        "item": {
-          "id": "5c010e350db83400232feec7",
-          "name": "SP-8 Survival Machete"
-        },
-        "count": 1
-      },
       {
         "item": {
           "id": "5bffdc370db834001d23eca8",
           "name": "6Kh5 Bayonet"
         },
         "count": 1
-      },
-      {
-        "item": {
-          "id": "5bffe7930db834001b734a39",
-          "name": "Crash Axe"
-        },
-        "count": 1
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "63920105a83e15700a00f168",
-          "name": "SOG Voodoo Hawk tactical tomahawk"
-        },
-        "count": 1
       }
     ]
   },
   {
-    "id": "6a0da65429e4ca1a9109caeb1",
+    "id": "69c6738abb9f4cb77d0844981",
     "trader": {
-      "id": "5c0647fdd443bc2504c2d371",
-      "name": "Jaeger"
+      "id": "54cb50c76803fa8b248b4571",
+      "name": "Prapor"
     },
-    "level": 3,
+    "level": 2,
     "taskUnlock": null,
     "requiredItems": [
       {
         "item": {
-          "id": "59fafb5d86f774067a6f2084",
-          "name": "Propane tank (5L)"
-        },
-        "count": 15
-      },
-      {
-        "item": {
-          "id": "5b43575a86f77424f443fe62",
-          "name": "Fuel conditioner"
-        },
-        "count": 10
-      },
-      {
-        "item": {
-          "id": "590a373286f774287540368b",
-          "name": "Dry fuel"
-        },
-        "count": 15
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "5c0126f40db834002a125382",
-          "name": "Red Rebel ice pick"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "6a0da65229e4ca1a9109c9a41",
-    "trader": {
-      "id": "5c0647fdd443bc2504c2d371",
-      "name": "Jaeger"
-    },
-    "level": 3,
-    "taskUnlock": null,
-    "requiredItems": [
-      {
-        "item": {
-          "id": "57347c93245977448d35f6e3",
-          "name": "Toothpaste"
-        },
-        "count": 5
-      },
-      {
-        "item": {
-          "id": "5c13cef886f774072e618e82",
-          "name": "Toilet paper"
-        },
-        "count": 5
-      },
-      {
-        "item": {
-          "id": "59e361e886f774176c10a2a5",
-          "name": "Bottle of hydrogen peroxide"
+          "id": "5b4329075acfc400153b78ff",
+          "name": "Pompon hat"
         },
         "count": 2
       }
@@ -20976,8 +20894,38 @@
     "rewardItems": [
       {
         "item": {
-          "id": "5c012ffc0db834001d23f03f",
-          "name": "Camper axe"
+          "id": "5bead2e00db834001c062938",
+          "name": "MPL-50 entrenching tool"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "69ea3c67b4310eb6f7001a331",
+    "trader": {
+      "id": "6617beeaa9cfa777ca915b7c",
+      "name": "Ref"
+    },
+    "level": 2,
+    "taskUnlock": {
+      "id": "69789418b2187365e70bb947",
+      "name": "To Great Heights! - Part 6 [PVP ZONE]"
+    },
+    "requiredItems": [
+      {
+        "item": {
+          "id": "6656560053eaaa7a23349c86",
+          "name": "Lega Medal"
+        },
+        "count": 3
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "664a5428d5e33a713b622379",
+          "name": "APOK Tactical Wasteland Gladius"
         },
         "count": 1
       }
@@ -21035,109 +20983,117 @@
     ]
   },
   {
-    "id": "69ea3c67b4310eb6f7001a331",
+    "id": "6a0da65229e4ca1a9109c9a41",
     "trader": {
-      "id": "6617beeaa9cfa777ca915b7c",
-      "name": "Ref"
+      "id": "5c0647fdd443bc2504c2d371",
+      "name": "Jaeger"
     },
-    "level": 2,
-    "taskUnlock": {
-      "id": "69789418b2187365e70bb947",
-      "name": "To Great Heights! - Part 6 [PVP ZONE]"
-    },
-    "requiredItems": [
-      {
-        "item": {
-          "id": "6656560053eaaa7a23349c86",
-          "name": "Lega Medal"
-        },
-        "count": 3
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "664a5428d5e33a713b622379",
-          "name": "APOK Tactical Wasteland Gladius"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "69c6738abb9f4cb77d0844981",
-    "trader": {
-      "id": "54cb50c76803fa8b248b4571",
-      "name": "Prapor"
-    },
-    "level": 2,
+    "level": 3,
     "taskUnlock": null,
     "requiredItems": [
       {
         "item": {
-          "id": "5b4329075acfc400153b78ff",
-          "name": "Pompon hat"
+          "id": "57347c93245977448d35f6e3",
+          "name": "Toothpaste"
         },
-        "count": 2
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "5bead2e00db834001c062938",
-          "name": "MPL-50 entrenching tool"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "69c67389bb9f4cb77d0844101",
-    "trader": {
-      "id": "54cb50c76803fa8b248b4571",
-      "name": "Prapor"
-    },
-    "level": 2,
-    "taskUnlock": null,
-    "requiredItems": [
-      {
-        "item": {
-          "id": "5c0fa877d174af02a012e1cf",
-          "name": "Aquamari water bottle with filter"
-        },
-        "count": 2
+        "count": 5
       },
       {
         "item": {
-          "id": "590c595c86f7747884343ad7",
-          "name": "Gas mask air filter"
+          "id": "5c13cef886f774072e618e82",
+          "name": "Toilet paper"
         },
-        "count": 1
+        "count": 5
+      },
+      {
+        "item": {
+          "id": "59e361e886f774176c10a2a5",
+          "name": "Bottle of hydrogen peroxide"
+        },
+        "count": 2
       }
     ],
     "rewardItems": [
+      {
+        "item": {
+          "id": "5c012ffc0db834001d23f03f",
+          "name": "Camper axe"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "6a0da65429e4ca1a9109caeb1",
+    "trader": {
+      "id": "5c0647fdd443bc2504c2d371",
+      "name": "Jaeger"
+    },
+    "level": 3,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "59fafb5d86f774067a6f2084",
+          "name": "Propane tank (5L)"
+        },
+        "count": 15
+      },
+      {
+        "item": {
+          "id": "5b43575a86f77424f443fe62",
+          "name": "Fuel conditioner"
+        },
+        "count": 10
+      },
+      {
+        "item": {
+          "id": "590a373286f774287540368b",
+          "name": "Dry fuel"
+        },
+        "count": 15
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5c0126f40db834002a125382",
+          "name": "Red Rebel ice pick"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "6a0da65729e4ca1a9109cc5b1",
+    "trader": {
+      "id": "5c0647fdd443bc2504c2d371",
+      "name": "Jaeger"
+    },
+    "level": 4,
+    "taskUnlock": {
+      "id": "63a9b36cc31b00242d28a99f",
+      "name": "Slaughterhouse"
+    },
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5c010e350db83400232feec7",
+          "name": "SP-8 Survival Machete"
+        },
+        "count": 1
+      },
       {
         "item": {
           "id": "5bffdc370db834001d23eca8",
           "name": "6Kh5 Bayonet"
         },
         "count": 1
-      }
-    ]
-  },
-  {
-    "id": "6a15763260e36e62900a845d1",
-    "trader": {
-      "id": "5935c25fb3acc3127c3d8cd9",
-      "name": "Peacekeeper"
-    },
-    "level": 2,
-    "taskUnlock": null,
-    "requiredItems": [
+      },
       {
         "item": {
-          "id": "56742c2e4bdc2d95058b456d",
-          "name": "Zibbo lighter"
+          "id": "5bffe7930db834001b734a39",
+          "name": "Crash Axe"
         },
         "count": 1
       }
@@ -21145,89 +21101,52 @@
     "rewardItems": [
       {
         "item": {
-          "id": "58d3db5386f77426186285a0",
-          "name": "M67 hand grenade"
+          "id": "63920105a83e15700a00f168",
+          "name": "SOG Voodoo Hawk tactical tomahawk"
         },
         "count": 1
       }
     ]
   },
   {
-    "id": "69ea3c64b4310eb6f70018111",
+    "id": "6a15764660e36e62900a8e191",
     "trader": {
-      "id": "6617beeaa9cfa777ca915b7c",
-      "name": "Ref"
+      "id": "5ac3b934156ae10c4430e83c",
+      "name": "Ragman"
     },
-    "level": 2,
-    "taskUnlock": null,
+    "level": 4,
+    "taskUnlock": {
+      "id": "5c112d7e86f7740d6f647486",
+      "name": "Scavenger"
+    },
     "requiredItems": [
       {
         "item": {
-          "id": "5d235b4d86f7742e017bc88a",
-          "name": "GP coin"
+          "id": "5780cf7f2459777de4559322",
+          "name": "Dorm room 314 marked key"
         },
-        "count": 0.96
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "5a0dc95c86f77452440fc675",
+          "name": "Health Resort west wing office room 112 key"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "5c12688486f77426843c7d32",
+          "name": "Paracord"
+        },
+        "count": 5
       }
     ],
     "rewardItems": [
       {
         "item": {
-          "id": "66dae7cbeb28f0f96809f325",
-          "name": "V40 Mini-Grenade"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "69ccf24fc8ea4e5e1c0ebe0f1",
-    "trader": {
-      "id": "5a7c2eca46aef81a7ca2145d",
-      "name": "Mechanic"
-    },
-    "level": 2,
-    "taskUnlock": null,
-    "requiredItems": [
-      {
-        "item": {
-          "id": "5e2af51086f7746d3f3c3402",
-          "name": "UZRGM grenade fuze"
-        },
-        "count": 1
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "5e32f56fcb6d5863cc5e5ee4",
-          "name": "VOG-17 Khattabka improvised hand grenade"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "69c67389bb9f4cb77d0844311",
-    "trader": {
-      "id": "54cb50c76803fa8b248b4571",
-      "name": "Prapor"
-    },
-    "level": 1,
-    "taskUnlock": null,
-    "requiredItems": [
-      {
-        "item": {
-          "id": "590a3cd386f77436f20848cb",
-          "name": "Energy-saving lamp"
-        },
-        "count": 1
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "5710c24ad2720bc3458b45a3",
-          "name": "F-1 hand grenade"
+          "id": "5bffe7930db834001b734a39",
+          "name": "Crash Axe"
         },
         "count": 1
       }
@@ -21261,32 +21180,18 @@
     ]
   },
   {
-    "id": "6a0da65529e4ca1a9109cb40b",
+    "id": "69c67389bb9f4cb77d0844311",
     "trader": {
-      "id": "5c0647fdd443bc2504c2d371",
-      "name": "Jaeger"
+      "id": "54cb50c76803fa8b248b4571",
+      "name": "Prapor"
     },
-    "level": 3,
+    "level": 1,
     "taskUnlock": null,
     "requiredItems": [
       {
         "item": {
-          "id": "5e2af2bc86f7746d3f3c33fc",
-          "name": "Hunting matches"
-        },
-        "count": 4
-      },
-      {
-        "item": {
-          "id": "5e2af37686f774755a234b65",
-          "name": "SurvL Survivor Lighter"
-        },
-        "count": 2
-      },
-      {
-        "item": {
-          "id": "590a373286f774287540368b",
-          "name": "Dry fuel"
+          "id": "590a3cd386f77436f20848cb",
+          "name": "Energy-saving lamp"
         },
         "count": 1
       }
@@ -21294,546 +21199,245 @@
     "rewardItems": [
       {
         "item": {
-          "id": "5ad5cfbd86f7742c825d6104",
-          "name": "OLI logistics department office key"
+          "id": "5710c24ad2720bc3458b45a3",
+          "name": "F-1 hand grenade"
         },
         "count": 1
       }
     ]
   },
   {
-    "id": "6a0da65429e4ca1a9109cb30b",
+    "id": "69ccf24fc8ea4e5e1c0ebe0f1",
     "trader": {
-      "id": "5c0647fdd443bc2504c2d371",
-      "name": "Jaeger"
+      "id": "5a7c2eca46aef81a7ca2145d",
+      "name": "Mechanic"
+    },
+    "level": 2,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5e2af51086f7746d3f3c3402",
+          "name": "UZRGM grenade fuze"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5e32f56fcb6d5863cc5e5ee4",
+          "name": "VOG-17 Khattabka improvised hand grenade"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "69ea3c64b4310eb6f70018111",
+    "trader": {
+      "id": "6617beeaa9cfa777ca915b7c",
+      "name": "Ref"
+    },
+    "level": 2,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5d235b4d86f7742e017bc88a",
+          "name": "GP coin"
+        },
+        "count": 0.96
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "66dae7cbeb28f0f96809f325",
+          "name": "V40 Mini-Grenade"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "6a15763260e36e62900a845d1",
+    "trader": {
+      "id": "5935c25fb3acc3127c3d8cd9",
+      "name": "Peacekeeper"
+    },
+    "level": 2,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "56742c2e4bdc2d95058b456d",
+          "name": "Zibbo lighter"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "58d3db5386f77426186285a0",
+          "name": "M67 hand grenade"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "69c67394bb9f4cb77d084a72b",
+    "trader": {
+      "id": "54cb57776803fa99248b456e",
+      "name": "Therapist"
+    },
+    "level": 2,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5734758f24597738025ee253",
+          "name": "Golden neck chain"
+        },
+        "count": 4
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5780d0532459777a5108b9a2",
+          "name": "Tarcone Director's office key"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "69c67395bb9f4cb77d084a7eb",
+    "trader": {
+      "id": "54cb57776803fa99248b456e",
+      "name": "Therapist"
     },
     "level": 4,
     "taskUnlock": null,
     "requiredItems": [
       {
         "item": {
-          "id": "60b0f93284c20f0feb453da7",
-          "name": "Can of RatCola soda"
+          "id": "5734773724597737fd047c14",
+          "name": "Can of condensed milk"
         },
-        "count": 4
+        "count": 60
       },
       {
         "item": {
-          "id": "5b4329075acfc400153b78ff",
-          "name": "Pompon hat"
+          "id": "57347d90245977448f7b7f65",
+          "name": "Pack of oat flakes"
+        },
+        "count": 10
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5ad5d7d286f77450166e0a89",
+          "name": "Kiba Arms outer door key"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "69c67395bb9f4cb77d084aa2b",
+    "trader": {
+      "id": "54cb57776803fa99248b456e",
+      "name": "Therapist"
+    },
+    "level": 3,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5d1b33a686f7742523398398",
+          "name": "Canister with purified water"
+        },
+        "count": 2
+      },
+      {
+        "item": {
+          "id": "5d1b385e86f774252167b98a",
+          "name": "Water filter"
+        },
+        "count": 2
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5d80c78786f774403a401e3e",
+          "name": "RB-AK key"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "69c67395bb9f4cb77d084ac3b",
+    "trader": {
+      "id": "54cb57776803fa99248b456e",
+      "name": "Therapist"
+    },
+    "level": 2,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5e2af02c86f7746d420957d4",
+          "name": "Pack of chlorine"
         },
         "count": 8
-      },
-      {
-        "item": {
-          "id": "59e7708286f7742cbd762753",
-          "name": "Ushanka ear flap hat"
-        },
-        "count": 4
       }
     ],
     "rewardItems": [
       {
         "item": {
-          "id": "5d80cb8786f774405611c7d9",
-          "name": "RB-PP key"
+          "id": "5a0ee37f86f774023657a86f",
+          "name": "Health Resort west wing room 221 key"
         },
         "count": 1
       }
     ]
   },
   {
-    "id": "6a0da65429e4ca1a9109caffb",
+    "id": "69c67395bb9f4cb77d084ac6b",
     "trader": {
-      "id": "5c0647fdd443bc2504c2d371",
-      "name": "Jaeger"
+      "id": "54cb57776803fa99248b456e",
+      "name": "Therapist"
     },
-    "level": 4,
+    "level": 1,
     "taskUnlock": null,
     "requiredItems": [
       {
         "item": {
-          "id": "5e2aee0a86f774755a234b62",
-          "name": "Cyclon rechargeable battery"
+          "id": "57347cd0245977445a2d6ff1",
+          "name": "T-Shaped plug"
         },
         "count": 7
       },
       {
         "item": {
-          "id": "5d4042a986f7743185265463",
-          "name": "Flat screwdriver (Long)"
-        },
-        "count": 5
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "5d95d6fa86f77424484aa5e9",
-          "name": "RB-PSP2 key"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "6a0da65229e4ca1a9109c9b2b",
-    "trader": {
-      "id": "5c0647fdd443bc2504c2d371",
-      "name": "Jaeger"
-    },
-    "level": 2,
-    "taskUnlock": null,
-    "requiredItems": [
-      {
-        "item": {
-          "id": "5448ba0b4bdc2d02308b456c",
-          "name": "Factory emergency exit key"
-        },
-        "count": 1
-      },
-      {
-        "item": {
-          "id": "590c5d4b86f774784e1b9c45",
-          "name": "Iskra ration pack"
+          "id": "5734795124597738002c6176",
+          "name": "Insulating tape"
         },
         "count": 3
-      },
-      {
-        "item": {
-          "id": "590c5f0d86f77413997acfab",
-          "name": "MRE ration pack"
-        },
-        "count": 1
       }
     ],
     "rewardItems": [
       {
         "item": {
-          "id": "5448ba0b4bdc2d02308b456c",
-          "name": "Factory emergency exit key"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "69ea3c69b4310eb6f7001c1ab",
-    "trader": {
-      "id": "6617beeaa9cfa777ca915b7c",
-      "name": "Ref"
-    },
-    "level": 1,
-    "taskUnlock": null,
-    "requiredItems": [
-      {
-        "item": {
-          "id": "6656560053eaaa7a23349c86",
-          "name": "Lega Medal"
-        },
-        "count": 1
-      },
-      {
-        "item": {
-          "id": "5d235b4d86f7742e017bc88a",
-          "name": "GP coin"
-        },
-        "count": 100
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "664d3db6db5dea2bad286955",
-          "name": "Shatun's hideout key"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "69ea3c68b4310eb6f7001bcab",
-    "trader": {
-      "id": "6617beeaa9cfa777ca915b7c",
-      "name": "Ref"
-    },
-    "level": 2,
-    "taskUnlock": null,
-    "requiredItems": [
-      {
-        "item": {
-          "id": "6656560053eaaa7a23349c86",
-          "name": "Lega Medal"
-        },
-        "count": 1
-      },
-      {
-        "item": {
-          "id": "5d235b4d86f7742e017bc88a",
-          "name": "GP coin"
-        },
-        "count": 100
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "664d3dd590294949fe2d81b7",
-          "name": "Grumpy's hideout key"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "69ea3c67b4310eb6f7001a30b",
-    "trader": {
-      "id": "6617beeaa9cfa777ca915b7c",
-      "name": "Ref"
-    },
-    "level": 4,
-    "taskUnlock": null,
-    "requiredItems": [
-      {
-        "item": {
-          "id": "6656560053eaaa7a23349c86",
-          "name": "Lega Medal"
-        },
-        "count": 1
-      },
-      {
-        "item": {
-          "id": "5d235b4d86f7742e017bc88a",
-          "name": "GP coin"
-        },
-        "count": 100
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "664d3de85f2355673b09aed5",
-          "name": "Leon's hideout key"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "69ea3c66b4310eb6f700197bb",
-    "trader": {
-      "id": "6617beeaa9cfa777ca915b7c",
-      "name": "Ref"
-    },
-    "level": 3,
-    "taskUnlock": null,
-    "requiredItems": [
-      {
-        "item": {
-          "id": "6656560053eaaa7a23349c86",
-          "name": "Lega Medal"
-        },
-        "count": 1
-      },
-      {
-        "item": {
-          "id": "5d235b4d86f7742e017bc88a",
-          "name": "GP coin"
-        },
-        "count": 100
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "664d3ddfdda2e85aca370d75",
-          "name": "Voron's hideout key"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "69ccf258c8ea4e5e1c0ec280b",
-    "trader": {
-      "id": "5a7c2eca46aef81a7ca2145d",
-      "name": "Mechanic"
-    },
-    "level": 2,
-    "taskUnlock": null,
-    "requiredItems": [
-      {
-        "item": {
-          "id": "5734779624597737e04bf329",
-          "name": "CPU fan"
-        },
-        "count": 2
-      },
-      {
-        "item": {
-          "id": "590a3b0486f7743954552bdb",
-          "name": "Printed circuit board"
-        },
-        "count": 2
-      },
-      {
-        "item": {
-          "id": "5672cb124bdc2d1a0f8b4568",
-          "name": "AA Battery"
-        },
-        "count": 4
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "5a0eee1486f77402aa773226",
-          "name": "Health Resort east wing room 328 key"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "69ccf258c8ea4e5e1c0ec271b",
-    "trader": {
-      "id": "5a7c2eca46aef81a7ca2145d",
-      "name": "Mechanic"
-    },
-    "level": 2,
-    "taskUnlock": null,
-    "requiredItems": [
-      {
-        "item": {
-          "id": "59faff1d86f7746c51718c9c",
-          "name": "Physical Bitcoin"
-        },
-        "count": 1
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "68e95d71a3d110355b03e529",
-          "name": "Elektronik's key"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "69c67396bb9f4cb77d084b2fb",
-    "trader": {
-      "id": "54cb57776803fa99248b456e",
-      "name": "Therapist"
-    },
-    "level": 2,
-    "taskUnlock": null,
-    "requiredItems": [
-      {
-        "item": {
-          "id": "59e361e886f774176c10a2a5",
-          "name": "Bottle of hydrogen peroxide"
-        },
-        "count": 1
-      },
-      {
-        "item": {
-          "id": "59e3606886f77417674759a5",
-          "name": "Bottle of saline solution"
-        },
-        "count": 1
-      },
-      {
-        "item": {
-          "id": "5d1b3a5d86f774252167ba22",
-          "name": "Pile of meds"
-        },
-        "count": 1
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "59387a4986f77401cc236e62",
-          "name": "Dorm room 114 key"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "69c67396bb9f4cb77d084b14b",
-    "trader": {
-      "id": "54cb57776803fa99248b456e",
-      "name": "Therapist"
-    },
-    "level": 3,
-    "taskUnlock": null,
-    "requiredItems": [
-      {
-        "item": {
-          "id": "5d1b3a5d86f774252167ba22",
-          "name": "Pile of meds"
-        },
-        "count": 4
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "5a0dc95c86f77452440fc675",
-          "name": "Health Resort west wing office room 112 key"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "69c67396bb9f4cb77d084b0bb",
-    "trader": {
-      "id": "54cb57776803fa99248b456e",
-      "name": "Therapist"
-    },
-    "level": 3,
-    "taskUnlock": null,
-    "requiredItems": [
-      {
-        "item": {
-          "id": "5d1b3f2d86f774253763b735",
-          "name": "Disposable syringe"
-        },
-        "count": 5
-      },
-      {
-        "item": {
-          "id": "590c5d4b86f774784e1b9c45",
-          "name": "Iskra ration pack"
-        },
-        "count": 3
-      },
-      {
-        "item": {
-          "id": "5af0534a86f7743b6f354284",
-          "name": "Ophthalmoscope"
-        },
-        "count": 1
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "5ad5db3786f7743568421cce",
-          "name": "EMERCOM medical unit key"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "69c67395bb9f4cb77d084ae4b",
-    "trader": {
-      "id": "54cb57776803fa99248b456e",
-      "name": "Therapist"
-    },
-    "level": 1,
-    "taskUnlock": null,
-    "requiredItems": [
-      {
-        "item": {
-          "id": "57513fcc24597720a31c09a6",
-          "name": "Pack of Vita juice"
-        },
-        "count": 1
-      },
-      {
-        "item": {
-          "id": "575146b724597720a27126d5",
-          "name": "Pack of milk"
-        },
-        "count": 1
-      },
-      {
-        "item": {
-          "id": "5c13cef886f774072e618e82",
-          "name": "Toilet paper"
-        },
-        "count": 1
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "5938144586f77473c2087145",
-          "name": "Portable bunkhouse key"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "69c67395bb9f4cb77d084ae1b",
-    "trader": {
-      "id": "54cb57776803fa99248b456e",
-      "name": "Therapist"
-    },
-    "level": 2,
-    "taskUnlock": null,
-    "requiredItems": [
-      {
-        "item": {
-          "id": "6389c6463485cf0eeb260715",
-          "name": "Pack of Arseniy buckwheat"
-        },
-        "count": 1
-      },
-      {
-        "item": {
-          "id": "6389c6c7dbfd5e4b95197e68",
-          "name": "Aquapeps water purification tablets"
-        },
-        "count": 1
-      },
-      {
-        "item": {
-          "id": "5d1b3a5d86f774252167ba22",
-          "name": "Pile of meds"
-        },
-        "count": 5
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "5780cfa52459777dfb276eb1",
-          "name": "Dorm room 220 key"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "69c67395bb9f4cb77d084ad5b",
-    "trader": {
-      "id": "54cb57776803fa99248b456e",
-      "name": "Therapist"
-    },
-    "level": 1,
-    "taskUnlock": null,
-    "requiredItems": [
-      {
-        "item": {
-          "id": "5d1b3a5d86f774252167ba22",
-          "name": "Pile of meds"
-        },
-        "count": 7
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "5938603e86f77435642354f4",
-          "name": "Dorm room 206 key"
+          "id": "593aa4be86f77457f56379f8",
+          "name": "Dorm room 303 key"
         },
         "count": 1
       }
@@ -21881,7 +21485,7 @@
     ]
   },
   {
-    "id": "69c67395bb9f4cb77d084ac6b",
+    "id": "69c67395bb9f4cb77d084ad5b",
     "trader": {
       "id": "54cb57776803fa99248b456e",
       "name": "Therapist"
@@ -21891,31 +21495,24 @@
     "requiredItems": [
       {
         "item": {
-          "id": "57347cd0245977445a2d6ff1",
-          "name": "T-Shaped plug"
+          "id": "5d1b3a5d86f774252167ba22",
+          "name": "Pile of meds"
         },
         "count": 7
-      },
-      {
-        "item": {
-          "id": "5734795124597738002c6176",
-          "name": "Insulating tape"
-        },
-        "count": 3
       }
     ],
     "rewardItems": [
       {
         "item": {
-          "id": "593aa4be86f77457f56379f8",
-          "name": "Dorm room 303 key"
+          "id": "5938603e86f77435642354f4",
+          "name": "Dorm room 206 key"
         },
         "count": 1
       }
     ]
   },
   {
-    "id": "69c67395bb9f4cb77d084ac3b",
+    "id": "69c67395bb9f4cb77d084ae1b",
     "trader": {
       "id": "54cb57776803fa99248b456e",
       "name": "Therapist"
@@ -21925,171 +21522,22 @@
     "requiredItems": [
       {
         "item": {
-          "id": "5e2af02c86f7746d420957d4",
-          "name": "Pack of chlorine"
-        },
-        "count": 8
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "5a0ee37f86f774023657a86f",
-          "name": "Health Resort west wing room 221 key"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "69c67395bb9f4cb77d084aa2b",
-    "trader": {
-      "id": "54cb57776803fa99248b456e",
-      "name": "Therapist"
-    },
-    "level": 3,
-    "taskUnlock": null,
-    "requiredItems": [
-      {
-        "item": {
-          "id": "5d1b33a686f7742523398398",
-          "name": "Canister with purified water"
-        },
-        "count": 2
-      },
-      {
-        "item": {
-          "id": "5d1b385e86f774252167b98a",
-          "name": "Water filter"
-        },
-        "count": 2
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "5d80c78786f774403a401e3e",
-          "name": "RB-AK key"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "69c67395bb9f4cb77d084a7eb",
-    "trader": {
-      "id": "54cb57776803fa99248b456e",
-      "name": "Therapist"
-    },
-    "level": 4,
-    "taskUnlock": null,
-    "requiredItems": [
-      {
-        "item": {
-          "id": "5734773724597737fd047c14",
-          "name": "Can of condensed milk"
-        },
-        "count": 60
-      },
-      {
-        "item": {
-          "id": "57347d90245977448f7b7f65",
-          "name": "Pack of oat flakes"
-        },
-        "count": 10
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "5ad5d7d286f77450166e0a89",
-          "name": "Kiba Arms outer door key"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "69c67394bb9f4cb77d084a72b",
-    "trader": {
-      "id": "54cb57776803fa99248b456e",
-      "name": "Therapist"
-    },
-    "level": 2,
-    "taskUnlock": null,
-    "requiredItems": [
-      {
-        "item": {
-          "id": "5734758f24597738025ee253",
-          "name": "Golden neck chain"
-        },
-        "count": 4
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "5780d0532459777a5108b9a2",
-          "name": "Tarcone Director's office key"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "69c67393bb9f4cb77d084982b",
-    "trader": {
-      "id": "54cb50c76803fa8b248b4571",
-      "name": "Prapor"
-    },
-    "level": 2,
-    "taskUnlock": null,
-    "requiredItems": [
-      {
-        "item": {
-          "id": "56742c2e4bdc2d95058b456d",
-          "name": "Zibbo lighter"
-        },
-        "count": 2
-      },
-      {
-        "item": {
-          "id": "5672cb304bdc2dc2088b456a",
-          "name": "D Size battery"
-        },
-        "count": 2
-      }
-    ],
-    "rewardItems": [
-      {
-        "item": {
-          "id": "593aa4be86f77457f56379f8",
-          "name": "Dorm room 303 key"
-        },
-        "count": 1
-      }
-    ]
-  },
-  {
-    "id": "6a15764960e36e62900a9076b",
-    "trader": {
-      "id": "5ac3b934156ae10c4430e83c",
-      "name": "Ragman"
-    },
-    "level": 3,
-    "taskUnlock": null,
-    "requiredItems": [
-      {
-        "item": {
-          "id": "5bc9bc53d4351e00367fbcee",
-          "name": "Golden rooster figurine"
+          "id": "6389c6463485cf0eeb260715",
+          "name": "Pack of Arseniy buckwheat"
         },
         "count": 1
       },
       {
         "item": {
-          "id": "573474f924597738002c6174",
-          "name": "Chainlet"
+          "id": "6389c6c7dbfd5e4b95197e68",
+          "name": "Aquapeps water purification tablets"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "5d1b3a5d86f774252167ba22",
+          "name": "Pile of meds"
         },
         "count": 5
       }
@@ -22097,40 +21545,40 @@
     "rewardItems": [
       {
         "item": {
-          "id": "5a0eb6ac86f7743124037a28",
-          "name": "Cottage back door key"
+          "id": "5780cfa52459777dfb276eb1",
+          "name": "Dorm room 220 key"
         },
         "count": 1
       }
     ]
   },
   {
-    "id": "6a15764260e36e62900a8c6bb",
+    "id": "69c67395bb9f4cb77d084ae4b",
     "trader": {
-      "id": "5935c25fb3acc3127c3d8cd9",
-      "name": "Peacekeeper"
+      "id": "54cb57776803fa99248b456e",
+      "name": "Therapist"
     },
-    "level": 2,
+    "level": 1,
     "taskUnlock": null,
     "requiredItems": [
       {
         "item": {
-          "id": "590c37d286f77443be3d7827",
-          "name": "SAS drive"
+          "id": "57513fcc24597720a31c09a6",
+          "name": "Pack of Vita juice"
         },
         "count": 1
       },
       {
         "item": {
-          "id": "544fb3f34bdc2d03748b456a",
-          "name": "Morphine injector"
+          "id": "575146b724597720a27126d5",
+          "name": "Pack of milk"
         },
-        "count": 3
+        "count": 1
       },
       {
         "item": {
-          "id": "590c645c86f77412b01304d9",
-          "name": "Diary"
+          "id": "5c13cef886f774072e618e82",
+          "name": "Toilet paper"
         },
         "count": 1
       }
@@ -22138,15 +21586,328 @@
     "rewardItems": [
       {
         "item": {
-          "id": "5a145d4786f7744cbb6f4a12",
-          "name": "Health Resort east wing room 306 key"
+          "id": "5938144586f77473c2087145",
+          "name": "Portable bunkhouse key"
         },
         "count": 1
       }
     ]
   },
   {
-    "id": "6a0da65529e4ca1a9109cb9cb",
+    "id": "69c67396bb9f4cb77d084b0bb",
+    "trader": {
+      "id": "54cb57776803fa99248b456e",
+      "name": "Therapist"
+    },
+    "level": 3,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5d1b3f2d86f774253763b735",
+          "name": "Disposable syringe"
+        },
+        "count": 5
+      },
+      {
+        "item": {
+          "id": "590c5d4b86f774784e1b9c45",
+          "name": "Iskra ration pack"
+        },
+        "count": 3
+      },
+      {
+        "item": {
+          "id": "5af0534a86f7743b6f354284",
+          "name": "Ophthalmoscope"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5ad5db3786f7743568421cce",
+          "name": "EMERCOM medical unit key"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "69c67396bb9f4cb77d084b14b",
+    "trader": {
+      "id": "54cb57776803fa99248b456e",
+      "name": "Therapist"
+    },
+    "level": 3,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5d1b3a5d86f774252167ba22",
+          "name": "Pile of meds"
+        },
+        "count": 4
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5a0dc95c86f77452440fc675",
+          "name": "Health Resort west wing office room 112 key"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "69c67396bb9f4cb77d084b2fb",
+    "trader": {
+      "id": "54cb57776803fa99248b456e",
+      "name": "Therapist"
+    },
+    "level": 2,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "59e361e886f774176c10a2a5",
+          "name": "Bottle of hydrogen peroxide"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "59e3606886f77417674759a5",
+          "name": "Bottle of saline solution"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "5d1b3a5d86f774252167ba22",
+          "name": "Pile of meds"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "59387a4986f77401cc236e62",
+          "name": "Dorm room 114 key"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "69ccf258c8ea4e5e1c0ec271b",
+    "trader": {
+      "id": "5a7c2eca46aef81a7ca2145d",
+      "name": "Mechanic"
+    },
+    "level": 2,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "59faff1d86f7746c51718c9c",
+          "name": "Physical Bitcoin"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "68e95d71a3d110355b03e529",
+          "name": "Elektronik's key"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "69ccf258c8ea4e5e1c0ec280b",
+    "trader": {
+      "id": "5a7c2eca46aef81a7ca2145d",
+      "name": "Mechanic"
+    },
+    "level": 2,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5734779624597737e04bf329",
+          "name": "CPU fan"
+        },
+        "count": 2
+      },
+      {
+        "item": {
+          "id": "590a3b0486f7743954552bdb",
+          "name": "Printed circuit board"
+        },
+        "count": 2
+      },
+      {
+        "item": {
+          "id": "5672cb124bdc2d1a0f8b4568",
+          "name": "AA Battery"
+        },
+        "count": 4
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5a0eee1486f77402aa773226",
+          "name": "Health Resort east wing room 328 key"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "69ea3c66b4310eb6f700197bb",
+    "trader": {
+      "id": "6617beeaa9cfa777ca915b7c",
+      "name": "Ref"
+    },
+    "level": 3,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "6656560053eaaa7a23349c86",
+          "name": "Lega Medal"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "5d235b4d86f7742e017bc88a",
+          "name": "GP coin"
+        },
+        "count": 100
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "664d3ddfdda2e85aca370d75",
+          "name": "Voron's hideout key"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "69ea3c67b4310eb6f7001a30b",
+    "trader": {
+      "id": "6617beeaa9cfa777ca915b7c",
+      "name": "Ref"
+    },
+    "level": 4,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "6656560053eaaa7a23349c86",
+          "name": "Lega Medal"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "5d235b4d86f7742e017bc88a",
+          "name": "GP coin"
+        },
+        "count": 100
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "664d3de85f2355673b09aed5",
+          "name": "Leon's hideout key"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "69ea3c68b4310eb6f7001bcab",
+    "trader": {
+      "id": "6617beeaa9cfa777ca915b7c",
+      "name": "Ref"
+    },
+    "level": 2,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "6656560053eaaa7a23349c86",
+          "name": "Lega Medal"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "5d235b4d86f7742e017bc88a",
+          "name": "GP coin"
+        },
+        "count": 100
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "664d3dd590294949fe2d81b7",
+          "name": "Grumpy's hideout key"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "69ea3c69b4310eb6f7001c1ab",
+    "trader": {
+      "id": "6617beeaa9cfa777ca915b7c",
+      "name": "Ref"
+    },
+    "level": 1,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "6656560053eaaa7a23349c86",
+          "name": "Lega Medal"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "5d235b4d86f7742e017bc88a",
+          "name": "GP coin"
+        },
+        "count": 100
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "664d3db6db5dea2bad286955",
+          "name": "Shatun's hideout key"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "6a0da65229e4ca1a9109c9b2b",
     "trader": {
       "id": "5c0647fdd443bc2504c2d371",
       "name": "Jaeger"
@@ -22156,31 +21917,188 @@
     "requiredItems": [
       {
         "item": {
-          "id": "590c639286f774151567fa95",
-          "name": "Tech manual"
+          "id": "5448ba0b4bdc2d02308b456c",
+          "name": "Factory emergency exit key"
         },
-        "count": 2
+        "count": 1
       },
       {
         "item": {
-          "id": "5d40407c86f774318526545a",
-          "name": "Bottle of Tarkovskaya vodka"
+          "id": "590c5d4b86f774784e1b9c45",
+          "name": "Iskra ration pack"
         },
-        "count": 4
+        "count": 3
       },
       {
         "item": {
-          "id": "57347d7224597744596b4e72",
-          "name": "Can of beef stew (Small)"
+          "id": "590c5f0d86f77413997acfab",
+          "name": "MRE ration pack"
         },
-        "count": 2
+        "count": 1
       }
     ],
     "rewardItems": [
       {
         "item": {
-          "id": "5913915886f774123603c392",
-          "name": "Military checkpoint key"
+          "id": "5448ba0b4bdc2d02308b456c",
+          "name": "Factory emergency exit key"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "6a0da65429e4ca1a9109caffb",
+    "trader": {
+      "id": "5c0647fdd443bc2504c2d371",
+      "name": "Jaeger"
+    },
+    "level": 4,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5e2aee0a86f774755a234b62",
+          "name": "Cyclon rechargeable battery"
+        },
+        "count": 7
+      },
+      {
+        "item": {
+          "id": "5d4042a986f7743185265463",
+          "name": "Flat screwdriver (Long)"
+        },
+        "count": 5
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5d95d6fa86f77424484aa5e9",
+          "name": "RB-PSP2 key"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "6a0da65429e4ca1a9109cb30b",
+    "trader": {
+      "id": "5c0647fdd443bc2504c2d371",
+      "name": "Jaeger"
+    },
+    "level": 4,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "60b0f93284c20f0feb453da7",
+          "name": "Can of RatCola soda"
+        },
+        "count": 4
+      },
+      {
+        "item": {
+          "id": "5b4329075acfc400153b78ff",
+          "name": "Pompon hat"
+        },
+        "count": 8
+      },
+      {
+        "item": {
+          "id": "59e7708286f7742cbd762753",
+          "name": "Ushanka ear flap hat"
+        },
+        "count": 4
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5d80cb8786f774405611c7d9",
+          "name": "RB-PP key"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "6a0da65529e4ca1a9109cb40b",
+    "trader": {
+      "id": "5c0647fdd443bc2504c2d371",
+      "name": "Jaeger"
+    },
+    "level": 3,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5e2af2bc86f7746d3f3c33fc",
+          "name": "Hunting matches"
+        },
+        "count": 4
+      },
+      {
+        "item": {
+          "id": "5e2af37686f774755a234b65",
+          "name": "SurvL Survivor Lighter"
+        },
+        "count": 2
+      },
+      {
+        "item": {
+          "id": "590a373286f774287540368b",
+          "name": "Dry fuel"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5ad5cfbd86f7742c825d6104",
+          "name": "OLI logistics department office key"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "6a0da65529e4ca1a9109cb62b",
+    "trader": {
+      "id": "5c0647fdd443bc2504c2d371",
+      "name": "Jaeger"
+    },
+    "level": 3,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5d80c62a86f7744036212b3f",
+          "name": "RB-VO marked key"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "5ede7a8229445733cb4c18e2",
+          "name": "RB-PKPM marked key"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "5d80c60f86f77440373c4ece",
+          "name": "RB-BK marked key"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5780cf7f2459777de4559322",
+          "name": "Dorm room 314 marked key"
         },
         "count": 1
       }
@@ -22235,32 +22153,73 @@
     ]
   },
   {
-    "id": "6a0da65529e4ca1a9109cb62b",
+    "id": "6a0da65529e4ca1a9109cb9cb",
     "trader": {
       "id": "5c0647fdd443bc2504c2d371",
       "name": "Jaeger"
     },
-    "level": 3,
+    "level": 2,
     "taskUnlock": null,
     "requiredItems": [
       {
         "item": {
-          "id": "5d80c62a86f7744036212b3f",
-          "name": "RB-VO marked key"
+          "id": "590c639286f774151567fa95",
+          "name": "Tech manual"
+        },
+        "count": 2
+      },
+      {
+        "item": {
+          "id": "5d40407c86f774318526545a",
+          "name": "Bottle of Tarkovskaya vodka"
+        },
+        "count": 4
+      },
+      {
+        "item": {
+          "id": "57347d7224597744596b4e72",
+          "name": "Can of beef stew (Small)"
+        },
+        "count": 2
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5913915886f774123603c392",
+          "name": "Military checkpoint key"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "6a15764260e36e62900a8c6bb",
+    "trader": {
+      "id": "5935c25fb3acc3127c3d8cd9",
+      "name": "Peacekeeper"
+    },
+    "level": 2,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "590c37d286f77443be3d7827",
+          "name": "SAS drive"
         },
         "count": 1
       },
       {
         "item": {
-          "id": "5ede7a8229445733cb4c18e2",
-          "name": "RB-PKPM marked key"
+          "id": "544fb3f34bdc2d03748b456a",
+          "name": "Morphine injector"
         },
-        "count": 1
+        "count": 3
       },
       {
         "item": {
-          "id": "5d80c60f86f77440373c4ece",
-          "name": "RB-BK marked key"
+          "id": "590c645c86f77412b01304d9",
+          "name": "Diary"
         },
         "count": 1
       }
@@ -22268,8 +22227,76 @@
     "rewardItems": [
       {
         "item": {
-          "id": "5780cf7f2459777de4559322",
-          "name": "Dorm room 314 marked key"
+          "id": "5a145d4786f7744cbb6f4a12",
+          "name": "Health Resort east wing room 306 key"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "6a15764960e36e62900a9076b",
+    "trader": {
+      "id": "5ac3b934156ae10c4430e83c",
+      "name": "Ragman"
+    },
+    "level": 3,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5bc9bc53d4351e00367fbcee",
+          "name": "Golden rooster figurine"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "573474f924597738002c6174",
+          "name": "Chainlet"
+        },
+        "count": 5
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5a0eb6ac86f7743124037a28",
+          "name": "Cottage back door key"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "69c67393bb9f4cb77d084982b",
+    "trader": {
+      "id": "54cb50c76803fa8b248b4571",
+      "name": "Prapor"
+    },
+    "level": 2,
+    "taskUnlock": null,
+    "requiredItems": [
+      {
+        "item": {
+          "id": "56742c2e4bdc2d95058b456d",
+          "name": "Zibbo lighter"
+        },
+        "count": 2
+      },
+      {
+        "item": {
+          "id": "5672cb304bdc2dc2088b456a",
+          "name": "D Size battery"
+        },
+        "count": 2
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "593aa4be86f77457f56379f8",
+          "name": "Dorm room 303 key"
         },
         "count": 1
       }

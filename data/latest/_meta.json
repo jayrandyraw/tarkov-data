@@ -1,7 +1,7 @@
 {
-  "snapshot_at": "2026-06-01T21:04:23.050925+00:00",
-  "finished_at": "2026-06-01T21:04:38.016975+00:00",
-  "duration_seconds": 14.96605,
+  "snapshot_at": "2026-06-08T17:36:57.459408+00:00",
+  "finished_at": "2026-06-08T17:37:22.330526+00:00",
+  "duration_seconds": 24.871118,
   "source": "https://api.tarkov.dev/graphql",
   "language": "en",
   "game_mode": "regular",
@@ -15,11 +15,11 @@
     },
     "tasks": {
       "records": 499,
-      "kb": 1411.8
+      "kb": 1410.9
     },
     "items": {
       "records": 5044,
-      "kb": 10432.8
+      "kb": 10437.2
     },
     "hideout": {
       "records": 26,
@@ -30,8 +30,8 @@
       "kb": 95.9
     },
     "barters": {
-      "records": 786,
-      "kb": 457.8
+      "records": 787,
+      "kb": 458.3
     },
     "crafts": {
       "records": 211,
@@ -42,8 +42,8 @@
       "kb": 79.6
     },
     "bosses": {
-      "records": 40,
-      "kb": 1296.2
+      "records": 41,
+      "kb": 1325.9
     },
     "prestige": {
       "records": 6,
