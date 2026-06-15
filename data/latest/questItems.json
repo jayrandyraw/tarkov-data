@@ -1306,5 +1306,17 @@
     "iconLink": "https://assets.tarkov.dev/664fce7a90294949fe2d81cb-icon.webp",
     "gridImageLink": "https://assets.tarkov.dev/664fce7a90294949fe2d81cb-grid-image.webp",
     "image512pxLink": "https://assets.tarkov.dev/664fce7a90294949fe2d81cb-512.webp"
+  },
+  {
+    "id": "69bb42b9ce2b96840302b92b",
+    "name": "Nuclear power unit control log",
+    "shortName": "NPU",
+    "normalizedName": "nuclear-power-unit-control-log",
+    "description": "The control log of a nuclear power unit records safety parameters, routine inspection results, and various measurements ensuring the safe operation of the Icebreaker’s nuclear reactor.",
+    "width": 1,
+    "height": 2,
+    "iconLink": "https://assets.tarkov.dev/69bb42b9ce2b96840302b92b-icon.webp",
+    "gridImageLink": "https://assets.tarkov.dev/69bb42b9ce2b96840302b92b-grid-image.webp",
+    "image512pxLink": "https://assets.tarkov.dev/unknown-item-512.webp"
   }
 ]

@@ -4,11 +4,7 @@
     "name": "Prapor",
     "normalizedName": "prapor",
     "description": "The Warrant officer in charge of supply warehouses on the sustaining base enforcing the Norvinsk region blockade. Secretly supplied the BEAR PMC operators with weapons, ammunition, and various other provisions he had at his disposal during the Contract Wars.",
-    "resetTime": "2026-06-08T17:56:30.000Z",
-    "currency": {
-      "id": "5449016a4bdc2d6f028b456f",
-      "name": "Roubles"
-    },
+    "resetTime": "2026-06-15T21:33:25.000Z",
     "discount": 0,
     "levels": [
       {
@@ -53,18 +49,18 @@
       }
     ],
     "imageLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571.webp",
-    "image4xLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571-4x.webp"
+    "image4xLink": "https://assets.tarkov.dev/54cb50c76803fa8b248b4571-4x.webp",
+    "currency": {
+      "id": "5449016a4bdc2d6f028b456f",
+      "name": "Roubles"
+    }
   },
   {
     "id": "54cb57776803fa99248b456e",
     "name": "Therapist",
     "normalizedName": "therapist",
     "description": "Head of the Trauma Care Department of the Tarkov Central City Hospital.",
-    "resetTime": "2026-06-08T17:26:43.000Z",
-    "currency": {
-      "id": "5449016a4bdc2d6f028b456f",
-      "name": "Roubles"
-    },
+    "resetTime": "2026-06-15T20:24:37.000Z",
     "discount": 0,
     "levels": [
       {
@@ -109,18 +105,18 @@
       }
     ],
     "imageLink": "https://assets.tarkov.dev/54cb57776803fa99248b456e.webp",
-    "image4xLink": "https://assets.tarkov.dev/54cb57776803fa99248b456e-4x.webp"
+    "image4xLink": "https://assets.tarkov.dev/54cb57776803fa99248b456e-4x.webp",
+    "currency": {
+      "id": "5449016a4bdc2d6f028b456f",
+      "name": "Roubles"
+    }
   },
   {
     "id": "579dc571d53a0658a154fbec",
     "name": "Fence",
     "normalizedName": "fence",
     "description": "The conflict had barely started when Fence began setting up anonymous outlets for buying and selling goods. Keeping incognito, he nevertheless managed to put together a well-organised smuggler network, operating all over the Norvinsk region.",
-    "resetTime": "2026-06-08T17:46:09.000Z",
-    "currency": {
-      "id": "5449016a4bdc2d6f028b456f",
-      "name": "Roubles"
-    },
+    "resetTime": "2026-06-15T20:05:02.000Z",
     "discount": 0,
     "levels": [
       {
@@ -155,18 +151,18 @@
       }
     ],
     "imageLink": "https://assets.tarkov.dev/579dc571d53a0658a154fbec.webp",
-    "image4xLink": "https://assets.tarkov.dev/579dc571d53a0658a154fbec-4x.webp"
+    "image4xLink": "https://assets.tarkov.dev/579dc571d53a0658a154fbec-4x.webp",
+    "currency": {
+      "id": "5449016a4bdc2d6f028b456f",
+      "name": "Roubles"
+    }
   },
   {
     "id": "58330581ace78e27b8b10cee",
     "name": "Skier",
     "normalizedName": "skier",
     "description": "Previously a port zone customs terminal employee, who initially oversaw dealings of the terminal's goods. Over the course of the conflict, he put together a gang of thugs in order to grab everything of value that he could lay his hands on in the vicinity of the terminal.",
-    "resetTime": "2026-06-08T19:06:48.000Z",
-    "currency": {
-      "id": "5449016a4bdc2d6f028b456f",
-      "name": "Roubles"
-    },
+    "resetTime": "2026-06-15T19:29:19.000Z",
     "discount": 0,
     "levels": [
       {
@@ -211,18 +207,18 @@
       }
     ],
     "imageLink": "https://assets.tarkov.dev/58330581ace78e27b8b10cee.webp",
-    "image4xLink": "https://assets.tarkov.dev/58330581ace78e27b8b10cee-4x.webp"
+    "image4xLink": "https://assets.tarkov.dev/58330581ace78e27b8b10cee-4x.webp",
+    "currency": {
+      "id": "5449016a4bdc2d6f028b456f",
+      "name": "Roubles"
+    }
   },
   {
     "id": "5935c25fb3acc3127c3d8cd9",
     "name": "Peacekeeper",
     "normalizedName": "peacekeeper",
     "description": "UN peacekeeping Force supply officer, based in one of the central checkpoints leading to the Tarkov port zone. The blue helmets have been seen poking their heads into small deals from the very beginning of the conflict, buying everything of value in exchange for western weapons, ammo, and all kinds of military equipment.",
-    "resetTime": "2026-06-08T19:13:13.000Z",
-    "currency": {
-      "id": "5696686a4bdc2da3298b456a",
-      "name": "Dollars"
-    },
+    "resetTime": "2026-06-15T21:32:06.000Z",
     "discount": 0,
     "levels": [
       {
@@ -267,18 +263,18 @@
       }
     ],
     "imageLink": "https://assets.tarkov.dev/5935c25fb3acc3127c3d8cd9.webp",
-    "image4xLink": "https://assets.tarkov.dev/5935c25fb3acc3127c3d8cd9-4x.webp"
+    "image4xLink": "https://assets.tarkov.dev/5935c25fb3acc3127c3d8cd9-4x.webp",
+    "currency": {
+      "id": "5696686a4bdc2da3298b456a",
+      "name": "Dollars"
+    }
   },
   {
     "id": "5a7c2eca46aef81a7ca2145d",
     "name": "Mechanic",
     "normalizedName": "mechanic",
     "description": "A former chemical plant foreman, who from the very beginning of the conflict took to weapon modification, repairs, and maintenance of complex equipment and technology. He prefers clandestine solo living and operates discreetly, while placing complicated and challenging tasks above all else.",
-    "resetTime": "2026-06-08T18:27:33.000Z",
-    "currency": {
-      "id": "5449016a4bdc2d6f028b456f",
-      "name": "Roubles"
-    },
+    "resetTime": "2026-06-15T22:30:00.000Z",
     "discount": 0,
     "levels": [
       {
@@ -323,18 +319,18 @@
       }
     ],
     "imageLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d.webp",
-    "image4xLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d-4x.webp"
+    "image4xLink": "https://assets.tarkov.dev/5a7c2eca46aef81a7ca2145d-4x.webp",
+    "currency": {
+      "id": "5449016a4bdc2d6f028b456f",
+      "name": "Roubles"
+    }
   },
   {
     "id": "5ac3b934156ae10c4430e83c",
     "name": "Ragman",
     "normalizedName": "ragman",
     "description": "Previously, he worked as a director in a shopping center located in the suburbs of Tarkov. Now dealing in mostly clothing- and gear-related items, anywhere from sunglasses to body armor.",
-    "resetTime": "2026-06-08T18:59:12.000Z",
-    "currency": {
-      "id": "5449016a4bdc2d6f028b456f",
-      "name": "Roubles"
-    },
+    "resetTime": "2026-06-15T21:47:47.000Z",
     "discount": 0,
     "levels": [
       {
@@ -379,18 +375,18 @@
       }
     ],
     "imageLink": "https://assets.tarkov.dev/5ac3b934156ae10c4430e83c.webp",
-    "image4xLink": "https://assets.tarkov.dev/5ac3b934156ae10c4430e83c-4x.webp"
+    "image4xLink": "https://assets.tarkov.dev/5ac3b934156ae10c4430e83c-4x.webp",
+    "currency": {
+      "id": "5449016a4bdc2d6f028b456f",
+      "name": "Roubles"
+    }
   },
   {
     "id": "5c0647fdd443bc2504c2d371",
     "name": "Jaeger",
     "normalizedName": "jaeger",
     "description": "Before the conflict, he worked as a hunter in the Priozersk Natural Reserve under the State Hunting Service. A professional hunter and survival specialist. Even now, he still guards the reserve's hunting grounds from various aggressive individuals.",
-    "resetTime": "2026-06-08T17:29:19.000Z",
-    "currency": {
-      "id": "5449016a4bdc2d6f028b456f",
-      "name": "Roubles"
-    },
+    "resetTime": "2026-06-15T20:07:07.000Z",
     "discount": 0,
     "levels": [
       {
@@ -435,18 +431,18 @@
       }
     ],
     "imageLink": "https://assets.tarkov.dev/5c0647fdd443bc2504c2d371.webp",
-    "image4xLink": "https://assets.tarkov.dev/5c0647fdd443bc2504c2d371-4x.webp"
+    "image4xLink": "https://assets.tarkov.dev/5c0647fdd443bc2504c2d371-4x.webp",
+    "currency": {
+      "id": "5449016a4bdc2d6f028b456f",
+      "name": "Roubles"
+    }
   },
   {
     "id": "638f541a29ffd1183d187f57",
     "name": "Lightkeeper",
     "normalizedName": "lightkeeper",
     "description": "<Classified>",
-    "resetTime": "2026-06-08T17:48:54.000Z",
-    "currency": {
-      "id": "5449016a4bdc2d6f028b456f",
-      "name": "Roubles"
-    },
+    "resetTime": "2026-06-15T20:16:55.000Z",
     "discount": 0,
     "levels": [
       {
@@ -461,18 +457,18 @@
       }
     ],
     "imageLink": "https://assets.tarkov.dev/638f541a29ffd1183d187f57.webp",
-    "image4xLink": "https://assets.tarkov.dev/638f541a29ffd1183d187f57-4x.webp"
+    "image4xLink": "https://assets.tarkov.dev/638f541a29ffd1183d187f57-4x.webp",
+    "currency": {
+      "id": "5449016a4bdc2d6f028b456f",
+      "name": "Roubles"
+    }
   },
   {
     "id": "68fe15910f29ba3fdbba9d54",
     "name": "Taran",
     "normalizedName": "taran",
     "description": "Member of the Bogatyr squad.",
-    "resetTime": "2026-06-08T18:18:54.000Z",
-    "currency": {
-      "id": "5449016a4bdc2d6f028b456f",
-      "name": "Roubles"
-    },
+    "resetTime": "2026-06-15T19:58:54.000Z",
     "discount": 0,
     "levels": [
       {
@@ -487,18 +483,18 @@
       }
     ],
     "imageLink": "https://assets.tarkov.dev/68fe15910f29ba3fdbba9d54.webp",
-    "image4xLink": "https://assets.tarkov.dev/unknown-trader-4x.webp"
+    "image4xLink": "https://assets.tarkov.dev/unknown-trader-4x.webp",
+    "currency": {
+      "id": "5449016a4bdc2d6f028b456f",
+      "name": "Roubles"
+    }
   },
   {
     "id": "656f0f98d80a697f855d34b1",
     "name": "BTR Driver",
     "normalizedName": "btr-driver",
     "description": "<Unknown>",
-    "resetTime": "2026-06-08T17:33:54.000Z",
-    "currency": {
-      "id": "5449016a4bdc2d6f028b456f",
-      "name": "Roubles"
-    },
+    "resetTime": "2026-06-15T20:10:55.000Z",
     "discount": 0,
     "levels": [
       {
@@ -513,18 +509,18 @@
       }
     ],
     "imageLink": "https://assets.tarkov.dev/656f0f98d80a697f855d34b1.webp",
-    "image4xLink": "https://assets.tarkov.dev/unknown-trader-4x.webp"
+    "image4xLink": "https://assets.tarkov.dev/unknown-trader-4x.webp",
+    "currency": {
+      "id": "5449016a4bdc2d6f028b456f",
+      "name": "Roubles"
+    }
   },
   {
     "id": "68fe15990f29ba3fdbba9d55",
     "name": "Radio station",
     "normalizedName": "radio-station",
     "description": "A multi-function radio station with built-in cryptographic processor.",
-    "resetTime": "2026-06-08T17:41:54.000Z",
-    "currency": {
-      "id": "5449016a4bdc2d6f028b456f",
-      "name": "Roubles"
-    },
+    "resetTime": "2026-06-15T19:18:54.000Z",
     "discount": 0,
     "levels": [
       {
@@ -539,18 +535,18 @@
       }
     ],
     "imageLink": "https://assets.tarkov.dev/68fe15990f29ba3fdbba9d55.webp",
-    "image4xLink": "https://assets.tarkov.dev/unknown-trader-4x.webp"
+    "image4xLink": "https://assets.tarkov.dev/unknown-trader-4x.webp",
+    "currency": {
+      "id": "5449016a4bdc2d6f028b456f",
+      "name": "Roubles"
+    }
   },
   {
     "id": "6617beeaa9cfa777ca915b7c",
     "name": "Ref",
     "normalizedName": "ref",
     "description": "The Arena host who organizes pit fights across Tarkov.",
-    "resetTime": "2026-06-08T19:42:17.000Z",
-    "currency": {
-      "id": "5449016a4bdc2d6f028b456f",
-      "name": "Roubles"
-    },
+    "resetTime": "2026-06-15T20:17:55.000Z",
     "discount": 0,
     "levels": [
       {
@@ -595,18 +591,18 @@
       }
     ],
     "imageLink": "https://assets.tarkov.dev/6617beeaa9cfa777ca915b7c.webp",
-    "image4xLink": "https://assets.tarkov.dev/6617beeaa9cfa777ca915b7c-4x.webp"
+    "image4xLink": "https://assets.tarkov.dev/6617beeaa9cfa777ca915b7c-4x.webp",
+    "currency": {
+      "id": "5449016a4bdc2d6f028b456f",
+      "name": "Roubles"
+    }
   },
   {
     "id": "688246518448b05efd61d461",
     "name": "Mr. Kerman",
     "normalizedName": "mr-kerman",
     "description": "<Unknown>",
-    "resetTime": "2026-06-08T18:13:54.000Z",
-    "currency": {
-      "id": "5449016a4bdc2d6f028b456f",
-      "name": "Roubles"
-    },
+    "resetTime": "2026-06-15T19:46:54.000Z",
     "discount": 0,
     "levels": [
       {
@@ -621,18 +617,18 @@
       }
     ],
     "imageLink": "https://assets.tarkov.dev/688246518448b05efd61d461.webp",
-    "image4xLink": "https://assets.tarkov.dev/unknown-trader-4x.webp"
+    "image4xLink": "https://assets.tarkov.dev/unknown-trader-4x.webp",
+    "currency": {
+      "id": "5449016a4bdc2d6f028b456f",
+      "name": "Roubles"
+    }
   },
   {
     "id": "688246958448b05efd61d462",
     "name": "Voevoda",
     "normalizedName": "voevoda",
     "description": "Commander of the Bogatyr squad.",
-    "resetTime": "2026-06-08T17:33:54.000Z",
-    "currency": {
-      "id": "5449016a4bdc2d6f028b456f",
-      "name": "Roubles"
-    },
+    "resetTime": "2026-06-15T20:10:54.000Z",
     "discount": 0,
     "levels": [
       {
@@ -647,18 +643,18 @@
       }
     ],
     "imageLink": "https://assets.tarkov.dev/688246958448b05efd61d462.webp",
-    "image4xLink": "https://assets.tarkov.dev/unknown-trader-4x.webp"
+    "image4xLink": "https://assets.tarkov.dev/unknown-trader-4x.webp",
+    "currency": {
+      "id": "5449016a4bdc2d6f028b456f",
+      "name": "Roubles"
+    }
   },
   {
     "id": "69e0d6cc77b63940375b9173",
     "name": "Survivor",
     "normalizedName": "survivor",
     "description": "Survivor",
-    "resetTime": "2026-06-08T18:07:54.000Z",
-    "currency": {
-      "id": "5449016a4bdc2d6f028b456f",
-      "name": "Roubles"
-    },
+    "resetTime": "2026-06-15T19:40:54.000Z",
     "discount": 0,
     "levels": [
       {
@@ -673,6 +669,10 @@
       }
     ],
     "imageLink": "https://assets.tarkov.dev/unknown-trader.webp",
-    "image4xLink": "https://assets.tarkov.dev/unknown-trader-4x.webp"
+    "image4xLink": "https://assets.tarkov.dev/unknown-trader-4x.webp",
+    "currency": {
+      "id": "5449016a4bdc2d6f028b456f",
+      "name": "Roubles"
+    }
   }
 ]
