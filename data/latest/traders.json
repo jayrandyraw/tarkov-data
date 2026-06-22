@@ -4,7 +4,7 @@
     "name": "Prapor",
     "normalizedName": "prapor",
     "description": "The Warrant officer in charge of supply warehouses on the sustaining base enforcing the Norvinsk region blockade. Secretly supplied the BEAR PMC operators with weapons, ammunition, and various other provisions he had at his disposal during the Contract Wars.",
-    "resetTime": "2026-06-15T21:33:25.000Z",
+    "resetTime": "2026-06-22T13:12:26.000Z",
     "discount": 0,
     "levels": [
       {
@@ -60,7 +60,7 @@
     "name": "Therapist",
     "normalizedName": "therapist",
     "description": "Head of the Trauma Care Department of the Tarkov Central City Hospital.",
-    "resetTime": "2026-06-15T20:24:37.000Z",
+    "resetTime": "2026-06-22T13:36:12.000Z",
     "discount": 0,
     "levels": [
       {
@@ -116,7 +116,7 @@
     "name": "Fence",
     "normalizedName": "fence",
     "description": "The conflict had barely started when Fence began setting up anonymous outlets for buying and selling goods. Keeping incognito, he nevertheless managed to put together a well-organised smuggler network, operating all over the Norvinsk region.",
-    "resetTime": "2026-06-15T20:05:02.000Z",
+    "resetTime": "2026-06-22T12:19:46.000Z",
     "discount": 0,
     "levels": [
       {
@@ -162,7 +162,7 @@
     "name": "Skier",
     "normalizedName": "skier",
     "description": "Previously a port zone customs terminal employee, who initially oversaw dealings of the terminal's goods. Over the course of the conflict, he put together a gang of thugs in order to grab everything of value that he could lay his hands on in the vicinity of the terminal.",
-    "resetTime": "2026-06-15T19:29:19.000Z",
+    "resetTime": "2026-06-22T12:12:48.000Z",
     "discount": 0,
     "levels": [
       {
@@ -218,7 +218,7 @@
     "name": "Peacekeeper",
     "normalizedName": "peacekeeper",
     "description": "UN peacekeeping Force supply officer, based in one of the central checkpoints leading to the Tarkov port zone. The blue helmets have been seen poking their heads into small deals from the very beginning of the conflict, buying everything of value in exchange for western weapons, ammo, and all kinds of military equipment.",
-    "resetTime": "2026-06-15T21:32:06.000Z",
+    "resetTime": "2026-06-22T12:58:09.000Z",
     "discount": 0,
     "levels": [
       {
@@ -274,7 +274,7 @@
     "name": "Mechanic",
     "normalizedName": "mechanic",
     "description": "A former chemical plant foreman, who from the very beginning of the conflict took to weapon modification, repairs, and maintenance of complex equipment and technology. He prefers clandestine solo living and operates discreetly, while placing complicated and challenging tasks above all else.",
-    "resetTime": "2026-06-15T22:30:00.000Z",
+    "resetTime": "2026-06-22T14:30:46.000Z",
     "discount": 0,
     "levels": [
       {
@@ -330,7 +330,7 @@
     "name": "Ragman",
     "normalizedName": "ragman",
     "description": "Previously, he worked as a director in a shopping center located in the suburbs of Tarkov. Now dealing in mostly clothing- and gear-related items, anywhere from sunglasses to body armor.",
-    "resetTime": "2026-06-15T21:47:47.000Z",
+    "resetTime": "2026-06-22T14:09:07.000Z",
     "discount": 0,
     "levels": [
       {
@@ -386,7 +386,7 @@
     "name": "Jaeger",
     "normalizedName": "jaeger",
     "description": "Before the conflict, he worked as a hunter in the Priozersk Natural Reserve under the State Hunting Service. A professional hunter and survival specialist. Even now, he still guards the reserve's hunting grounds from various aggressive individuals.",
-    "resetTime": "2026-06-15T20:07:07.000Z",
+    "resetTime": "2026-06-22T12:05:37.000Z",
     "discount": 0,
     "levels": [
       {
@@ -442,7 +442,7 @@
     "name": "Lightkeeper",
     "normalizedName": "lightkeeper",
     "description": "<Classified>",
-    "resetTime": "2026-06-15T20:16:55.000Z",
+    "resetTime": "2026-06-22T11:55:54.000Z",
     "discount": 0,
     "levels": [
       {
@@ -468,7 +468,7 @@
     "name": "Taran",
     "normalizedName": "taran",
     "description": "Member of the Bogatyr squad.",
-    "resetTime": "2026-06-15T19:58:54.000Z",
+    "resetTime": "2026-06-22T12:35:54.000Z",
     "discount": 0,
     "levels": [
       {
@@ -494,7 +494,7 @@
     "name": "BTR Driver",
     "normalizedName": "btr-driver",
     "description": "<Unknown>",
-    "resetTime": "2026-06-15T20:10:55.000Z",
+    "resetTime": "2026-06-22T11:56:54.000Z",
     "discount": 0,
     "levels": [
       {
@@ -520,7 +520,7 @@
     "name": "Radio station",
     "normalizedName": "radio-station",
     "description": "A multi-function radio station with built-in cryptographic processor.",
-    "resetTime": "2026-06-15T19:18:54.000Z",
+    "resetTime": "2026-06-22T11:58:54.000Z",
     "discount": 0,
     "levels": [
       {
@@ -546,7 +546,7 @@
     "name": "Ref",
     "normalizedName": "ref",
     "description": "The Arena host who organizes pit fights across Tarkov.",
-    "resetTime": "2026-06-15T20:17:55.000Z",
+    "resetTime": "2026-06-22T12:22:55.000Z",
     "discount": 0,
     "levels": [
       {
@@ -602,7 +602,7 @@
     "name": "Mr. Kerman",
     "normalizedName": "mr-kerman",
     "description": "<Unknown>",
-    "resetTime": "2026-06-15T19:46:54.000Z",
+    "resetTime": "2026-06-22T12:25:54.000Z",
     "discount": 0,
     "levels": [
       {
@@ -628,7 +628,7 @@
     "name": "Voevoda",
     "normalizedName": "voevoda",
     "description": "Commander of the Bogatyr squad.",
-    "resetTime": "2026-06-15T20:10:54.000Z",
+    "resetTime": "2026-06-22T11:48:54.000Z",
     "discount": 0,
     "levels": [
       {
@@ -654,7 +654,7 @@
     "name": "Survivor",
     "normalizedName": "survivor",
     "description": "Survivor",
-    "resetTime": "2026-06-15T19:40:54.000Z",
+    "resetTime": "2026-06-22T12:21:53.000Z",
     "discount": 0,
     "levels": [
       {

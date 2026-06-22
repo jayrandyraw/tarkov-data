@@ -2749,8 +2749,16 @@
       "Black Div.",
       "AF",
       "AF",
+      "Sanitar",
+      "Sanitar Guard",
+      "Glukhar",
+      "Glukhar Guard (Assault)",
+      "Glukhar Guard (Security)",
+      "Glukhar Guard (Scout)",
+      "Killa",
       "Reshala",
-      "Reshala Guard"
+      "Reshala Guard",
+      "Tagilla"
     ],
     "raidDuration": 50,
     "players": "1-5",
@@ -3402,7 +3410,78 @@
         ]
       },
       {
-        "spawnChance": 1,
+        "spawnChance": 0.2,
+        "spawnLocations": [
+          {
+            "name": "2ScavPort29",
+            "chance": 1
+          }
+        ],
+        "name": "Sanitar",
+        "escorts": [
+          {
+            "amount": [
+              {
+                "count": 3,
+                "chance": 1
+              }
+            ],
+            "name": "Sanitar Guard"
+          }
+        ]
+      },
+      {
+        "spawnChance": 0.2,
+        "spawnLocations": [
+          {
+            "name": "2ScavPort29",
+            "chance": 1
+          }
+        ],
+        "name": "Glukhar",
+        "escorts": [
+          {
+            "amount": [
+              {
+                "count": 2,
+                "chance": 1
+              }
+            ],
+            "name": "Glukhar Guard (Assault)"
+          },
+          {
+            "amount": [
+              {
+                "count": 2,
+                "chance": 1
+              }
+            ],
+            "name": "Glukhar Guard (Security)"
+          },
+          {
+            "amount": [
+              {
+                "count": 2,
+                "chance": 1
+              }
+            ],
+            "name": "Glukhar Guard (Scout)"
+          }
+        ]
+      },
+      {
+        "spawnChance": 0.2,
+        "spawnLocations": [
+          {
+            "name": "2ScavPort29",
+            "chance": 1
+          }
+        ],
+        "escorts": [],
+        "name": "Killa"
+      },
+      {
+        "spawnChance": 0.2,
         "spawnLocations": [
           {
             "name": "2ScavPort29",
@@ -3414,13 +3493,24 @@
           {
             "amount": [
               {
-                "count": 3,
+                "count": 4,
                 "chance": 1
               }
             ],
             "name": "Reshala Guard"
           }
         ]
+      },
+      {
+        "spawnChance": 0.2,
+        "spawnLocations": [
+          {
+            "name": "2ScavPort29",
+            "chance": 1
+          }
+        ],
+        "escorts": [],
+        "name": "Tagilla"
       }
     ]
   },

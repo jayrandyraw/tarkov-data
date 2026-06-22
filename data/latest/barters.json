@@ -17783,10 +17783,13 @@
   {
     "id": "6a140eed05458eb4bc071e7d1",
     "level": 1,
-    "taskUnlock": null,
     "trader": {
       "id": "54cb50c76803fa8b248b4571",
       "name": "Prapor"
+    },
+    "taskUnlock": {
+      "id": "69ce1de03e15cd80bd06f6c9",
+      "name": "Oil Change"
     },
     "requiredItems": [
       {
@@ -21054,101 +21057,6 @@
     ]
   },
   {
-    "id": "6a15764960e36e62900a9076b",
-    "level": 3,
-    "taskUnlock": null,
-    "trader": {
-      "id": "5ac3b934156ae10c4430e83c",
-      "name": "Ragman"
-    },
-    "requiredItems": [
-      {
-        "count": 1,
-        "item": {
-          "id": "5bc9bc53d4351e00367fbcee",
-          "name": "Golden rooster figurine"
-        }
-      },
-      {
-        "count": 5,
-        "item": {
-          "id": "573474f924597738002c6174",
-          "name": "Chainlet"
-        }
-      }
-    ],
-    "rewardItems": [
-      {
-        "count": 1,
-        "item": {
-          "id": "5a0eb6ac86f7743124037a28",
-          "name": "Cottage back door key"
-        }
-      }
-    ]
-  },
-  {
-    "id": "69c67393bb9f4cb77d084982b",
-    "level": 2,
-    "taskUnlock": null,
-    "trader": {
-      "id": "54cb50c76803fa8b248b4571",
-      "name": "Prapor"
-    },
-    "requiredItems": [
-      {
-        "count": 2,
-        "item": {
-          "id": "56742c2e4bdc2d95058b456d",
-          "name": "Zibbo lighter"
-        }
-      },
-      {
-        "count": 2,
-        "item": {
-          "id": "5672cb304bdc2dc2088b456a",
-          "name": "D Size battery"
-        }
-      }
-    ],
-    "rewardItems": [
-      {
-        "count": 1,
-        "item": {
-          "id": "593aa4be86f77457f56379f8",
-          "name": "Dorm room 303 key"
-        }
-      }
-    ]
-  },
-  {
-    "id": "69c67394bb9f4cb77d084a72b",
-    "level": 2,
-    "taskUnlock": null,
-    "trader": {
-      "id": "54cb57776803fa99248b456e",
-      "name": "Therapist"
-    },
-    "requiredItems": [
-      {
-        "count": 4,
-        "item": {
-          "id": "5734758f24597738025ee253",
-          "name": "Golden neck chain"
-        }
-      }
-    ],
-    "rewardItems": [
-      {
-        "count": 1,
-        "item": {
-          "id": "5780d0532459777a5108b9a2",
-          "name": "Tarcone Director's office key"
-        }
-      }
-    ]
-  },
-  {
     "id": "69c67395bb9f4cb77d084a7eb",
     "level": 4,
     "taskUnlock": null,
@@ -21987,6 +21895,67 @@
     ]
   },
   {
+    "id": "69c67393bb9f4cb77d084982b",
+    "level": 2,
+    "taskUnlock": null,
+    "trader": {
+      "id": "54cb50c76803fa8b248b4571",
+      "name": "Prapor"
+    },
+    "requiredItems": [
+      {
+        "count": 2,
+        "item": {
+          "id": "56742c2e4bdc2d95058b456d",
+          "name": "Zibbo lighter"
+        }
+      },
+      {
+        "count": 2,
+        "item": {
+          "id": "5672cb304bdc2dc2088b456a",
+          "name": "D Size battery"
+        }
+      }
+    ],
+    "rewardItems": [
+      {
+        "count": 1,
+        "item": {
+          "id": "593aa4be86f77457f56379f8",
+          "name": "Dorm room 303 key"
+        }
+      }
+    ]
+  },
+  {
+    "id": "69c67394bb9f4cb77d084a72b",
+    "level": 2,
+    "taskUnlock": null,
+    "trader": {
+      "id": "54cb57776803fa99248b456e",
+      "name": "Therapist"
+    },
+    "requiredItems": [
+      {
+        "count": 4,
+        "item": {
+          "id": "5734758f24597738025ee253",
+          "name": "Golden neck chain"
+        }
+      }
+    ],
+    "rewardItems": [
+      {
+        "count": 1,
+        "item": {
+          "id": "5780d0532459777a5108b9a2",
+          "name": "Tarcone Director's office key"
+        }
+      }
+    ]
+  },
+  {
     "id": "6a0da65529e4ca1a9109cb9cb",
     "level": 2,
     "taskUnlock": null,
@@ -22064,6 +22033,40 @@
         "item": {
           "id": "5a145d4786f7744cbb6f4a12",
           "name": "Health Resort east wing room 306 key"
+        }
+      }
+    ]
+  },
+  {
+    "id": "6a15764960e36e62900a9076b",
+    "level": 3,
+    "taskUnlock": null,
+    "trader": {
+      "id": "5ac3b934156ae10c4430e83c",
+      "name": "Ragman"
+    },
+    "requiredItems": [
+      {
+        "count": 1,
+        "item": {
+          "id": "5bc9bc53d4351e00367fbcee",
+          "name": "Golden rooster figurine"
+        }
+      },
+      {
+        "count": 5,
+        "item": {
+          "id": "573474f924597738002c6174",
+          "name": "Chainlet"
+        }
+      }
+    ],
+    "rewardItems": [
+      {
+        "count": 1,
+        "item": {
+          "id": "5a0eb6ac86f7743124037a28",
+          "name": "Cottage back door key"
         }
       }
     ]
